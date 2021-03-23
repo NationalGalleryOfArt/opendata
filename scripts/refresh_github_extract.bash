@@ -44,3 +44,7 @@ done
 
 git add ../data
 git add ../sql_tables
+MSG="`/bin/date +\"%Y-%m-%d\"` data export"
+echo $MSG
+git commit -m ${MSG}
+git push
