@@ -5,6 +5,20 @@ if [ "$#" -ne 3 ]; then
     exit 1
 fi
 
+# from https://stackoverflow.com/questions/8943693/can-git-operate-in-silent-mode
+quiet_git() {
+    stdout=/tmp/opendatagit.log
+    stderr=/tmp/opendatagit.log
+
+    if ! git "$@" </dev/null >$stdout 2>$stderr; then
+        cat $stderr >&2
+        rm -f $stdout $stderr
+        exit 1
+    fi
+
+    rm -f $stdout $stderr
+}
+
 DBSERVER=$1
 DBNAME=$2
 DBUSER=$3
@@ -42,9 +56,8 @@ do
     rm ./${table}.csv
 done
 
-git add ../data
-git add ../sql_tables
+quiet_git add ../data
+quiet_git add ../sql_tables
 MSG="`/bin/date +\"%Y-%m-%d\"` data export"
-echo $MSG
-git commit -m ${MSG}
-git push
+quiet_git commit -m ${MSG}
+quiet_git push 
