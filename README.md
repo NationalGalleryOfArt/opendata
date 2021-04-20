@@ -20,7 +20,7 @@ Our collection management is a process in continuous motion and therefore the da
 
 ### Please consider citing the National Gallery of Art.
 
-Please consider providing attribution to or citing the (National Gallery of Art's Collection Dataset)[https://github.com/NationalGalleryOfArt/opendata] when using this data for research purposes, but please do not use the National Gallery of Art's logo or make any representation, express or implied, that the National Gallery of Art endorses your work without first acquiring our prior written permission to do so.
+Please consider providing attribution to or citing the [National Gallery of Art's Collection Dataset](https://github.com/NationalGalleryOfArt/opendata) when using this data for research purposes, but please do not use the National Gallery of Art's logo or make any representation, express or implied, that the National Gallery of Art endorses your work without first acquiring our prior written permission to do so.
 
 This statement was last updated in April 2021. We thank our colleagues across the museum community for inspiration and support in formulating this policy, especially the Metropolitan Museum of Art and its excellent open access policy. 
 
