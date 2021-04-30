@@ -19,6 +19,8 @@ quiet_git() {
     rm -f $stdout $stderr
 }
 
+quiet_git pull
+
 DBSERVER=$1
 DBNAME=$2
 DBUSER=$3
