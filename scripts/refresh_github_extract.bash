@@ -54,8 +54,8 @@ do
     echo "${sqlcmd}" | psql -q -h ${DBSERVER} ${DBNAME} ${DBUSER} | sed 's/Table .*/Table "'"${table}"'"/' > ../sql_tables/${table}.sql
 
     # compress the CSV in order to fit within github file size limits (100MB)
-    zip -q ../data/${table}.zip ./${table}.csv
-    rm ./${table}.csv
+    # zip -q ../data/${table}.zip ./${table}.csv
+    mv ./${table}.csv ../data/
 done
 
 quiet_git add ../data
