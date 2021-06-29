@@ -7142,7 +7142,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 7525,,"Fox, Eva",Eva Fox,Fox,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 7526,,"France, Michael",Michael France,France,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 7527,,"Frank, William",William Frank,Frank,"American, 1878 - 1950",1,1878,1950,1876 to 1900,American,American,individual
-7529,,"Frazier, Cornelius",Cornelius Frazier,Frazier,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
+7529,,"Frazier, Cornelius",Cornelius Frazier,Frazier,"American, 1902 - 1991",1,1902,1991,1901 to 1925,American,American,individual
 7530,,"Frere, Herbert S.",Herbert S. Frere,Frere,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 7531,,"Fritz, E. Allen",E. Allen Fritz,Fritz,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 7533,,"Fuerst, Betty",Betty Fuerst,Fuerst,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
@@ -7632,7 +7632,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 8044,,"Seideneck, George",George Seideneck,Seideneck,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 8045,,"Selmer-Larsen, Ingrid",Ingrid Selmer-Larsen,Selmer-Larsen,"American, 1913 - 2005",1,1913,2005,1901 to 1925,American,American,individual
 8046,,"Semnene, Gertrude",Gertrude Semnene,Semnene,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
-8047,,"Semple, Bertha",Bertha Semple,Semple,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
+8047,,"Semple, Bertha",Bertha Semple,Semple,"American, 1903 - 1965",1,1903,1965,1901 to 1925,American,American,individual
 8048,,"Shane, Charles R.",Charles R. Shane,Shane,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 8049,,"Shapiro, Joseph",Joseph Shapiro,Shapiro,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 8050,,"Sharp, Floyd R.",Floyd R. Sharp,Sharp,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
@@ -14588,7 +14588,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 37859,,"Mosso, Francesco",Francesco Mosso,Mosso,"Italian, 1849 - 1877",1,1849,1877,1826 to 1850,Italian,Italian,individual
 37860,500189708,"Pugliese-Levi, Clemente",Clemente Pugliese-Levi,Pugliese-Levi,"Italian, 1855 - 1936",1,1855,1936,1851 to 1875,Italian,Italian,individual
 37880,500017457,"Thiollier, Felix",Felix Thiollier,Thiollier,"French, 1842 - 1914",1,1842,1914,1826 to 1850,French,French,individual
-37883,,"Kaiser, H.G.",H.G. Kaiser,Kaiser,"American, born Germany",1,,,,American,American,individual
+37883,,"Kaiser, H.G.",H.G. Kaiser,Kaiser,"American, born France, 1866 - 1930",1,1866,1930,1851 to 1875,American,American,individual
 37884,,Robert Rauschenberg Foundation,Robert Rauschenberg Foundation,,,0,,,,,Other,corporate
 37889,,"Binfield, William",William Binfield,Binfield,"British, 19th century",1,1800,1899,1776 to 1800,British,British,individual
 37890,,"Russell, John",John Russell,Russell,"American, 1919 - 2008",1,1919,2008,1901 to 1925,American,American,individual
@@ -18082,3 +18082,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51852,,"Arnow, Aaron",Aaron Arnow,Arnow,,1,,,,,Other,individual
 51853,,A. Colish Press,A. Colish Press,,,1,,,,,Other,corporate
 51854,,Triton Press,Triton Press,,,1,,,,,Other,corporate
+51953,,"Jackson, Elizabeth",Elizabeth Jackson,Jackson,,1,,,,British,British,individual
