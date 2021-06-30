@@ -1487,6 +1487,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
+60747,1064,Berggruen,"Berggruen, John",,Variant
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -1770,6 +1771,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1894,1901,Steen,"Steen, Jan",,Preferred Name
 1895,1902,Steinlen,"Steinlen, Théophile Alexandre",,Preferred Name
 1896,1903,Stella,"Stella, Frank",,Preferred Name
+60748,1000,,Margo Leavin Gallery,,Variant
 1897,1904,Stephens,"Stephens, Thomas E.",,Preferred Name
 1898,1905,Stevens,"Stevens, Alfred",,Preferred Name
 1899,1906,Stock,"Stock, Joseph Whiting",,Preferred Name
@@ -22712,6 +22714,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60515,51657,Russian 18th Century,Russian 18th Century,,Preferred Name
 60518,51498,Light,"Light, Joe Lewis",,Full Name
 60523,741,Fourcade,"Fourcade, Xavier",,Variant
+60533,17721,,Marlborough Gallery,,Variant
 60543,51677,Lou,"Lou, Liza",,Preferred Name
 60555,20770,Cumming,"Cumming, Annette Poulson",,Spouse
 60556,20770,Cumming,"Cumming, Ian McNeil",,Full Name
@@ -22745,7 +22748,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60733,49476,,,,Full Name
 60735,51817,Adams,"Adams, Kerstin",,Preferred Name
 60745,12795,Broida,"Broida, Edward R.",,Variant
-60747,1064,Berggruen,"Berggruen, John",,Variant
 60757,12034,Gagosian,"Gagosian, Larry",,Variant
 60758,10095,,"David McKee, Inc.",,Variant
 60765,51836,Bellerus,"Bellerus, Balthazar",,Preferred Name
@@ -22757,11 +22759,17 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60775,51842,Stubbs,"Stubbs, George Townley",,Preferred Name
 60776,51190,,,,Full Name
 60779,4922,Monogrammist S,Monogrammist S,,Variant
+60782,8760,Greville,,,Variant
+60783,1353,Goya,,,Variant
 60785,51847,,"Atelier Crommelynck, Paris",,Preferred Name
 60789,51851,Kord,"Kord, Catherine",,Preferred Name
 60790,51852,Arnow,"Arnow, Aaron",,Preferred Name
 60791,51853,,A. Colish Press,,Preferred Name
 60792,51854,,Triton Press,,Preferred Name
+60798,5273,Prestel,,,Variant
+60799,5290,Quarry,,,Variant
+60804,49268,Burdett,"Burdett, Peter Pever",,Variant
+60805,49268,Burdet,,,Variant
 60811,35895,Dalen,,,Variant
 60814,10100,Nonas,"Nonas, Richard Henry",,Full Name
 60853,50017,,,,Full Name
