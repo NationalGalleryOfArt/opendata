@@ -19226,6 +19226,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53111,46302,Bendolph,"Bendolph, Mary Lee",,Preferred Name
 53113,46304,,Garth Greenan Gallery,,Preferred Name
 53114,46305,Wyld,"Wyld, William",,Preferred Name
+53115,46306,Tompkins,"Tompkins, Rosie Lee",,Preferred Name
+53116,46306,Howard,"Howard, Effie Mae",,Married Name
 53121,46311,Hackett,"Hackett, Dwight",,Preferred Name
 53122,46312,Boeotian 2nd Century B.C.,Boeotian 2nd Century B.C.,,Preferred Name
 53129,46319,Attic 4th Century B.C.,Attic 4th Century B.C.,,Preferred Name
@@ -20411,6 +20413,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55790,48256,Arlington,"Arlington, Gary Edson",,Full Name
 55791,48257,Webster,"Webster, James",,Preferred Name
 55792,48258,,Shelton & Kensett,,Preferred Name
+55806,48266,Bankhead,"Bankhead, Irene",,Preferred Name
 55813,48270,Bigatti,"Bigatti, Tommaso",,Preferred Name
 55817,48274,Kelso,"Kelso, David",,Preferred Name
 55818,48275,,made in California,,Preferred Name
@@ -22762,6 +22765,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60782,8760,Greville,,,Variant
 60783,1353,Goya,,,Variant
 60785,51847,,"Atelier Crommelynck, Paris",,Preferred Name
+60786,51848,Soldner,"Soldner, Stephanie",,Preferred Name
 60789,51851,Kord,"Kord, Catherine",,Preferred Name
 60790,51852,Arnow,"Arnow, Aaron",,Preferred Name
 60791,51853,,A. Colish Press,,Preferred Name
@@ -22770,6 +22774,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60799,5290,Quarry,,,Variant
 60804,49268,Burdett,"Burdett, Peter Pever",,Variant
 60805,49268,Burdet,,,Variant
+60809,46306,Martin,"Martin, Effie Mae",,Maiden Name
+60810,46306,Howard,"Howard, Effie Mae Martin",,Full Name
 60811,35895,Dalen,,,Variant
 60814,10100,Nonas,"Nonas, Richard Henry",,Full Name
 60853,50017,,,,Full Name
@@ -22779,3 +22785,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60909,37883,,,,Full Name
 60910,8047,Semple,,,Full Name
 60911,51953,Jackson,"Jackson, Elizabeth",,Preferred Name
+60927,51969,Sullivan,"Sullivan, Garrett and Colin",,Preferred Name
