@@ -1205,7 +1205,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
-60728,29225,Collaert,"Collaert II, Jan",,Variant
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1774,7 +1773,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1894,1901,Steen,"Steen, Jan",,Preferred Name
 1895,1902,Steinlen,"Steinlen, Théophile Alexandre",,Preferred Name
 1896,1903,Stella,"Stella, Frank",,Preferred Name
-60735,51817,Adams,"Adams, Kerstin",,Preferred Name
+60728,29225,Collaert,"Collaert II, Jan",,Variant
 1897,1904,Stephens,"Stephens, Thomas E.",,Preferred Name
 1898,1905,Stevens,"Stevens, Alfred",,Preferred Name
 1899,1906,Stock,"Stock, Joseph Whiting",,Preferred Name
@@ -2542,7 +2541,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2692,2699,Prusher,"Prusher, Horace J. ?",,Preferred Name
 2693,2700,Puget,"Puget, Pierre",,Preferred Name
 2694,2701,Quarenghi,"Quarenghi, Giacomo",,Preferred Name
-60745,12795,Broida,"Broida, Edward R.",,Variant
+60735,51817,Adams,"Adams, Kerstin",,Preferred Name
 2695,2702,Quast,"Quast, Pieter Jansz",,Preferred Name
 2696,2703,Radziwill,"Radziwill, Franz",,Preferred Name
 2697,2704,Reder,"Reder, Bernard",,Preferred Name
@@ -2829,7 +2828,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2995,3002,Schutz,"Schutz, Franz",,Preferred Name
 2996,3003,Schütz,"Schütz, Carl",,Preferred Name
 2997,3004,Schutz-Wolff,"Schutz-Wolff, Johanna",,Preferred Name
-60747,1064,Berggruen,"Berggruen, John",,Variant
+60745,12795,Broida,"Broida, Edward R.",,Variant
 2998,3005,Schwartz,"Schwartz, Aubrey",,Preferred Name
 2999,3006,Scolari,"Scolari, Giuseppe",,Preferred Name
 3000,3007,Scordia,"Scordia, Antonio",,Preferred Name
@@ -3416,7 +3415,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3609,3616,Brockhusen,"Brockhusen, Theo von",,Preferred Name
 3611,3618,Bronckhorst,"Bronckhorst, Jan Gerritsz van",,Preferred Name
 3612,3619,Broner,"Broner, Robert",,Preferred Name
-60748,1000,,Margo Leavin Gallery,,Variant
+60747,1064,Berggruen,"Berggruen, John",,Variant
 3613,3620,Brookshaw,"Brookshaw, George",,Preferred Name
 3614,3621,Brookshaw,"Brookshaw, Richard",,Preferred Name
 3615,3622,Brosamer,"Brosamer, Hans",,Preferred Name
@@ -3706,6 +3705,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3915,3922,Detthow,"Detthow, Eric",,Preferred Name
 3916,3923,Manuel I,"Manuel I, Niklaus",,Preferred Name
 3917,3924,Devaux,"Devaux, Jean",,Preferred Name
+60748,1000,,Margo Leavin Gallery,,Variant
 3918,3925,Devéria,"Devéria, Achille",,Preferred Name
 3919,3926,Deville,"Deville, Henry-Wilfred",,Preferred Name
 3921,3928,Diamaer,"Diamaer, Hendrik Frans",,Preferred Name
