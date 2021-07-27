@@ -831,7 +831,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 901,908,,Wiener Antiquariat,,Preferred Name
 902,909,,"Wildenstein & Co., Inc.",,Preferred Name
 903,910,,"Willard Gallery, Inc.",,Preferred Name
-60729,48610,,,,Full Name
+60707,31241,Edmiston,,,Full Name
 904,911,Williford,"Williford, Graham",,Preferred Name
 905,912,Wittrock,"Wittrock, Wolfgang, Herr",,Preferred Name
 906,913,,Workart Est.,,Preferred Name
@@ -1018,7 +1018,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1109,1116,Wunsch,"Wunsch, Eric Martin Mr.",,Preferred Name
 1110,1117,Chagall,"Chagall, Marc",,Preferred Name
 1111,1118,Chambers,"Chambers, Thomas",,Preferred Name
-60730,48610,,,,Full Name
 1112,1119,Champaigne,"Champaigne, Philippe de",,Preferred Name
 1113,1120,Kirstein,"Kirstein, Lincoln, Mr.",,Preferred Name
 1114,1121,Chandler,"Chandler, Joseph Goodhue",,Preferred Name
@@ -1111,7 +1110,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1203,1210,David,"David, Charles",,Preferred Name
 1204,1211,David,"David, Gerard",,Preferred Name
 1205,1212,David,"David, Jacques-Louis",,Preferred Name
-60733,49476,,,,Full Name
 1206,1213,Davies,"Davies, Arthur B.",,Preferred Name
 1207,1214,Davis,"Davis, Gene",,Preferred Name
 1208,1215,Manning,"Manning, Robert L., Mr. and Mrs.",,Preferred Name
@@ -1300,6 +1298,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1399,1406,Hultberg,"Hultberg, John",,Preferred Name
 1400,1407,Humphreys,"Humphreys, Charles S.",,Preferred Name
 1401,1408,Huntington,"Huntington, Daniel",,Preferred Name
+60729,48610,,,,Full Name
 1402,1409,Huysum,"Huysum, Jan van",,Preferred Name
 1403,1410,Ingham,"Ingham, Charles Cromwell",,Preferred Name
 1404,1411,Ingres,"Ingres, Jean-Auguste-Dominique",,Preferred Name
@@ -1582,6 +1581,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1692,1699,Master of the Saint Bartholomew Altar,Master of the Saint Bartholomew Altar,,Preferred Name
 1693,1700,Master of Saint Francis,Master of Saint Francis,,Preferred Name
 1694,1701,Donner,"Donner, M., Ms.",,Preferred Name
+60730,48610,,,,Full Name
 1695,1702,Master of Saint Giles,Master of Saint Giles,,Preferred Name
 1696,1703,Master of the Saint Lucy Legend,Master of the Saint Lucy Legend,,Preferred Name
 1697,1704,Master of Saint Veronica,Master of Saint Veronica,,Preferred Name
@@ -1773,7 +1773,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1894,1901,Steen,"Steen, Jan",,Preferred Name
 1895,1902,Steinlen,"Steinlen, Théophile Alexandre",,Preferred Name
 1896,1903,Stella,"Stella, Frank",,Preferred Name
-60728,29225,Collaert,"Collaert II, Jan",,Variant
 1897,1904,Stephens,"Stephens, Thomas E.",,Preferred Name
 1898,1905,Stevens,"Stevens, Alfred",,Preferred Name
 1899,1906,Stock,"Stock, Joseph Whiting",,Preferred Name
@@ -2541,7 +2540,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2692,2699,Prusher,"Prusher, Horace J. ?",,Preferred Name
 2693,2700,Puget,"Puget, Pierre",,Preferred Name
 2694,2701,Quarenghi,"Quarenghi, Giacomo",,Preferred Name
-60735,51817,Adams,"Adams, Kerstin",,Preferred Name
 2695,2702,Quast,"Quast, Pieter Jansz",,Preferred Name
 2696,2703,Radziwill,"Radziwill, Franz",,Preferred Name
 2697,2704,Reder,"Reder, Bernard",,Preferred Name
@@ -2639,6 +2637,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2789,2796,Ward,"Ward, John Quincy Adams",,Preferred Name
 2790,2797,Ward,"Ward, Leslie, Sir",,Preferred Name
 2791,2798,Washington,"Washington, William de Hartburn",,Preferred Name
+60733,49476,,,,Full Name
 2792,2799,Waterloo,"Waterloo, Anthonie",,Preferred Name
 2793,2800,Waud,"Waud, Alfred R.",,Preferred Name
 2794,2801,Wechtlin I,"Wechtlin I, Hans",,Preferred Name
@@ -2828,7 +2827,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2995,3002,Schutz,"Schutz, Franz",,Preferred Name
 2996,3003,Schütz,"Schütz, Carl",,Preferred Name
 2997,3004,Schutz-Wolff,"Schutz-Wolff, Johanna",,Preferred Name
-60745,12795,Broida,"Broida, Edward R.",,Variant
+60728,29225,Collaert,"Collaert II, Jan",,Variant
 2998,3005,Schwartz,"Schwartz, Aubrey",,Preferred Name
 2999,3006,Scolari,"Scolari, Giuseppe",,Preferred Name
 3000,3007,Scordia,"Scordia, Antonio",,Preferred Name
@@ -3415,7 +3414,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3609,3616,Brockhusen,"Brockhusen, Theo von",,Preferred Name
 3611,3618,Bronckhorst,"Bronckhorst, Jan Gerritsz van",,Preferred Name
 3612,3619,Broner,"Broner, Robert",,Preferred Name
-60747,1064,Berggruen,"Berggruen, John",,Variant
+60735,51817,Adams,"Adams, Kerstin",,Preferred Name
 3613,3620,Brookshaw,"Brookshaw, George",,Preferred Name
 3614,3621,Brookshaw,"Brookshaw, Richard",,Preferred Name
 3615,3622,Brosamer,"Brosamer, Hans",,Preferred Name
@@ -3705,7 +3704,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3915,3922,Detthow,"Detthow, Eric",,Preferred Name
 3916,3923,Manuel I,"Manuel I, Niklaus",,Preferred Name
 3917,3924,Devaux,"Devaux, Jean",,Preferred Name
-60748,1000,,Margo Leavin Gallery,,Variant
+60745,12795,Broida,"Broida, Edward R.",,Variant
 3918,3925,Devéria,"Devéria, Achille",,Preferred Name
 3919,3926,Deville,"Deville, Henry-Wilfred",,Preferred Name
 3921,3928,Diamaer,"Diamaer, Hendrik Frans",,Preferred Name
@@ -5740,6 +5739,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 6053,6060,Corneille,"Corneille, Michel",,Preferred Name
 6054,6061,Moran,"Moran, Peter",,Preferred Name
 6055,6062,Holbein the Elder,"Holbein the Elder, Hans",,Preferred Name
+60748,1000,,Margo Leavin Gallery,,Variant
 6056,6063,Master of the Blue Landscapes,Master of the Blue Landscapes,,Preferred Name
 6057,6064,Beaubrun,"Beaubrun, Henri",,Preferred Name
 6058,6065,Daret,"Daret, Jean",,Preferred Name
@@ -9420,6 +9420,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 18609,18616,Russ,"Russ, Carl",,Preferred Name
 18611,18618,Ekemann-Allesson,"Ekemann-Allesson, Lorenz",,Preferred Name
 18615,18622,Wale,"Wale, Samuel",,Preferred Name
+60747,1064,Berggruen,"Berggruen, John",,Variant
 18664,18671,Klett,"Klett, Mark",,Preferred Name
 18674,18681,Morris,"Morris, Wright",,Preferred Name
 18675,18682,,"Page, Tony and Merrily",,Preferred Name
@@ -17511,7 +17512,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 43039,36674,Southwell,"Southwell, Arnold R.",,Preferred Name
 43043,36678,Shunk,"Shunk, Harry",,Preferred Name
 43045,36680,Broadbent,"Broadbent, Samuel",,Preferred Name
-57023,49129,,Ike,,Preferred Name
 43052,36687,Starr,"Starr, E. G.",,Preferred Name
 43054,36689,Spuechler,"Spuechler, Ernest A.",,Preferred Name
 43055,36690,Parry,"Parry, Roger",,Preferred Name
@@ -21084,6 +21084,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57020,48283,Bobbo,"Bobbo, Aldo",,Nickname/Pseudonym
 57021,49127,Franklin,"Franklin, Jim",,Preferred Name
 57022,49128,Durden,"Durden, Meggan",,Preferred Name
+57023,49129,,Ike,,Preferred Name
 57024,49130,Beefheart,"Beefheart, Captain",,Preferred Name
 57025,49130,Vliet,"Vliet, Don Glen",,Original Name
 57027,49130,Vliet,"Vliet, Don Van",,Variant
@@ -22751,7 +22752,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60679,2904,Andreu y Estrany,"Andru y Estrany, Mariono",,Variant
 60680,36661,,,,Variant
 60701,47587,Greenberg,"Greenberg, Daniel",,Spouse
-60707,31241,Edmiston,,,Full Name
 60757,12034,Gagosian,"Gagosian, Larry",,Variant
 60758,10095,,"David McKee, Inc.",,Variant
 60765,51836,Bellerus,"Bellerus, Balthazar",,Preferred Name
