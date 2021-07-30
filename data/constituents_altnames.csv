@@ -1203,6 +1203,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
+60701,47587,Greenberg,"Greenberg, Daniel",,Spouse
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -2827,7 +2828,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2995,3002,Schutz,"Schutz, Franz",,Preferred Name
 2996,3003,Schütz,"Schütz, Carl",,Preferred Name
 2997,3004,Schutz-Wolff,"Schutz-Wolff, Johanna",,Preferred Name
-60728,29225,Collaert,"Collaert II, Jan",,Variant
 2998,3005,Schwartz,"Schwartz, Aubrey",,Preferred Name
 2999,3006,Scolari,"Scolari, Giuseppe",,Preferred Name
 3000,3007,Scordia,"Scordia, Antonio",,Preferred Name
@@ -3414,7 +3414,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3609,3616,Brockhusen,"Brockhusen, Theo von",,Preferred Name
 3611,3618,Bronckhorst,"Bronckhorst, Jan Gerritsz van",,Preferred Name
 3612,3619,Broner,"Broner, Robert",,Preferred Name
-60735,51817,Adams,"Adams, Kerstin",,Preferred Name
+60728,29225,Collaert,"Collaert II, Jan",,Variant
 3613,3620,Brookshaw,"Brookshaw, George",,Preferred Name
 3614,3621,Brookshaw,"Brookshaw, Richard",,Preferred Name
 3615,3622,Brosamer,"Brosamer, Hans",,Preferred Name
@@ -3704,7 +3704,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3915,3922,Detthow,"Detthow, Eric",,Preferred Name
 3916,3923,Manuel I,"Manuel I, Niklaus",,Preferred Name
 3917,3924,Devaux,"Devaux, Jean",,Preferred Name
-60745,12795,Broida,"Broida, Edward R.",,Variant
+60735,51817,Adams,"Adams, Kerstin",,Preferred Name
 3918,3925,Devéria,"Devéria, Achille",,Preferred Name
 3919,3926,Deville,"Deville, Henry-Wilfred",,Preferred Name
 3921,3928,Diamaer,"Diamaer, Hendrik Frans",,Preferred Name
@@ -9420,7 +9420,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 18609,18616,Russ,"Russ, Carl",,Preferred Name
 18611,18618,Ekemann-Allesson,"Ekemann-Allesson, Lorenz",,Preferred Name
 18615,18622,Wale,"Wale, Samuel",,Preferred Name
-60747,1064,Berggruen,"Berggruen, John",,Variant
+60745,12795,Broida,"Broida, Edward R.",,Variant
 18664,18671,Klett,"Klett, Mark",,Preferred Name
 18674,18681,Morris,"Morris, Wright",,Preferred Name
 18675,18682,,"Page, Tony and Merrily",,Preferred Name
@@ -9880,6 +9880,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21408,21415,Prevostel,"Prevostel, François Charles",,Preferred Name
 21409,21416,Bouvet,"Bouvet, Jean-Louis",,Preferred Name
 21410,21417,Cor,"Cor, P.L.",,Preferred Name
+60747,1064,Berggruen,"Berggruen, John",,Variant
 21411,21418,Delagardette,"Delagardette, Pierre-Claude",,Preferred Name
 21412,21419,Huvé,"Huvé, Pierre",,Preferred Name
 21413,21420,Michelinot,Michelinot,,Preferred Name
@@ -22751,7 +22752,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60678,51779,,Meredith and Brother Rutter,,Preferred Name
 60679,2904,Andreu y Estrany,"Andru y Estrany, Mariono",,Variant
 60680,36661,,,,Variant
-60701,47587,Greenberg,"Greenberg, Daniel",,Spouse
 60757,12034,Gagosian,"Gagosian, Larry",,Variant
 60758,10095,,"David McKee, Inc.",,Variant
 60765,51836,Bellerus,"Bellerus, Balthazar",,Preferred Name
