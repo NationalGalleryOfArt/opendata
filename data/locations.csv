@@ -849,6 +849,7 @@ locationid,site,room,publicaccess,description,unitposition
 13107,East Building,EG-103-Z,1,"East Bldg, Ground Lobby 103Z (Pod 2)",
 13108,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",
 13109,East Building,EM-217-C,1,"East Bldg, Mezz Gal 217C (Pod 1)",
+13111,East Building,EU-406-Z,1,"East Bldg, Upr Lvl Lobby 406Z (Pod 2)",
 13112,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",
 13113,East Building,EU-407-B,1,"East Bldg, Upr Lvl Gal 407B (North Bridge)",
 13114,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",
@@ -902,6 +903,7 @@ locationid,site,room,publicaccess,description,unitposition
 13170,East Building,EG-103-E,1,"East Bldg, Ground Gal 103E (Pod 2)",W
 13171,East Building,EG-103-Z,1,"East Bldg, Ground Lobby 103Z (Pod 2)",N
 13172,East Building,EG-103-Z,1,"East Bldg, Ground Lobby 103Z (Pod 2)",W
+13174,East Building,EU-406-Z,1,"East Bldg, Upr Lvl Lobby 406Z (Pod 2)",W
 13175,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",N
 13176,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",E
 13177,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",S
