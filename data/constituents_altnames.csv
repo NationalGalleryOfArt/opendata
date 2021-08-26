@@ -1203,7 +1203,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
-60701,47587,Greenberg,"Greenberg, Daniel",,Spouse
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1490,6 +1489,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
+60701,47587,Greenberg,"Greenberg, Daniel",,Spouse
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -3414,7 +3414,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3609,3616,Brockhusen,"Brockhusen, Theo von",,Preferred Name
 3611,3618,Bronckhorst,"Bronckhorst, Jan Gerritsz van",,Preferred Name
 3612,3619,Broner,"Broner, Robert",,Preferred Name
-60728,29225,Collaert,"Collaert II, Jan",,Variant
 3613,3620,Brookshaw,"Brookshaw, George",,Preferred Name
 3614,3621,Brookshaw,"Brookshaw, Richard",,Preferred Name
 3615,3622,Brosamer,"Brosamer, Hans",,Preferred Name
@@ -3704,7 +3703,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3915,3922,Detthow,"Detthow, Eric",,Preferred Name
 3916,3923,Manuel I,"Manuel I, Niklaus",,Preferred Name
 3917,3924,Devaux,"Devaux, Jean",,Preferred Name
-60735,51817,Adams,"Adams, Kerstin",,Preferred Name
+60728,29225,Collaert,"Collaert II, Jan",,Variant
 3918,3925,Devéria,"Devéria, Achille",,Preferred Name
 3919,3926,Deville,"Deville, Henry-Wilfred",,Preferred Name
 3921,3928,Diamaer,"Diamaer, Hendrik Frans",,Preferred Name
@@ -9421,7 +9420,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 18609,18616,Russ,"Russ, Carl",,Preferred Name
 18611,18618,Ekemann-Allesson,"Ekemann-Allesson, Lorenz",,Preferred Name
 18615,18622,Wale,"Wale, Samuel",,Preferred Name
-60745,12795,Broida,"Broida, Edward R.",,Variant
+60735,51817,Adams,"Adams, Kerstin",,Preferred Name
 18664,18671,Klett,"Klett, Mark",,Preferred Name
 18674,18681,Morris,"Morris, Wright",,Preferred Name
 18675,18682,,"Page, Tony and Merrily",,Preferred Name
@@ -9881,7 +9880,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21408,21415,Prevostel,"Prevostel, François Charles",,Preferred Name
 21409,21416,Bouvet,"Bouvet, Jean-Louis",,Preferred Name
 21410,21417,Cor,"Cor, P.L.",,Preferred Name
-60747,1064,Berggruen,"Berggruen, John",,Variant
+60745,12795,Broida,"Broida, Edward R.",,Variant
 21411,21418,Delagardette,"Delagardette, Pierre-Claude",,Preferred Name
 21412,21419,Huvé,"Huvé, Pierre",,Preferred Name
 21413,21420,Michelinot,Michelinot,,Preferred Name
@@ -10582,6 +10581,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 24162,24169,Andrieu,"Andrieu, Pierre",,Preferred Name
 24191,24198,,"Shapero Rare Books, Bernard J.",,Preferred Name
 24195,24202,Sant,"Sant, Roger, Mr. and Mrs.",,Preferred Name
+60747,1064,Berggruen,"Berggruen, John",,Variant
 24208,24215,,"Jackson Gallery, Martha",,Preferred Name
 24224,24231,Bergomensis,"Bergomensis, Jacobus Philippus",,Preferred Name
 24226,24233,Tsiaras,"Tsiaras, William",,Preferred Name
@@ -11402,7 +11402,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27221,27228,Ward,"Ward, Charles Caleb",,Preferred Name
 27223,27230,Cohen,"Cohen, Collection, Karen B.",,Preferred Name
 27225,27232,Eugene,"Eugene, Frank",,Preferred Name
-60751,51828,Minter,"Minter, Joe",,Preferred Name
 27243,27250,Kerfoot,"Kerfoot, J.B.",,Preferred Name
 27251,27258,,"Lowell Libson, Ltd.",,Preferred Name
 27264,27271,Wagner,"Wagner, Théo",,Preferred Name
@@ -14543,6 +14542,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34106,8363,Anonymous Chinese Republic,Anonymous Chinese Republic,,Variant
 34107,8364,Anonymous Italian,Anonymous Italian,,Variant
 34108,8365,Anonymous Netherlandish 20th Century,Anonymous Netherlandish 20th Century,,Variant
+60751,51828,Minter,"Minter, Joe",,Preferred Name
 34110,8367,Anonymous Portuguese 15th Century,Anonymous Portuguese 15th Century,,Variant
 34111,8368,Anonymous Rhenish 15th Century,Anonymous Rhenish 15th Century,,Variant
 34112,8369,Anonymous Tyrolean 15th Century,Anonymous Tyrolean 15th Century,,Variant
@@ -22495,6 +22495,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59780,51126,Seguro,"Seguro, Joe",,Preferred Name
 59782,23170,,Butterfields,,Variant
 59793,51133,,Sol Print Studios,,Preferred Name
+59807,51145,Krugman,"Krugman, James D.",,Preferred Name
 59825,612,,Washington Printmakers Gallery,,Variant
 59826,38774,,Rutgers Center for Innovative Print and Paper,,Variant
 59827,38774,,Brodsky Center for Innovative Editions,,Variant
@@ -22517,6 +22518,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59869,51191,Kessenides,"Kessenides, Elizabeth",,Preferred Name
 59871,34869,,Master of the Marble Madonnas,,Variant
 59872,34869,,Master of the Marble Madonnas (Probably Gregorio di Lorenzo),,Variant
+59873,51192,Gael,"Gael, Barend",,Preferred Name
 59874,51193,Nast,"Nast, Charles A.",,Preferred Name
 59875,51194,Schütte,"Schütte, Thomas",,Preferred Name
 59876,51195,,Galleria Tega,,Preferred Name
