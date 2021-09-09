@@ -52,6 +52,7 @@ locationid,site,room,publicaccess,description,unitposition
 3957,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",N
 3958,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",S
 3959,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",W
+3968,East Building,ENT,1,"East Bldg, North Terrace",
 4166,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",
 4167,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",S
 4168,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",W
@@ -81,6 +82,7 @@ locationid,site,room,publicaccess,description,unitposition
 4270,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",S
 4271,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",W
 4277,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",
+5607,West Building,G-015,1,West Ground Floor Gallery 15,N
 4278,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",E
 4279,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",N
 4280,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",S
@@ -168,7 +170,6 @@ locationid,site,room,publicaccess,description,unitposition
 4788,West Building,G-014,1,West Ground Floor Gallery 14,W
 5605,West Building,G-015,1,West Ground Floor Gallery 15,
 5606,West Building,G-015,1,West Ground Floor Gallery 15,E
-5607,West Building,G-015,1,West Ground Floor Gallery 15,N
 5608,West Building,G-015,1,West Ground Floor Gallery 15,S
 5609,West Building,G-015,1,West Ground Floor Gallery 15,W
 5610,West Building,G-016,1,West Ground Floor Gallery 16,
