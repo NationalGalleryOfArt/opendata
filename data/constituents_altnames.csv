@@ -1202,6 +1202,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
+60911,51953,Jackson,"Jackson, Elizabeth",,Preferred Name
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -16520,7 +16521,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40203,34366,Caffi,"Caffi, Ippolito",,Preferred Name
 40213,34369,Huber,"Huber, Michel",,Preferred Name
 40214,34370,Alix,"Alix, François",,Preferred Name
-59328,773,,Henri 2 Gallery,,Variant
+59587,50999,,ACT UP,,Preferred Name
 40215,34371,Lépine,"Lépine, C.",,Preferred Name
 40216,34372,Texier,"Texier, G.",,Preferred Name
 40220,34376,Viguet,Viguet,,Preferred Name
@@ -17857,6 +17858,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44446,20140,Bott,"Bott, René",,Variant
 44447,37893,Ringgold,"Ringgold, Faith",,Preferred Name
 44448,37894,WalkingStick,"WalkingStick, Kay",,Preferred Name
+60910,8047,Semple,,,Full Name
 44449,37895,Amos,"Amos, Emma",,Preferred Name
 44451,37897,Rousseau,"Rousseau, Jacques",,Preferred Name
 44456,37901,Crothers,"Crothers, Wayne",,Preferred Name
@@ -22294,7 +22296,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59273,50788,Lippincott,"Lippincott, Donald",,Preferred Name
 59274,50730,Jones,"Jones, Shields Landon",,Variant
 59275,50740,Norman,"Norman, Dorothy",,Variant
+59276,50789,Horning,"Horning, Lynne",,Preferred Name
 59277,50790,Stratman,"Stratman, Joseph",,Preferred Name
+59278,50791,Cuccioni,"Cuccioni, Tommaso",,Preferred Name
 59280,694,,Castelli Gallery,,Variant
 59281,694,,Leo Castelli Gallery,,Variant
 59282,19607,Baden,"Baden, Ken",,Variant
@@ -22317,6 +22321,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59312,50811,,A-CHAN,,Preferred Name
 59313,50812,Phalaris,Phalaris,,Preferred Name
 59327,50820,Mills,"Mills, James A.",,Preferred Name
+59328,773,,Henri 2 Gallery,,Variant
 59330,50822,Blees,"Blees, Joseph Hubert",,Preferred Name
 59331,50823,Klombeck,"Klombeck, Johann Bernard",,Preferred Name
 59332,50824,Scholz,"Scholz, Willy",,Preferred Name
@@ -22431,7 +22436,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59584,46474,Cassill,"Cassill, Herbert Caroll",,Full Name
 59585,46096,Harris,,,Full Name
 59586,50998,,Mantegna Press,,Preferred Name
-59587,50999,,ACT UP,,Preferred Name
 59588,51000,Deagle,"Deagle, Richard",,Preferred Name
 59589,51001,,Artists and Writers Protest,,Preferred Name
 59590,51002,Hughes,"Hughes, Edward",,Preferred Name
@@ -22565,7 +22569,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59868,51190,Gray,"Gray, Bud",,Preferred Name
 59869,51191,Kessenides,"Kessenides, Elizabeth",,Preferred Name
 59871,34869,,Master of the Marble Madonnas,,Variant
-59989,51272,Allen,"Allen, William",,Preferred Name
 59872,34869,,Master of the Marble Madonnas (Probably Gregorio di Lorenzo),,Variant
 59873,51192,Gael,"Gael, Barend",,Preferred Name
 59874,51193,Nast,"Nast, Charles A.",,Preferred Name
@@ -22653,6 +22656,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59980,51266,Nix,"Nix, Orville",,Preferred Name
 59986,2765,Stradano,"Stradano, Jan",,Variant
 59987,51270,McNamee,"McNamee, Wally",,Preferred Name
+59989,51272,Allen,"Allen, William",,Preferred Name
 59990,51273,Winfrey,"Winfrey, Bill",,Preferred Name
 59992,51275,Ingraham,"Ingraham, Bill",,Preferred Name
 59993,41979,,"De ""Griekse A"" Factory",,Variant
@@ -22860,8 +22864,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60902,50050,,,,Full Name
 60908,7529,Frazier,,,Full Name
 60909,37883,,,,Full Name
-60910,8047,Semple,,,Full Name
-60911,51953,Jackson,"Jackson, Elizabeth",,Preferred Name
 60931,50695,Linza,"Linza, Nicola Giacomo Aluigi Giuseppe",,Full Name
 60932,50695,Linza,"Linza, James",,Nickname/Pseudonym
 60948,51984,Feldman,"Feldman, Kaywin",,Preferred Name
