@@ -256,7 +256,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 301,,"Giles, Robert, Mrs.",Mrs. Robert Giles,Giles,"American, 1862 - 1947",0,1862,1947,1851 to 1875,American,American,individual
 302,,"Glackens, Ira, Mr. and Mrs.",Mr. and Mrs. Ira Glackens,Glackens,he: 1907 - 1990; she: died 1990,0,1907,1990,1901 to 1925,,Other,couple
 413,500115210,"Barocci, Federico",Federico Barocci,Barocci,"Italian, probably 1535 - 1612",1,1535,1612,1501 to 1550,Italian,Italian,individual
-48299,,Plantin Press,Plantin Press,,,1,,,,American,American,corporate
 278,,"Fuller, Samuel L.",Samuel L. Fuller,Fuller,"American, 1875 - 1963",0,1875,1963,1851 to 1875,American,American,individual
 279,,"Frelinghuysen, Peter H.B., Mrs.",Mrs. Peter H.B. Frelinghuysen,Frelinghuysen,"American, 1884 - 1963",0,1884,1963,1876 to 1900,American,American,individual
 280,,French Navy,French Navy,,,0,,,,,Other,corporate
@@ -433,7 +432,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 469,,"Pell, Jr., The Honorable Herbert Claiborne","The Honorable Herbert Claiborne Pell, Jr.",Pell,"American, 1884 - 1961",0,1884,1961,1876 to 1900,American,American,individual
 470,,"Phillips, Duncan",Duncan Phillips,Phillips,"American, 1886 - 1966",0,1886,1966,1876 to 1900,American,American,individual
 471,,The Phillips Collection,The Phillips Collection,,,0,,,,,Other,corporate
-48300,,R. H. Simmons,R. H. Simmons,,,1,,,,American,American,corporate
+48299,,Plantin Press,Plantin Press,,,1,,,,American,American,corporate
 473,,"Pirie, Robert S., Mr.",Mr. Robert S. Pirie,Pirie,,0,,,,,Other,individual
 474,,"Pleasonton, Eugene S.",Eugene S. Pleasonton,Pleasonton,,0,,,,,Other,individual
 475,,"Plowden, Roger H., Mrs.",Mrs. Roger H. Plowden,Plowden,,0,,,,,Other,individual
@@ -515,6 +514,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 620,,"Wetmore, Robert, Dr. and Mrs.",Dr. and Mrs. Robert Wetmore,Wetmore,,0,,,,,Other,couple
 621,,"Wheeler, Monroe, Mr.",Mr. Monroe Wheeler,Wheeler,,0,,,,,Other,individual
 622,,"White, E. Laurence, Mrs.",Mrs. E. Laurence White,White,"American, 1884 - 1961",0,1884,1961,1876 to 1900,American,American,individual
+48300,,R. H. Simmons,R. H. Simmons,,,1,,,,American,American,corporate
 556,,"Steele, Harry G., Mrs.",Mrs. Harry G. Steele,Steele,"American, 1882 or 1883 - 1974",0,1882,1974,1876 to 1900,American,American,individual
 557,,"Steiner, John H., Mr.",Mr. John H. Steiner,Steiner,,0,,,,,Other,individual
 558,,"Steiner, John H., Mr. and Mrs.",Mr. and Mrs. John H. Steiner,Steiner,,0,,,,,Other,couple
@@ -14338,6 +14338,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 36627,500015926,"Marot, Daniel the Younger",Daniel Marot the Younger,Marot,"Dutch, 1695 - 1769",1,1695,1769,1651 to 1700,Dutch,Dutch,individual
 36633,,Atelier Desjobert,Atelier Desjobert,,,1,,,,French,French,corporate
 36634,,"Biberacensis, Burchardus",Burchardus Biberacensis,Biberacensis,"German, died 1230",1,1130,1230,before 1300,German,German,individual
+36657,500006433,"Bannister, Edward Mitchell",Edward Mitchell Bannister,Bannister,"American, c. 1828 - 1901",1,1828,1901,1826 to 1850,American,American,individual
 36659,500015799,"Schelfhout, Lodewijk",Lodewijk Schelfhout,Schelfhout,"Dutch, 1881 - 1943",1,1881,1943,1876 to 1900,Dutch,Dutch,individual
 36660,,"Hood, D.",D. Hood,Hood,British,1,,,,British,British,individual
 36661,,"Fores, S. W.",S. W. Fores,Fores,British,1,1761,1838,1751 to 1775,British,British,individual
