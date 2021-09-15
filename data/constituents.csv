@@ -14704,7 +14704,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 38089,,"Beato, Antonio",Antonio Beato,Beato,"British, born Corfu (?), after 1832 - 1906",1,1832,1906,1826 to 1850,British,British,individual
 38092,,"Saitel, Raphael",Raphael Saitel,Saitel,"Italian, active late 16th century",1,1550,1559,1501 to 1550,Italian,Italian,individual
 38093,500017802,"Bickham, George Jr.",George Bickham Jr.,Bickham,"British, 1706 - 1771",1,1706,1771,1701 to 1725,British,British,individual
-38193,500104677,"Unger, Hans",Hans Unger,Unger,"German, 1872 - 1936",1,1872,1936,1851 to 1875,German,German,individual
 38095,500354247,"Genlis, Stéphanie Félicité de Comtesse",Comtesse Stéphanie Félicité de Genlis,Genlis,"French, 1746 - 1830",1,1746,1830,1726 to 1750,French,French,individual
 38097,,"Turner, Ann Curran",Ann Curran Turner,Turner,"American, born 1943",1,1943,,1926 to 1950,American,American,individual
 38102,,Samuel Gedge Ltd.,Samuel Gedge Ltd.,,,0,,,,,Other,corporate
@@ -14717,7 +14716,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 38114,,"Richardson, Yancey",Yancey Richardson,Richardson,,0,,,,,Other,individual
 38115,500083056,"Evans, Terry",Terry Evans,Evans,"American, born 1944",1,1944,,1926 to 1950,American,American,individual
 38116,500164120,William Mills & Son,William Mills & Son,,,1,,,,,Other,corporate
-38117,,"Nichols, C.W.",C.W. Nichols,Nichols,,1,,,,,Other,individual
+38117,,"Nichols, C.W.",C.W. Nichols,Nichols,"American, 1825 - 1896",1,1825,1896,1801 to 1825,American,American,individual
 38118,,"MacDonald, Paula",Paula MacDonald,MacDonald,,0,,,,,Other,individual
 38119,,"Gardner, George W",Gardner Studio,Gardner,,1,,,,,Other,individual
 38120,,"Loper, Robert B.",Robert B. Loper,Loper,,0,,,,,Other,purchase_fund
@@ -14749,6 +14748,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 38187,,Kent State University Libraries,Kent State University Libraries,,,1,,,,,Other,corporate
 38188,,"Gildzen, Alex",Alex Gildzen,Gildzen,"American, born 1943",1,1943,,1926 to 1950,American,American,individual
 38191,500027070,Master of Boccaccio,Master of Boccaccio,Master of Boccaccio,"German, active 15th century",1,1400,1499,1300 to 1400,German,German,individual
+38193,500104677,"Unger, Hans",Hans Unger,Unger,"German, 1872 - 1936",1,1872,1936,1851 to 1875,German,German,individual
 38198,,Master FG,Master FG,Master FG,"Italian, active 1540s",1,1500,1600,1401 to 1500,Italian,Italian,individual
 38205,,"Looker, Robert",Robert Looker,Looker,"American, 1922 - 2012",0,1922,2012,1901 to 1925,American,American,individual
 38206,,"Nivola, Pietro",Pietro Nivola,Nivola,,0,,,,,Other,individual
@@ -15678,6 +15678,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 42881,,"Press, Richard S. and Jeanne",Mr. and Mrs. Richard S. and Jeanne Press,Press,,0,,,,,Other,couple
 42892,,"Stephenson, Parker",Ms. Parker Stephenson,Stephenson,,0,,,,,Other,individual
 42897,,David Adamson Gallery,David Adamson Gallery,,,1,,,,,Other,corporate
+46984,,PR/PH Books,PR/PH Books,,,0,,,,,Other,corporate
 43012,500451067,"Lewis, Samella",Samella Lewis,Lewis,"American, born 1924",1,1924,,1901 to 1925,American,American,individual
 43029,,Fischbach Gallery,Fischbach Gallery,,,1,,,,,Other,corporate
 43044,,Medallic Art Company,Medallic Art Company,,"American, est. 1910 - closed 2016",1,1910,2016,1901 to 1925,American,American,corporate
@@ -15899,7 +15900,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 46724,,"Simmons, Jeffrey",Jeffrey Simmons,Simmons,"American, born 1968",1,1968,,1951 to 1975,American,American,individual
 46726,,"Sistler, Nicholas",Nicholas Sistler,Sistler,"American, born 1954",1,1954,,1951 to 1975,,Other,individual
 46730,500111628,"Sokol, John M.",John M. Sokol,Sokol,"American, born 1947",1,1947,,1926 to 1950,American,American,individual
-46883,,"Krause, Kyle J. and Sharon",Kyle J. and Sharon Krause,Krause,,0,,,,,Other,couple
 46732,500020968,"Soldner, Paul",Paul Soldner,Soldner,"American, 1921 - 2011",1,1921,2011,1901 to 1925,American,American,individual
 46735,,"Speed, Julie",Julie Speed,Speed,born 1951,1,1951,,1951 to 1975,,Other,individual
 46741,,"Statsinger, Evelyn",Evelyn Statsinger,Statsinger,"American, 1927 - 2016",1,1927,2016,1926 to 1950,American,American,individual
@@ -15940,6 +15940,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 46880,,"Mansfeld, Sebastian",Sebastian Mansfeld,Mansfeld,Austrian? active 18th century,1,1700,1800,1651 to 1700,Austrian,Austrian,individual
 46881,,"Mark, Quirin",Quirin Mark,Mark,"Austrian?, active 18th century",1,1700,1800,1651 to 1700,Austrian,Austrian,individual
 46882,,"Zamorensis, Rodericus",Rodericus Zamorensis,Zamorensis,"German, 1404 - 1470",1,1404,1470,1401 to 1500,German,German,individual
+46883,,"Krause, Kyle J. and Sharon",Kyle J. and Sharon Krause,Krause,,0,,,,,Other,couple
 46890,,Fred Sandback Archive,Fred Sandback Archive,,,0,,,,,Other,corporate
 46892,,"Zachmann, Max",Max Zachmann,Zachmann,"German, 1892 - 1917",1,1892,1917,1876 to 1900,German,German,individual
 46895,500093316,"Petersen, Will",Will Petersen,Petersen,"American, 1928 - 1994",1,1928,1994,1926 to 1950,American,American,individual
@@ -15959,7 +15960,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 46978,,"Nickerson, Jackie",Jackie Nickerson,Nickerson,"American, born 1960",1,1960,,1951 to 1975,American,American,individual
 46981,,"Sisco, Gerald",Gerald Sisco,Sisco,,1,,,,,Other,individual
 46983,500069708,"Scharff, Edwin",Edwin Scharff,Scharff,"German, 1887 - 1955",1,1887,1955,1876 to 1900,German,German,individual
-46984,,PR/PH Books,PR/PH Books,,,0,,,,,Other,corporate
 46994,,"Ericsson, Hampton M.",Hampton M. Ericsson,Ericsson,"American, active 20th century",1,1900,1999,1876 to 1900,American,American,individual
 46995,,"Frankland, Peggy",Peggy Frankland,Frankland,"American, active 20th century",1,1900,1999,1876 to 1900,American,American,individual
 46996,,"Trachtenberg, Andrew",Andrew Trachtenberg,Trachtenberg,,0,,,,,Other,individual
