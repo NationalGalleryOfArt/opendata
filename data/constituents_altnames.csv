@@ -8004,6 +8004,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9756,9763,Gewirz,"Gewirz, Carl, Mr. and Mrs.",,Preferred Name
 9757,9764,Pratt,"Pratt, Bela Lyon",,Preferred Name
 9759,9766,Sogliani,"Sogliani, Giovanni Antonio di Francesco",,Preferred Name
+9762,9769,,"Museum of Fine Arts, Houston, The",,Preferred Name
 9764,9771,Bohnen,"Bohnen, Blythe",,Preferred Name
 9765,9772,Molner,"Molner, Herbert and Paula",,Preferred Name
 9768,9775,Lewis,"Lewis, Jr., Clarence McKenzie, Mrs.",,Preferred Name
@@ -8225,11 +8226,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 10278,10285,Grazda,"Grazda, Ed",,Preferred Name
 10280,10287,Kolbe,"Kolbe, Carl Wilhelm",,Preferred Name
 10292,10299,Richardson,"Richardson, Jr., Jonathan",,Preferred Name
-10399,10406,Byars,"Byars, James Lee",,Preferred Name
 10313,10320,,"Light & Co., R. M.",,Preferred Name
 10327,10334,Somerville,"Somerville, Stephen",,Preferred Name
 10386,10393,,"Guston, Musa, Estate of",,Preferred Name
 10398,10405,Braden,"Braden, Su",,Preferred Name
+10399,10406,Byars,"Byars, James Lee",,Preferred Name
 10400,10407,Petlin,"Petlin, Irving",,Preferred Name
 10401,10408,König,"König, Kaspar",,Preferred Name
 10402,10409,Levy,"Levy, Julien",,Preferred Name
@@ -14881,6 +14882,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 35812,21410,,Private Collection c/o Blondeau & Associés SAS,,Variant
 35817,21441,Rosoi,"Rosoi, Barnabé Farmian de",,Variant
 35818,21441,Durosoy,"Durosoy, Barnabé Farmian",,Variant
+45343,1276,Feo,"Feo, Paolo di",,Full Name
 35824,21482,Carr of York,"Carr of York, John",,Variant
 35826,21492,,Odyssia Skouras,,Variant Index Name
 35827,21492,,Odyssia Quadrani,,Variant Index Name
@@ -15039,7 +15041,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36551,26467,Cavanaugh,"Cavanaugh, March Avery",,Full Name
 36552,26467,Avery,"Avery, March",,Preferred Name
 36553,26472,Master of 1462,Master of 1462,,Variant
-54826,5851,Bowen,"Bowen, J. T.",,Variant
 36557,26506,Giraudon's Artist,"Giraudon's Artist, Auguste",,Variant
 36559,26510,von Alt,"von Alt, Rudolf",,Variant
 36560,26517,,Anthony Meier Fine Arts,,Variant Index Name
@@ -15075,7 +15076,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36720,27366,Steenwyck the Younger,"Steenwyck the Younger, Hendrick van",,Variant
 36721,27366,van Steenwijk the Younger,"van Steenwijk the Younger, Hendrick",,Variant Index Name
 36724,27408,Bemmel,"Bemmel, Willem van",,Variant
-54965,47667,,P. J. Zurker,,Preferred Name
 36727,27434,Fosse,"Fosse, Charles de la",,Variant Index Name
 36728,27434,Lafosse,"Lafosse, Charles de",,Variant
 36734,27449,Stafford,"Stafford, Elizabeth",,Variant
@@ -15093,7 +15093,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36791,27964,Ross,"Ross, Luise",,Variant Index Name
 36794,27980,Casebere Studio,"Casebere Studio, James",,Variant
 36819,28078,Haár,"Haár, Ferenc",,Variant
-56698,961,Bertoia,,,Variant
+54826,5851,Bowen,"Bowen, J. T.",,Variant
 36856,28261,,Rachel Adler Fine Art,,Variant
 36867,28334,,Galerie Pierre,,Variant Index Name
 36868,28334,,Pierre Loeb,,Variant
@@ -15111,7 +15111,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36904,28541,,Henry Elkington,,Variant
 36931,28620,Schulze,"Schulze, Alfred Otto Wolfgang",,Variant
 36936,28658,van der Haagen,"van der Haagen, Joris",,Variant Index Name
-57188,40630,,Day & Son,,Variant
+54965,47667,,P. J. Zurker,,Preferred Name
 36976,28972,Göz,"Göz, Gottfried Bernhard",,Variant
 36977,28972,Goetz,"Goetz, Gottfried Bernhard",,Variant
 36978,28988,Parrish,"Parrish, Frederick",,Variant
@@ -15739,7 +15739,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39336,33533,Hatchett,"Hatchett, Dwayne W.",,Preferred Name
 39337,33534,Haupers,"Haupers, Clement",,Preferred Name
 39338,33535,Havens,"Havens, Leonard M.",,Preferred Name
-58131,49942,,S.H. Perkins,,Preferred Name
+56698,961,Bertoia,,,Variant
 39339,33536,Hawkins,"Hawkins, Basil",,Preferred Name
 39340,33537,Haydon,"Haydon, Harold",,Preferred Name
 39341,33538,Heaslip,"Heaslip, William",,Preferred Name
@@ -16232,7 +16232,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39850,34036,Stavenitz,"Stavenitz, Alexander Raoul",,Preferred Name
 39851,34037,Steele,"Steele, Juliette",,Preferred Name
 39852,34038,Steffen,"Steffen, Bernard Joseph",,Preferred Name
-59195,2795,Vos,"Vos, Marten de",,Variant
+57188,40630,,Day & Son,,Variant
 39853,34039,Steinberg,"Steinberg, Nathaniel P.",,Preferred Name
 39854,34040,Stevens,"Stevens, Dorothy",,Preferred Name
 39856,34042,Stevenson,"Stevenson, Dorothea",,Preferred Name
@@ -16521,7 +16521,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40203,34366,Caffi,"Caffi, Ippolito",,Preferred Name
 40213,34369,Huber,"Huber, Michel",,Preferred Name
 40214,34370,Alix,"Alix, François",,Preferred Name
-59196,2795,Vos,"Vos, Maerten de",,Variant
+58131,49942,,S.H. Perkins,,Preferred Name
 40215,34371,Lépine,"Lépine, C.",,Preferred Name
 40216,34372,Texier,"Texier, G.",,Preferred Name
 40220,34376,Viguet,Viguet,,Preferred Name
@@ -17859,7 +17859,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44446,20140,Bott,"Bott, René",,Variant
 44447,37893,Ringgold,"Ringgold, Faith",,Preferred Name
 44448,37894,WalkingStick,"WalkingStick, Kay",,Preferred Name
-59587,50999,,ACT UP,,Preferred Name
+59195,2795,Vos,"Vos, Marten de",,Variant
 44449,37895,Amos,"Amos, Emma",,Preferred Name
 44451,37897,Rousseau,"Rousseau, Jacques",,Preferred Name
 44456,37901,Crothers,"Crothers, Wayne",,Preferred Name
@@ -17925,6 +17925,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44586,5598,von Fuhrich,"von Fuhrich, Josef Ritter",,Variant
 44589,14928,Webb,"Webb, Jim",,Nickname/Pseudonym
 44595,38011,,Jean-Luc Baroni Ltd.,,Preferred Name
+44598,9769,,"Blaffer Foundation, Sarah Campbell",,Variant Index Name
 44603,14,Evans,"Evans, Betty B.",,Variant
 44605,38019,Lamm,"Lamm, Will",,Preferred Name
 44606,38019,Lamm,"Lamm, Williard E. Jr.",,Variant
@@ -18084,6 +18085,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44887,5791,Lobdell,"Lobdell, Frank Irving",,Full Name
 44889,38247,Thornley,"Thornley, Georges William",,Preferred Name
 44890,38248,Ganière,"Ganière, Jean",,Preferred Name
+59196,2795,Vos,"Vos, Maerten de",,Variant
 44896,38253,Chamant,"Chamant, Jean-Joseph",,Preferred Name
 44897,31127,,The Ratjen Foundation,,Variant Index Name
 44898,38254,Martini,"Martini, Rosso Antonio",,Preferred Name
@@ -18220,8 +18222,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45331,38603,Urban,"Urban, Peter",,Preferred Name
 45341,37162,Bulgarino,"Bulgarino, Bartolomeo di",,Full Name
 45342,1204,Daddo,"Daddo, Bernardo di",,Full Name
-45343,1276,Feo,"Feo, Paolo di",,Full Name
-60910,8047,Semple,,,Full Name
 45344,38613,Grifo di Tancredi,Grifo di Tancredi,,Preferred Name
 45345,38613,Tancredi,"Tancredi, Grifo di",,Variant Index Name
 45346,38614,Master of the Washington Coronation,Master of the Washington Coronation,,Preferred Name
@@ -18486,6 +18486,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 46402,39611,Kemble,"Kemble, Edward",,Preferred Name
 46407,39616,King,"King, Daisy Blanche",,Preferred Name
 46410,39619,Knight,"Knight, Daniel Ridgway",,Preferred Name
+59587,50999,,ACT UP,,Preferred Name
 46417,39626,Lacroix,"Lacroix, Paul",,Preferred Name
 46419,39628,Leisenring,"Leisenring, Matilda Mueden",,Preferred Name
 46421,39630,Adler,"Adler, Lee",,Preferred Name
@@ -19955,6 +19956,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55141,47790,,Pratt Adlib Press,,Preferred Name
 55142,47791,Camers,"Camers, Philip Michael",,Preferred Name
 55143,47792,,Stratford Press,,Preferred Name
+60910,8047,Semple,,,Full Name
 55146,522,Sarnoff,"Sarnoff, Lolo",,Variant
 55147,47794,Young,"Young, Francis Brett",,Preferred Name
 55148,33330,Dahlgreen,"Dahlgreen, Charles William",,Full Name
