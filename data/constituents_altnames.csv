@@ -10035,8 +10035,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21963,21970,Zabriskie,"Zabriskie, Virginia, Ms.",,Preferred Name
 21964,21971,,Buhl Family Foundation,,Preferred Name
 21972,21979,Bedford,"Bedford, Francis",,Preferred Name
-22226,22233,Fuss,"Fuss, Adam",,Preferred Name
-22228,22235,Highstein,"Highstein, Jene",,Preferred Name
 22016,22023,Robertson,"Robertson, James",,Preferred Name
 22018,22025,Limpach,"Limpach, Maximilian Joseph",,Preferred Name
 22025,22032,Ripa,"Ripa, Cesare",,Preferred Name
@@ -10077,6 +10075,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22219,22226,Taglioni,"Taglioni, L.",,Preferred Name
 22223,22230,Savery,"Savery, Jacob I",,Preferred Name
 22224,22231,Loos,"Loos, Friedrich Wilhelm",,Preferred Name
+22226,22233,Fuss,"Fuss, Adam",,Preferred Name
+22228,22235,Highstein,"Highstein, Jene",,Preferred Name
 22230,22237,Ault,"Ault, George",,Preferred Name
 22231,22238,Browne,"Browne, Byron",,Preferred Name
 22233,22240,Sherman,"Sherman, Cindy",,Preferred Name
@@ -19608,6 +19608,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54156,47111,Knijff,"Knijff, Leendert",,Preferred Name
 54158,47111,Knyff,"Knyff, Leonard",,Variant
 54162,47115,Brintzenhofe,"Brintzenhofe, Keith",,Preferred Name
+60910,8047,Semple,,,Full Name
 54166,47117,Jay,"Jay, Ricky",,Preferred Name
 54167,47117,Potash,"Potash, Richard Jay",,Variant
 54175,47123,Macho,"Macho, Julien",,Preferred Name
@@ -22883,7 +22884,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60902,50050,,,,Full Name
 60908,7529,Frazier,,,Full Name
 60909,37883,,,,Full Name
-60910,8047,Semple,,,Full Name
 61019,23922,Fortuny y Carbó,"Fortuny y Carbó, Mariano",,Variant
 61022,25799,Henderson,"Henderson, Helen Lee",,Full Name
 61024,39144,Solomon,"Solomon, Rosalind Fox",,Variant Index Name
