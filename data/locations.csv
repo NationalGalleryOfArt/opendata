@@ -188,6 +188,29 @@ locationid,site,room,publicaccess,description,unitposition
 5649,West Building,G-019,1,West Ground Floor Gallery 19,W
 6470,West Building,G-021,1,West Ground Floor Gallery 21,
 6471,West Building,G-021,1,West Ground Floor Gallery 21,W
+6532,West Building,G-030,1,West Ground Floor Gallery 30,
+6533,West Building,G-030,1,West Ground Floor Gallery 30,E
+6534,West Building,G-030,1,West Ground Floor Gallery 30,S
+6535,West Building,G-030,1,West Ground Floor Gallery 30,W
+6622,West Building,G-031,1,West Ground Floor Gallery 31,
+6623,West Building,G-031,1,West Ground Floor Gallery 31,E
+6624,West Building,G-031,1,West Ground Floor Gallery 31,N
+6625,West Building,G-031,1,West Ground Floor Gallery 31,S
+6626,West Building,G-031,1,West Ground Floor Gallery 31,W
+6627,West Building,G-032,1,West Ground Floor Gallery 32,
+6628,West Building,G-032,1,West Ground Floor Gallery 32,E
+6629,West Building,G-032,1,West Ground Floor Gallery 32,N
+6630,West Building,G-032,1,West Ground Floor Gallery 32,S
+6631,West Building,G-032,1,West Ground Floor Gallery 32,W
+6632,West Building,G-033,1,West Ground Floor Gallery 33,
+6633,West Building,G-033,1,West Ground Floor Gallery 33,E
+6634,West Building,G-033,1,West Ground Floor Gallery 33,N
+6635,West Building,G-033,1,West Ground Floor Gallery 33,S
+6636,West Building,G-033,1,West Ground Floor Gallery 33,W
+6637,West Building,G-034,1,West Ground Floor Gallery 34,
+6638,West Building,G-034,1,West Ground Floor Gallery 34,E
+6639,West Building,G-034,1,West Ground Floor Gallery 34,S
+6640,West Building,G-034,1,West Ground Floor Gallery 34,W
 6641,West Building,G-035,1,West Ground Floor Gallery 35,
 6642,West Building,G-036,1,West Ground Floor Gallery 36,
 6643,West Building,G-036,1,West Ground Floor Gallery 36,E
@@ -482,6 +505,21 @@ locationid,site,room,publicaccess,description,unitposition
 8447,West Building,M-050,1,West Main Floor Gallery 50,N
 8448,West Building,M-050,1,West Main Floor Gallery 50,S
 8449,West Building,M-050,1,West Main Floor Gallery 50,W
+8450,West Building,M-050-A,1,West Main Floor Gallery 50 A,
+8451,West Building,M-050-A,1,West Main Floor Gallery 50 A,E
+8452,West Building,M-050-A,1,West Main Floor Gallery 50 A,N
+8453,West Building,M-050-A,1,West Main Floor Gallery 50 A,S
+8454,West Building,M-050-A,1,West Main Floor Gallery 50 A,W
+8455,West Building,M-050-B,1,West Main Floor Gallery 50 B,
+8456,West Building,M-050-B,1,West Main Floor Gallery 50 B,E
+8457,West Building,M-050-B,1,West Main Floor Gallery 50 B,N
+8458,West Building,M-050-B,1,West Main Floor Gallery 50 B,S
+8459,West Building,M-050-B,1,West Main Floor Gallery 50 B,W
+8460,West Building,M-050-C,1,West Main Floor Gallery 50 C,
+8461,West Building,M-050-C,1,West Main Floor Gallery 50 C,E
+8462,West Building,M-050-C,1,West Main Floor Gallery 50 C,N
+8463,West Building,M-050-C,1,West Main Floor Gallery 50 C,S
+8464,West Building,M-050-C,1,West Main Floor Gallery 50 C,W
 8465,West Building,M-051,1,West Main Floor Gallery 51,
 8466,West Building,M-051,1,West Main Floor Gallery 51,E
 8467,West Building,M-051,1,West Main Floor Gallery 51,N
@@ -720,6 +758,7 @@ locationid,site,room,publicaccess,description,unitposition
 9328,West Building,G-043,1,West Ground Floor Gallery 43,EAST BAFFLE
 9329,West Building,G-043,1,West Ground Floor Gallery 43,WEST BAFFLE
 9332,West Building,G-019,1,West Ground Floor Gallery 19,CENTER
+9339,West Building,G-032,1,West Ground Floor Gallery 32,CENTER
 9347,East Building,EM-213,1,"East Bldg, Vestibule, 213 (Pod 2)",E
 9349,West Building,M-021,1,West Main Floor Gallery 21,CENTER
 9350,West Building,M-025,1,West Main Floor Gallery 25,CENTER
@@ -729,16 +768,24 @@ locationid,site,room,publicaccess,description,unitposition
 9444,East Building,EU-408,1,"East Bldg, Vestibule, 408 (Pod 2)",W
 9455,East Building,EM-216,1,"East Bldg, Vestibule, 216 (Pod 1)",E
 9461,East Building,EU-416,1,Bridge,
+9472,West Building,G-030,1,West Ground Floor Gallery 30,NORTH BAFFLE
+9473,West Building,G-030,1,West Ground Floor Gallery 30,SOUTH BAFFLE
+9478,West Building,G-030,1,West Ground Floor Gallery 30,CENTER
+9479,West Building,G-031,1,West Ground Floor Gallery 31,CENTER
 9506,West Building,M-052,1,West Main Floor Gallery 52,CENTER
 9522,West Building,G-044-A,1,West Bldg Garden Cafe - niche,
 9523,West Building,G-044-A,1,West Bldg Garden Cafe - niche,S
 9524,West Building,G-042-B,1,West Ground Floor Gallery 42B,BAFFLE
 9585,East Building,EM-213,1,"East Bldg, Vestibule, 213 (Pod 2)",W
+9666,West Building,G-034,1,West Ground Floor Gallery 34,CENTER
+9667,West Building,G-033,1,West Ground Floor Gallery 33,CENTER
 9686,East Building,EG-101,1,"East Bldg, Entrance Lobby",FLOOR
 9725,East Building,EG-100,1,"East Bldg, Central Atrium, South Ledge",SOUTH LEDGE
 9726,West Building,G-044,1,"West Bldg Garden Cafe, Center Fountain",CENTER FOUNTAIN
 9749,East Building,EM-214-A,1,"East Bldg, Mezz Gal 214A (Pod 2)",CENTER
 9752,West Building,G-003,1,West Ground Floor Gallery 3,CENTER
+9774,West Building,G-034,1,West Ground Floor Gallery 34,NORTH BAFFLE
+9775,West Building,G-034,1,West Ground Floor Gallery 34,SOUTH BAFFLE
 9795,West Building,G-016,1,West Ground Floor Gallery 16,CENTER
 9824,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",CENTER
 9983,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",CENTER
@@ -750,6 +797,8 @@ locationid,site,room,publicaccess,description,unitposition
 10107,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",CENTER
 10121,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",E
 10138,West Building,M-083,1,West Main Floor Gallery 83,CENTER
+10143,West Building,G-034,1,West Ground Floor Gallery 34,N
+10144,West Building,G-030,1,West Ground Floor Gallery 30,N
 10161,East Building,CLA-098,1,Concourse Elevator Lobby,S
 10162,East Building,CLA-098,1,Concourse Elevator Lobby,W
 10287,West Building,G-021,1,West Ground Floor Gallery 21,E
@@ -961,6 +1010,8 @@ locationid,site,room,publicaccess,description,unitposition
 13817,West Building,G-045,1,West Ground Floor Gallery 45,N
 13818,West Building,G-045,1,West Ground Floor Gallery 45,S
 13819,West Building,G-045,1,West Ground Floor Gallery 45,W
+13828,West Building,G-032,1,West Ground Floor Gallery 32,EAST BAFFLE
+13829,West Building,G-032,1,West Ground Floor Gallery 32,WEST BAFFLE
 13949,East Building,EU-405,1,"East Bldg, West Terrace",
 13963,East Building,EG-106-E,1,"East Bldg, Ground Gal 106E (Pod 1)",E
 13964,East Building,EG-106-E,1,"East Bldg, Ground Gal 106E (Pod 1)",N
