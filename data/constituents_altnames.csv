@@ -19608,7 +19608,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54156,47111,Knijff,"Knijff, Leendert",,Preferred Name
 54158,47111,Knyff,"Knyff, Leonard",,Variant
 54162,47115,Brintzenhofe,"Brintzenhofe, Keith",,Preferred Name
-60910,8047,Semple,,,Full Name
+60902,50050,,,,Full Name
 54166,47117,Jay,"Jay, Ricky",,Preferred Name
 54167,47117,Potash,"Potash, Richard Jay",,Variant
 54175,47123,Macho,"Macho, Julien",,Preferred Name
@@ -19646,6 +19646,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54285,33983,Shahn,"Shahn, Bernarda Bryson",,Variant
 54287,895,,Garo-Tomlinson Collection,,Variant
 54290,47208,Heinrich,"Heinrich, Annemarie",,Preferred Name
+60908,7529,Frazier,,,Full Name
 54304,47218,,Cantore Galleria Antiquaria,,Preferred Name
 54305,47219,,Paragon Press,,Preferred Name
 54308,41819,Weber,"Weber, Gottlieb Daniel Paul",,Full Name
@@ -19690,6 +19691,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54430,47316,Bandini,"Bandini, Giovanni",,Preferred Name
 54434,42660,Gouverneur,"Gouverneur, Simon Ralph",,Full Name
 54435,2795,de Vos,"de Vos, Maarten",,Variant
+60909,37883,,,,Full Name
 54442,47322,Molina,"Molina, Octavio",,Preferred Name
 54445,47324,,Arthur H. Harlow & Company,,Preferred Name
 54446,47325,Sassoferrato,Sassoferrato,,Preferred Name
@@ -19974,6 +19976,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55146,522,Sarnoff,"Sarnoff, Lolo",,Variant
 55147,47794,Young,"Young, Francis Brett",,Preferred Name
 55148,33330,Dahlgreen,"Dahlgreen, Charles William",,Full Name
+60910,8047,Semple,,,Full Name
 55149,47795,Valesio,"Valesio, Giovanni Luigi",,Preferred Name
 55150,47796,Megarey,"Megarey, Henry J.",,Preferred Name
 55152,47798,Phillips,"Phillips, Kandy Vermeer",,Preferred Name
@@ -22881,9 +22884,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60853,50017,,,,Full Name
 60856,51904,Fick,"Fick, Jorge",,Preferred Name
 60898,37098,,,,Variant
-60902,50050,,,,Full Name
-60908,7529,Frazier,,,Full Name
-60909,37883,,,,Full Name
 61019,23922,Fortuny y Carbó,"Fortuny y Carbó, Mariano",,Variant
 61022,25799,Henderson,"Henderson, Helen Lee",,Full Name
 61024,39144,Solomon,"Solomon, Rosalind Fox",,Variant Index Name
