@@ -1,4 +1,4 @@
-              Table "objects_altnums"
+             Table "objects_altnums"
    Column   |         Type          | Modifiers 
 ------------+-----------------------+-----------
  objectid   | integer               | 
