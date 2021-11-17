@@ -1491,7 +1491,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
-60856,51904,Fick,"Fick, Jorge",,Preferred Name
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -1776,7 +1775,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1894,1901,Steen,"Steen, Jan",,Preferred Name
 1895,1902,Steinlen,"Steinlen, Théophile Alexandre",,Preferred Name
 1896,1903,Stella,"Stella, Frank",,Preferred Name
-60910,8047,Semple,,,Full Name
+60856,51904,Fick,"Fick, Jorge",,Preferred Name
 1897,1904,Stephens,"Stephens, Thomas E.",,Preferred Name
 1898,1905,Stevens,"Stevens, Alfred",,Preferred Name
 1899,1906,Stock,"Stock, Joseph Whiting",,Preferred Name
@@ -2544,7 +2543,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2692,2699,Prusher,"Prusher, Horace J. ?",,Preferred Name
 2693,2700,Puget,"Puget, Pierre",,Preferred Name
 2694,2701,Quarenghi,"Quarenghi, Giacomo",,Preferred Name
-60940,880,,David Smith Legacy 2020 LLC,,Variant
+60910,8047,Semple,,,Full Name
 2695,2702,Quast,"Quast, Pieter Jansz",,Preferred Name
 2696,2703,Radziwill,"Radziwill, Franz",,Preferred Name
 2697,2704,Reder,"Reder, Bernard",,Preferred Name
@@ -2831,7 +2830,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2995,3002,Schutz,"Schutz, Franz",,Preferred Name
 2996,3003,Schütz,"Schütz, Carl",,Preferred Name
 2997,3004,Schutz-Wolff,"Schutz-Wolff, Johanna",,Preferred Name
-60943,28976,Walker,"Walker, Rock J.",,Variant
+60940,880,,David Smith Legacy 2020 LLC,,Variant
 2998,3005,Schwartz,"Schwartz, Aubrey",,Preferred Name
 2999,3006,Scolari,"Scolari, Giuseppe",,Preferred Name
 3000,3007,Scordia,"Scordia, Antonio",,Preferred Name
@@ -3418,7 +3417,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3609,3616,Brockhusen,"Brockhusen, Theo von",,Preferred Name
 3611,3618,Bronckhorst,"Bronckhorst, Jan Gerritsz van",,Preferred Name
 3612,3619,Broner,"Broner, Robert",,Preferred Name
-60950,51986,Lilly,"Lilly, David",,Preferred Name
+60943,28976,Walker,"Walker, Rock J.",,Variant
 3613,3620,Brookshaw,"Brookshaw, George",,Preferred Name
 3614,3621,Brookshaw,"Brookshaw, Richard",,Preferred Name
 3615,3622,Brosamer,"Brosamer, Hans",,Preferred Name
@@ -3708,6 +3707,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3915,3922,Detthow,"Detthow, Eric",,Preferred Name
 3916,3923,Manuel I,"Manuel I, Niklaus",,Preferred Name
 3917,3924,Devaux,"Devaux, Jean",,Preferred Name
+60950,51986,Lilly,"Lilly, David",,Preferred Name
 3918,3925,Devéria,"Devéria, Achille",,Preferred Name
 3919,3926,Deville,"Deville, Henry-Wilfred",,Preferred Name
 3921,3928,Diamaer,"Diamaer, Hendrik Frans",,Preferred Name
@@ -22862,6 +22862,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60768,51839,Collaert,"Collaert, Jan III",,Preferred Name
 60769,51839,Collaert,,,Variant
 60772,24648,,,,Full Name
+60774,51841,Van Der Zee,"Van Der Zee, Donna",,Preferred Name
 60775,51842,Stubbs,"Stubbs, George Townley",,Preferred Name
 60776,51190,,,,Full Name
 60779,4922,Monogrammist S,Monogrammist S,,Variant
