@@ -6309,7 +6309,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 6632,6639,Robson,"Robson, George Fennel",,Preferred Name
 6633,6640,Schmutzer,"Schmutzer, Jacob Matthias",,Preferred Name
 6634,6641,Le Moyne,"Le Moyne, François",,Preferred Name
-6635,6642,Artaria,"Artaria, Domenico",,Preferred Name
+6635,6642,Artaria,"Artaria, Dominic",,Preferred Name
 6636,6643,Herz the Elder,"Herz the Elder, Johann Daniel",,Preferred Name
 6637,6644,Anguier,"Anguier, Michel",,Preferred Name
 6638,6645,Rossi II,"Rossi II, Girolamo",,Preferred Name
@@ -7945,6 +7945,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60948,51984,Feldman,"Feldman, Kaywin",,Preferred Name
 8744,8751,McLean,"McLean, Thomas",,Preferred Name
 8753,8760,Greville,"Greville, Charles Francis",,Preferred Name
+60885,51933,,Antiquariat Clemens Paulusch GmbH,,Preferred Name
 8843,8850,,"Metropolitan Museum of Art, The",,Preferred Name
 8910,8917,,Ferargil Galleries,,Preferred Name
 8920,8927,Parker,"Parker, Thomas Lister",,Preferred Name
@@ -8730,7 +8731,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 12225,12232,,Martin Chasin Fine Arts,,Preferred Name
 12228,12235,,"Adelson Galleries, Inc.",,Preferred Name
 12249,12256,Orléans,"Orléans, Louis-Philippe-Joseph, duc d'",,Preferred Name
-60927,51969,Sullivan,"Sullivan, Garrett and Colin",,Preferred Name
 12270,12277,Mazoh,"Mazoh, Stephen, Mr.",,Preferred Name
 12283,12290,Gangolf,"Gangolf, Paul",,Preferred Name
 12287,12294,Ross,"Ross, Nanette",,Preferred Name
@@ -11985,6 +11985,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 30390,30397,,Weyhe Gallery,,Preferred Name
 30399,30406,Beatty,"Beatty, Frances F.L., Dr.",,Preferred Name
 30401,30408,Destors,"Destors, Denis-Louis",,Preferred Name
+30403,30410,Bélanger,"Bélanger, Louis",,Preferred Name
 30406,30413,Stocker,"Stocker, John",,Preferred Name
 30407,30414,Orsi,"Orsi, Lelio",,Preferred Name
 30412,30419,Bonaparte,"Bonaparte, Roland-Napoléon",,Preferred Name
@@ -14399,7 +14400,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33931,6871,Ehret,"Ehret, Georg Dionysius",,Variant
 33932,6890,Anonymous European 18th Century,Anonymous European 18th Century,,Variant
 33933,6893,Muttoni,"Muttoni, Pietro",,Variant
-60951,51987,MacMillan,"MacMillan, Nivan",,Preferred Name
+60927,51969,Sullivan,"Sullivan, Garrett and Colin",,Preferred Name
 33934,6893,Pietro della Vecchia,Pietro della Vecchia,,Variant Index Name
 33935,6895,Wertmüller,"Wertmüller, Adolf Ulric",,Variant
 33936,6916,Anonymous Tuscan 14th Century,Anonymous Tuscan 14th Century,,Variant
@@ -15063,6 +15064,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36561,26520,Sommier,"Sommier, François-Clément",,Variant
 36566,26553,Driskell,"Driskell, David C.",,Variant
 36567,26553,Driskell,"Driskell, David C.",,Variant
+60951,51987,MacMillan,"MacMillan, Nivan",,Preferred Name
 36588,26672,,Harris T. Schrank Fine Prints,,Variant Index Name
 36593,26685,,Wolfgang J. Kaiser,,Variant Index Name
 36596,26702,Riegl,"Riegl, Vitus Felix",,Variant
@@ -22912,3 +22914,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61082,52092,Adolfsz.,"Adolfsz., Harmen",,Preferred Name
 61095,52104,Fossier,Fossier,,Preferred Name
 61096,52105,Buldet,"Buldet, Denis Charles",,Preferred Name
+61098,49754,,,,Full Name
+61100,52107,Steidlin,"Steidlin, Johann Matthias",,Preferred Name
+61101,52108,Friedrich,"Friedrich I, Jakob Andreas",,Preferred Name
+61102,52109,Weber,"Weber, Johann Georg",,Preferred Name
