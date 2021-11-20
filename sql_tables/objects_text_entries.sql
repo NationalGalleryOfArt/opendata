@@ -1,4 +1,4 @@
-            Table "objects_text_entries"
+             Table "objects_text_entries"
   Column  |         Type          | Modifiers 
 ----------+-----------------------+-----------
  objectid | integer               | 
