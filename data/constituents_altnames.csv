@@ -1773,7 +1773,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1894,1901,Steen,"Steen, Jan",,Preferred Name
 1895,1902,Steinlen,"Steinlen, Théophile Alexandre",,Preferred Name
 1896,1903,Stella,"Stella, Frank",,Preferred Name
-61106,52113,Deman,"Deman, Edmond",,Preferred Name
+61098,49754,,,,Full Name
 1897,1904,Stephens,"Stephens, Thomas E.",,Preferred Name
 1898,1905,Stevens,"Stevens, Alfred",,Preferred Name
 1899,1906,Stock,"Stock, Joseph Whiting",,Preferred Name
@@ -2541,6 +2541,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2692,2699,Prusher,"Prusher, Horace J. ?",,Preferred Name
 2693,2700,Puget,"Puget, Pierre",,Preferred Name
 2694,2701,Quarenghi,"Quarenghi, Giacomo",,Preferred Name
+61106,52113,Deman,"Deman, Edmond",,Preferred Name
 2695,2702,Quast,"Quast, Pieter Jansz",,Preferred Name
 2696,2703,Radziwill,"Radziwill, Franz",,Preferred Name
 2697,2704,Reder,"Reder, Bernard",,Preferred Name
@@ -11707,7 +11708,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 28879,28886,Takagi,"Takagi, Madoka",,Preferred Name
 28884,28891,Curtis,"Curtis, Edward Sheriff",,Preferred Name
 28895,28902,Kaplan,"Kaplan, Louis, Dr. and Mrs.",,Preferred Name
-61101,52108,Friedrich,"Friedrich I, Jakob Andreas",,Preferred Name
+61100,52107,Steidlin,"Steidlin, Johann Matthias",,Preferred Name
 28908,28915,,Swann Galleries,,Preferred Name
 28909,28916,Smith,"Smith, Eddy",,Preferred Name
 28919,28926,Köster,"Köster, Arthur",,Preferred Name
@@ -14478,7 +14479,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34027,8285,Anonymous Italian 12th Century,Anonymous Italian 12th Century,,Variant
 34028,8286,Anonymous Italian 13th Century,Anonymous Italian 13th Century,,Variant
 34029,8287,Anonymous Italian 14th Century,Anonymous Italian 14th Century,,Variant
-60765,51836,Bellerus,"Bellerus, Balthazar",,Preferred Name
 34030,8288,Anonymous Verona 14th Century,Anonymous Verona 14th Century,,Variant
 34031,8289,Anonymous Venetian 14th Century,Anonymous Venetian 14th Century,,Variant
 34033,8291,Anonymous Pisan 14th Century,Anonymous Pisan 14th Century,,Variant
@@ -17463,7 +17463,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42685,36401,,Galleria Longari,,Preferred Name
 42686,36402,Mone,"Mone, Jean",,Preferred Name
 42688,36404,,Frederick Keppel & Co.,,Preferred Name
-61132,52139,van Schurman,"Schurman, Anna Maria van",,Preferred Name
+61101,52108,Friedrich,"Friedrich I, Jakob Andreas",,Preferred Name
 42707,36414,Estève,"Estève, Maurice",,Preferred Name
 42708,36415,Guiramand,"Guiramand, Paul",,Preferred Name
 42709,36416,Cathelin,"Cathelin, Bernard",,Preferred Name
@@ -22847,6 +22847,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60751,51828,Minter,"Minter, Joe",,Preferred Name
 60757,12034,Gagosian,"Gagosian, Larry",,Variant
 60758,10095,,"David McKee, Inc.",,Variant
+60765,51836,Bellerus,"Bellerus, Balthazar",,Preferred Name
 60766,51837,van Keerbergen,"van Keerbergen, Jan",,Preferred Name
 60767,51838,Verdussen,"Verdussen, Hieronymus",,Preferred Name
 60768,51839,Collaert,"Collaert, Jan III",,Preferred Name
@@ -22922,5 +22923,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61082,52092,Adolfsz.,"Adolfsz., Harmen",,Preferred Name
 61095,52104,Fossier,Fossier,,Preferred Name
 61096,52105,Buldet,"Buldet, Denis Charles",,Preferred Name
-61098,49754,,,,Full Name
-61100,52107,Steidlin,"Steidlin, Johann Matthias",,Preferred Name
+61132,52139,van Schurman,"Schurman, Anna Maria van",,Preferred Name
