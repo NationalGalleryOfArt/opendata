@@ -7936,9 +7936,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8431,8438,,Galerie Paul Cassirer,,Preferred Name
 8455,8462,,French & Company LLC,,Preferred Name
 8485,8492,,"Böhler, Julius",,Preferred Name
+61115,52122,Smith,"Smith, John Thomas",,Preferred Name
 8513,8520,Howard,"Howard, 9th Earl of Carlisle, George",,Preferred Name
 8540,8547,Liechtenstein,"Liechtenstein,  Prince Franz Josef II of",,Preferred Name
-61115,52122,Smith,"Smith, John Thomas",,Preferred Name
+61130,52137,Lesire,"Lesire, Paulus",,Preferred Name
 8744,8751,McLean,"McLean, Thomas",,Preferred Name
 8753,8760,Greville,"Greville, Charles Francis",,Preferred Name
 8843,8850,,"Metropolitan Museum of Art, The",,Preferred Name
@@ -10118,7 +10119,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22365,22372,Blume,"Blume, Peter",,Preferred Name
 22366,22373,Rammellzee,Rammellzee,,Preferred Name
 22367,22374,Lee,"Lee, Li Lin",,Preferred Name
-61130,52137,Lesire,"Lesire, Paulus",,Preferred Name
 22368,22375,Moskowitz,"Moskowitz, Robert",,Preferred Name
 22371,22378,Somberg,"Somberg, Eric and Ellen",,Preferred Name
 22372,22379,Miller,"Miller, Rowland and Eleanor",,Preferred Name
@@ -12289,7 +12289,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 31563,31570,Hémery,"Hémery, Louise Rosalie",,Preferred Name
 31576,31583,Coëffin,"Coëffin, Josette Hébert",,Preferred Name
 31577,31584,Luchs,"Luchs, Alison",,Preferred Name
-33513,4769,Franck,"Franck, Hans",,Variant
+33514,4783,Master PM,Master PM,,Variant
 31593,31600,Bareggi,"Bareggi, Silvana",,Preferred Name
 31594,31601,Hentschel,"Hentschel, Carl",,Preferred Name
 31596,31603,Kautsch,"Kautsch, Heinrich",,Preferred Name
@@ -12456,7 +12456,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 31877,253,Eichholz,"Eichholz, Robert B. and Merci",,Variant
 31878,255,Endicott,"Endicott, Louise Thoron",,Variant
 31879,258,Ernst,"Ernst, Dorothea Tanning",,Variant
-33514,4783,Master PM,Master PM,,Variant
+33617,5198,Paine,"Paine, Jean",,Variant
 31880,259,Eyerly,"Eyerly, Frank R. and Jeannette",,Variant
 31881,260,Fahnestock,"Fahnestock, Beatrice Beck",,Variant
 31882,263,Feininger,"Feininger, Julia",,Variant
@@ -12904,7 +12904,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32334,1349,van Gogh,"van Gogh, Vincent",,Variant
 32335,1351,Adoian,"Adoian, Vosdanik Manook",,Full Name
 32336,1352,Mabuse,"Mabuse, Jan",,Variant
-32337,1353,Goya y Lucientes,"Goya y Lucientes, Francisco Jose de",,Variant
+32337,1353,Goya y Lucientes,"Goya y Lucientes, Francisco de",,Variant
 32338,1354,van Goyen,"van Goyen, Jan",,Variant Index Name
 32339,1355,Benozzo di Lese,Benozzo di Lese,,Variant
 32340,1355,Lese,"Lese, Benozzo di",,Variant Index Name
@@ -13419,7 +13419,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32891,2419,Carducho,"Carducho, Vicente",,Variant
 32892,2424,Casolani,"Casolani, Alessandro di Agostino",,Variant
 32893,2424,Torre,"Torre, Alessandro della",,Variant
-33617,5198,Paine,"Paine, Jean",,Variant
 32894,2425,Castelli,"Castelli, Bernardo",,Variant
 32895,2426,Grechetto,"Grechetto, il",,Variant
 32896,2428,Arpino,"Arpino, Cavaliere d'",,Variant
@@ -14006,6 +14005,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33510,4761,Maler,"Maler, Ludwig",,Variant
 33511,4767,Lutma II,"Lutma II, Johannes",,Variant
 33512,4769,Leuczellburger,"Leuczellburger, Hans",,Variant
+33513,4769,Franck,"Franck, Hans",,Variant
 33515,4787,Maillet,"Maillet, Jean Joseph",,Variant
 33516,4789,Meisch,"Meisch, Georg M.",,Variant
 33517,4795,Malbete,"Malbete, Georges",,Variant
@@ -18093,7 +18093,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44887,5791,Lobdell,"Lobdell, Frank Irving",,Full Name
 44889,38247,Thornley,"Thornley, Georges William",,Preferred Name
 44890,38248,Ganière,"Ganière, Jean",,Preferred Name
-60765,51836,Bellerus,"Bellerus, Balthazar",,Preferred Name
 44896,38253,Chamant,"Chamant, Jean-Joseph",,Preferred Name
 44897,31127,,The Ratjen Foundation,,Variant Index Name
 44898,38254,Martini,"Martini, Rosso Antonio",,Preferred Name
@@ -22850,6 +22849,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60751,51828,Minter,"Minter, Joe",,Preferred Name
 60757,12034,Gagosian,"Gagosian, Larry",,Variant
 60758,10095,,"David McKee, Inc.",,Variant
+60765,51836,Bellerus,"Bellerus, Balthazar",,Preferred Name
 60766,51837,van Keerbergen,"van Keerbergen, Jan",,Preferred Name
 60767,51838,Verdussen,"Verdussen, Hieronymus",,Preferred Name
 60768,51839,Collaert,"Collaert, Jan III",,Preferred Name
@@ -22924,3 +22924,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61063,52077,Legrain,"Legrain, Jacques Anthoine",,Preferred Name
 61082,52092,Adolfsz.,"Adolfsz., Harmen",,Preferred Name
 61095,52104,Fossier,Fossier,,Preferred Name
+61141,1353,de Goya y Lucientes,"de Goya y Lucientes, Francisco Jose de",,Variant
