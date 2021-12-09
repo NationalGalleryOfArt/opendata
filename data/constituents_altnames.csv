@@ -1109,7 +1109,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1203,1210,David,"David, Charles",,Preferred Name
 1204,1211,David,"David, Gerard",,Preferred Name
 1205,1212,David,"David, Jacques-Louis",,Preferred Name
-54821,18763,,Lelong Éditions,,Variant
 1206,1213,Davies,"Davies, Arthur B.",,Preferred Name
 1207,1214,Davis,"Davis, Gene",,Preferred Name
 1208,1215,Manning,"Manning, Robert L., Mr. and Mrs.",,Preferred Name
@@ -1203,7 +1202,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
-56375,2744,Shaw,"Shaw, Joseph",,Variant
+56875,49002,,"KMF, Inc.",,Variant
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1299,6 +1298,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1399,1406,Hultberg,"Hultberg, John",,Preferred Name
 1400,1407,Humphreys,"Humphreys, Charles S.",,Preferred Name
 1401,1408,Huntington,"Huntington, Daniel",,Preferred Name
+57645,1554,,Impressions Gallery,,Variant
 1402,1409,Huysum,"Huysum, Jan van",,Preferred Name
 1403,1410,Ingham,"Ingham, Charles Cromwell",,Preferred Name
 1404,1411,Ingres,"Ingres, Jean-Auguste-Dominique",,Preferred Name
@@ -1489,6 +1489,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
+57819,47565,,Documenta,,Variant
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -1772,7 +1773,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1894,1901,Steen,"Steen, Jan",,Preferred Name
 1895,1902,Steinlen,"Steinlen, Théophile Alexandre",,Preferred Name
 1896,1903,Stella,"Stella, Frank",,Preferred Name
-56875,49002,,"KMF, Inc.",,Variant
+61043,52060,Marcus,"Marcus, Peter E.",,Variant
 1897,1904,Stephens,"Stephens, Thomas E.",,Preferred Name
 1898,1905,Stevens,"Stevens, Alfred",,Preferred Name
 1899,1906,Stock,"Stock, Joseph Whiting",,Preferred Name
@@ -2540,7 +2541,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2692,2699,Prusher,"Prusher, Horace J. ?",,Preferred Name
 2693,2700,Puget,"Puget, Pierre",,Preferred Name
 2694,2701,Quarenghi,"Quarenghi, Giacomo",,Preferred Name
-57645,1554,,Impressions Gallery,,Variant
+61051,7440,De Zon,"De Zon, Sylvia",,Variant
 2695,2702,Quast,"Quast, Pieter Jansz",,Preferred Name
 2696,2703,Radziwill,"Radziwill, Franz",,Preferred Name
 2697,2704,Reder,"Reder, Bernard",,Preferred Name
@@ -2827,7 +2828,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2995,3002,Schutz,"Schutz, Franz",,Preferred Name
 2996,3003,Schütz,"Schütz, Carl",,Preferred Name
 2997,3004,Schutz-Wolff,"Schutz-Wolff, Johanna",,Preferred Name
-57819,47565,,Documenta,,Variant
 2998,3005,Schwartz,"Schwartz, Aubrey",,Preferred Name
 2999,3006,Scolari,"Scolari, Giuseppe",,Preferred Name
 3000,3007,Scordia,"Scordia, Antonio",,Preferred Name
@@ -14474,6 +14474,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34027,8285,Anonymous Italian 12th Century,Anonymous Italian 12th Century,,Variant
 34028,8286,Anonymous Italian 13th Century,Anonymous Italian 13th Century,,Variant
 34029,8287,Anonymous Italian 14th Century,Anonymous Italian 14th Century,,Variant
+61053,52068,Armano,"Armano, Giovanni Antonio",,Preferred Name
 34030,8288,Anonymous Verona 14th Century,Anonymous Verona 14th Century,,Variant
 34031,8289,Anonymous Venetian 14th Century,Anonymous Venetian 14th Century,,Variant
 34033,8291,Anonymous Pisan 14th Century,Anonymous Pisan 14th Century,,Variant
@@ -19588,6 +19589,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54133,47091,Hu,"Hu, Qin Yun",,Preferred Name
 54138,47095,Shechet,"Shechet, Arlene",,Preferred Name
 54142,47099,Hadzi,"Hadzi, Cynthia",,Preferred Name
+54821,18763,,Lelong Éditions,,Variant
 54147,47104,Soprani,"Soprani, Raffaele",,Preferred Name
 54148,30397,,The Weyhe Gallery,,Variant
 54149,1528,Rubenstein,"Rubenstein, Trina and Lee G.",,Variant
@@ -20131,6 +20133,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55402,47992,Gottheim,"Gottheim, Larry",,Preferred Name
 55404,47994,de Haas,"de Haas, Mauritz Frederick Hendrick",,Preferred Name
 55405,47994,de Haas,"de Haas, M. F. H.",,Variant
+56375,2744,Shaw,"Shaw, Joseph",,Variant
 55406,48006,,"Society of American Etchers, Gravers, Lithographers, and Woodcutters",,Variant
 55409,47998,,Print Club of Rochester,,Preferred Name
 55410,47999,,Piallat,,Preferred Name
@@ -22770,6 +22773,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60321,1689,Fini,"Fini, Tommaso di Cristoforo",,Full Name
 60331,20770,Cumming,"Cumming, Annette P.",,Spouse
 60336,23136,,,,Variant
+60337,51518,,Benjamin Peronnet,,Preferred Name
+60338,51519,Malombra,"Malombra, Pietro",,Preferred Name
 60341,2737,Schuffenecker,"Schuffenecker, Claude Emile",,Full Name
 60348,1909,Striegel,"Striegel, Bernhard",,Variant
 60356,592,,,,Variant
@@ -22907,9 +22912,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61032,52051,Aertssens,"Aertssens, Hendrik",,Preferred Name
 61039,3471,Zündt,Matthias Zündt,,Variant
 61042,52060,Marcus,"Marcus, Peter",,Preferred Name
-61043,52060,Marcus,"Marcus, Peter E.",,Variant
-61051,7440,De Zon,"De Zon, Sylvia",,Variant
-61053,52068,Armano,"Armano, Giovanni Antonio",,Preferred Name
 61056,52071,Inig,"Inig, Ludovico",,Preferred Name
 61063,52077,Legrain,"Legrain, Jacques Anthoine",,Preferred Name
 61082,52092,Adolfsz.,"Adolfsz., Harmen",,Preferred Name
