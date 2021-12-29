@@ -16,8 +16,6 @@ locationid,site,room,publicaccess,description,unitposition
 3683,East Building,EC-028,1,"East Bldg, Concourse Gallery Lobby",S
 3684,East Building,EC-028,1,"East Bldg, Concourse Gallery Lobby",W
 3809,East Building,EG-100,1,"East Bldg, Central Atrium",
-3810,East Building,EG-100,1,"East Bldg, Central Atrium",E
-3811,East Building,EG-100,1,"East Bldg, Central Atrium",N
 3812,East Building,EG-100,1,"East Bldg, Central Atrium",S
 3813,East Building,EG-100,1,"East Bldg, Central Atrium",W
 3814,East Building,EG-101,1,"East Bldg, Entrance Lobby",
@@ -82,7 +80,6 @@ locationid,site,room,publicaccess,description,unitposition
 4270,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",S
 4271,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",W
 4277,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",
-5607,West Building,G-015,1,West Ground Floor Gallery 15,N
 4278,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",E
 4279,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",N
 4280,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",S
@@ -170,6 +167,7 @@ locationid,site,room,publicaccess,description,unitposition
 4788,West Building,G-014,1,West Ground Floor Gallery 14,W
 5605,West Building,G-015,1,West Ground Floor Gallery 15,
 5606,West Building,G-015,1,West Ground Floor Gallery 15,E
+5607,West Building,G-015,1,West Ground Floor Gallery 15,N
 5608,West Building,G-015,1,West Ground Floor Gallery 15,S
 5609,West Building,G-015,1,West Ground Floor Gallery 15,W
 5610,West Building,G-016,1,West Ground Floor Gallery 16,
@@ -848,7 +846,6 @@ locationid,site,room,publicaccess,description,unitposition
 9667,West Building,G-033,1,West Ground Floor Gallery 33,CENTER
 9686,East Building,EG-101,1,"East Bldg, Entrance Lobby",FLOOR
 9713,West Building,G-023,1,West Ground Floor Gallery 23,CENTER
-9725,East Building,EG-100,1,"East Bldg, Central Atrium, South Ledge",SOUTH LEDGE
 9726,West Building,G-044,1,"West Bldg Garden Cafe, Center Fountain",CENTER FOUNTAIN
 9749,East Building,EM-214-A,1,"East Bldg, Mezz Gal 214A (Pod 2)",CENTER
 9752,West Building,G-003,1,West Ground Floor Gallery 3,CENTER
