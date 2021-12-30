@@ -1202,7 +1202,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
-60948,51984,Feldman,"Feldman, Kaywin",,Preferred Name
+60943,28976,Walker,"Walker, Rock J.",,Variant
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1488,7 +1488,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
-60949,51985,Grossman,"Grossman, Beverly",,Preferred Name
+60948,51984,Feldman,"Feldman, Kaywin",,Preferred Name
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -7903,7 +7903,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8333,8340,Netherlandish 14th Century,Netherlandish 14th Century,,Preferred Name
 8334,8341,Netherlandish 15th Century,Netherlandish 15th Century,,Preferred Name
 8335,8342,Netherlandish 15th Century,Anonymous Netherlandish,,Preferred Name
-60951,51987,MacMillan,"MacMillan, Nivan",,Preferred Name
+60949,51985,Grossman,"Grossman, Beverly",,Preferred Name
 8336,8343,Franco-Flemish 15th Century,Franco-Flemish 15th Century,,Preferred Name
 8337,8344,North Netherlandish 15th Century,North Netherlandish 15th Century,,Preferred Name
 8338,8345,South Netherlandish 15th Century,South Netherlandish 15th Century,,Preferred Name
@@ -9702,6 +9702,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 20460,20467,Vollmer,"Vollmer, Ruth",,Preferred Name
 20461,20468,Lucero,"Lucero, Michael",,Preferred Name
 20465,20472,Hutchinson,"Hutchinson, Peter",,Preferred Name
+20466,20473,Myers,"Myers, Forrest",,Preferred Name
 20468,20475,Levine,"Levine, Jill",,Preferred Name
 20477,20484,Feeley,"Feeley, Paul",,Preferred Name
 20486,20493,Lobe,"Lobe, Robert",,Preferred Name
@@ -12934,6 +12935,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32368,1439,Koumoundouros,"Koumoundouros, Vasileios Konstantinou",,Full Name
 32369,1441,Couwenbergh,"Couwenbergh, Philip van",,Variant
 32370,1441,Kouwenberg,"Kouwenberg, Philips van",,Variant
+60951,51987,MacMillan,"MacMillan, Nivan",,Preferred Name
 32371,1448,La Fresnaye,"La Fresnaye, Roger-Noel-Francois de",,Variant
 32372,1455,Linde,"Linde, Frankye",,Variant
 32373,1456,Lane,"Lane, Fitz Hugh",,Variant
@@ -22896,6 +22898,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60776,51190,,,,Full Name
 60779,4922,Monogrammist S,Monogrammist S,,Variant
 60780,51844,Mondo,"Mondo, Domenico",,Preferred Name
+60781,51845,Waldhauer,"Waldhauer, Ann",,Preferred Name
 60782,8760,Greville,,,Variant
 60783,1353,Goya,"Goya, Francisco de",,Variant Index Name
 60785,51847,,"Atelier Crommelynck, Paris",,Preferred Name
@@ -22930,7 +22933,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60931,50695,Linza,"Linza, Nicola Giacomo Aluigi Giuseppe",,Full Name
 60932,50695,Linza,"Linza, James",,Nickname/Pseudonym
 60940,880,,David Smith Legacy 2020 LLC,,Variant
-60943,28976,Walker,"Walker, Rock J.",,Variant
 60963,2887,Allais-Briceau,"Allais-Briceau, Angélique",,Variant
 60972,52007,Lugg,"Lugg, Andrew",,Preferred Name
 60996,52027,,Calcographia Gastaldi,,Preferred Name
