@@ -5161,7 +5161,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 5445,5452,Say,"Say, William",,Preferred Name
 5446,5453,Scanavino,"Scanavino, Emilio",,Preferred Name
 5447,5454,Schagen,"Schagen, Gerrit van",,Preferred Name
-5448,5455,Schall,"Schall, Jean Frederic",,Preferred Name
+5448,5455,Schall,"Schall, Jean-Frédéric",,Preferred Name
 5449,5456,Schanker,"Schanker, Louis",,Preferred Name
 5450,5457,Schapiro,"Schapiro, Miriam",,Preferred Name
 5451,5458,Schatz,"Schatz, Otto Rudolf",,Preferred Name
@@ -22840,6 +22840,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60477,51630,Zhen,"Zhen, Chen",,Preferred Name
 60478,51628,Mwangi,"Mwangi, Ingrid",,Variant
 60479,51628,Hutter,"Hutter, Robert",,Variant
+60487,51632,Goodman,"Goodman, Dane",,Preferred Name
 60495,51639,,LIGHT Gallery,,Preferred Name
 60496,51640,,J-L Ormond Holdings Limited,,Preferred Name
 60515,51657,Russian 18th Century,Russian 18th Century,,Preferred Name
@@ -22936,6 +22937,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60940,880,,David Smith Legacy 2020 LLC,,Variant
 60963,2887,Allais-Briceau,"Allais-Briceau, Angélique",,Variant
 60972,52007,Lugg,"Lugg, Andrew",,Preferred Name
+60980,52015,Kong,"Kong, Ellen",,Preferred Name
+60981,52016,Martinez,"Martinez, Eddie",,Preferred Name
 60996,52027,,Calcographia Gastaldi,,Preferred Name
 60997,51270,,,,Full Name
 60999,51245,,,,Full Name
@@ -22980,3 +22983,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61156,52161,Walker,"Walker, Darren",,Preferred Name
 61167,46388,,,,Variant
 61169,30461,,,,Full Name
+61176,52015,Kong Yee Ching,,,Variant Index Name
+61177,52177,Hutin,"Hutin, Pierre",,Preferred Name
+61178,52178,Bonnisseau,"Bonnisseau, F.",,Preferred Name
+61179,4751,,,,Variant

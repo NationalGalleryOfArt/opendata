@@ -5168,7 +5168,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 5452,500025369,"Say, William",William Say,Say,"British, 1768 - 1834",1,1768,1834,1751 to 1775,British,British,individual
 5453,500002004,"Scanavino, Emilio",Emilio Scanavino,Scanavino,"Italian, born 1922",1,1922,,1901 to 1925,Italian,Italian,individual
 5454,,"Schagen, Gerrit van",Gerrit van Schagen,Schagen,"Dutch, c. 1642 - 1690 or after",1,1642,1690,1601 to 1650,Dutch,Dutch,individual
-5455,,"Schall, Jean Frederic",Jean Frederic Schall,Schall,"French, 1752 - 1825",1,1752,1825,1751 to 1775,French,French,individual
+5455,,"Schall, Jean-Frédéric",Jean-Frédéric Schall,Schall,"French, 1752 - 1825",1,1752,1825,1751 to 1775,French,French,individual
 5456,500041072,"Schanker, Louis",Louis Schanker,Schanker,"American, 1903 - 1981",1,1903,1981,1901 to 1925,American,American,individual
 5457,500028006,"Schapiro, Miriam",Miriam Schapiro,Schapiro,"American, 1923 - 2015",1,1923,2015,1901 to 1925,American,American,individual
 5458,500170000,"Schatz, Otto Rudolf",Otto Rudolf Schatz,Schatz,"Austrian, born 1900",1,1900,2000,1876 to 1900,Austrian,Austrian,individual
@@ -17950,6 +17950,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50979,,Maurel Studio,Maurel Studio,,,1,,,,,Other,corporate
 50980,,Academic and Professional Action Committee for a Responsible Congress,The Academic and Professional Action Committee for a Responsible Congress,,,1,,,,,Other,corporate
 50997,500233881,College Art Association,College Art Association,,,1,,,,American,American,corporate
+51721,,Fort Gansevoort New York,Fort Gansevoort New York,,,0,,,,,Other,corporate
 50998,,Mantegna Press,Mantegna Press,,,1,,,,,Other,corporate
 50999,500475294,ACT UP,ACT UP,,,1,,,,American,American,corporate
 51000,,"Deagle, Richard",Richard Deagle,Deagle,"American, born 1952",1,1952,,1951 to 1975,American,American,individual
@@ -18177,6 +18178,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51627,,"Eliav, Oren",Oren Eliav,Eliav,"Israeli, born 1975",1,1975,,1951 to 1975,Israeli,Other,individual
 51629,500122995,"De Bruyckere, Berlinde",Berlinde De Bruyckere,De Bruyckere,"Belgian, born 1964",1,1964,,1951 to 1975,Belgian,Belgian,individual
 51630,,"Zhen, Chen",Chen Zhen,Zhen,"Chinese, 1955 - 2000",1,1955,2000,1951 to 1975,Chinese,Chinese,individual
+51632,,"Goodman, Dane",Dane Goodman,Goodman,,0,,,,American,American,individual
 51639,,LIGHT Gallery,LIGHT Gallery,,,1,1971,1987,1951 to 1975,,Other,corporate
 51640,,J-L Ormond Holdings Limited,J-L Ormond Holdings Limited,,,0,,,,,Other,corporate
 51657,,Russian 18th Century,Russian 18th Century,Russian 18th Century,,1,1700,1799,1651 to 1700,Russian,Russian,anonymous
@@ -18184,7 +18186,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51692,,"Frellon, Jean",Jean Frellon,Frellon,"French, died 1570",1,,1570,,French,French,individual
 51693,,"Frellon, François",François Frellon,Frellon,"French, died 1546",1,,1546,,French,French,individual
 51705,,Master NH,Master NH,Master NH,German,1,,,,German,German,individual
-51721,,Fort Gansevoort New York,Fort Gansevoort New York,,,0,,,,,Other,corporate
 51722,,"Myers, Christopher",Christopher Myers,Myers,"American, born 1974",1,1974,,1951 to 1975,American,American,individual
 51728,,"Calder, Alexander Stirling",Alexander Stirling Calder,Calder,"American, 1870 - 1945",1,1870,1945,1851 to 1875,American,American,individual
 51733,,"Gilbert, Olivier",Olivier Gilbert,Gilbert,French,0,,,,French,French,individual
@@ -18220,6 +18221,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51987,,"MacMillan, Nivan",Nivan MacMillan,MacMillan,,0,,,,,Other,purchase_fund
 51988,,"Morgan, Shiela",Shiela Morgan,Morgan,,0,,,,,Other,purchase_fund
 52007,,"Lugg, Andrew",Andrew Lugg,Lugg,,0,,,,,Other,individual
+52015,,"Kong, Ellen",Ellen Kong,Kong,,0,,,,,Other,individual
+52016,,"Martinez, Eddie",Eddie Martinez,Martinez,"American, born 1977",1,1977,,1976 to 2000,American,American,individual
 52027,,Calcographia Gastaldi,Calcographia Gastaldi,,"⁮Italian, 19th century",1,1800,1900,1776 to 1800,⁮Italian,⁮Italian,corporate
 52036,,Vielmetter Los Angeles,Vielmetter Los Angeles,,,0,,,,,Other,corporate
 52037,,"Lierres, Etienne de",Etienne de Lierres,Lierres,French,1,,,,French,French,individual
@@ -18245,3 +18248,5 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52159,,Silicon Valley Community Foundation,Silicon Valley Community Foundation,,,0,,,,,Other,corporate
 52160,,"Nooyi, Raj and Indra",Raj and Indra Nooyi,Nooyi,,0,,,,,Other,couple
 52161,,"Walker, Darren",Darren Walker,Walker,,0,,,,,Other,individual
+52177,,"Hutin, Pierre",Pierre Hutin,Hutin,"French, 1720 - 1763",1,1720,1763,1701 to 1725,French,French,individual
+52178,,"Bonnisseau, F.",F. Bonnisseau,Bonnisseau,"French, active 19th century",1,1800,1900,1776 to 1800,French,French,individual
