@@ -1202,7 +1202,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
-60943,28976,Walker,"Walker, Rock J.",,Variant
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1488,7 +1487,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
-60948,51984,Feldman,"Feldman, Kaywin",,Preferred Name
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -1772,7 +1770,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1894,1901,Steen,"Steen, Jan",,Preferred Name
 1895,1902,Steinlen,"Steinlen, Théophile Alexandre",,Preferred Name
 1896,1903,Stella,"Stella, Frank",,Preferred Name
-60950,51986,Lilly,"Lilly, David",,Preferred Name
 1897,1904,Stephens,"Stephens, Thomas E.",,Preferred Name
 1898,1905,Stevens,"Stevens, Alfred",,Preferred Name
 1899,1906,Stock,"Stock, Joseph Whiting",,Preferred Name
@@ -2923,7 +2920,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3097,3104,Soper,"Soper, George",,Preferred Name
 3098,3105,Sorel,"Sorel, Agatha",,Preferred Name
 3099,3106,Sorini,"Sorini, Emiliano",,Preferred Name
-60952,51988,Morgan,"Morgan, Shiela",,Preferred Name
 3100,3107,Sornique,"Sornique, Dominique",,Preferred Name
 3101,3108,Soumy,"Soumy, Joseph",,Preferred Name
 3102,3109,Spacal,"Spacal, Lojze",,Preferred Name
@@ -7903,7 +7899,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8333,8340,Netherlandish 14th Century,Netherlandish 14th Century,,Preferred Name
 8334,8341,Netherlandish 15th Century,Netherlandish 15th Century,,Preferred Name
 8335,8342,Netherlandish 15th Century,Anonymous Netherlandish,,Preferred Name
-60949,51985,Grossman,"Grossman, Beverly",,Preferred Name
 8336,8343,Franco-Flemish 15th Century,Franco-Flemish 15th Century,,Preferred Name
 8337,8344,North Netherlandish 15th Century,North Netherlandish 15th Century,,Preferred Name
 8338,8345,South Netherlandish 15th Century,South Netherlandish 15th Century,,Preferred Name
@@ -12935,7 +12930,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32368,1439,Koumoundouros,"Koumoundouros, Vasileios Konstantinou",,Full Name
 32369,1441,Couwenbergh,"Couwenbergh, Philip van",,Variant
 32370,1441,Kouwenberg,"Kouwenberg, Philips van",,Variant
-60951,51987,MacMillan,"MacMillan, Nivan",,Preferred Name
 32371,1448,La Fresnaye,"La Fresnaye, Roger-Noel-Francois de",,Variant
 32372,1455,Linde,"Linde, Frankye",,Variant
 32373,1456,Lane,"Lane, Fitz Hugh",,Variant
@@ -15413,7 +15407,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38981,33178,Benno,"Benno, Benjamin",,Preferred Name
 38982,33179,Bentley,"Bentley, John T.",,Preferred Name
 38983,33180,Bergmann,"Bergmann, Franz",,Preferred Name
-38984,33181,Berkman-Hunter,"Berkman-Hunter, Bernice",,Preferred Name
+38984,33181,Berkman-Hunter,"Berkman-Hunter, Bernece",,Preferred Name
 38985,33182,Berman,"Berman, Eugene",,Preferred Name
 38986,33183,Berman,"Berman, Sarah",,Preferred Name
 38987,33184,Berman,"Berman, Saul",,Preferred Name
@@ -22935,6 +22929,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60931,50695,Linza,"Linza, Nicola Giacomo Aluigi Giuseppe",,Full Name
 60932,50695,Linza,"Linza, James",,Nickname/Pseudonym
 60940,880,,David Smith Legacy 2020 LLC,,Variant
+60943,28976,Walker,"Walker, Rock J.",,Variant
+60948,51984,Feldman,"Feldman, Kaywin",,Preferred Name
+60949,51985,Grossman,"Grossman, Beverly",,Preferred Name
+60950,51986,Lilly,"Lilly, David",,Preferred Name
+60951,51987,MacMillan,"MacMillan, Nivan",,Preferred Name
+60952,51988,Morgan,"Morgan, Shiela",,Preferred Name
 60963,2887,Allais-Briceau,"Allais-Briceau, Angélique",,Variant
 60972,52007,Lugg,"Lugg, Andrew",,Preferred Name
 60980,52015,Kong,"Kong, Ellen",,Preferred Name
