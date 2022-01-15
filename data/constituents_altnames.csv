@@ -15743,7 +15743,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39336,33533,Hatchett,"Hatchett, Dwayne W.",,Preferred Name
 39337,33534,Haupers,"Haupers, Clement",,Preferred Name
 39338,33535,Havens,"Havens, Leonard M.",,Preferred Name
-56083,34127,Seeds,"Seeds, Elise",,Variant
 39339,33536,Hawkins,"Hawkins, Basil",,Preferred Name
 39340,33537,Haydon,"Haydon, Harold",,Preferred Name
 39341,33538,Heaslip,"Heaslip, William",,Preferred Name
@@ -16524,7 +16523,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40203,34366,Caffi,"Caffi, Ippolito",,Preferred Name
 40213,34369,Huber,"Huber, Michel",,Preferred Name
 40214,34370,Alix,"Alix, François",,Preferred Name
-59948,51243,Allen,,,Variant
 40215,34371,Lépine,"Lépine, C.",,Preferred Name
 40216,34372,Texier,"Texier, G.",,Preferred Name
 40220,34376,Viguet,Viguet,,Preferred Name
@@ -16609,6 +16607,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40380,9714,ter Brugghen,"ter Brugghen, Hendrick",,Variant Index Name
 40381,9714,Brugghen,"Brugghen, Hendrick Jansz. ter",,Variant
 40382,10792,,Bernheimer Fine Old Masters,,Variant
+55113,47768,Moore,"Moore, A.D.",,Variant
 40391,34520,Tuttle,"Tuttle, Virginia Grace",,Preferred Name
 40392,34521,Passer,"Passer, Patricia H.",,Preferred Name
 40393,34522,,Imogen Cunningham Trust,,Preferred Name
@@ -17732,6 +17731,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44047,37560,Grubicy,"Grubicy, Vittore",,Preferred Name
 44048,37561,Agazzi,"Agazzi, Carlo Paolo",,Preferred Name
 44050,2120,di Balduccio,"di Balduccio, Giovanni",,Variant
+59525,48204,,New York Print Club,,Variant
 44051,2120,Balduccio,"Balduccio, Giovanni di",,Variant
 44053,37564,Bosshart,"Bosshart, Jacob",,Preferred Name
 44054,37565,Knoblauch,"Knoblauch, Adolph",,Preferred Name
@@ -17998,6 +17998,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44706,38104,Lloyd,"Lloyd, Evan",,Preferred Name
 44707,38105,Mayer-Meintschel,"Mayer-Meintschel, Annaliese Dr.",,Preferred Name
 44708,38106,Hassebrauk,"Hassebrauk, Ernst",,Preferred Name
+59526,33276,Carter,,,Variant
 44712,38109,,Verlag Schellmann & Klüser,,Preferred Name
 44713,3903,De Maria,"De Maria, Walter",,Variant Index Name
 44716,38112,Delmaet,"Delmaet, Hyacinthe César",,Preferred Name
@@ -18482,6 +18483,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 46372,39581,Hale,"Hale, Philip Leslie",,Preferred Name
 46377,39586,Heidenreich,"Heidenreich, Carl",,Preferred Name
 46382,39591,Murdoch,"Murdoch, Dora Louise",,Preferred Name
+59943,51239,Schutz,"Schutz, Bob",,Variant
 46386,39595,Horowitz,"Horowitz, Leonard",,Preferred Name
 46388,39597,Hudson,"Hudson, Andrew",,Preferred Name
 46391,39600,Irvine,"Irvine, Wilson",,Preferred Name
@@ -18663,6 +18665,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 47138,40347,Newell,"Newell, John Perry",,Preferred Name
 47141,40350,Goldberg,"Goldberg, Jim",,Preferred Name
 47142,40351,Fuentes,"Fuentes, Marlon",,Preferred Name
+61195,17722,,,,Variant
 47155,40364,Goodman,"Goodman, Charles",,Preferred Name
 47173,40382,Edelson,"Edelson, Mary Beth",,Preferred Name
 47178,40387,Dilworth,"Dilworth, Robert",,Preferred Name
@@ -19949,7 +19952,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55110,47766,Masi,"Masi, William",,Preferred Name
 55111,47767,Michel,"Michel, Toby",,Preferred Name
 55112,47768,Moore,"Moore, Alvin Doyle",,Preferred Name
-55113,47768,Moore,"Moore, A.D.",,Variant
 55114,47769,Koehler,American Art Review,,Preferred Name
 55116,47771,Burns,"Burns, Ben",,Preferred Name
 55117,47772,Farrar,"Farrar, Joan",,Preferred Name
@@ -20651,6 +20653,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56080,48459,Buck,"Buck, Thomas Waldo",,Preferred Name
 56081,6526,Rodchenko,"Rodchenko, Aleksandr",,Preferred Name
 56082,34127,Welton,"Welton, Elise",,Variant
+56083,34127,Seeds,"Seeds, Elise",,Variant
 56084,34127,Armitage,"Armitage, Elise",,Variant
 56085,34127,Seeds,"Seeds, Elise Cavanna",,Variant
 56086,6526,Rodchenko,"Rodchenko, Alexander",,Variant
@@ -22430,8 +22433,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59522,3542,Bloch,"Bloch, Julius Thiengen",,Full Name
 59523,46786,Aldrin,"Aldrin, Anders Gustave",,Variant
 59524,33276,Carter,"Carter, Clarence Holbrook",,Full Name
-59525,48204,,New York Print Club,,Variant
-59526,33276,Carter,,,Variant
 59527,2910,Antreasian,"Antreasian, Garo Zareh",,Full Name
 59528,50958,Funk,"Funk, Joe",,Preferred Name
 59529,50959,Funck,"Funck, David",,Preferred Name
@@ -22651,11 +22652,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59938,51235,Detrick,"Detrick, Leonard",,Preferred Name
 59941,51238,Rollins,"Rollins, Byron H.",,Preferred Name
 59942,51239,Schutz,"Schutz, Robert H.",,Preferred Name
-59943,51239,Schutz,"Schutz, Bob",,Variant
 59944,51240,Harris,"Harris, Jacob",,Preferred Name
 59945,51241,Rice,"Rice, Jack",,Preferred Name
 59946,51242,Lippert,"Lippert, Orlando",,Preferred Name
 59947,51243,Allen,"Allen, William C.",,Preferred Name
+59948,51243,Allen,,,Variant
 59949,51244,,Lanfranco Workshop,,Preferred Name
 59950,51244,Lanfranco,"Lanfranco, Girolamo di",,Variant
 59951,51244,Gabicce,"Gabicce, Giacomo delle",,Variant
@@ -22994,4 +22995,3 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61178,52178,Bonnisseau,"Bonnisseau, F.",,Preferred Name
 61179,4751,,,,Variant
 61180,52018,Merck,,,Variant Index Name
-61195,17722,,,,Variant
