@@ -9206,7 +9206,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 16463,500115186,"Barnard, George N.",George N. Barnard,Barnard,"American, 1819 - 1902",1,1819,1902,1801 to 1825,American,American,individual
 16464,500104279,"Caithness, Earl of",Earl of Caithness,Caithness,"British, 1821 - 1881",1,1821,1881,1801 to 1825,British,British,individual
 16465,500040779,"Bool, Alfred H.",Alfred H. Bool,Bool,"British, 1844 - 1926",1,1844,1926,1826 to 1850,British,British,individual
-16466,500028115,"Alvarez Bravo, Manuel",Manuel Alvarez Bravo,Alvarez Bravo,"Mexican, 1902 - 2002",1,1902,2002,1901 to 1925,Mexican,Mexican,individual
+16466,500028115,"Álvarez Bravo, Manuel",Manuel Álvarez Bravo,Álvarez Bravo,"Mexican, 1902 - 2002",1,1902,2002,1901 to 1925,Mexican,Mexican,individual
 16467,500066295,"Cuvelier, Eugène",Eugène Cuvelier,Cuvelier,"French, 1837 - 1900",1,1837,1900,1826 to 1850,French,French,individual
 16468,500036985,"De Caranza, Ernest",Ernest De Caranza,De Caranza,"French, 1837 - 1863",1,1837,1863,1826 to 1850,French,French,individual
 16469,500005649,"Frith, Francis",Francis Frith,Frith,"British, 1822 - 1898",1,1822,1898,1801 to 1825,British,British,individual
@@ -11433,6 +11433,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27342,,"Magalhaes, Aloísio",Aloísio Magalhaes,Magalhaes,"Brazilian, 1927 - 1982",1,1927,1982,1926 to 1950,Brazilian,Other,individual
 27343,500320706,"Königer, Veit",Veit Königer,Königer,"German, 1729 - 1792",1,1729,1792,1726 to 1750,German,German,individual
 27344,500025520,"Füger, Friedrich Heinrich",Friedrich Heinrich Füger,Füger,"German, 1751 - 1818",1,1751,1818,1751 to 1775,German,German,individual
+27346,,"Elliott, Gerry, Mr.",Mr. Gerry Elliott,Elliott,,0,,,,,Other,individual
 27349,,"Orlofsky, Patsy, Ms.",Ms. Patsy Orlofsky,Orlofsky,,0,,,,,Other,individual
 27354,500030422,"Reiffenstein, Karl Theodor",Karl Theodor Reiffenstein,Reiffenstein,"German, 1820 - 1893",1,1820,1893,1801 to 1825,German,German,individual
 27366,500017394,"Steenwijk the Younger, Hendrick van",Hendrick van Steenwijk the Younger,Steenwijk the Younger,"Flemish, c. 1580 - 1649",1,1580,1649,1551 to 1600,Flemish,Flemish,individual
@@ -11539,6 +11540,11 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27795,,"Solomon, Dan and Mary",Dan and Mary Solomon,Solomon,,0,,,,,Other,couple
 27819,,"Daxer and Marschall Kunsthandels, GmbH","Daxer and Marschall Kunsthandels, GmbH",,,0,,,,,Other,corporate
 27820,500013497,"Borsato, Giuseppe",Giuseppe Borsato,Borsato,"Italian, 1770 - 1849",1,1770,1849,1751 to 1775,Italian,Italian,individual
+27898,,"Ellis, Salathiel",Salathiel Ellis,Ellis,"American, 1806 - after 1864",1,1806,1864,1801 to 1825,American,American,individual
+27899,,"Wright, Charles Cushing",Charles Cushing Wright,Wright,"American, 1796 - 1854",1,1796,1854,1776 to 1800,American,American,individual
+27900,500101248,"Hughes, Robert Ball",Robert Ball Hughes,Hughes,"American, 1806 - 1868",1,1806,1868,1801 to 1825,American,American,individual
+27901,,"Duggan, Paul Peter",Paul Peter Duggan,Duggan,"American, c. 1800 - 1861",1,1800,1861,1776 to 1800,American,American,individual
+27902,500010753,"Weenix, Jan",Jan Weenix,Weenix,"Dutch, 1642 - 1719",1,1642,1719,1601 to 1650,Dutch,Dutch,individual
 27834,500048310,"Reuter, Willem",Willem Reuter,Reuter,"Flemish, c. 1642 - 1681",1,1642,1681,1601 to 1650,Flemish,Flemish,individual
 27843,500016068,"Wandelaar, Jan",Jan Wandelaar,Wandelaar,"Dutch, 1690 - 1759",1,1690,1759,1651 to 1700,Dutch,Dutch,individual
 27850,,"Gagliardo, Bartolommeo",Bartolommeo Gagliardo,Gagliardo,"Genoese, 1555 - c. 1626",1,1555,1626,1551 to 1600,Italian,Italian,individual
@@ -11551,11 +11557,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27872,,"Newman, Jeffrey Hugh",Jeffrey Hugh Newman,Newman,,0,,,,,Other,individual
 27889,500006371,"Larsson, Carl",Carl Larsson,Larsson,"Swedish, 1853 - 1919",1,1853,1919,1851 to 1875,Swedish,Swedish,individual
 27890,500037256,"Gijón, Francisco Antonio",Francisco Antonio Gijón,Gijón,"Spanish, 1653 - after 1705",1,1653,1720,1651 to 1700,Spanish,Spanish,individual
-27898,,"Ellis, Salathiel",Salathiel Ellis,Ellis,"American, 1806 - after 1864",1,1806,1864,1801 to 1825,American,American,individual
-27899,,"Wright, Charles Cushing",Charles Cushing Wright,Wright,"American, 1796 - 1854",1,1796,1854,1776 to 1800,American,American,individual
-27900,500101248,"Hughes, Robert Ball",Robert Ball Hughes,Hughes,"American, 1806 - 1868",1,1806,1868,1801 to 1825,American,American,individual
-27901,,"Duggan, Paul Peter",Paul Peter Duggan,Duggan,"American, c. 1800 - 1861",1,1800,1861,1776 to 1800,American,American,individual
-27902,500010753,"Weenix, Jan",Jan Weenix,Weenix,"Dutch, 1642 - 1719",1,1642,1719,1601 to 1650,Dutch,Dutch,individual
 27947,500026683,"Brown, Bolton",Bolton Brown,Brown,"American, 1865 - 1936",1,1865,1936,1851 to 1875,American,American,individual
 27949,,Varin Frères,Varin Frères,,"French, active 1853 - 1897",1,1853,1897,1851 to 1875,French,French,corporate
 27958,,"Peters, Louis, Dr.",Dr. Louis Peters,Peters,,0,,,,,Other,individual
@@ -15868,6 +15869,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 46526,,"Gabriel, Ramon",Ramon Gabriel,Gabriel,"American, 1910 - 1987",1,1910,1987,1901 to 1925,American,American,individual
 46530,,"Martinet, Aaron",Aaron Martinet,Martinet,"French, 1762 - 1841",1,1762,1841,1751 to 1775,French,French,individual
 46540,500083681,"Green, Art",Art Green,Green,"American, born 1941",1,1941,,1926 to 1950,American,American,individual
+46541,,"Gubbiotti, Jason",Jason Gubbiotti,Gubbiotti,born 1975,1,1975,,1951 to 1975,,Other,individual
 46555,500093370,"Herms, George",George Herms,Herms,"American, born 1935",1,1935,,1926 to 1950,American,American,individual
 46560,,"McDonnell, David H.",David H. McDonnell,McDonnell,,0,,,,,Other,individual
 46562,500011522,"Rossi, Domenico de",Domenico de Rossi,Rossi,"Italian, 1627 - 1640",1,1627,1640,1601 to 1650,Italian,Italian,individual
@@ -18181,6 +18183,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51629,500122995,"De Bruyckere, Berlinde",Berlinde De Bruyckere,De Bruyckere,"Belgian, born 1964",1,1964,,1951 to 1975,Belgian,Belgian,individual
 51630,,"Zhen, Chen",Chen Zhen,Zhen,"Chinese, 1955 - 2000",1,1955,2000,1951 to 1975,Chinese,Chinese,individual
 51632,,"Goodman, Dane",Dane Goodman,Goodman,,0,,,,American,American,individual
+51636,,"Hess, Johann Franz  Adam",Johann Franz  Adam Hess,Hess,"Swiss, 1740 - 1814",1,1740,1814,1726 to 1750,Swiss,Swiss,individual
 51639,,LIGHT Gallery,LIGHT Gallery,,,1,1971,1987,1951 to 1975,,Other,corporate
 51640,,J-L Ormond Holdings Limited,J-L Ormond Holdings Limited,,,0,,,,,Other,corporate
 51657,,Russian 18th Century,Russian 18th Century,Russian 18th Century,,1,1700,1799,1651 to 1700,Russian,Russian,anonymous
@@ -18231,7 +18234,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52019,,"Pecis, Hilary",Hilary Pecis,Pecis,"American, born 1979",1,1979,,1976 to 2000,American,American,individual
 52027,,Calcographia Gastaldi,Calcographia Gastaldi,,"⁮Italian, 19th century",1,1800,1900,1776 to 1800,⁮Italian,⁮Italian,corporate
 52036,,Vielmetter Los Angeles,Vielmetter Los Angeles,,,0,,,,,Other,corporate
-52037,,"Lierres, Etienne de",Etienne de Lierres,Lierres,French,1,,,,French,French,individual
+52037,,"Lierres, Etienne de",Etienne de Lierres,Lierres,"French, active late 19th - early 20th century",1,1850,1950,1826 to 1850,French,French,individual
 52050,,"Plantin, Christophe",Christophe Plantin,Plantin,"Flemish, c.1520 - 1589",1,1520,1589,1501 to 1550,Flemish,Flemish,individual
 52051,,"Aertssens, Hendrik",Hendrik Aertssens,Aertssens,"Flemish, 1586 - 1658",1,1586,1658,1551 to 1600,Flemish,Flemish,individual
 52060,,"Marcus, Peter",Peter Marcus,Marcus,"American, born 1939",1,1939,,1926 to 1950,American,American,individual
