@@ -9219,7 +9219,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 16499,,"Tenison, Edward King",Edward King Tenison,Tenison,"Irish, 1805 - 1878",1,1805,1878,1801 to 1825,Irish,Other,individual
 16501,,"Vidal, Léon",Léon Vidal,Vidal,"French, 1833 - 1906",1,1833,1906,1826 to 1850,French,French,individual
 16502,500014550,"Winogrand, Garry",Garry Winogrand,Winogrand,"American, 1928 - 1984",1,1928,1984,1926 to 1950,American,American,individual
-16503,500037036,"Adams, Robert",Robert  Adams,Adams,"American, born 1937",1,1937,,1926 to 1950,American,American,individual
+16503,500037036,"Adams, Robert",Robert Adams,Adams,"American, born 1937",1,1937,,1926 to 1950,American,American,individual
 16504,500299815,"Dane, Bill",Bill Dane,Dane,"American, born 1938",1,1938,,1926 to 1950,American,American,individual
 16505,500019813,"Durandelle, Louis-Émile",Louis-Émile Durandelle,Durandelle,"French, 1839 - 1917",1,1839,1917,1826 to 1850,French,French,individual
 16506,500014767,"Edgerton, Harold Eugene",Harold Edgerton,Edgerton,"American, 1903 - 1990",1,1903,1990,1901 to 1925,American,American,individual
@@ -10873,7 +10873,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 24945,,"Malichová, Katerina",Katerina Malichová,Malichová,"Czech, born 1964",1,1964,,1951 to 1975,Czech,Czech,individual
 24946,,"Rezler, Ales",Ales Rezler,Rezler,"Czech, born 1964",1,1964,,1951 to 1975,Czech,Czech,individual
 24947,,"Vicar, Jan",Jan Vicar,Vicar,"Czech, born 1967",1,1967,,1951 to 1975,Czech,Czech,individual
-24950,500466422,"Long, Lois",Lois Long,Long,"American, born 1918",1,1918,,1901 to 1925,American,American,individual
+24950,500466422,"Long, Lois",Lois Long,Long,"American, 1918 - 2005",1,1918,2005,1901 to 1925,American,American,individual
 24953,,"Sindelová, Jana",Jana Sindelová,Sindelová,"Czech, born 1970",1,1970,,1951 to 1975,Czech,Czech,individual
 24954,,"Manojlín, Martin",Martin Manojlín,Manojlín,"Czech, born 1972",1,1972,,1951 to 1975,Czech,Czech,individual
 24955,,"Richtr, Pavel",Pavel Richtr,Richtr,"Czech, active second half 20th century",1,1950,2000,1926 to 1950,Czech,Czech,individual
@@ -12409,7 +12409,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 33071,,"Wicquefort, Abraham de",Abraham de Wicquefort,Wicquefort,"Dutch, 1606 - 1682",1,1606,1682,1601 to 1650,Dutch,Dutch,individual
 33073,,"Fendrick, Barbara",Barbara Fendrick,Fendrick,,0,,,,,Other,individual
 33077,,"Davis, Earl",Earl Davis,Davis,,0,,,,,Other,individual
-33080,,"Merrill, Ross",Ross Merrill,Merrill,"American, born 1943",1,1943,,1926 to 1950,American,American,individual
+33080,,"Merrill, Ross",Ross Merrill,Merrill,"American, 1943 - 2010",1,1943,2010,1926 to 1950,American,American,individual
 33081,,"Enden, Martin van den I",Martin van den Enden I,Enden,"Flemish, 1630 - 1654",1,1630,1654,1601 to 1650,Flemish,Flemish,individual
 33082,500090689,"Mayhew, Richard",Richard Mayhew,Mayhew,"American, born 1924",1,1924,,1901 to 1925,American,American,individual
 33083,,"Stein, Stephen G.",Stephen G. Stein,Stein,"",0,,,,,Other,individual
@@ -18229,6 +18229,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51952,,"Desains, Charles Porphyre Alexandre",Charles Porphyre Alexandre Desains,Desains,"French, 1789 - 1862",1,1789,1862,1776 to 1800,French,French,individual
 51953,,"Jackson, Elizabeth",Elizabeth Jackson,Jackson,,1,,,,British,British,individual
 51957,,"Sgantas, Judy Fairclough",Judy Fairclough Sgantas,Sgantas,,1,,,,,Other,individual
+51962,,"Levitt, Mark",Mark Levitt,Levitt,born 1947,1,1947,,1926 to 1950,,Other,individual
+51963,,"Levitt, Ellen Dorn",Ellen Dorn Levitt,Levitt,"American, 1947 - 2014",1,1947,2014,1926 to 1950,American,American,individual
 51969,,"Sullivan, Garrett and Colin",Garrett and Colin Sullivan,Sullivan,,0,,,,,Other,couple
 51974,,"Kernan, Nathan and Nicholas",Nathan and Nicholas Kernan,Kernan,,0,,,,,Other,couple
 51984,,"Feldman, Kaywin",Kaywin Feldman,Feldman,,0,,,,,Other,purchase_fund
@@ -18253,6 +18255,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52071,,"Inig, Ludovico",Ludovico Inig,Inig,"Italian, active late 18th century",1,1750,1800,1726 to 1750,Italian,Italian,individual
 52077,,"Legrain, Jacques Anthoine",Jacques Anthoine Legrain,Legrain,"French, 1907 - 1970",1,1907,1970,1901 to 1925,French,French,individual
 52092,,"Adolfsz., Harmen",Harmen Adolfsz.,Adolfsz.,"Dutch, active 1603 - 1622",1,1603,1622,1601 to 1650,Dutch,Dutch,individual
+52100,,"Clark, Nancy Rutter",Nancy Rutter Clark,Clark,,0,,,,,Other,individual
 52104,,Fossier,Fossier,Fossier,"French, active 1777",1,,,,French,French,individual
 52105,,"Buldet, Denis Charles",Denis Charles Buldet,Buldet,"French, died 1797",1,,1797,,French,French,individual
 52107,,"Steidlin, Johann Matthias",Johann Matthias Steidlin,Steidlin,"German, active 1730s",1,1730,1739,1726 to 1750,German,German,individual
@@ -18274,3 +18277,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52213,,The Spring Street Workshop,The Spring Street Workshop,,,1,,,,,Other,corporate
 52222,,Janus Press,Janus Press,,,1,,,,,Other,corporate
 52225,,"Miller-Brown, Andrew",Andrew Miller-Brown,Miller-Brown,American,1,,,,American,American,individual
+52229,,"Renard, Jean Augustin",Jean Augustin Renard,Renard,,1,1744,1807,1726 to 1750,French,French,individual
