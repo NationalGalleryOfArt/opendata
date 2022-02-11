@@ -6570,7 +6570,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 6896,500029449,"Angeli, Giuseppe",Giuseppe Angeli,Angeli,"Venetian, 1712 - 1798",1,1712,1798,1701 to 1725,Italian,Italian,individual
 6897,,Redpath,Redpath,Redpath,"American, active mid 19th century",1,1770,1910,1751 to 1775,American,American,individual
 6898,500043292,"Regnard, Valerien",Valerien Regnard,Regnard,"French, 17th century",1,1600,1699,1551 to 1600,French,French,individual
-6899,500244380,"Wesley, John",John Wesley,Wesley,"American, born 1928",1,1928,,1926 to 1950,American,American,individual
+6899,500244380,"Wesley, John",John Wesley,Wesley,"American, 1928 - 2022",1,1928,2022,1926 to 1950,American,American,individual
 6900,500023418,"Renouf, Edda",Edda Renouf,Renouf,"American, born 1943",1,1943,,1926 to 1950,American,American,individual
 6902,500026154,"Held, Al",Al Held,Held,"American, 1928 - 2005",1,1928,2005,1926 to 1950,American,American,individual
 6903,500025304,"Steir, Pat",Pat Steir,Steir,"American, born 1938",1,1938,,1926 to 1950,American,American,individual
@@ -11778,7 +11778,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 29431,,"Bibiena, Giovanni Carlo Galli",Giovanni Carlo Galli Bibiena,Bibiena,"Italian, died 1760",1,1717,1760,1701 to 1725,Italian,Italian,individual
 29445,,Robert Frew Ltd.,Robert Frew Ltd.,,,0,,,,,Other,corporate
 29455,,"Liénard, François",François Liénard,Liénard,French,1,,,,French,French,individual
-29460,,Libreria Antiquaria Mediolanum,Libreria Antiquaria Mediolanum,,,1,,,,Italian,Italian,corporate
+29460,,Libreria Antiquaria Mediolanum S.R.L.,Libreria Antiquaria Mediolanum S.R.L.,,,1,,,,Italian,Italian,corporate
 29479,,Art Union of Philadelphia,Art Union of Philadelphia,,,1,,,,,Other,corporate
 29494,500033554,"Hosmer, Harriet Goodhue",Harriet Goodhue Hosmer,Hosmer,"American, 1830 - 1908",1,1830,1908,1826 to 1850,American,American,individual
 29500,,American Center for Photography,American Center for Photography,,,0,,,,,Other,corporate
@@ -18238,6 +18238,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51986,,"Lilly, David",David Lilly,Lilly,,0,,,,,Other,purchase_fund
 51987,,"MacMillan, Nivan",Nivan MacMillan,MacMillan,,0,,,,,Other,purchase_fund
 51988,,"Morgan, Shiela",Shiela Morgan,Morgan,,0,,,,,Other,purchase_fund
+52005,,"Muholi, Zanele",Zanele Muholi,Muholi,"South African, born 1972",1,1972,,1951 to 1975,South African,Other,individual
 52007,,"Lugg, Andrew",Andrew Lugg,Lugg,,0,,,,,Other,individual
 52009,,"Rivkin, Jay",Jay Rivkin,Rivkin,"American, 1916 - 2006",1,1916,2006,1901 to 1925,American,American,individual
 52015,,"Kong, Ellen",Ellen Kong,Kong,,0,,,,,Other,individual
