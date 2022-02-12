@@ -8211,7 +8211,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 10136,500026528,"Hesse, Eva",Eva Hesse,Hesse,"American, born Germany, 1936 - 1970",1,1936,1970,1926 to 1950,American,American,individual
 10137,500032786,"Holland, Tom",Tom Holland,Holland,"American, born 1936",1,1936,,1926 to 1950,American,American,individual
 10138,500001196,"Huebler, Douglas",Douglas Huebler,Huebler,"American, 1924 - 1997",1,1924,1997,1901 to 1925,American,American,individual
-10140,500079431,"O'Doherty, Brian",Brian O'Doherty,O'Doherty,"American, born Ireland, 1928",1,1928,,1926 to 1950,"American, born Ireland",Other,individual
+10140,500079431,"O'Doherty, Brian",Brian O'Doherty,O'Doherty,"American, born Ireland, 1928",1,1928,,1926 to 1950,American,American,individual
 10141,500091275,"Antonakos, Stephen",Stephen Antonakos,Antonakos,"American, 1926 - 2013",1,1926,2013,1926 to 1950,American,American,individual
 10143,,Chryssa,Chryssa,Chryssa,"American, born Greece, 1933 - 2013",1,1933,2013,1926 to 1950,American,American,individual
 10144,500106415,"Campus, Peter",Peter Campus,Campus,"American, born 1937",1,1937,,1926 to 1950,American,American,individual
@@ -15885,7 +15885,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 46599,500128990,"Krisel, Harold",Harold Krisel,Krisel,"American, 1920 - 1995",1,1920,1995,1901 to 1925,American,American,individual
 46605,,"Loewentheil, Stephan",Stephan Loewentheil,Loewentheil,,0,,,,,Other,individual
 46607,,"Lehr, Michael",Michael Lehr,Lehr,,0,,,,,Other,individual
-46609,500332660,"André, Rogi",Rogi André,André,"French, born Austria-Hungary, 1905 - 1970",1,1905,1970,1901 to 1925,"French, born Hungary",Other,individual
+46609,500332660,"André, Rogi",Rogi André,André,"French, born Austria-Hungary, 1905 - 1970",1,1905,1970,1901 to 1925,French,French,individual
 46618,500059937,"Lostutter, Robert",Robert Lostutter,Lostutter,"American, born 1939",1,1939,,1926 to 1950,American,American,individual
 46619,,"Lumpkins, William",William Lumpkins,Lumpkins,1909 - 2000,1,1909,2000,1901 to 1925,,Other,individual
 46621,500073846,"Williamson, Charles H.",Charles H. Williamson,Williamson,"American, born Scotland, 1826 - 1874",1,1826,1874,1826 to 1850,American,American,individual
@@ -17300,7 +17300,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49691,,"Smith, Alexis",Alexis Smith,Smith,"American, born 1949",1,1949,,1926 to 1950,American,American,individual
 49692,,"Stiegelmeyer, Norman",Norman Stiegelmeyer,Stiegelmeyer,"American, 1937 - 1985",1,1937,1985,1926 to 1950,American,American,individual
 49695,,2RC Gallery,2RC Gallery,,,1,,,,Italian,Italian,corporate
-49700,,"Kolko, Bernice",Bernice Kolko,Kolko,"American, born Russia, 1905 - 1970",1,1905,1970,1901 to 1925,"American, born Russia",Other,individual
+49700,,"Kolko, Bernice",Bernice Kolko,Kolko,"American, born Russia, 1905 - 1970",1,1905,1970,1901 to 1925,American,American,individual
 49701,500032345,"Lehmann, Henri",Henri Lehmann,Lehmann,"French, born Germany, 1814 - 1882",1,1814,1882,1801 to 1825,French,French,individual
 49703,,Galerie Gimpel & Hanover,Galerie Gimpel & Hanover,,,1,,,,Swiss,Swiss,corporate
 49704,,"Hoisington, Rena",Rena Hoisington,Hoisington,,0,,,,,Other,individual
@@ -17675,7 +17675,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50328,,"Knorr, Karen",Karen Knorr,Knorr,"British-American, born 1954",1,1954,,1951 to 1975,British-American,Other,individual
 50329,,Clio Art Ltd.,Clio Art Ltd.,,,0,,,,,Other,corporate
 50330,,"Killip, Chris",Chris Killip,Killip,"British, 1946 - 2020",1,1946,2020,1926 to 1950,British,British,individual
-50331,,"Smith, Graham",Graham Smith,Smith,"British, born 1947",1,1947,,1926 to 1950,British,British,individual
+50331,500101934,"Smith, Graham",Graham Smith,Smith,"British, born 1947",1,1947,,1926 to 1950,British,British,individual
 50332,,"Luskačová, Markéta",Markéta Luskačová,Luskačová,"Czech, born 1944",1,1944,,1926 to 1950,Czech,Czech,individual
 50333,500057267,"Tiolier, Nicolas-Pierre",Nicolas-Pierre Tiolier,Tiolier,"French, 1784 - 1843",1,1784,1843,1776 to 1800,French,French,individual
 50337,,"Dunham, Patti",Patti Dunham,Dunham,"American, active late 20th century",1,,,,American,American,individual
@@ -17931,7 +17931,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50916,,"Strianese, Tom",Tom Strianese,Strianese,"American, active late 20th century",1,,,,American,American,individual
 50917,,"Ting, Eric",Eric Ting,Ting,"American, active late 20th century",1,,,,American,American,individual
 50918,,William A. Clark Fund,William A. Clark Fund,,,0,,,,,Other,purchase_fund
-50919,,Jenkins-Johnson Gallery,Jenkins-Johnson Gallery,,,0,,,,,Other,corporate
+50919,,Jenkins-Johnson Gallery,Jenkins-Johnson Gallery,,,0,,,,American,American,corporate
 50920,500356217,"Thomas, Mickalene",Mickalene Thomas,Thomas,"American, born 1971",1,1971,,1951 to 1975,American,American,individual
 50921,,"Cabanas, Carla",Carla Cabanas,Cabanas,"Portuguese, born 1979",1,1979,,1976 to 2000,Portuguese,Other,individual
 50922,,Carlos Carvalho Arte Contemporanea,Carlos Carvalho Arte Contemporanea,,Portuguese,0,,,,Portuguese,Other,corporate
@@ -18063,7 +18063,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51215,,Victor Canale,Victor Canale,,"French, est. 1912",1,1912,,1901 to 1925,French,French,corporate
 51218,,"Crawshaw, Victor",Victor Crawshaw,Crawshaw,"British, active 1960s-1980s",1,1960,2000,1951 to 1975,British,British,individual
 51219,,"Hewett, Robert",Robert Hewett,Hewett,"American, 1913 - 2014",1,1913,2014,1901 to 1925,American,American,individual
-51281,,"Leclair, Larissa",Larissa Leclair,Leclair,,0,,,,,Other,individual
 51220,,"Hübner, Bartholomäus",Bartholomäus Hübner,Hübner,"German, 1727 - after 1795",1,1727,1795,1726 to 1750,German,German,individual
 51221,,"Turner, Mary Dawson",Mary Dawson Turner,Turner,"British, 1774 - 1850",1,1774,1850,1751 to 1775,British,British,individual
 51222,,"Wall, Herman",Herman V. Wall,Wall,"American, 1905 - 1997",1,1905,1997,1901 to 1925,American,American,individual
@@ -18108,6 +18107,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51277,,"Wheeler, John T.",John T. Wheeler,Wheeler,"American, 1925 - 2013",1,1925,2013,1901 to 1925,American,American,individual
 51279,,"Brich, George",George Brich,Brich,"American, born 1935",1,1935,,1926 to 1950,American,American,individual
 51280,,"Scharfman, Herb",Herb Scharfman,Scharfman,"American, 1912 - 1998",1,1912,1998,1901 to 1925,American,American,individual
+51281,,"Leclair, Larissa",Larissa Leclair,Leclair,,0,,,,,Other,individual
 51282,,"Sasaki, Yuichiro",Yuichiro Sasaki,Sasaki,"Japanese, 1917 - 1980",1,1917,1980,1901 to 1925,Japanese,Japanese,individual
 51283,,National Broadcasting Company,National Broadcasting Company,,"American, founded 1929",1,,,,American,American,corporate
 51284,,"Venso, Homer",Homer Venso,Venso,"American, 1923 - 2011",1,1923,2011,1901 to 1925,American,American,individual
@@ -18279,3 +18279,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52222,,Janus Press,Janus Press,,,1,,,,,Other,corporate
 52225,,"Miller-Brown, Andrew",Andrew Miller-Brown,Miller-Brown,American,1,,,,American,American,individual
 52229,,"Renard, Jean Augustin",Jean Augustin Renard,Renard,,1,1744,1807,1726 to 1750,French,French,individual
+52284,,Print Society,Print Society,,,1,,,,,Other,corporate
