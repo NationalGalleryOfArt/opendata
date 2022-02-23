@@ -15261,6 +15261,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38684,32935,Burgin,"Burgin, Victor",,Preferred Name
 38688,32939,,Phil Leonard Memorial Fund,,Preferred Name
 38703,32954,Wegman,"Wegman, William",,Preferred Name
+38705,32956,Ruppersberg,"Ruppersberg, Allen",,Preferred Name
 38708,32959,Rosler,"Rosler, Martha",,Preferred Name
 38710,32961,Piper,"Piper, Adrian",,Preferred Name
 38714,32965,Sikora,"Sikora, Rudolf",,Preferred Name
@@ -16522,7 +16523,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40181,34352,,"Glen Twins, The",,Preferred Name
 40184,34355,,"Print Research Foundation, The",,Preferred Name
 40185,34355,Williams,"Williams, Dave H. and Reba W.",,Variant
-60792,51854,,Triton Press,,Preferred Name
+60440,9763,Gewriz,,,Spouse
 40188,34306,Sallae,"Sallae, Charles Louis",,Variant
 40189,34357,Longo,"Longo, Robert",,Preferred Name
 40199,34363,Thompson,"Thompson, Charles Thurston",,Preferred Name
@@ -16761,6 +16762,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40681,6159,Passe,"Passe, Simon van de",,Preferred Name
 40683,34722,Rocker,"Rocker, Fermin",,Preferred Name
 40684,34723,Momper the Elder,"Momper the Elder, Joos de",,Preferred Name
+60792,51854,,Triton Press,,Preferred Name
 40687,33,Stevenson,"Stevenson, John R. Mrs.",,Married Name
 40699,21223,Denat de Guillebon,"Denat de Guillebon, Jeanne-Claude",,Variant
 40705,6937,Javacheff,"Javacheff, Christo Vladimirov",,Full Name
@@ -22813,6 +22815,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60318,23909,Johnson,,,Birth Name
 60321,1689,Fini,"Fini, Tommaso di Cristoforo",,Full Name
 60331,20770,Cumming,"Cumming, Annette P.",,Spouse
+60333,51515,Quinn,"Quinn, Nathaniel Mary",,Preferred Name
+60334,51516,Ahmanson,"Ahmanson, Roberta",,Preferred Name
 60335,51517,,Florian Haerbe,,Preferred Name
 60336,23136,,,,Variant
 60337,51518,,Benjamin Peronnet,,Preferred Name
@@ -22840,7 +22844,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60406,51571,Dey,"Dey, Richard",,Preferred Name
 60407,51572,Xenophon,Xenophon,,Preferred Name
 60408,51573,Holland,"Holland, Philemon",,Preferred Name
-60440,9763,Gewriz,,,Spouse
 60461,51614,Balas,"Balas, Jack",,Preferred Name
 60462,51615,Hempel,"Hempel, Wes",,Preferred Name
 60463,51616,,Swoon,,Preferred Name
@@ -23046,3 +23049,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61316,52295,,Stinehour Press,,Preferred Name
 61317,52296,Gottlieb,"Gottlieb, Esther",,Preferred Name
 61330,19648,Ransonnette,"Ransonnette, Pierre Nicolas",,Variant
+61385,40689,Sligh,"Sligh, Clarissa T.",,Variant

@@ -816,7 +816,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 885,,"Speelman Ltd., Edward",Edward Speelman Ltd.,,,0,,,,,Other,corporate
 886,,Galerie St. Etienne,Galerie St. Etienne,,,0,,,,,Other,corporate
 887,,Stanza del Borgo,Stanza del Borgo,,,0,,,,,Other,corporate
-888,,"Stein, Adolphe",Adolphe Stein,Stein,,0,,,,,Other,individual
+888,,"Stein, Adolphe",Adolphe Stein,Stein,"French, 1913 - 2002",0,1913,2002,1901 to 1925,French,French,individual
 889,,"Hill-Stone, Inc.","Hill-Stone, Inc.",,,0,,,,,Other,corporate
 890,,"Struve, William, Mr. and Mrs.",Mr. and Mrs. William Struve,Struve,,0,,,,,Other,couple
 891,,"Tailer, Catharine H., Ms.",Ms. Catharine H. Tailer,Tailer,American,0,,,,American,American,individual
@@ -7021,7 +7021,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 7388,,"Colgan, J.N.",J.N. Colgan,Colgan,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 7389,,"Collins, John",John Collins,Collins,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 7390,,"Colman, Anne",Anne Colman,Colman,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
-7391,,"Concha, Margaret",Margaret Concha,Concha,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
+7391,,"Concha, Margaret",Margaret Concha,Concha,"American, 1897 - 1994",1,1897,1994,1876 to 1900,American,American,individual
 7392,,"Connin, Peter",Peter Connin,Connin,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 7393,,"Constantine, George",George Constantine,Constantine,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
 7394,500336323,"Cook, Gladys",Gladys Cook,Cook,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual
@@ -12366,6 +12366,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 32935,500003288,"Burgin, Victor",Victor Burgin,Burgin,"British, born 1941",1,1941,,1926 to 1950,British,British,individual
 32939,,Phil Leonard Memorial Fund,Phil Leonard Memorial Fund,,,0,,,,,Other,purchase_fund
 32954,500118696,"Wegman, William",William Wegman,Wegman,"American, born 1943",1,1943,,1926 to 1950,American,American,individual
+32956,,"Ruppersberg, Allen",Allen Ruppersberg,Ruppersberg,"American, born 1944",1,1944,,1926 to 1950,American,American,individual
 32959,500097623,"Rosler, Martha",Martha Rosler,Rosler,"American, born 1943",1,1943,,1926 to 1950,American,American,individual
 32961,500024467,"Piper, Adrian",Adrian Piper,Piper,"American, born 1948",1,1948,,1926 to 1950,American,American,individual
 32965,,"Sikora, Rudolf",Rudolf Sikora,Sikora,"Slovak, born 1946",1,1946,,1926 to 1950,Slovak,Other,individual
@@ -18166,6 +18167,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51498,500476186,"Light, Joe",Joe Light,Light,"American, 1934 - 2005",1,1934,2005,1926 to 1950,American,American,individual
 51499,500033160,"Lockett, Ronald",Ronald Lockett,Lockett,"American, 1965 - 1998",1,1965,1998,1951 to 1975,American,American,individual
 51500,500476095,"Moore, Flora",Flora Moore,Moore,"American, born 1951",1,1951,,1951 to 1975,American,American,individual
+51515,,"Quinn, Nathaniel Mary",Nathaniel Mary Quinn,Quinn,"American, born 1977",1,1977,,1976 to 2000,American,American,individual
+51516,,"Ahmanson, Roberta",Roberta Ahmanson,Ahmanson,,0,,,,,Other,individual
 51517,,Florian Haerbe,Florian Haerbe,,,0,,,,,Other,corporate
 51518,,Benjamin Peronnet,Benjamin Peronnet,,,0,,,,,Other,corporate
 51519,,"Malombra, Pietro",Pietro Malombra,Malombra,"Italian, 1556 - 1618",1,1556,1618,1551 to 1600,Italian,Italian,individual
