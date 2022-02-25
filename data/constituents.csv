@@ -8849,6 +8849,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 13316,500080504,"Cohen, John",John Cohen,Cohen,"American, 1932 - 2019",1,1932,2019,1926 to 1950,American,American,individual
 13318,500024299,"Siskind, Aaron",Aaron Siskind,Siskind,"American, 1903 - 1991",1,1903,1991,1901 to 1925,American,American,individual
 13323,,"Boj-Sode, Betty, Mrs.",Mrs. Betty Boj-Sode,Boj-Sode,,0,,,,,Other,individual
+13352,,"Miller, Wayne",Wayne Miller,Miller,"American, 1918 - 2013",1,1918,2013,1901 to 1925,American,American,individual
 13354,,"Bell III, L. Graeme, Mr.",Mr. L. Graeme Bell III,Bell III,"American, born 1944",0,1944,,1926 to 1950,,Other,individual
 13355,500016364,"Pérignon, Nicolas",Nicolas Pérignon,Pérignon,"French, 1727 - 1782",1,1727,1782,1726 to 1750,French,French,individual
 13359,500021449,"Talbot, William Henry Fox",William Henry Fox Talbot,Talbot,"British, 1800 - 1877",1,1800,1877,1776 to 1800,British,British,individual
@@ -16245,6 +16246,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 47723,,"Chevalier, Yvonne",Yvonne Chevalier,Chevalier,"French, 1899 - 1982",1,1899,1982,1876 to 1900,French,French,individual
 47725,500037082,"Stone, Cami",Cami Stone,Stone,"Belgian, 1892 - 1975",1,1892,1975,1876 to 1900,Belgian,Belgian,individual
 47732,500087670,"Breslauer, Marianne",Marianne Breslauer,Breslauer,"German, 1909 - 2001",1,1909,2001,1901 to 1925,German,German,individual
+47733,,"Ebstel, Jeanne",Jeanne Ebstel,Ebstel,"American, born England, 1905 - 2000",1,1905,2000,1901 to 1925,American,American,individual
 47741,,"Whiting Fellows, Caroline",Caroline Whiting Fellows,Whiting Fellows,"American, 1905 - 1989",1,1905,1989,1901 to 1925,American,American,individual
 47743,,"Aczél, Márta",Márta Aczél,Aczél,"Hungarian, 1909 - 1997",1,1909,1997,1901 to 1925,Hungarian,Other,individual
 47745,,"Okanoue, Toshiko",Toshiko Okanoue,Okanoue,"Japanese, born 1928",1,1928,,1926 to 1950,Japanese,Japanese,individual
@@ -17503,11 +17505,14 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50022,,"Larson, Steve",Steve Larson,Larson,"American, born 1944",1,1944,,1926 to 1950,American,American,individual
 50023,,"Regan, Ken",Ken Regan,Regan,"American, 1940 - 2012",1,1940,2012,1926 to 1950,American,American,individual
 50024,,"Haeberle, Ronald L.",Ronald L. Haeberle,Haeberle,"American, born 1940",1,1940,,1926 to 1950,American,American,individual
+50025,,"Turbeville, Deborah",Deborah Turbeville,Turbeville,"American, 1932 - 2013",1,1932,2013,1926 to 1950,American,American,individual
 50026,,"Valli, Giorgia",Giorgia Valli,Valli,"Italian, born 1985",1,1985,,1976 to 2000,Italian,Italian,individual
 50027,,"Curtis, Asahel",Asahel Curtis,Curtis,"American, 1874 - 1941",1,1874,1941,1851 to 1875,American,American,individual
 50030,,"Atlas, Jeff",Jeff Atlas,Atlas,,0,,,,American,American,individual
 50032,,"Gough, Janet",Janet Gough,Gough,"American, born 1957",1,1957,,1951 to 1975,American,American,individual
 50033,,"Enrie, Giuseppe",Giuseppe Enrie,Enrie,"Italian, 1886 - 1961",1,1886,1961,1876 to 1900,Italian,Italian,individual
+50034,,"Ezawa, Kota",Kota Ezawa,Ezawa,"American, born Germany, 1969",1,1969,,1951 to 1975,American,American,individual
+50035,,"Lummis, Charles Fletcher",Charles Fletcher Lummis,Lummis,"American, 1859 - 1928",1,1859,1928,1851 to 1875,American,American,individual
 50036,,"Friedkin, Anthony",Anthony Friedkin,Friedkin,"American, born 1949",1,1949,,1926 to 1950,American,American,individual
 50038,,"Letinsky, Laura",Laura Letinsky,Letinsky,"Canadian, born 1962",1,1962,,1951 to 1975,Canadian,Canadian,individual
 50040,,"Secchiaroli, Tazio",Tazio Secchiaroli,Secchiaroli,"Italian, 1925 - 1998",1,1925,1998,1901 to 1925,Italian,Italian,individual
@@ -17539,6 +17544,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50069,,"Muchmore, Marie",Marie Muchmore,Muchmore,"American, 1909 - 1990",1,1909,1990,1901 to 1925,American,American,individual
 50070,,"Jackson, Robert H.",Robert H. Jackson,Jackson,"American, born 1934",1,1934,,1926 to 1950,American,American,individual
 50071,,"Leifer, Neil",Neil Leifer,Leifer,"American, born 1942",1,1942,,1926 to 1950,American,American,individual
+50072,,"Langlands, Ben",Ben Langlands,Langlands,"British, born 1955",1,1955,,1951 to 1975,British,British,individual
+50073,500057417,"Bell, Nikki",Nikki Bell,Bell,"British, born 1959",1,1959,,1951 to 1975,British,British,individual
 50074,,"Warner, Andrew Ellicott",Andrew Ellicott Warner,Warner,"American, 1786 - 1870",1,1786,1870,1776 to 1800,American,American,individual
 50075,,"Hopkinson, Ingrid",Ingrid Hopkinson,Hopkinson,,0,,,,,Other,individual
 50076,500343323,"Larsen, Sally",Sally Larsen,Larsen,"American, born 1954",1,1954,,1951 to 1975,American,American,individual
@@ -17798,6 +17805,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50650,,"Guldenmund, Hans",Hans Guldenmund,Guldenmund,"German, active c. 1490 - 1560",1,1490,1560,1401 to 1500,German,German,individual
 50652,,Leslie J. Schreyer Fund,Leslie J. Schreyer Fund,,,0,,,,,Other,purchase_fund
 50653,,Clinton and Jean Wright Fund,Clinton and Jean Wright Fund,,,0,,,,,Other,purchase_fund
+50654,,"Jones, Colin",Colin Jones,Jones,"British, born 1936",1,1936,,1926 to 1950,British,British,individual
 50662,,"Harvey, John",John Harvey,Harvey,,0,,,,,Other,individual
 50664,500019511,"Arnatt, Keith",Keith Arnatt,Arnatt,"British, 1930 - 2008",1,1930,2008,1926 to 1950,British,British,individual
 50666,,"Smith, Beuford",Beuford Smith,Smith,"American, born 1941",1,1941,,1926 to 1950,American,American,individual
@@ -18254,6 +18262,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51986,,"Lilly, David",David Lilly,Lilly,,0,,,,,Other,purchase_fund
 51987,,"MacMillan, Nivan",Nivan MacMillan,MacMillan,,0,,,,,Other,purchase_fund
 51988,,"Morgan, Shiela",Shiela Morgan,Morgan,,0,,,,,Other,purchase_fund
+51999,,"Miller, Jeannette",Jeannette Miller,Miller,,0,,,,,Other,individual
 52005,,"Muholi, Zanele",Zanele Muholi,Muholi,"South African, born 1972",1,1972,,1951 to 1975,South African,Other,individual
 52007,,"Lugg, Andrew",Andrew Lugg,Lugg,,0,,,,,Other,individual
 52009,,"Rivkin, Jay",Jay Rivkin,Rivkin,"American, 1916 - 2006",1,1916,2006,1901 to 1925,American,American,individual
