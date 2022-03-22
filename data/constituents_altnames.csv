@@ -14101,7 +14101,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33597,5127,Mopp,Mopp,,Variant
 33598,5130,Montpensier,"Montpensier, Antoine Marie P.L. d'Orleans, duc de",,Variant
 33599,5130,"Antoine, duc de Montpensier","Antoine, duc de Montpensier",,Variant
-59908,51213,,Paris Mint,,Preferred Name
 33600,5131,Chartres,"Chartres, Philippe II, duc de",,Variant
 33601,5132,van Orley,"van Orley, Richard",,Variant Index Name
 33602,5134,Orlowski,"Orlowski, Alexander",,Variant
@@ -14294,7 +14293,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33810,5933,Filippo d'Angeli,Filippo d'Angeli,,Variant
 33811,5933,Napoletano,"Napoletano, Filippo",,Variant Index Name
 33812,5933,Liagno,"Liagno, Teodoro Filippo di",,Variant
-59909,51213,,Monnaie de Paris,,Variant
 33813,5934,Biagio delle Lame,Biagio delle Lame,,Variant
 33814,5934,Pipini,"Pipini, Biagio",,Variant
 33815,5937,Verona,"Verona, G.",,Variant
@@ -22668,6 +22666,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59905,51210,Thornton,"Thornton, Lawrence",,Preferred Name
 59906,51211,Lovett,"Lovett, George Hampden",,Preferred Name
 59907,51212,Cavallini,"Cavallini, Pietro",,Preferred Name
+59908,51213,,Paris Mint,,Preferred Name
+59909,51213,,Monnaie de Paris,,Variant
 59910,51214,Schuler,"Schuler, Hans",,Preferred Name
 59911,51215,,Victor Canale,,Preferred Name
 59912,51215,Canale,"Canale, Victor",,Variant
