@@ -1202,7 +1202,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
-61317,52296,Gottlieb,"Gottlieb, Esther",,Preferred Name
+61316,52295,,Stinehour Press,,Preferred Name
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1489,7 +1489,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
-61330,19648,Ransonette,"Ransonette, Pierre Nicolas",,Variant
+61317,52296,Gottlieb,"Gottlieb, Esther",,Preferred Name
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -8365,7 +8365,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 10930,10937,,Henry Art Gallery,,Preferred Name
 10932,10939,Kaufman,"Kaufman, George M., Mrs.",,Preferred Name
 10935,10942,Lenkin,"Lenkin, Melvin, Mr. and Mrs.",,Preferred Name
-10960,10967,Szegedy-Maszak and Ms. Elizabeth Bobrick,"Szegedy-Maszak and Ms. Elizabeth Bobrick, Andrew, Mr.",,Preferred Name
+10960,10967,Szegedy-Maszak and Dr. Elizabeth Bobrick,"Szegedy-Maszak and Dr. Elizabeth Bobrick, Andrew, Dr.",,Preferred Name
 10964,10971,Dayes,"Dayes, Edward",,Preferred Name
 10966,10973,Lewis,"Lewis, John Frederick",,Preferred Name
 10969,10976,Middleton,"Middleton, John",,Preferred Name
@@ -10139,6 +10139,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22426,22433,Bing,"Bing, Ilse",,Preferred Name
 22427,22434,Bubley,"Bubley, Esther",,Preferred Name
 22460,22467,Lechter,"Lechter, Melchior",,Preferred Name
+61330,19648,Ransonette,"Ransonette, Pierre Nicolas",,Variant
 22517,22524,,"Pagan Limited, Hugh",,Preferred Name
 22528,22535,Pagliano,"Pagliano, Eleuterio",,Preferred Name
 22559,22566,Rosenthal,"Rosenthal, Albert",,Preferred Name
@@ -23002,6 +23003,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60916,51958,Haswell,"Haswell, Judith",,Preferred Name
 60917,51959,Hesse,"Hesse, Karen",,Preferred Name
 60918,51960,Kinsey,"Kinsey, Leland",,Preferred Name
+60919,51961,Hulme,"Hulme, Keri",,Preferred Name
 60920,51962,Levitt,"Levitt, Mark",,Preferred Name
 60921,51963,Levitt,"Levitt, Ellen Dorn",,Preferred Name
 60922,51964,Gregg,"Gregg, Jon",,Preferred Name
@@ -23101,7 +23103,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61312,52291,,SKHS,,Preferred Name
 61313,52292,Hanche-Olsen,"Hanche-Olsen, Eystein",,Preferred Name
 61315,52294,,Gefn Janus Unlimited,,Preferred Name
-61316,52295,,Stinehour Press,,Preferred Name
 61456,52431,,Robert Blackburn Printmaking Workshop,,Preferred Name
 61457,52432,Sanders,"Sanders, Phil",,Preferred Name
 61458,52433,Chun,"Chun, Sam",,Preferred Name
