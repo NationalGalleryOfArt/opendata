@@ -831,6 +831,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 901,908,,Wiener Antiquariat,,Preferred Name
 902,909,,"Wildenstein & Co., Inc.",,Preferred Name
 903,910,,"Willard Gallery, Inc.",,Preferred Name
+61312,52291,,SKHS,,Preferred Name
 904,911,Williford,"Williford, Graham",,Preferred Name
 905,912,Wittrock,"Wittrock, Wolfgang, Herr",,Preferred Name
 906,913,,Workart Est.,,Preferred Name
@@ -1202,7 +1203,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
-61315,52294,,Gefn Janus Unlimited,,Preferred Name
+61304,52284,,Print Society,,Preferred Name
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1298,7 +1299,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1399,1406,Hultberg,"Hultberg, John",,Preferred Name
 1400,1407,Humphreys,"Humphreys, Charles S.",,Preferred Name
 1401,1408,Huntington,"Huntington, Daniel",,Preferred Name
-61316,52295,,Stinehour Press,,Preferred Name
+61311,52290,,Spudnik Press,,Preferred Name
 1402,1409,Huysum,"Huysum, Jan van",,Preferred Name
 1403,1410,Ingham,"Ingham, Charles Cromwell",,Preferred Name
 1404,1411,Ingres,"Ingres, Jean-Auguste-Dominique",,Preferred Name
@@ -1489,7 +1490,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
-61317,52296,Gottlieb,"Gottlieb, Esther",,Preferred Name
+61310,52289,,Silver Mountain Grapics,,Preferred Name
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -1773,7 +1774,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1894,1901,Steen,"Steen, Jan",,Preferred Name
 1895,1902,Steinlen,"Steinlen, Théophile Alexandre",,Preferred Name
 1896,1903,Stella,"Stella, Frank",,Preferred Name
-61385,40689,Sligh,"Sligh, Clarissa T.",,Variant
+61315,52294,,Gefn Janus Unlimited,,Preferred Name
 1897,1904,Stephens,"Stephens, Thomas E.",,Preferred Name
 1898,1905,Stevens,"Stevens, Alfred",,Preferred Name
 1899,1906,Stock,"Stock, Joseph Whiting",,Preferred Name
@@ -2541,7 +2542,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2692,2699,Prusher,"Prusher, Horace J. ?",,Preferred Name
 2693,2700,Puget,"Puget, Pierre",,Preferred Name
 2694,2701,Quarenghi,"Quarenghi, Giacomo",,Preferred Name
-61400,52376,Chéry,Chéry,,Preferred Name
+61316,52295,,Stinehour Press,,Preferred Name
 2695,2702,Quast,"Quast, Pieter Jansz",,Preferred Name
 2696,2703,Radziwill,"Radziwill, Franz",,Preferred Name
 2697,2704,Reder,"Reder, Bernard",,Preferred Name
@@ -2828,7 +2829,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2995,3002,Schutz,"Schutz, Franz",,Preferred Name
 2996,3003,Schütz,"Schütz, Carl",,Preferred Name
 2997,3004,Schutz-Wolff,"Schutz-Wolff, Johanna",,Preferred Name
-61415,52391,Turci,"Turci, Maureen",,Preferred Name
+61385,40689,Sligh,"Sligh, Clarissa T.",,Variant
 2998,3005,Schwartz,"Schwartz, Aubrey",,Preferred Name
 2999,3006,Scolari,"Scolari, Giuseppe",,Preferred Name
 3000,3007,Scordia,"Scordia, Antonio",,Preferred Name
@@ -2926,6 +2927,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3097,3104,Soper,"Soper, George",,Preferred Name
 3098,3105,Sorel,"Sorel, Agatha",,Preferred Name
 3099,3106,Sorini,"Sorini, Emiliano",,Preferred Name
+61400,52376,Chéry,Chéry,,Preferred Name
 3100,3107,Sornique,"Sornique, Dominique",,Preferred Name
 3101,3108,Soumy,"Soumy, Joseph",,Preferred Name
 3102,3109,Spacal,"Spacal, Lojze",,Preferred Name
@@ -3415,6 +3417,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3609,3616,Brockhusen,"Brockhusen, Theo von",,Preferred Name
 3611,3618,Bronckhorst,"Bronckhorst, Jan Gerritsz van",,Preferred Name
 3612,3619,Broner,"Broner, Robert",,Preferred Name
+61415,52391,Turci,"Turci, Maureen",,Preferred Name
 3613,3620,Brookshaw,"Brookshaw, George",,Preferred Name
 3614,3621,Brookshaw,"Brookshaw, Richard",,Preferred Name
 3615,3622,Brosamer,"Brosamer, Hans",,Preferred Name
@@ -7905,7 +7908,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8333,8340,Netherlandish 14th Century,Netherlandish 14th Century,,Preferred Name
 8334,8341,Netherlandish 15th Century,Netherlandish 15th Century,,Preferred Name
 8335,8342,Netherlandish 15th Century,Anonymous Netherlandish,,Preferred Name
-61397,52373,Mondella,"Mondella, Battista",,Preferred Name
+61317,52296,Gottlieb,"Gottlieb, Esther",,Preferred Name
 8336,8343,Franco-Flemish 15th Century,Franco-Flemish 15th Century,,Preferred Name
 8337,8344,North Netherlandish 15th Century,North Netherlandish 15th Century,,Preferred Name
 8338,8345,South Netherlandish 15th Century,South Netherlandish 15th Century,,Preferred Name
@@ -7938,7 +7941,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8485,8492,,"Böhler, Julius",,Preferred Name
 8513,8520,Howard,"Howard, 9th Earl of Carlisle, George",,Preferred Name
 8540,8547,Liechtenstein,"Liechtenstein,  Prince Franz Josef II of",,Preferred Name
-61417,52393,Robillart,"Robillart, J.",,Preferred Name
 8744,8751,McLean,"McLean, Thomas",,Preferred Name
 8753,8760,Greville,"Greville, Charles Francis",,Preferred Name
 8843,8850,,"Metropolitan Museum of Art, The",,Preferred Name
@@ -8347,7 +8349,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 10780,10787,Crommelynck,"Crommelynck, Aldo",,Preferred Name
 10783,10790,Baronzio,"Baronzio, Giovanni",,Preferred Name
 10784,10791,Master of the Osservanza,Master of the Osservanza,,Preferred Name
-61419,10133,Ginsberg,"Ginsberg, Daniel Harry",,Variant
+61417,52393,Robillart,"Robillart, J.",,Preferred Name
 10785,10792,,Bernheimer Fine Arts Ltd.,,Preferred Name
 10786,10793,Clot,"Clot, Auguste",,Preferred Name
 10791,10798,Pfriem,"Pfriem, Bernard",,Preferred Name
@@ -8416,7 +8418,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11242,11249,Hedreen,"Hedreen, Richard C., Mr. and Mrs.",,Preferred Name
 11272,11279,,Yale University,,Preferred Name
 11308,11315,,"Armour Foundation, George and Frances",,Preferred Name
-61413,52389,,J. K. Fine Art Editions Co.,,Preferred Name
+61397,52373,Mondella,"Mondella, Battista",,Preferred Name
 11309,11316,Wolfensohn,"Wolfensohn, Elaine and James D.",,Preferred Name
 11310,11317,Getty,"Getty, Gordon P., Mr. and Mrs.",,Preferred Name
 11311,11318,Haas,"Haas, Jr., Walter A., Mr. and Mrs.",,Preferred Name
@@ -8596,7 +8598,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11616,11623,Ruggieri,"Ruggieri, Ferdinando",,Preferred Name
 11617,11624,Rusconi,"Rusconi, Giovanni Antonio",,Preferred Name
 11618,11625,Sanmicheli,"Sanmicheli, Michele",,Preferred Name
-61414,52390,Kleineman,"Kleineman, Joseph",,Preferred Name
+61413,52389,,J. K. Fine Art Editions Co.,,Preferred Name
 11619,11626,Stieglitz,"Stieglitz, Christian Ludwig",,Preferred Name
 11620,11627,Sturm,"Sturm, Leonhardt Christoph",,Preferred Name
 11621,11628,Teti,"Teti, Girolamo",,Preferred Name
@@ -9153,6 +9155,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 15467,15474,Figino,"Figino, Ambrogio",,Preferred Name
 15477,15484,Berry,"Berry, Max N., The Honorable",,Preferred Name
 15528,15535,Michalov,"Michalov, Anne",,Preferred Name
+61419,10133,Ginsberg,"Ginsberg, Daniel Harry",,Variant
 15530,15537,Bounieu,"Bounieu, Michel Honoré",,Preferred Name
 15531,15538,Levitine,"Levitine, George, Mrs.",,Preferred Name
 15534,15541,Powell,"Powell, III, Earl A.",,Preferred Name
@@ -10123,6 +10126,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22347,22354,Xceron,"Xceron, Jean",,Preferred Name
 22348,22355,Graves,"Graves, Morris",,Preferred Name
 22356,22363,Brondgeest,"Brondgeest, Albertus",,Preferred Name
+61414,52390,Kleineman,"Kleineman, Joseph",,Preferred Name
 22363,22370,Hepworth,"Hepworth, Barbara",,Preferred Name
 22365,22372,Blume,"Blume, Peter",,Preferred Name
 22366,22373,Rammellzee,Rammellzee,,Preferred Name
@@ -14105,7 +14109,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33597,5127,Mopp,Mopp,,Variant
 33598,5130,Montpensier,"Montpensier, Antoine Marie P.L. d'Orleans, duc de",,Variant
 33599,5130,"Antoine, duc de Montpensier","Antoine, duc de Montpensier",,Variant
-61312,52291,,SKHS,,Preferred Name
 33600,5131,Chartres,"Chartres, Philippe II, duc de",,Variant
 33601,5132,van Orley,"van Orley, Richard",,Variant Index Name
 33602,5134,Orlowski,"Orlowski, Alexander",,Variant
@@ -23101,9 +23104,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61235,52222,,Janus Press,,Preferred Name
 61238,52225,Miller-Brown,"Miller-Brown, Andrew",,Preferred Name
 61243,52229,Renard,"Renard, Jean Augustin",,Preferred Name
-61304,52284,,Print Society,,Preferred Name
-61310,52289,,Silver Mountain Grapics,,Preferred Name
-61311,52290,,Spudnik Press,,Preferred Name
 61456,52431,,Robert Blackburn Printmaking Workshop,,Preferred Name
 61457,52432,Sanders,"Sanders, Phil",,Preferred Name
 61458,52433,Chun,"Chun, Sam",,Preferred Name
