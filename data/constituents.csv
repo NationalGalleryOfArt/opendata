@@ -144,7 +144,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 162,,"Beale, Williams, Mrs.",Mrs. Williams Beale,Beale,,0,,,,,Other,individual
 163,,"Beatty, Jr., John Wesley","John Wesley Beatty, Jr.",Beatty,"American, 1890 - 1963",0,1890,1963,1876 to 1900,American,American,individual
 299,,"Georgia Museum of Art, Friends of",Friends of Georgia Museum of Art,,,0,,,,,Other,corporate
-52291,,SKHS,SKHS,,,1,,,,,Other,corporate
 164,,"Beckmann, Max, Mrs.",Mrs. Max Beckmann,Beckmann,"German, 1904 - 1986",0,1904,1986,1901 to 1925,German,German,individual
 165,,"Bell, Daniel, Professor",Professor Daniel Bell,Bell,,0,,,,,Other,individual
 166,,"Belden, James O.",James O. Belden,Belden,,0,,,,,Other,individual
@@ -1056,7 +1055,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1189,,"Smith, Jr., Sherwood B.","Sherwood B. Smith, Jr.",Smith,,0,,,,,Other,individual
 1190,,"Smith, Benjamin B.",Benjamin B. Smith,Smith,"American, 1907 - 1989",0,1907,1989,1901 to 1925,American,American,individual
 1191,500012491,"Cropsey, Jasper Francis",Jasper Francis Cropsey,Cropsey,"American, 1823 - 1900",1,1823,1900,1801 to 1825,American,American,individual
-52290,,Spudnik Press,Spudnik Press,,,1,,,,,Other,corporate
 1150,500019000,"Coe, Elias V.",Elias V. Coe,Coe,"American, 1794 - 1843",1,1794,1843,1776 to 1800,American,American,individual
 1151,,"Ficken, Charles D., Mr.",Mr. Charles D. Ficken,Ficken,,0,,,,,Other,individual
 1152,,"Zicklin, Lawrence, Mr.",Mr. Lawrence Zicklin,Zicklin,,0,,,,,Other,individual
@@ -1194,7 +1192,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1276,500013966,"Fei, Paolo di Giovanni",Paolo di Giovanni Fei,Fei,"Sienese, c. 1335/1345 - 1411",1,1335,1411,1300 to 1400,Italian,Italian,individual
 1277,,"Cantor, B. Gerald, Mr. and Mrs.",Mr. and Mrs. B. Gerald Cantor,Cantor,he: 1916 - 1996,0,1916,1996,1901 to 1925,,Other,couple
 1278,500115308,"Feininger, Lyonel",Lyonel Feininger,Feininger,"American, 1871 - 1956",1,1871,1956,1851 to 1875,American,American,individual
-52289,,Silver Mountain Grapics,Silver Mountain Grapics,,,1,,,,,Other,corporate
 1279,,"Ide, John Jay, Mrs.",Mrs. John Jay Ide,Ide,,0,,,,,Other,individual
 1280,,"Janss, William C., Mr. and Mrs.",Mr. and Mrs. William C. Janss,Janss,,0,,,,,Other,couple
 1281,,"Lenkin, Edward J., Mr.",Mr. Edward J. Lenkin,Lenkin,,0,,,,,Other,individual
@@ -18242,7 +18239,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51728,,"Calder, Alexander Stirling",Alexander Stirling Calder,Calder,"American, 1870 - 1945",1,1870,1945,1851 to 1875,American,American,individual
 51733,,"Gilbert, Olivier",Olivier Gilbert,Gilbert,French,0,,,,French,French,individual
 51779,,Meredith and Brother Rutter,Meredith and Brother Rutter,,,0,,,,,Other,purchase_fund
-52284,,Print Society,Print Society,,,1,,,,,Other,corporate
 51808,500079592,"Guidobono, Domenico",Domenico Guidobono,Guidobono,"Italian, 1668 - 1746",1,1668,1746,1651 to 1700,Italian,Italian,individual
 51811,,"McCracken, James Jr.",James McCracken Jr.,McCracken,"American, 1942 - 2017",1,1942,2017,1926 to 1950,American,American,individual
 51812,,"Verburg, JoAnn",JoAnn Verburg,Verburg,"American, born 1950",1,1950,,1926 to 1950,American,American,individual
@@ -18334,6 +18330,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52163,,Art Information Volunteers,Art Information Volunteers,,,0,,,,,Other,purchase_fund
 52177,,"Hutin, Pierre",Pierre Hutin,Hutin,"French, 1720 - 1763",1,1720,1763,1701 to 1725,French,French,individual
 52178,,"Bonnisseau, F.",F. Bonnisseau,Bonnisseau,"French, active 19th century",1,1800,1900,1776 to 1800,French,French,individual
+52182,,Cade Thompkins Projects,Cade Thompkins Projects,,,0,,,,,Other,corporate
+52183,,"Hofshi, Orit",Orit Hofshi,Hofshi,"Israeli and Czech, born 1959",1,1959,,1951 to 1975,Israeli and Czech,Other,individual
 52205,,"McMullin, John",John McMullin,McMullin,"American, 1765 - 1843",1,1765,1843,1751 to 1775,American,American,individual
 52209,,"David Hockney, Inc.","David Hockney, Inc.",,,1,,,,,Other,corporate
 52212,,"Ruhl, Jason",Jason Ruhl,Ruhl,,1,,,,,Other,individual
@@ -18341,6 +18339,10 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52222,,Janus Press,Janus Press,,,1,,,,,Other,corporate
 52225,,"Miller-Brown, Andrew",Andrew Miller-Brown,Miller-Brown,American,1,,,,American,American,individual
 52229,,"Renard, Jean Augustin",Jean Augustin Renard,Renard,,1,1744,1807,1726 to 1750,French,French,individual
+52284,,Print Society,Print Society,,,1,,,,,Other,corporate
+52289,,Silver Mountain Grapics,Silver Mountain Grapics,,,1,,,,,Other,corporate
+52290,,Spudnik Press,Spudnik Press,,,1,,,,,Other,corporate
+52291,,SKHS,SKHS,,,1,,,,,Other,corporate
 52292,,"Hanche-Olsen, Eystein",Eystein Hanche-Olsen,Hanche-Olsen,"Norwegian, born 1933",1,1933,,1926 to 1950,Norwegian,Norwegian,individual
 52294,,Gefn Janus Unlimited,Gefn Janus Unlimited,,,1,,,,,Other,corporate
 52295,,Stinehour Press,Stinehour Press,,,1,,,,,Other,corporate
