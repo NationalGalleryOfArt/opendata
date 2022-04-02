@@ -1248,8 +1248,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1347,500018884,"Glackens, William",William Glackens,Glackens,"American, 1870 - 1938",1,1870,1938,1851 to 1875,American,American,individual
 1348,500001380,"Gleizes, Albert",Albert Gleizes,Gleizes,"French, 1881 - 1953",1,1881,1953,1876 to 1900,French,French,individual
 1349,500337743,"Gogh, Vincent van",Vincent van Gogh,Gogh,"Dutch, 1853 - 1890",1,1853,1890,1851 to 1875,Dutch,Dutch,individual
-1351,500021392,"Gorky, Arshile",Arshile Gorky,Gorky,"American, born Van Province, Ottoman Empire, c. 1904 - 1948",1,1904,1948,1901 to 1925,American,American,individual
-1360,500009137,"Gromaire, Marcel",Marcel Gromaire,Gromaire,"French, 1892 - 1971",1,1892,1971,1876 to 1900,French,French,individual
+1351,500021392,"Gorky, Arshile",Arshile Gorky,Gorky,"American, born Van Province, Ottoman Empire (now Turkey), c. 1904 - 1948",1,1904,1948,1901 to 1925,American,American,individual
+1560,,"Entwistle & Co., Limited, L & R","L & R Entwistle & Co., Limited",,,0,,,,,Other,corporate
 1352,500009353,"Gossaert, Jan",Jan Gossaert,Gossaert,"Netherlandish, c. 1478 - 1532",1,1478,1532,1401 to 1500,Netherlandish,Netherlandish,individual
 1353,500118936,"Goya, Francisco",Francisco Goya,Goya,"Spanish, 1746 - 1828",1,1746,1828,1726 to 1750,Spanish,Spanish,individual
 1354,500115612,"Goyen, Jan van",Jan van Goyen,Goyen,"Dutch, 1596 - 1656",1,1596,1656,1551 to 1600,Dutch,Dutch,individual
@@ -1258,6 +1258,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1357,500003306,"Greenwood, John",John Greenwood,Greenwood,"American, 1727 - 1792",1,1727,1792,1726 to 1750,American,American,individual
 1358,500000119,"Greuze, Jean-Baptiste",Jean-Baptiste Greuze,Greuze,"French, 1725 - 1805",1,1725,1805,1701 to 1725,French,French,individual
 1359,500015362,"Gris, Juan",Juan Gris,Gris,"Spanish, 1887 - 1927",1,1887,1927,1876 to 1900,Spanish,Spanish,individual
+1360,500009137,"Gromaire, Marcel",Marcel Gromaire,Gromaire,"French, 1892 - 1971",1,1892,1971,1876 to 1900,French,French,individual
 1361,500009139,"Gros, Antoine-Jean",Antoine-Jean Gros,Gros,"French, 1771 - 1835",1,1771,1835,1751 to 1775,French,French,individual
 1362,500021832,"Grünewald, Matthias",Matthias Grünewald,Grünewald,"German, c. 1475/1480 - 1528",1,1475,1528,1401 to 1500,German,German,individual
 1363,500312969,"Guardi, Francesco",Francesco Guardi,Guardi,"Venetian, 1712 - 1793",1,1712,1793,1701 to 1725,Italian,Italian,individual
@@ -1276,7 +1277,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1392,,"Hensel, Salome",Salome Hensel,Hensel,"American, active 1823",1,1743,1883,1726 to 1750,American,American,individual
 1395,500010213,"Heyden, Jan van der",Jan van der Heyden,Heyden,"Dutch, 1637 - 1712",1,1637,1712,1601 to 1650,Dutch,Dutch,individual
 1396,500022183,"Hicks, Edward",Edward Hicks,Hicks,"American, 1780 - 1849",1,1780,1849,1776 to 1800,American,American,individual
-1560,,"Entwistle & Co., Limited, L & R","L & R Entwistle & Co., Limited",,,0,,,,,Other,corporate
 1375,500012910,"Hartley, Marsden",Marsden Hartley,Hartley,"American, 1877 - 1943",1,1877,1943,1876 to 1900,American,American,individual
 1376,500003694,"Hartung, Hans",Hans Hartung,Hartung,"French, 1904 - 1989",1,1904,1989,1901 to 1925,French,French,individual
 1377,500006808,"Haseltine, William Stanley",William Stanley Haseltine,Haseltine,"American, 1835 - 1900",1,1835,1900,1826 to 1850,American,American,individual
@@ -18325,6 +18325,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52050,,"Plantin, Christophe",Christophe Plantin,Plantin,"Flemish, c.1520 - 1589",1,1520,1589,1501 to 1550,Flemish,Flemish,individual
 52051,,"Aertssens, Hendrik",Hendrik Aertssens,Aertssens,"Flemish, 1586 - 1658",1,1586,1658,1551 to 1600,Flemish,Flemish,individual
 52060,,"Marcus, Peter",Peter Marcus,Marcus,"American, born 1939",1,1939,,1926 to 1950,American,American,individual
+52062,,"Lind-Ramos, Daniel",Daniel Lind-Ramos,Lind-Ramos,"Puerto Rican, born 1953",1,1953,,1951 to 1975,American,American,individual
+52063,,"Levai, Max",Max Levai,Levai,,0,,,,,Other,individual
 52068,,"Armano, Giovanni Antonio",Giovanni Antonio Armano,Armano,"Italian, active 1777 - 1823",1,1777,1823,1776 to 1800,Italian,Italian,individual
 52071,,"Inig, Ludovico",Ludovico Inig,Inig,"Italian, active late 18th century",1,1750,1800,1726 to 1750,Italian,Italian,individual
 52077,,"Legrain, Jacques Anthoine",Jacques Anthoine Legrain,Legrain,"French, 1907 - 1970",1,1907,1970,1901 to 1925,French,French,individual

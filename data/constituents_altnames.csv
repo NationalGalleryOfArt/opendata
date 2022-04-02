@@ -1202,7 +1202,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
-61227,37601,Smith,"Smith, Keith A.",,Variant
+61223,52213,,The Spring Street Workshop,,Preferred Name
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1298,6 +1298,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1399,1406,Hultberg,"Hultberg, John",,Preferred Name
 1400,1407,Humphreys,"Humphreys, Charles S.",,Preferred Name
 1401,1408,Huntington,"Huntington, Daniel",,Preferred Name
+61227,37601,Smith,"Smith, Keith A.",,Variant
 1402,1409,Huysum,"Huysum, Jan van",,Preferred Name
 1403,1410,Ingham,"Ingham, Charles Cromwell",,Preferred Name
 1404,1411,Ingres,"Ingres, Jean-Auguste-Dominique",,Preferred Name
@@ -23069,6 +23070,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61039,3471,Zündt,Matthias Zündt,,Variant
 61042,52060,Marcus,"Marcus, Peter",,Preferred Name
 61043,52060,Marcus,"Marcus, Peter E.",,Variant
+61045,52062,Lind-Ramos,"Lind-Ramos, Daniel",,Preferred Name
+61046,52063,Levai,"Levai, Max",,Preferred Name
+61047,52063,,,,Variant
 61051,7440,De Zon,"De Zon, Sylvia",,Variant
 61053,52068,Armano,"Armano, Giovanni Antonio",,Preferred Name
 61056,52071,Inig,"Inig, Ludovico",,Preferred Name
@@ -23109,7 +23113,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61214,52205,McMullin,"McMullin, John",,Preferred Name
 61219,52209,,"David Hockney, Inc.",,Preferred Name
 61222,52212,Ruhl,"Ruhl, Jason",,Preferred Name
-61223,52213,,The Spring Street Workshop,,Preferred Name
 61235,52222,,Janus Press,,Preferred Name
 61238,52225,Miller-Brown,"Miller-Brown, Andrew",,Preferred Name
 61243,52229,Renard,"Renard, Jean Augustin",,Preferred Name
