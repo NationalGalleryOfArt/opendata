@@ -9363,7 +9363,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 17829,17836,Darzens,"Darzens, Rodolphe",,Preferred Name
 17830,17837,Antoine,"Antoine, André",,Preferred Name
 17832,17839,Jourdain,"Jourdain, Francis",,Preferred Name
-17833,17840,A. B.,A. B.,,Preferred Name
 17834,17841,Sattler,"Sattler, Joseph",,Preferred Name
 17835,17842,Yavno,"Yavno, Max",,Preferred Name
 17836,17843,Vernon,"Vernon, Leonard",,Preferred Name
@@ -10518,7 +10517,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 23960,23967,Wejman,"Wejman, Stanislaw",,Preferred Name
 23961,23968,Skórczewski,"Skórczewski, Krzysztof",,Preferred Name
 23965,23972,Vasina,"Vasina, Dariusz",,Preferred Name
-32982,2666,Hansen,"Hansen, Emil",,Variant
 23966,23973,Hejnowicz,"Hejnowicz, Jerzy",,Preferred Name
 23967,23974,Pawluczuk,"Pawluczuk, Jerzy",,Preferred Name
 23968,23975,Miskiewicz,"Miskiewicz, Leslaw",,Preferred Name
@@ -10957,7 +10955,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 25457,25464,Rizik,"Rizik, Philip",,Preferred Name
 25508,25515,Lalive de Jully,"Lalive de Jully, Ange-Laurent de",,Preferred Name
 25611,25618,Geddes,"Geddes, Andrew",,Preferred Name
-34015,7251,Bent,"Bent, Mildred",,Variant
 25621,25628,Molart,"Molart, Michel",,Preferred Name
 25622,25629,Scandinavian 17th Century,Scandinavian 17th Century,,Preferred Name
 25623,25630,Gyalakuta,"Gyalakuta, Johann Lazarus de, Baron",,Preferred Name
@@ -11308,6 +11305,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26740,26747,Loli,"Loli, Lorenzo",,Preferred Name
 26754,26761,Dowling,"Dowling, Paul M.",,Preferred Name
 26761,26768,Fossati,"Fossati, Davide",,Preferred Name
+27205,27212,Edwards,"Edwards, Melvin",,Preferred Name
 26762,26769,Libreria Editrice Goriziana,Libreria Editrice Goriziana,,Preferred Name
 26769,26776,Freyberger,"Freyberger, Hans",,Preferred Name
 26772,26779,,Galerie Nierendorf,,Preferred Name
@@ -11334,6 +11332,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26860,26867,Richter,"Richter, Jan Paul",,Preferred Name
 26864,26871,Marcantonio School,Marcantonio School,,Preferred Name
 26918,26925,Walcott,"Walcott, Derek",,Preferred Name
+32982,2666,Hansen,"Hansen, Emil",,Variant
 26951,26958,,"Hancock Memorial Fund, Thomas F.",,Preferred Name
 26952,26959,Susini,"Susini, Giovanni Francesco",,Preferred Name
 26953,26960,Chadwick,"Chadwick, Francis Brooks",,Preferred Name
@@ -11398,7 +11397,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27200,27207,Chu,"Chu, Anne",,Preferred Name
 27201,27208,Coyne,"Coyne, Petah",,Preferred Name
 27202,27209,Dennis,"Dennis, Donna",,Preferred Name
-27205,27212,Edwards,"Edwards, Melvin",,Preferred Name
 27206,27213,Fasnacht,"Fasnacht, Heide",,Preferred Name
 27207,27214,Fried,"Fried, Nancy",,Preferred Name
 27208,27215,Grossman,"Grossman, Nancy",,Preferred Name
@@ -11477,6 +11475,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27472,27479,,"Parrish and Reinish, Inc.",,Preferred Name
 27474,27481,Isachi,"Isachi, Alfonso",,Preferred Name
 27475,27482,,"Weiner Antiquariat Ingo Nebehay, GmbH",,Preferred Name
+34015,7251,Bent,"Bent, Mildred",,Variant
 27489,27496,Cumberworth,"Cumberworth, Charles",,Preferred Name
 27499,27506,Viola,"Viola, Bill",,Preferred Name
 27512,27519,Bernard,"Bernard, Johann",,Preferred Name
@@ -17441,7 +17440,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42510,36240,,Murray Guy,,Preferred Name
 42511,36241,Davey,"Davey, Moyra",,Preferred Name
 42513,12385,Tolcott,"Tolcott, Martin A. Mr. and Mrs.",,Variant
-42517,36245,Carquillat,"Carquillat, François",,Preferred Name
+42517,36245,Carquillat,"Carquillat, Michel-Marie",,Preferred Name
 42518,36246,,"Mattia Jona, Master Drawings and Prints",,Variant
 42520,36248,,Jan Lewis Slavid,,Preferred Name
 42521,36249,Haubenstricker,"Haubenstricker, Paul",,Preferred Name
@@ -17510,7 +17509,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42857,36532,Wilkinson,"Wilkinson, Julia M. Ms.",,Preferred Name
 42864,23752,Tanning,"Tanning, Dorothea Margaret",,Maiden Name
 42865,23752,Ernst,"Ernst, Max, Mrs.",,Married Name
-42881,36550,Allardet,Allardet,,Preferred Name
+42881,36550,Allardet,"Allardet, Jacques",,Preferred Name
 42892,36561,Small,"Small, Blanche",,Preferred Name
 42904,36252,Reed,"Reed, Paul Allen",,Full Name
 42920,36584,,Pillet,,Preferred Name
