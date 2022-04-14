@@ -7881,7 +7881,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8309,8316,Milanese 16th Century,Milanese 16th Century,,Preferred Name
 8310,8317,Neapolitan 16th Century,Neapolitan 16th Century,,Preferred Name
 8311,8318,Paduan 16th Century,Paduan 16th Century,,Preferred Name
-8312,8319,Savoy 16th Century,Savoy 16th Century,,Preferred Name
 8313,8320,Turin 16th Century,Turin 16th Century,,Preferred Name
 8314,8321,Ferrarese 16th Century,Ferrarese 16th Century,,Preferred Name
 8315,8322,Bolognese 16th Century,Bolognese 16th Century,,Preferred Name
@@ -14517,7 +14516,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34059,8316,Anonymous Milanese 16th Century,Anonymous Milanese 16th Century,,Variant
 34060,8317,Anonymous Neapolitan 16th Century,Anonymous Neapolitan 16th Century,,Variant
 34061,8318,Anonymous Paduan 16th Century,Anonymous Paduan 16th Century,,Variant
-34062,8319,Anonymous Savoy 16th Century,Anonymous Savoy 16th Century,,Variant
 34063,8320,Anonymous Turin 16th Century,Anonymous Turin 16th Century,,Variant
 34064,8321,Anonymous Ferrarese 16th Century,Anonymous Ferrarese 16th Century,,Variant
 34065,8322,Anonymous Bolognese 16th Century,Anonymous Bolognese 16th Century,,Variant
@@ -17692,6 +17690,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 43823,3049,Siegl,"Siegl, Helen K. Haselburger",,Variant
 43825,37367,Cooke,"Cooke, Edward William",,Preferred Name
 43826,37368,Perry,"Perry, Dewayne and Faith",,Preferred Name
+43828,37370,Orfini da Foligno,"Orfini da Foligno, Emiliano",,Preferred Name
+43829,37370,Foligno,"Foligno, Emiliano Orfini da",,Variant Index Name
 43832,2050,Filangieri,"Filangieri, Giovanni di Salvatore",,Full Name
 43837,37377,van Coninxloo,"van Coninxloo, Gillis III",,Preferred Name
 43847,2271,Ravenna,"Ravenna, Severo da",,Variant Index Name
@@ -22784,7 +22784,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60171,49499,Taub,"Taub, Bill",,Variant
 60174,51434,Farmer,"Farmer, Emily",,Preferred Name
 60175,51435,Selby,"Selby, Miss",,Preferred Name
-60176,51436,,Finnish 20th Century,,Preferred Name
+60176,51436,Finnish 20th Century,Finnish 20th Century,,Preferred Name
 60177,51436,,Anonymous Finnish 20th Century,,Variant
 60183,51442,Killigrew,"Killigrew, Anne",,Preferred Name
 60190,39051,Borglum,"Borglum, Gutzon",,Variant
@@ -23139,3 +23139,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61487,3453,Zañartu,"Zañartu, Enrique",,Variant
 61488,3451,Zakharov,"Zakharov, Gury",,Variant
 61489,5843,Wray,"Wray, Richard",,Variant
+61515,52478,Ridinger,"Ridinger, Martin Elias",,Preferred Name
