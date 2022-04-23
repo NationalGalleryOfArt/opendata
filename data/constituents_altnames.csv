@@ -1202,6 +1202,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1299,1306,Cleveland,"Cleveland, David A., Mr. and Mrs.",,Preferred Name
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
+61214,52205,McMullin,"McMullin, John",,Preferred Name
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1488,7 +1489,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
-61219,52209,,"David Hockney, Inc.",,Preferred Name
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -1772,7 +1772,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1894,1901,Steen,"Steen, Jan",,Preferred Name
 1895,1902,Steinlen,"Steinlen, Théophile Alexandre",,Preferred Name
 1896,1903,Stella,"Stella, Frank",,Preferred Name
-61227,37601,Smith,"Smith, Keith A.",,Variant
+61219,52209,,"David Hockney, Inc.",,Preferred Name
 1897,1904,Stephens,"Stephens, Thomas E.",,Preferred Name
 1898,1905,Stevens,"Stevens, Alfred",,Preferred Name
 1899,1906,Stock,"Stock, Joseph Whiting",,Preferred Name
@@ -2540,7 +2540,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2693,2700,Puget,"Puget, Pierre",,Preferred Name
 2694,2701,Quarenghi,"Quarenghi, Giacomo",,Preferred Name
 2695,2702,Quast,"Quast, Pieter Jansz",,Preferred Name
-61229,51003,Brooks,"Brooks, Charlotte",,Variant
+61227,37601,Smith,"Smith, Keith A.",,Variant
 2696,2703,Radziwill,"Radziwill, Franz",,Preferred Name
 2697,2704,Reder,"Reder, Bernard",,Preferred Name
 2698,2705,Reiner,"Reiner, Imre",,Preferred Name
@@ -3703,6 +3703,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3917,3924,Devaux,"Devaux, Jean",,Preferred Name
 3918,3925,Devéria,"Devéria, Achille",,Preferred Name
 3919,3926,Deville,"Deville, Henry-Wilfred",,Preferred Name
+61229,51003,Brooks,"Brooks, Charlotte",,Variant
 3921,3928,Diamaer,"Diamaer, Hendrik Frans",,Preferred Name
 3922,3929,Dian,"Dian, Nal Bal",,Preferred Name
 3923,3930,Diebenkorn,"Diebenkorn, Richard",,Preferred Name
@@ -23029,6 +23030,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60931,50695,Linza,"Linza, Nicola Giacomo Aluigi Giuseppe",,Full Name
 60932,50695,Linza,"Linza, James",,Nickname/Pseudonym
 60935,51974,Kernan,"Kernan, Nathan and Nicholas",,Preferred Name
+60936,51975,Schattschneider,"Schattschneider, Doris",,Preferred Name
+60937,51976,Orosz,"Orosz, István",,Preferred Name
+60938,51977,Lee,"Lee, Kevin D.",,Preferred Name
 60940,880,,David Smith Legacy 2020 LLC,,Variant
 60943,28976,Walker,"Walker, Rock J.",,Variant
 60948,51984,Feldman,"Feldman, Kaywin",,Preferred Name
@@ -23111,7 +23115,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61187,52182,Thompkins,"Thompkins, Cade",,Variant
 61195,17722,,,,Variant
 61202,23608,Hawes,"Hawes, J. J.",,Variant
-61214,52205,McMullin,"McMullin, John",,Preferred Name
 61235,52222,,Janus Press,,Preferred Name
 61238,52225,Miller-Brown,"Miller-Brown, Andrew",,Preferred Name
 61243,52229,Renard,"Renard, Jean Augustin",,Preferred Name
@@ -23150,3 +23153,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61533,52490,,Cadart & Chevalier,,Preferred Name
 61535,52492,,Altavoz del Frente,,Preferred Name
 61537,52494,,Ad. Catelin & Cie,,Preferred Name
+61543,52497,Reggio Emilian 16th Century,Reggio Emilian 16th Century,,Preferred Name
