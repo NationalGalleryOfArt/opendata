@@ -1740,8 +1740,10 @@ previous_attribution,45207,1,Jacopo Sansovino (?),"Sansovino, Jacopo (?)",Attrib
 previous_attribution,45208,1,Jacopo Sansovino (?),"Sansovino, Jacopo (?)",Attribution at time of gift,
 previous_attribution,45209,1,Jacopo Sansovino (?),"Sansovino, Jacopo (?)",Attribution at time of gift,
 previous_attribution,45210,1,Jacopo Sansovino (?),"Sansovino, Jacopo (?)",Attribution at time of gift,
-previous_attribution,45223,1,Alessandro Vittoria (?),"Vittoria, Alessandro (?)",Attribution at time of gift,
-previous_attribution,45224,1,Alessandro Vittoria (?),"Vittoria, Alessandro (?)",Attribution at time of gift,
+previous_attribution,45223,1,Attributed to Alessandro Vittoria,"Vittoria, Alessandro, Attributed to",Reported to Bd. Tr. 5/4/1983,1983-05-04
+previous_attribution,45223,2,Alessandro Vittoria (?),"Vittoria, Alessandro (?)",Attribution at time of gift,
+previous_attribution,45224,1,Attributed to Alessandro Vittoria,"Vittoria, Alessandro, Attributed to",Reported to Bd. Tr. 5/4/1983,1983-05-04
+previous_attribution,45224,2,Alessandro Vittoria (?),"Vittoria, Alessandro (?)",Attribution at time of gift,
 previous_attribution,45232,1,Italian 16th Century,Italian 16th Century,Attribution at time of acquisition,""
 previous_attribution,45234,2,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Reported to Bd. Tr. 10/4/84,
 previous_attribution,45234,1,Italian 16th Century,Italian 16th Century,Attribution at time of gift,
@@ -1750,14 +1752,23 @@ previous_attribution,45235,2,Attributed to Italian 16th Century,Reported to Bd. 
 previous_attribution,45236,1,Italian 16th Century,Italian 16th Century,Attribution at time of gift,
 previous_attribution,45237,1,Italian 16th Century,Italian 16th Century,Attribution at time of gift,
 previous_attribution,45238,1,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
-previous_attribution,45239,1,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
-previous_attribution,45240,1,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
-previous_attribution,45241,1,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
-previous_attribution,45242,1,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
-previous_attribution,45243,1,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
-previous_attribution,45244,1,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
-previous_attribution,45245,1,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
-previous_attribution,45246,1,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
+previous_attribution,45239,1,Probably Italian 16th Century,"Italian 16th Century, Probably",Change memo 10/9/1991,1991-10-09
+previous_attribution,45239,2,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
+previous_attribution,45240,1,Probably Italian 16th Century,"Italian 16th Century, Probably",Change memo 10/9/1991,1991-10-09
+previous_attribution,45240,2,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
+previous_attribution,45241,1,Probably Italian 16th Century,"Italian 16th Century, Probably",Change memo 10/9/1991,1991-10-09
+previous_attribution,45241,2,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
+previous_attribution,45242,1,Probably Italian 16th Century,"Italian 16th Century, Probably",Change memo 10/9/1991,1991-10-09
+previous_attribution,45242,2,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
+previous_attribution,45243,1,Probably Italian 16th Century,"Italian 16th Century, Probably",Change memo 10/9/1991,1991-10-09
+previous_attribution,45243,2,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
+previous_attribution,45244,1,Probably Italian 16th Century,"Italian 16th Century, Probably",Change memo 10/9/1991,1991-10-09
+previous_attribution,45244,2,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
+previous_attribution,45245,1,Probably Italian 16th Century,"Italian 16th Century, Probably",Change memo 10/9/1991,1991-10-09
+previous_attribution,45245,2,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
+previous_attribution,45246,1,Probably Italian 16th Century,"Italian 16th Century, Probably",Change memo 10/9/1991,1991-10-09
+previous_attribution,45246,2,Attributed to Italian 16th Century,"Italian 16th Century, Attributed to",Attribution at time of gift,
+previous_attribution,45247,1,Style of Niccolò Fiorentino,"Niccolò Fiorentino, Style of",Attribution at time of acquisition,""
 previous_attribution,45248,1,Burgundian or North French 14th Century,Burgundian or North French 14th Century,Attribution at time of gift,
 previous_attribution,45249,1,Burgundian or North French 14th Century,Burgundian or North French 14th Century,Attribution at time of gift,
 previous_attribution,45250,1,Burgundian or North French 14th Century,Burgundian or North French 14th Century,Attribution at time of gift,
@@ -1793,6 +1804,7 @@ previous_attribution,45481,1,Antignate School,Antignate School,Attribution at ti
 previous_attribution,45482,1,Antignate School,Antignate School,Attribution at time of gift,
 previous_attribution,45489,1,Florentine 16th Century,Florentine 16th Century,Attribution at time of gift,
 previous_attribution,45490,1,Florentine 16th Century,Florentine 16th Century,Attribution at time of gift,
+previous_attribution,45501,1,Italian 16th Century,Italian 16th Century,Attribution at time of acquisition,""
 previous_title,45507,2,"Galeazzo Maria Sforza, 1444-1476, 5th Duke of Milan 1466 [obverse]",,Change memo 11/27/1984,
 previous_attribution,45509,1,Attributed to Niccolò Fiorentino,"Niccolò Fiorentino, Attributed to",Attribution at time of acquisition,""
 previous_attribution,45510,1,Attributed to Niccolò Fiorentino,"Niccolò Fiorentino, Attributed to",Attribution at time of acquisition,""
@@ -1806,6 +1818,7 @@ previous_attribution,45549,1,Matthes Gebel (?) or Peter Flötner (?),"Gebel, Mat
 previous_attribution,45550,1,Matthes Gebel (?) or Peter Flötner (?),"Gebel, Matthes (?) or Peter Flötner (?)",Attribution at time of gift,
 previous_attribution,45553,1,Master L,Master L,Attribution at time of gift,
 previous_attribution,45554,1,Master L,Master L,Attribution at time of gift,
+previous_attribution,45560,1,French 17th Century,French 17th Century,Attribution at time of acquisition,""
 previous_attribution,45565,1,Attributed to Matthes Gebel,"Gebel, Matthes, Attributed to",Attribution at time of gift,
 previous_attribution,45566,1,Attributed to Matthes Gebel,"Gebel, Matthes, Attributed to",Attribution at time of gift,
 previous_attribution,45596,1,Pietro Torrigiano,"Torrigiano, Pietro",Attribution at time of acquisition,""
@@ -2464,6 +2477,8 @@ previous_title,73065,3,Polka Dot Blouse (I),,,
 previous_title,73066,3,Polka Dot Blouse (II),,,
 previous_title,73067,3,Polka Dot Blouse (III),,,
 previous_title,73068,3,Polka Dot Blouse (IV),,,
+previous_attribution,73396,1,Follower of Moderno,"Moderno, Follower of",Attribution at time of acquisition,""
+previous_attribution,73397,1,Follower of Moderno,"Moderno, Follower of",Attribution at time of acquisition,""
 previous_attribution,73399,1,Antonio Canova,"Canova, Antonio",Attribution at time of acquisition,
 previous_attribution,73509,1,Francisco Ribalta,"Ribalta, Francisco",,
 previous_attribution,73510,1,Francisco Ribalta,"Ribalta, Francisco",,
