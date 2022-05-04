@@ -16,6 +16,7 @@
  markings                    | character varying        | 
  attributioninverted         | character varying(1024)  | 
  attribution                 | character varying(1024)  | 
+ provenancetext              | character varying        | 
  creditline                  | character varying(2048)  | 
  classification              | character varying(64)    | 
  subclassification           | character varying(64)    | 
