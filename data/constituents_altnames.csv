@@ -2408,7 +2408,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2537,2544,Grosz,"Grosz, George",,Preferred Name
 2538,2545,Guardi,"Guardi, Giacomo",,Preferred Name
 2539,2546,Mucha,"Mucha, Alphonse Marie",,Preferred Name
-2540,2547,Müller,"Müller, Otto",,Preferred Name
+2540,2547,Mueller,"Mueller, Otto",,Preferred Name
 2541,2548,Guerra,"Guerra, Giovanni",,Preferred Name
 2542,2549,Labille-Guiard,"Labille-Guiard, Adélaïde",,Preferred Name
 2543,2550,Guttuso,"Guttuso, Renato",,Preferred Name
@@ -19009,7 +19009,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32937,2538,Bourguignon d'Anville,"Bourguignon d'Anville, Hubert François",,Variant
 32938,2540,Griggs,"Griggs, Frederick Landseer Maur",,Variant
 32939,2546,Mucha,"Mucha, Alfons",,Variant
-32940,2547,Mueller,"Mueller, Otto",,Variant
+32940,2547,Müller,"Müller, Otto",,Variant
 32941,2549,Labille-Guyard,Labille-Guyard,,Variant
 32942,2551,Guys,"Guys, Ernest Adolphe Hyacinthe Constantin",,Variant
 32943,2553,Haden,"Haden, Francis Seymour Sir",,Variant
@@ -32795,3 +32795,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61551,33263,Campbell,"Campbell, Charles M.",,Variant
 61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
 61555,38562,Bischoff,"Bischoff, Elmer",,Variant
+61563,52510,Errard,"Errard, Charles",,Preferred Name
+61566,52511,van den Aveele,"Aveele, Johannes, van den",,Preferred Name
+61568,52512,Marseus van Schrieck,"Marseus van Schrieck, Otto",,Preferred Name
