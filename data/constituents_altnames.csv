@@ -10853,6 +10853,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13492,13499,Langenheim,"Langenheim, William",,Preferred Name
 13493,13500,Langenheim,"Langenheim, Frederick",,Preferred Name
 13496,13503,Vance,"Vance, Robert H.",,Preferred Name
+13497,13504,Brady,"Brady, Mathew B.",,Preferred Name
 13501,13508,Gardner,"Gardner, Alexander",,Preferred Name
 13502,13509,Russell,"Russell, Andrew Joseph",,Preferred Name
 13503,13510,Kimball,"Kimball, Myron H.",,Preferred Name
@@ -23523,6 +23524,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40176,34347,,Building Fund,,Preferred Name
 40177,34348,,Sprüth Magers,,Preferred Name
 40178,34349,Demand,"Demand, Thomas",,Preferred Name
+61202,23608,Hawes,"Hawes, J. J.",,Variant
 40180,34351,Jones,"Jones, Lawrence Arthur",,Preferred Name
 40181,34352,,"Glen Twins, The",,Preferred Name
 40184,34355,,"Print Research Foundation, The",,Preferred Name
@@ -27341,6 +27343,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 52523,45732,Yoshida,"Yoshida, Ray",,Preferred Name
 52538,45747,Teniers II,"Teniers II, David",,Preferred Name
 52555,45764,Davis,Davis,,Preferred Name
+52567,45776,Bodine,"Bodine, A. Aubrey",,Preferred Name
 52679,45888,Parr,"Parr, Martin",,Preferred Name
 52681,45890,Davies,"Davies, John",,Preferred Name
 52691,37725,Rubinfien,"Rubinfien, Leo",,Preferred Name
@@ -27480,6 +27483,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53166,46344,Hicks,"Hicks, George Elgar",,Preferred Name
 53167,46345,Leunig,"Leunig, A.",,Preferred Name
 53168,42194,Barthé,"Barthé, James Richmond",,Full Name
+53172,13504,Brady,"Brady, Mathew",,Variant
 53173,25429,Frost,"Frost, Arthur Burdett",,Variant
 53174,32766,Dickinson,"Dickinson, Edwin",,Variant
 53176,9720,Nef,"Nef, John Ulric Mrs.",,Married Name
@@ -31838,6 +31842,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59594,51005,,ACME Newspictures,,Preferred Name
 59595,51006,Le Blond,"Le Blond, Jean",,Preferred Name
 59607,51018,,United States Navy,,Preferred Name
+59610,51021,Morter,Mesdames Morter,,Preferred Name
 59611,51022,,Ad. Braun & Co.,,Preferred Name
 59612,51023,Ferrill,"Ferrill, Mikki",,Preferred Name
 59613,19948,Quellinus,,,Variant
@@ -32436,6 +32441,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60513,51656,Lobanov-Rostovski,"Lobanov-Rostovski, Alexandre Iakovlevitch Prince",,Preferred Name
 60514,51656,Lobanoff-Rostovsky,"Lobanoff-Rostovsky, A. Y. Prince",,Variant
 60515,51657,Russian 18th Century,Russian 18th Century,,Preferred Name
+60516,51658,Morter,"Morter, Reta",,Preferred Name
+60517,51659,Morter,"Morter, Dorothy",,Preferred Name
 60518,51498,Light,"Light, Joe Lewis",,Full Name
 60523,741,Fourcade,"Fourcade, Xavier",,Variant
 60525,51664,Denny,"Denny, William Sir",,Preferred Name
@@ -32643,6 +32650,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60951,51987,MacMillan,"MacMillan, Nivan",,Preferred Name
 60952,51988,Morgan,"Morgan, Shiela",,Preferred Name
 60953,51989,,Pandolfini Casa d'Aste,,Preferred Name
+60960,51996,,Orkin/Engel Film and Photo Archive,,Preferred Name
 60963,2887,Allais-Briceau,"Allais-Briceau, Angélique",,Variant
 60964,51999,Miller,"Miller, Jeannette",,Preferred Name
 60970,52005,Muholi,"Muholi, Zanele",,Preferred Name
@@ -32732,7 +32740,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61186,52183,Hofshi,"Hofshi, Orit",,Preferred Name
 61187,52182,Thompkins,"Thompkins, Cade",,Variant
 61195,17722,,,,Variant
-61202,23608,Hawes,"Hawes, J. J.",,Variant
 61235,52222,,Janus Press,,Preferred Name
 61238,52225,Miller-Brown,"Miller-Brown, Andrew",,Preferred Name
 61243,52229,Renard,"Renard, Jean Augustin",,Preferred Name
