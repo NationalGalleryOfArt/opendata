@@ -23524,7 +23524,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40176,34347,,Building Fund,,Preferred Name
 40177,34348,,Sprüth Magers,,Preferred Name
 40178,34349,Demand,"Demand, Thomas",,Preferred Name
-61202,23608,Hawes,"Hawes, J. J.",,Variant
+61195,17722,,,,Variant
 40180,34351,Jones,"Jones, Lawrence Arthur",,Preferred Name
 40181,34352,,"Glen Twins, The",,Preferred Name
 40184,34355,,"Print Research Foundation, The",,Preferred Name
@@ -24300,6 +24300,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41440,35315,Lange,"Lange, Otto",,Preferred Name
 41441,35316,Leopold,"Leopold, Franz Joseph",,Preferred Name
 41442,35317,Meyer,"Meyer, Johann Heinrich",,Preferred Name
+61202,23608,Hawes,"Hawes, J. J.",,Variant
 41443,35318,Molzahn,"Molzahn, Johannes",,Preferred Name
 41444,35319,Morgner,"Morgner, Wilhelm",,Preferred Name
 41445,35320,Muche,"Muche, Georg",,Preferred Name
@@ -32248,6 +32249,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60216,51455,Wright,"Wright, Tom",,Preferred Name
 60218,47721,Dahl,"Dahl, Louise",,Maiden Name
 60223,49826,Игнатович,"Игнатович, Елизавета",,Birth Name
+60225,51457,Mylayne,"Mylayne, Jean-Luc",,Preferred Name
 60226,51458,Cassatt,"Cassatt, Alexander Johnston",,Preferred Name
 60227,51459,Thayer,"Thayer, Lois Buchanan Cassatt",,Preferred Name
 60228,38556,Vehr,"Vehr, Julie Thayer Iselin",,Full Name
@@ -32715,6 +32717,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61105,52112,Beenkens,"Beenkens, Hubert",,Preferred Name
 61106,52113,Deman,"Deman, Edmond",,Preferred Name
 61112,52119,Talbot,"Talbot, Christopher Rice Mansel",,Preferred Name
+61114,52121,,Chambolle-Duru,,Preferred Name
 61115,52122,Smith,"Smith, John Thomas",,Preferred Name
 61129,52136,Phillips,"Phillips, Stephen Mr.",,Preferred Name
 61130,52137,Lesire,"Lesire, Paulus",,Preferred Name
@@ -32739,7 +32742,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61185,52182,,Cade Thompkins Projects,,Preferred Name
 61186,52183,Hofshi,"Hofshi, Orit",,Preferred Name
 61187,52182,Thompkins,"Thompkins, Cade",,Variant
-61195,17722,,,,Variant
 61235,52222,,Janus Press,,Preferred Name
 61238,52225,Miller-Brown,"Miller-Brown, Andrew",,Preferred Name
 61243,52229,Renard,"Renard, Jean Augustin",,Preferred Name
@@ -32806,5 +32808,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61566,52511,van den Aveele,"Aveele, Johannes, van den",,Preferred Name
 61568,52512,Marseus van Schrieck,"Marseus van Schrieck, Otto",,Preferred Name
 61569,52513,Drouais,"Drouais, Jean Germain",,Preferred Name
+61573,52517,Croce,"Croce, Giulio Cesare",,Preferred Name
 61616,52560,Liegme,"Liegme, Jean-François",,Preferred Name
 61619,52563,Bellenger,"Bellenger, Clément",,Preferred Name
+61625,52567,Vanson,"Vanson, Adrian",,Preferred Name
+61626,52568,Bonenfant,"Bonenfant, Antoine",,Preferred Name
