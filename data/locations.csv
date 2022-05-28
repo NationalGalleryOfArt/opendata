@@ -129,6 +129,11 @@ locationid,site,room,publicaccess,description,unitposition
 6493,West Building,G-025,1,West Ground Floor Gallery 25,N
 6494,West Building,G-025,1,West Ground Floor Gallery 25,S
 6495,West Building,G-025,1,West Ground Floor Gallery 25,W
+6497,West Building,G-026,1,West Ground Floor Gallery 26,
+6498,West Building,G-026,1,West Ground Floor Gallery 26,E
+6499,West Building,G-026,1,West Ground Floor Gallery 26,N
+6500,West Building,G-026,1,West Ground Floor Gallery 26,S
+6501,West Building,G-026,1,West Ground Floor Gallery 26,W
 6502,West Building,G-026-A,1,West Ground Floor Gallery 26A,
 6503,West Building,G-026-A,1,West Ground Floor Gallery 26A,E
 6504,West Building,G-026-A,1,West Ground Floor Gallery 26A,N
@@ -297,26 +302,6 @@ locationid,site,room,publicaccess,description,unitposition
 8272,West Building,M-017,1,West Main Floor Gallery 17,N
 8273,West Building,M-017,1,West Main Floor Gallery 17,S
 8274,West Building,M-017,1,West Main Floor Gallery 17,W
-8275,West Building,M-018,1,West Main Floor Gallery 18,
-8276,West Building,M-018,1,West Main Floor Gallery 18,E
-8277,West Building,M-018,1,West Main Floor Gallery 18,N
-8278,West Building,M-018,1,West Main Floor Gallery 18,S
-8279,West Building,M-018,1,West Main Floor Gallery 18,W
-8280,West Building,M-019,1,West Main Floor Gallery 19,
-8281,West Building,M-019,1,West Main Floor Gallery 19,E
-8282,West Building,M-019,1,West Main Floor Gallery 19,N
-8283,West Building,M-019,1,West Main Floor Gallery 19,S
-8284,West Building,M-019,1,West Main Floor Gallery 19,W
-8285,West Building,M-020,1,West Main Floor Gallery 20,
-8286,West Building,M-020,1,West Main Floor Gallery 20,E
-8287,West Building,M-020,1,West Main Floor Gallery 20,N
-8288,West Building,M-020,1,West Main Floor Gallery 20,S
-8289,West Building,M-020,1,West Main Floor Gallery 20,W
-8290,West Building,M-021,1,West Main Floor Gallery 21,
-8291,West Building,M-021,1,West Main Floor Gallery 21,E
-8292,West Building,M-021,1,West Main Floor Gallery 21,N
-8293,West Building,M-021,1,West Main Floor Gallery 21,S
-8294,West Building,M-021,1,West Main Floor Gallery 21,W
 8295,West Building,M-022,1,West Main Floor Gallery 22,
 8296,West Building,M-022,1,West Main Floor Gallery 22,E
 8297,West Building,M-022,1,West Main Floor Gallery 22,N
@@ -763,7 +748,6 @@ locationid,site,room,publicaccess,description,unitposition
 9329,West Building,G-043,1,West Ground Floor Gallery 43,WEST BAFFLE
 9332,West Building,G-019,1,West Ground Floor Gallery 19,CENTER
 9339,West Building,G-032,1,West Ground Floor Gallery 32,CENTER
-9349,West Building,M-021,1,West Main Floor Gallery 21,CENTER
 9350,West Building,M-025,1,West Main Floor Gallery 25,CENTER
 9354,West Building,G-029,1,West Ground Floor Gallery 29,CENTER
 9355,West Building,G-029,1,West Ground Floor Gallery 29,SOUTH BAFFLE
