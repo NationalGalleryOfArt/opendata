@@ -1057,7 +1057,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1132,,Couturier - Nicolay,Couturier - Nicolay,,,0,,,,,Other,corporate
 1133,,Stabilimento Falivo,Stabilimento Falivo,,,0,,,,,Other,corporate
 1188,,"Gibbs, Charles F., Dr. and Mrs.",Dr. and Mrs. Charles F. Gibbs,Gibbs,,0,,,,,Other,couple
-52434,,"Dunnett, Chris",Chris Dunnett,Dunnett,,1,,,,,Other,individual
+52433,,"Chun, Sam",Sam Chun,Chun,,1,,,,,Other,individual
 1134,500019612,Chipman,Chipman,Chipman,"American, active mid 19th century",1,1770,1910,1751 to 1775,American,American,individual
 1135,,"Nocentini, Armando, Professor",Professor Armando Nocentini,Nocentini,,0,,,,,Other,individual
 1136,500032549,"Christus, Petrus",Petrus Christus,Christus,"Netherlandish, active 1444 - 1475/1476",1,1424,1475,1401 to 1500,Netherlandish,Netherlandish,individual
@@ -1128,6 +1128,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1311,500010957,"Foppa, Vincenzo",Vincenzo Foppa,Foppa,"Lombard, c. 1430 - 1515/1516",1,1430,1516,1401 to 1500,Italian,Italian,individual
 1312,,"Marin, Norma B., Mrs.",Mrs. Norma B. Marin,Marin,,0,,,,,Other,individual
 1313,,"Nitze, II, William, The Honorable and Mrs.","The Honorable and Mrs. William Nitze, II",Nitze,,0,,,,,Other,couple
+52434,,"Dunnett, Chris",Chris Dunnett,Dunnett,,1,,,,,Other,individual
 1199,500022204,"Cuitt the Younger, George",George Cuitt the Younger,Cuitt the Younger,"British, 1779 - 1854",1,1779,1854,1776 to 1800,British,British,individual
 1200,500115503,"Curry, John Steuart",John Steuart Curry,Curry,"American, 1897 - 1946",1,1897,1946,1876 to 1900,American,American,individual
 1201,500048672,"Cushing, Lily",Lily Cushing,Cushing,"American, 1909 - 1969",1,1909,1969,1901 to 1925,American,American,individual
@@ -11253,6 +11254,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 15870,500003966,"Strozzi, Zanobi",Zanobi Strozzi,Strozzi,"Italian, 1412 - 1468",1,1412,1468,1401 to 1500,Italian,Italian,individual
 15873,500020323,"Dies, Albert Christoph",Albert Christoph Dies,Dies,"Austrian, 1755 - 1822",1,1755,1822,1751 to 1775,Austrian,Austrian,individual
 15874,500021993,"Mechau, Jacob Wilhelm",Jacob Wilhelm Mechau,Mechau,"German, 1745 - 1808",1,1745,1808,1726 to 1750,German,German,individual
+15910,,"Phyfe, Duncan",Duncan Phyfe,Phyfe,"American, 1768 - 1854",1,1768,1854,1751 to 1775,American,American,individual
 15915,,Fondation Maeght,Fondation Maeght,,,1,,,,French,French,corporate
 15950,,"Perls, Klaus",Klaus Perls,Perls,"American, born Germany, 1912 - 2008",0,1912,2008,1901 to 1925,American,American,individual
 15958,,"Steinberg, Saul P.",Mr. Saul P. Steinberg,Steinberg,,0,,,,,Other,individual
@@ -21937,7 +21939,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 43009,,"Bradley, George Lothrop",Mr. and Mrs. George Lothrop Bradley,Bradley,he: 1848 - 1906; she: 1856 - 1919,0,,,,,Other,couple
 43010,,"Stone, William J. Mr. and Mrs.",Mr. and Mrs. William J. Stone,Stone,he: 1798 - 1865; she: 1804 - 1892,0,1798,1892,1776 to 1800,American,American,couple
 43011,,"Smith, James D.",James D. Smith,Smith,,0,,,,,Other,individual
-43012,500451067,"Lewis, Samella",Samella Lewis,Lewis,"American, born 1924",1,1924,,1901 to 1925,American,American,individual
+43012,500451067,"Lewis, Samella",Samella Lewis,Lewis,"American, 1924 - 2022",1,1924,2022,1901 to 1925,American,American,individual
 43013,,"Kohs, Anne",Anne Kohs,Kohs,,0,,,,,Other,individual
 43014,,"Moss, Mr. and Mrs. Frank",Mr. and Mrs. Frank Moss,Moss,he: 1838 - 1924; she: 1846 - 1938,0,,,,,Other,couple
 43018,,"Walker, Mary Emma Griffin",Estate of Mary Emma Griffin Walker,,,0,,,,,Other,corporate
@@ -25699,6 +25701,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51615,,"Hempel, Wes",Wes Hempel,Hempel,"American, born 1953",1,1953,,1951 to 1975,American,American,individual
 51616,,Swoon,Swoon,,"American, born 1977",1,1977,,1976 to 2000,American,American,individual
 51617,,"Ellis, Frederick Startridge",Frederick Startridge Ellis,Ellis,"British, 1830 - 1901",0,1830,1901,1826 to 1850,British,British,individual
+51618,500114640,"Havel, Joseph",Joseph Havel,Havel,"American, born 1954",1,1954,,1951 to 1975,American,American,individual
+51619,,"Lowe, Rick",Rick Lowe,Lowe,"American, born 1961",1,1961,,1951 to 1975,American,American,individual
 51620,500332855,"Cinto, Sandra",Sandra Cinto,Cinto,"Brazilian, born 1968",1,1968,,1951 to 1975,Brazilian,Other,individual
 51626,,"Villalongo, William",William Villalongo,Villalongo,"American, born 1975",1,1975,,1951 to 1975,American,American,individual
 51627,,"Eliav, Oren",Oren Eliav,Eliav,"Israeli, born 1975",1,1975,,1951 to 1975,Israeli,Other,individual
@@ -25902,10 +25906,11 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52119,,"Talbot, Christopher Rice Mansel",Christopher Rice Mansel Talbot,Talbot,"British, 1803 - 1890",0,1803,1890,1801 to 1825,British,British,individual
 52121,,Chambolle-Duru,Chambolle-Duru,,,1,1861,1915,1851 to 1875,,Other,corporate
 52122,,"Smith, John Thomas",John Thomas Smith,Smith,"English, 1766-1833",1,1766,1833,1751 to 1775,English,English,individual
-52433,,"Chun, Sam",Sam Chun,Chun,,1,,,,,Other,individual
+52432,,"Sanders, Phil",Phil Sanders,Sanders,,1,,,,,Other,individual
 52137,,"Lesire, Paulus",Paulus Lesire,Lesire,"Dutch, 1611 - after 1656",1,1611,1656,1601 to 1650,Dutch,Dutch,individual
 52139,,"Schurman, Anna Maria van",Anna Maria van Schurman,van Schurman,"Dutch, 1607 - 1678",1,1607,1678,1601 to 1650,Dutch,Dutch,individual
 52150,,"Dallwitz, Wolfgang von",Wolfgang von Dallwitz,Dallwitz,"German, 1863-1928",0,1863,1928,1851 to 1875,German,German,individual
+52155,,"Bolton, John",John Bolton,Bolton,,0,,,,,Other,individual
 52156,,"Cowan, Alexander A.",Alexander A. Cowan,Cowan,"British, 1867 - 1955",0,1867,1955,1851 to 1875,British,British,individual
 52157,,"Ott, Joseph K. and Anne",Joseph K. and Anne Ott,Ott,"American, he: 1929 - 1994",0,1929,1994,1926 to 1950,American,American,couple
 52158,,Mann Paller Foundation,Mann Paller Foundation,,,0,,,,,Other,corporate
@@ -25947,7 +25952,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52428,,"Olsoufiev, Adam Vassilievitch",Adam Vassilievitch Olsoufiev,Olsoufiev,"Russian, 1721 - 1784",0,1721,1784,1701 to 1725,Russian,Russian,individual
 52429,,"Casimir-Périer, Charles Fortunat Paul",Charles Fortunat Paul Casimir-Périer,Casimir-Périer,"French, 1812 - 1897",0,1812,1897,1801 to 1825,French,French,individual
 52431,,Robert Blackburn Printmaking Workshop,Robert Blackburn Printmaking Workshop,,,1,,,,,Other,corporate
-52432,,"Sanders, Phil",Phil Sanders,Sanders,,1,,,,,Other,individual
 52436,,Pook & Pook Inc.,Pook & Pook Inc.,Pook & Pook Inc.,"American, est. 1984",0,1984,,1976 to 2000,American,American,corporate
 52437,,Skinner Auctioneers,Skinner Auctioneers,Skinner Auctioneers,,0,,,,,Other,corporate
 52444,,"Dietel, Albin Woldemar von",Albin Woldemar von Dietel,von Dietel,"German, 1861 - 1928",0,1861,1928,1851 to 1875,German,German,individual
