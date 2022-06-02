@@ -1194,7 +1194,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1255,,"Durand, John",John Durand,Durand,"American, active 1765/1782",1,1702,1825,1701 to 1725,American,American,individual
 1256,500115493,"Dürer, Albrecht",Albrecht Dürer,Dürer,"German, 1471 - 1528",1,1471,1528,1401 to 1500,German,German,individual
 1257,,"Dutterer, William",William Dutterer,Dutterer,"American, 1943 - 2007",1,1943,2007,1926 to 1950,American,American,individual
-1258,500006974,"Duveneck, Frank",Frank Duveneck,Duveneck,"American, 1848 - 1919",1,1848,1919,1826 to 1850,,Other,individual
+1258,500006974,"Duveneck, Frank",Frank Duveneck,Duveneck,"American, 1848 - 1919",1,1848,1919,1826 to 1850,American,American,individual
 1259,500115190,"Dyck, Anthony van, Sir",Sir Anthony van Dyck,Dyck,"Flemish, 1599 - 1641",1,1599,1641,1551 to 1600,Flemish,Flemish,individual
 1260,500115198,"Eakins, Thomas",Thomas Eakins,Eakins,"American, 1844 - 1916",1,1844,1916,1826 to 1850,American,American,individual
 1261,500116241,"Earl, Ralph",Ralph Earl,Earl,"American, 1751 - 1801",1,1751,1801,1751 to 1775,American,American,individual
@@ -23826,7 +23826,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48603,500013267,"Sert, José María",José María Sert,Sert,"Spanish, 1874 - 1945",1,1874,1945,1851 to 1875,Spanish,Spanish,individual
 48605,500333282,"Shadbolt, George","George Shadbolt, Esq.",Shadbolt,"British, 1830 - 1901",1,1830,1901,1826 to 1850,British,British,individual
 48606,,"Dillwyn, Mary",Mary Dillwyn,Dillwyn,"Welsh, 1816 - 1906",1,1816,1906,1801 to 1825,Welsh,Other,individual
-48607,,"Dittrich, Paul",Paul Dittrich,Dittrich,"Austrian, 1868 - 1939",1,1868,1939,1851 to 1875,,Other,individual
+48607,,"Dittrich, Paul",Paul Dittrich,Dittrich,"Austrian, 1868 - 1939",1,1868,1939,1851 to 1875,Austrian,Austrian,individual
 48608,,"Thivier, Paul",Paul Thivier,Thivier,"French, 19th century",1,1800,1900,1776 to 1800,French,French,individual
 48609,,"Dudgeon, John William",John William Dudgeon,Dudgeon,"Scottish, died 1865",1,1765,1865,1751 to 1775,Scottish,Scottish,individual
 48610,,Filmer Lady,Lady Filmer,Filmer,"British, 1838 - 1903",1,1838,1903,1826 to 1850,British,British,individual
@@ -25012,7 +25012,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50568,,Galerie Larsson,Galerie Larsson,,,0,,,,,Other,corporate
 50569,,"Moss, William",William Moss,Moss,"British, active 1775-1782",1,1775,1782,1751 to 1775,British,British,individual
 50570,,Karen Taylor Fine Art,Karen Taylor Fine Art,,,0,,,,,Other,corporate
-50571,,"Noel, Amelia",Amelia Noel,Noel,"British, 1794 - 1810",1,1794,1810,1776 to 1800,British,British,individual
+50571,,"Noel, Amelia",Amelia Noel,Noel,"British, 1759 - 1818",1,1759,1818,1751 to 1775,British,British,individual
 50572,,"Pywell, William Redish",William Redish Pywell,Pywell,"American, 1843 - 1887",1,1843,1887,1826 to 1850,American,American,individual
 50573,500357224,Wood & Gibson,Wood & Gibson,,"American, active 1860s",1,,,,American,American,corporate
 50574,,"Kölderer, Jorg",Jorg Kölderer,Kölderer,"German, active 1497 - 1540",1,1497,1540,1401 to 1500,German,German,individual
@@ -25588,7 +25588,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51432,,Robert Balmanno,Robert Balmanno,,"British, 1780 - 1866",0,1780,1866,1776 to 1800,British,British,individual
 51433,,"Paar, Karl Prince",Prince Karl Paar,Paar,"Austrian, 1772 - 1819",0,1772,1819,1751 to 1775,Austrian,Austrian,individual
 51434,,"Farmer, Emily",Emily Farmer,Farmer,"British, 1826 - 1905",1,1826,1905,1826 to 1850,British,British,individual
-51435,,"Selby, Miss",Miss Selby,Selby,"British, mid 19th century",1,1800,1899,1776 to 1800,British,British,individual
+51435,,Selby Miss,Miss Selby,Selby,"British, mid 19th century",1,1800,1899,1776 to 1800,British,British,individual
 51436,,Finnish 20th Century,Finnish 20th Century,Finnish 20th Century,,1,1900,1999,1876 to 1900,,Other,anonymous
 51437,,"Howard, Henry Ralph Mowbray",Henry Ralph Mowbray Howard,Howard,"British, born 1883",0,1883,,1876 to 1900,British,British,individual
 51438,,"Vivenel, Antoine",Antoine Vivenel,Vivenel,"French, 1799 - 1862",0,1799,1862,1776 to 1800,French,French,individual
@@ -25973,6 +25973,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52512,,"Marseus van Schrieck, Otto",Otto Marseus van Schrieck,Marseus van Schrieck,"Dutch, 1619 or 1620 - 1678",1,1619,1678,1601 to 1650,Dutch,Dutch,individual
 52513,,"Drouais, Jean Germain",Jean-Germain Drouais,Drouais,"French, 1763 - 1788",1,1763,1788,1751 to 1775,French,French,individual
 52517,,"Croce, Giulio Cesare",Giulio Cesare Croce,Croce,"Bolognese, 1550 - 1609",1,1550,1609,1501 to 1550,Bolognese,Other,individual
+52557,,"Frost, Henry Harvey",Henry Harvey Frost,Frost,"English, 1873 - 1969",0,1873,1969,1851 to 1875,English,English,individual
 52560,,"Liegme, Jean-François",Jean-François Liegme,Liegme,"Swiss, 1922 - 1977",1,1922,1977,1901 to 1925,Swiss,Swiss,individual
 52563,,"Bellenger, Clément",Clément Bellenger,Bellenger,"French, 1851 - 1898",1,1851,1898,1851 to 1875,French,French,individual
 52567,,"Vanson, Adrian",Adrian Vanson,Vanson,"Dutch, died c. 1602",1,,1602,,Dutch,Dutch,individual
