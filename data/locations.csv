@@ -264,6 +264,7 @@ locationid,site,room,publicaccess,description,unitposition
 8219,West Building,M-006,1,West Main Floor Gallery 6,S
 8220,West Building,M-006,1,West Main Floor Gallery 6,W
 8221,West Building,M-007,1,West Main Floor Gallery 7,
+10388,West Building,M-104,1,West Garden Court,N
 8222,West Building,M-007,1,West Main Floor Gallery 7,E
 8223,West Building,M-007,1,West Main Floor Gallery 7,N
 8224,West Building,M-007,1,West Main Floor Gallery 7,S
@@ -337,125 +338,6 @@ locationid,site,room,publicaccess,description,unitposition
 8328,West Building,M-028,1,West Main Floor Gallery 28,N
 8329,West Building,M-028,1,West Main Floor Gallery 28,S
 8330,West Building,M-028,1,West Main Floor Gallery 28,W
-8331,West Building,M-029,1,West Main Floor Gallery 29,
-8332,West Building,M-029,1,West Main Floor Gallery 29,E
-8333,West Building,M-029,1,West Main Floor Gallery 29,N
-8334,West Building,M-029,1,West Main Floor Gallery 29,S
-8335,West Building,M-029,1,West Main Floor Gallery 29,W
-8336,West Building,M-030,1,West Main Floor Gallery 30,
-8337,West Building,M-030,1,West Main Floor Gallery 30,E
-8338,West Building,M-030,1,West Main Floor Gallery 30,N
-8339,West Building,M-030,1,West Main Floor Gallery 30,S
-8340,West Building,M-030,1,West Main Floor Gallery 30,W
-8341,West Building,M-031,1,West Main Floor Gallery 31,
-8342,West Building,M-031,1,West Main Floor Gallery 31,E
-8343,West Building,M-031,1,West Main Floor Gallery 31,N
-8344,West Building,M-031,1,West Main Floor Gallery 31,S
-8345,West Building,M-031,1,West Main Floor Gallery 31,W
-8346,West Building,M-032,1,West Main Floor Gallery 32,
-8347,West Building,M-032,1,West Main Floor Gallery 32,E
-8348,West Building,M-032,1,West Main Floor Gallery 32,N
-8349,West Building,M-032,1,West Main Floor Gallery 32,S
-8350,West Building,M-032,1,West Main Floor Gallery 32,W
-8351,West Building,M-033,1,West Main Floor Gallery 33,
-8352,West Building,M-033,1,West Main Floor Gallery 33,E
-8353,West Building,M-033,1,West Main Floor Gallery 33,N
-8354,West Building,M-033,1,West Main Floor Gallery 33,S
-8355,West Building,M-033,1,West Main Floor Gallery 33,W
-8356,West Building,M-034,1,West Main Floor Gallery 34,
-8357,West Building,M-034,1,West Main Floor Gallery 34,E
-8358,West Building,M-034,1,West Main Floor Gallery 34,N
-8359,West Building,M-034,1,West Main Floor Gallery 34,S
-8360,West Building,M-034,1,West Main Floor Gallery 34,W
-8361,West Building,M-035,1,West Main Floor Gallery 35,
-8362,West Building,M-035,1,West Main Floor Gallery 35,E
-8363,West Building,M-035,1,West Main Floor Gallery 35,N
-8364,West Building,M-035,1,West Main Floor Gallery 35,S
-8365,West Building,M-035,1,West Main Floor Gallery 35,W
-8366,West Building,M-035-A,1,West Main Floor Gallery 35 A,
-8367,West Building,M-035-A,1,West Main Floor Gallery 35 A,E
-8368,West Building,M-035-A,1,West Main Floor Gallery 35 A,N
-8369,West Building,M-035-A,1,West Main Floor Gallery 35 A,S
-8370,West Building,M-035-A,1,West Main Floor Gallery 35 A,W
-8371,West Building,M-036,1,West Main Floor Gallery 36,
-8372,West Building,M-036,1,West Main Floor Gallery 36,E
-8373,West Building,M-036,1,West Main Floor Gallery 36,N
-8374,West Building,M-036,1,West Main Floor Gallery 36,S
-8375,West Building,M-036,1,West Main Floor Gallery 36,W
-8376,West Building,M-037,1,West Main Floor Gallery 37,
-8377,West Building,M-037,1,West Main Floor Gallery 37,E
-8378,West Building,M-037,1,West Main Floor Gallery 37,N
-8379,West Building,M-037,1,West Main Floor Gallery 37,S
-8380,West Building,M-037,1,West Main Floor Gallery 37,W
-8381,West Building,M-038,1,West Main Floor Gallery 38,
-8382,West Building,M-038,1,West Main Floor Gallery 38,E
-8383,West Building,M-038,1,West Main Floor Gallery 38,N
-8384,West Building,M-038,1,West Main Floor Gallery 38,S
-8385,West Building,M-038,1,West Main Floor Gallery 38,W
-8386,West Building,M-039,1,West Main Floor Gallery 39,
-8387,West Building,M-039,1,West Main Floor Gallery 39,E
-8388,West Building,M-039,1,West Main Floor Gallery 39,N
-8389,West Building,M-039,1,West Main Floor Gallery 39,S
-8390,West Building,M-039,1,West Main Floor Gallery 39,W
-8391,West Building,M-040,1,West Main Floor Gallery 40,
-8392,West Building,M-040,1,West Main Floor Gallery 40,E
-8393,West Building,M-040,1,West Main Floor Gallery 40,N
-8394,West Building,M-040,1,West Main Floor Gallery 40,S
-8395,West Building,M-040,1,West Main Floor Gallery 40,W
-8396,West Building,M-041,1,West Main Floor Gallery 41,
-8397,West Building,M-041,1,West Main Floor Gallery 41,E
-8398,West Building,M-041,1,West Main Floor Gallery 41,N
-8399,West Building,M-041,1,West Main Floor Gallery 41,S
-8400,West Building,M-041,1,West Main Floor Gallery 41,W
-8401,West Building,M-041-A,1,West Main Floor Gallery 41 A,
-8402,West Building,M-041-A,1,West Main Floor Gallery 41 A,E
-8403,West Building,M-041-A,1,West Main Floor Gallery 41 A,N
-8404,West Building,M-041-A,1,West Main Floor Gallery 41 A,S
-8405,West Building,M-041-A,1,West Main Floor Gallery 41 A,W
-8406,West Building,M-042,1,West Main Floor Gallery 42,
-8407,West Building,M-042,1,West Main Floor Gallery 42,E
-8408,West Building,M-042,1,West Main Floor Gallery 42,N
-8409,West Building,M-042,1,West Main Floor Gallery 42,S
-8410,West Building,M-042,1,West Main Floor Gallery 42,W
-8411,West Building,M-043,1,West Main Floor Gallery 43,
-8412,West Building,M-043,1,West Main Floor Gallery 43,E
-8413,West Building,M-043,1,West Main Floor Gallery 43,N
-8414,West Building,M-043,1,West Main Floor Gallery 43,S
-8415,West Building,M-043,1,West Main Floor Gallery 43,W
-8416,West Building,M-044,1,West Main Floor Gallery 44,
-8417,West Building,M-044,1,West Main Floor Gallery 44,E
-8418,West Building,M-044,1,West Main Floor Gallery 44,S
-8419,West Building,M-044,1,West Main Floor Gallery 44,W
-8420,West Building,M-045,1,West Main Floor Gallery 45,
-8421,West Building,M-045,1,West Main Floor Gallery 45,E
-8422,West Building,M-045,1,West Main Floor Gallery 45,N
-8423,West Building,M-045,1,West Main Floor Gallery 45,S
-8424,West Building,M-045,1,West Main Floor Gallery 45,W
-8425,West Building,M-046,1,West Main Floor Gallery 46,
-8426,West Building,M-046,1,West Main Floor Gallery 46,E
-8427,West Building,M-046,1,West Main Floor Gallery 46,N
-8428,West Building,M-046,1,West Main Floor Gallery 46,S
-8429,West Building,M-046,1,West Main Floor Gallery 46,W
-8430,West Building,M-047,1,West Main Floor Gallery 47,
-8431,West Building,M-047,1,West Main Floor Gallery 47,E
-8432,West Building,M-047,1,West Main Floor Gallery 47,N
-8433,West Building,M-047,1,West Main Floor Gallery 47,S
-8434,West Building,M-047,1,West Main Floor Gallery 47,W
-8435,West Building,M-048,1,West Main Floor Gallery 48,
-8436,West Building,M-048,1,West Main Floor Gallery 48,E
-8437,West Building,M-048,1,West Main Floor Gallery 48,N
-8438,West Building,M-048,1,West Main Floor Gallery 48,S
-8439,West Building,M-048,1,West Main Floor Gallery 48,W
-8440,West Building,M-049,1,West Main Floor Gallery 49,
-8441,West Building,M-049,1,West Main Floor Gallery 49,E
-8442,West Building,M-049,1,West Main Floor Gallery 49,N
-8443,West Building,M-049,1,West Main Floor Gallery 49,S
-8444,West Building,M-049,1,West Main Floor Gallery 49,W
-8445,West Building,M-050,1,West Main Floor Gallery 50,
-8446,West Building,M-050,1,West Main Floor Gallery 50,E
-8447,West Building,M-050,1,West Main Floor Gallery 50,N
-8448,West Building,M-050,1,West Main Floor Gallery 50,S
-8449,West Building,M-050,1,West Main Floor Gallery 50,W
 8450,West Building,M-050-A,1,West Main Floor Gallery 50 A,
 8451,West Building,M-050-A,1,West Main Floor Gallery 50 A,E
 8452,West Building,M-050-A,1,West Main Floor Gallery 50 A,N
@@ -471,11 +353,6 @@ locationid,site,room,publicaccess,description,unitposition
 8462,West Building,M-050-C,1,West Main Floor Gallery 50 C,N
 8463,West Building,M-050-C,1,West Main Floor Gallery 50 C,S
 8464,West Building,M-050-C,1,West Main Floor Gallery 50 C,W
-8465,West Building,M-051,1,West Main Floor Gallery 51,
-8466,West Building,M-051,1,West Main Floor Gallery 51,E
-8467,West Building,M-051,1,West Main Floor Gallery 51,N
-8468,West Building,M-051,1,West Main Floor Gallery 51,S
-8469,West Building,M-051,1,West Main Floor Gallery 51,W
 8470,West Building,M-052,1,West Main Floor Gallery 52,
 8471,West Building,M-052,1,West Main Floor Gallery 52,E
 8472,West Building,M-052,1,West Main Floor Gallery 52,N
@@ -654,6 +531,7 @@ locationid,site,room,publicaccess,description,unitposition
 8673,West Building,M-084,1,West Main Floor Gallery 84,
 8674,West Building,M-084,1,West Main Floor Gallery 84,E
 8675,West Building,M-084,1,West Main Floor Gallery 84,N
+10389,West Building,M-104,1,West Garden Court,S
 8676,West Building,M-084,1,West Main Floor Gallery 84,S
 8677,West Building,M-084,1,West Main Floor Gallery 84,W
 8678,West Building,M-085,1,West Main Floor Gallery 85,
@@ -719,8 +597,6 @@ locationid,site,room,publicaccess,description,unitposition
 9017,West Building,M-006,1,West Main Floor Gallery 6,CENTER
 9018,West Building,M-022,1,West Main Floor Gallery 22,CENTER
 9019,West Building,M-026,1,West Main Floor Gallery 26,CENTER
-9020,West Building,M-037,1,West Main Floor Gallery 37,CENTER
-9021,West Building,M-039,1,West Main Floor Gallery 39,CENTER
 9032,West Building,G-016,1,West Ground Floor Gallery 16,N
 9033,West Building,G-016,1,West Ground Floor Gallery 16,E
 9034,West Building,G-016,1,West Ground Floor Gallery 16,S
@@ -834,8 +710,6 @@ locationid,site,room,publicaccess,description,unitposition
 10385,West Building,M-104,1,West Garden Court,
 10386,West Building,M-104,1,West Garden Court,CENTER
 10387,West Building,M-104,1,West Garden Court,E
-10388,West Building,M-104,1,West Garden Court,N
-10389,West Building,M-104,1,West Garden Court,S
 10390,West Building,M-104,1,West Garden Court,W
 10391,West Building,M-106,1,West Sculpture Hall,
 10392,West Building,M-106,1,West Sculpture Hall,CENTER
@@ -894,7 +768,6 @@ locationid,site,room,publicaccess,description,unitposition
 13899,West Building,M-077,1,West Main Floor Gallery 77,WEST BAFFLE
 13900,West Building,M-077,1,West Main Floor Gallery 77,EAST BAFFLE
 13931,West Building,G-029,1,West Ground Floor Gallery 29,BAFFLE
-13967,West Building,M-035,1,West Main Floor Gallery 35,BAFFLE
 13989,West Building,M-076,1,West Main Floor Gallery 76,Center
 14173,West Building,M-073-B,1,West Main Floor Gallery 73 B,CENTER
 14174,West Building,M-072,1,West Main Floor Gallery 72,CEILING
