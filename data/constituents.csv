@@ -45,10 +45,10 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 58,,"Davidson, John B., Mr.",Mr. John B. Davidson,Davidson,,0,,,,,Other,individual
 59,,"Millard, Mark Jacob, Mrs.",Mrs. Mark Jacob Millard,Millard,,0,,,,,Other,individual
 60,,"Nasher, Raymond D.",Raymond D. Nasher,Nasher,1921 - 2007,0,1921,2007,1901 to 1925,,Other,individual
-100,,"Lauder, Ronald S., The Honorable and Mrs.",The Honorable and Mrs. Ronald S. Lauder,Lauder,,0,,,,,Other,couple
+99,500029319,"Angelico, Fra",Fra Angelico,Angelico,"Florentine, c. 1395 - 1455",1,1395,1455,1300 to 1400,Italian,Italian,individual
 298,,"Gensburg, David",David Gensburg,Gensburg,,0,,,,,Other,individual
 61,,"Allen, Luther",Luther Allen,Allen,"American, 1780 - 1821",1,1780,1821,1776 to 1800,American,American,individual
-62,,"Rosenwald, Lessing J., Mrs.",Mrs. Lessing J. Rosenwald,Rosenwald,"American, died 1988",0,1888,1988,1876 to 1900,American,American,individual
+62,,"Rosenwald, Lessing J., Mrs.",Mrs. Lessing J. Rosenwald,Rosenwald,"American, 1893 - 1988",0,1893,1988,1876 to 1900,American,American,individual
 64,,"Gray, Edward R., Mrs.",Mrs. Edward R. Gray,Gray,,0,,,,,Other,individual
 65,,"Wolf, Emile E.",Emile E. Wolf,Wolf,"American, 1899 - 1996",0,1899,1996,1876 to 1900,American,American,individual
 66,,"Kirstein, Richard A., Mr. and Mrs.",Mr. and Mrs. Richard A. Kirstein,Kirstein,,0,,,,,Other,couple
@@ -84,7 +84,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 96,,"Vogel, William D., Mrs.",Mrs. William D. Vogel,Vogel,American,0,,,,American,American,individual
 97,,"Walton, John F., Mrs.",Mrs. John F. Walton,Walton,1899 - 2006,0,1899,2006,1876 to 1900,,Other,individual
 98,,"Weisman, Marcia S., Mrs.",Mrs. Marcia S. Weisman,Weisman,"American, 1918 - 1991",0,1918,1991,1901 to 1925,American,American,individual
-99,500029319,"Angelico, Fra",Fra Angelico,Angelico,"Florentine, c. 1395 - 1455",1,1395,1455,1300 to 1400,Italian,Italian,individual
+100,,"Lauder, Ronald S., The Honorable and Mrs.",The Honorable and Mrs. Ronald S. Lauder,Lauder,,0,,,,,Other,couple
 101,,"Tremaine, Sr., Burton G., Mr. and Mrs.","Mr. and Mrs. Burton G. Tremaine, Sr.",Tremaine,"American, he: 1902 - 1991; she: 1908 - 1987",0,1901,1991,1901 to 1925,American,American,couple
 102,,"Whitney, John Hay, Mrs.",Mrs. John Hay Whitney,Whitney,died 1998,0,1909,1998,1901 to 1925,,Other,individual
 103,500014404,"Anselmi, Michelangelo",Michelangelo Anselmi,Anselmi,"Parmese, 1491/1492 - 1554/1556",1,1491,1556,1401 to 1500,Italian,Italian,individual
