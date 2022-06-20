@@ -6,7 +6,7 @@ To the extent permitted by law, the National Gallery of Art waives any copyright
 
 The dataset provides data records relating to the 130,000+ artworks in our collection and the artists who created them.  You can download the dataset free of charge without seeking authorization from the National Gallery of Art.  
 
-The dataset is published in CSV format and uses UTF-8 encoding.  A [data dictionary](https://github.com/NationalGalleryOfArt/opendata/blob/master/documentation) fully describes the dataset.
+The dataset is published in CSV format and uses UTF-8 encoding.  A [data dictionary](https://github.com/NationalGalleryOfArt/opendata/blob/main/documentation) fully describes the dataset.
 
 ## Additional usage guidelines
 
