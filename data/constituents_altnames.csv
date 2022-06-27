@@ -8924,7 +8924,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9377,9384,Schultz,"Schultz, Howard Mr. and Mrs.",,Preferred Name
 9378,9385,Barsanti,"Barsanti, Alfredo",,Preferred Name
 9379,9386,Barsanti,"Barsanti, Mario",,Preferred Name
-61613,52557,Frost,"Frost, Henry Harvey",,Preferred Name
+61569,52513,Drouais,"Drouais, Jean Germain",,Preferred Name
 9380,9387,,"Sassangy, Chapel of the Château de",,Preferred Name
 9381,9388,Meller,"Meller, Simon, Dr.",,Preferred Name
 9382,9389,Hirsch,"Hirsch, Jacob, Dr.",,Preferred Name
@@ -13529,7 +13529,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 24136,24143,Badile the Younger,"Badile the Younger, Antonio",,Preferred Name
 24140,24147,Bertini,"Bertini, Loriano",,Preferred Name
 24141,24148,Gaud,"Gaud, Michael, Dr.",,Preferred Name
-61616,52560,Liegme,"Liegme, Jean-François",,Preferred Name
+61613,52557,Frost,"Frost, Henry Harvey",,Preferred Name
 24142,24149,Goering,"Goering, Hermann, Reichsmarschall",,Preferred Name
 24143,24150,Kniep,"Kniep, Christoph Heinrich",,Preferred Name
 24144,24151,Strozzi,"Strozzi, Alessandro, Bishop",,Preferred Name
@@ -15167,7 +15167,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26928,26935,Robinson,"Robinson, Thomas Philip 2nd earl de Grey of Wrest and 5th baron Lucas of Crudwell",,Preferred Name
 26929,26936,Cowper,"Cowper, Anne Florence de Grey, countess Cowper and 6th baroness Lucas",,Preferred Name
 26930,26937,Cowper,"Cowper, Francis Thomas de Grey, 7th earl Cowper and 7th baron Lucas",,Preferred Name
-61619,52563,Bellenger,"Bellenger, Clément",,Preferred Name
+61616,52560,Liegme,"Liegme, Jean-François",,Preferred Name
 26931,26938,Herbert,"Herbert, Auberon Thoma,s 9th baron Lucas of Crudwell",,Preferred Name
 26932,26939,Cooper,"Cooper, Nan Ino Herbert, 10th baroness Lucas",,Preferred Name
 26933,26940,Erhardt,"Erhardt, H. Charles",,Preferred Name
@@ -19747,7 +19747,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33715,5554,Unknown Nationality 18th Century,Unknown Nationality 18th Century,,Variant
 33716,5555,Anonymous Egyptian 2nd Century,Anonymous Egyptian 2nd Century,,Variant
 33717,5556,Anonymous Russian 19th Century,Anonymous Russian 19th Century,,Variant
-61637,52578,Vail,"Vail, Eliza Phyfe",,Preferred Name
+61619,52563,Bellenger,"Bellenger, Clément",,Preferred Name
 33722,5561,Crutchfield,"Crutchfield, William Richard",,Variant
 33723,5564,Hoopes,"Hoopes, Henrietta Elizabeth Dodd",,Maiden Name
 33724,5566,Achen,"Achen, Johann von",,Variant
@@ -19940,7 +19940,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33922,6850,Di Gonzaga,"Di Gonzaga, Pietro",,Variant
 33923,6850,Di Gottardo,"Di Gottardo, Pietro",,Variant
 33924,6851,Veronese,"Veronese, Bonifacio",,Variant
-61638,52579,Vail,"Vail, William Jr.",,Preferred Name
+61637,52578,Vail,"Vail, Eliza Phyfe",,Preferred Name
 33925,6851,De' Pitati,"De' Pitati, Bonifacio",,Variant Index Name
 33926,6852,Metz,"Metz, C. M.",,Variant
 33927,6853,Langhans,"Langhans, Karl",,Variant
@@ -20102,6 +20102,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34098,8355,Anonymous Dutch 18th Century,Anonymous Dutch 18th Century,,Variant
 34099,8356,Anonymous Chinese Tang Dynasty,Anonymous Chinese Tang Dynasty,,Variant
 34100,8357,Anonymous Chinese Liao Dynasty,Anonymous Chinese Liao Dynasty,,Variant
+61638,52579,Vail,"Vail, William Jr.",,Preferred Name
 34103,8360,Anonymous Chinese Southern Song Dynasty,Anonymous Chinese Southern Song Dynasty,,Variant
 34104,8361,Anonymous Chinese Ming Dynasty,Anonymous Chinese Ming Dynasty,,Variant
 34105,8362,Anonymous Chinese Qing Dynasty,Anonymous Chinese Qing Dynasty,,Variant
@@ -29708,10 +29709,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56520,406,,,,Variant
 56521,42921,Adams,"Adams, Adeline Valentine Pond",,Full Name
 56522,42921,Pond,"Pond, Adeline Valentine",,Maiden Name
-56523,48774,van Gogh-Carbentus,"van Gogh-Carbentus, A.C.",,Preferred Name
+56523,48774,van Gogh-Carbentus,"van Gogh-Carbentus, Anna Cornelia",,Preferred Name
 56524,48775,Couvreur,"Couvreur, J.M.",,Preferred Name
 56525,48776,Couvreur,"Couvreur, J.C.",,Preferred Name
-56526,48777,Bakel,"Bakel, W. van",,Preferred Name
+56526,48777,Bakel,"Bakel, Willem van",,Preferred Name
 56527,48778,Mouven,"Mouven, C.",,Preferred Name
 56530,48780,Adé,"Adé, Jakob Julius",,Preferred Name
 56531,48781,Jördens,"Jördens, Gerhard Anton",,Preferred Name
@@ -32735,6 +32736,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61132,52139,van Schurman,"Schurman, Anna Maria van",,Preferred Name
 61141,1353,de Goya y Lucientes,"de Goya y Lucientes, Francisco Jose de",,Variant Index Name
 61145,52150,Dallwitz,"Dallwitz, Wolfgang von",,Preferred Name
+61147,52152,Jemison,"Jemison, G. Peter",,Preferred Name
+61148,52153,,K Art,,Preferred Name
 61150,52155,Bolton,"Bolton, John",,Preferred Name
 61151,52156,Cowan,"Cowan, Alexander A.",,Preferred Name
 61152,52157,Ott,"Ott, Joseph K. and Anne",,Preferred Name
@@ -32832,7 +32835,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61566,52511,van den Aveele,"Aveele, Johannes, van den",,Preferred Name
 61567,52511,van den Aveele,"Aveele, Jan van den",,Variant
 61568,52512,Marseus van Schrieck,"Marseus van Schrieck, Otto",,Preferred Name
-61569,52513,Drouais,"Drouais, Jean Germain",,Preferred Name
 61639,52580,Vail,"Vail, Duncan P. and Mary F. Onderdonk",,Preferred Name
 61640,52580,Vail,"Vail, Duncan Phyfe",,Full Name
 61641,52581,Vail,"Vail, Frederick P. and Ida M. McLaurie",,Preferred Name
@@ -32846,3 +32848,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61667,28875,,"Ronin, Joséphine",,Maiden Name
 61669,3633,Bruijn,"Bruijn, Abraham de",,Variant
 61671,23816,Teyler,"Teyler, Johannes",,Variant
+61676,48776,Couvreur,"Couvreur, Jan C.",,Full Name
