@@ -25178,7 +25178,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44206,37708,,Peter Fetterman,,Preferred Name
 44211,37713,Parrocel,"Parrocel, Joseph Ignace François",,Preferred Name
 44213,37715,Mauroner,"Mauroner, Fabio",,Preferred Name
-59651,33995,Shields,,,Full Name
+59109,50658,,Nicolas Joly,,Preferred Name
 44214,37716,Hulsdonck,"Hulsdonck, Jacob van",,Preferred Name
 44215,37716,van Hulsdonck,"van Hulsdonck, Jacob",,Variant
 44216,2534,Goltzius,"Goltzius, Hendrik",,Variant
@@ -26820,6 +26820,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 49560,42769,Bell,"Bell, Deborah",,Preferred Name
 49561,42770,Shneiderman,"Shneiderman, Ben",,Preferred Name
 49563,42772,Dingman,"Dingman, Peter",,Preferred Name
+59110,50658,,,,Variant
 49564,42773,Simmons,"Simmons, Linda Crocker",,Preferred Name
 49566,42775,Wagstaff,"Wagstaff, Samuel J., Jr.",,Preferred Name
 49568,42777,Coughlan,"Coughlan, Margaret",,Preferred Name
@@ -29713,7 +29714,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56524,48775,Couvreur,"Couvreur, J.M.",,Preferred Name
 56525,48776,Couvreur,"Couvreur, J.C.",,Preferred Name
 56526,48777,Bakel,"Bakel, Willem van",,Preferred Name
-56527,48778,Mouven,"Mouven, C.",,Preferred Name
+56527,48778,Mouwen,"Mouwen, Kees",,Preferred Name
 56530,48780,Adé,"Adé, Jakob Julius",,Preferred Name
 56531,48781,Jördens,"Jördens, Gerhard Anton",,Preferred Name
 56532,48781,Joerdens,"Joerdens, Gerhard Anton",,Variant
@@ -31220,7 +31221,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58767,1769,Alper,"Alper, Carolyn Small",,Variant
 58768,43404,,McIntosh/Drysdale Gallery,,Variant
 58769,43404,,Nancy Drysdale Gallery,,Variant
-58772,48774,van Gogh-Carbentus,"van Gogh-Carbentus, Anna Cornelia",,Variant
 58774,39966,Tuttle,"Tuttle, Charles Macowin",,Variant
 58775,49011,Hansen,"Hansen, Aliss Marie",,Original Name
 58776,50413,Boghosian,"Boghosian, Varujan",,Preferred Name
@@ -31479,8 +31479,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59102,50652,,Leslie J. Schreyer Fund,,Preferred Name
 59103,50653,,Clinton and Jean Wright Fund,,Preferred Name
 59104,50654,Jones,"Jones, Colin",,Preferred Name
-59109,50658,,Nicolas Joly,,Preferred Name
-59110,50658,,,,Variant
 59111,50659,,Fontanille Collection,,Preferred Name
 59112,50660,,Frederick Thon Gallery,,Preferred Name
 59113,50661,Benamou,"Benamou, Albert",,Preferred Name
@@ -31876,6 +31874,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59648,4955,Meeker,"Meeker, Dean Jackson",,Full Name
 59649,34694,Robertson,"Robertson, Thomas Arthur",,Full Name
 59650,33980,Seawell,,,Full Name
+59651,33995,Shields,,,Full Name
 59652,51045,,United States Marine Corps,,Preferred Name
 59653,34115,Wands,"Wands, Alfred James",,Full Name
 59654,51046,,Will A. Kistler Company,,Preferred Name
@@ -32849,3 +32848,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61669,3633,Bruijn,"Bruijn, Abraham de",,Variant
 61671,23816,Teyler,"Teyler, Johannes",,Variant
 61676,48776,Couvreur,"Couvreur, Jan C.",,Full Name
+61677,48774,Carbentus,"Carbentus, Anna Cornelia",,Maiden Name
+61678,48778,Mouwen,"Mouwen, Cornelius Hendrickus Wilhelmus",,Variant
+61679,48778,Mouwen,"Mouwen, C.",,Variant
+61680,48778,Mouwen,"Mouwen, Cees",,Variant
+61681,52604,Lee,"Lee, Paul Phillip",,Preferred Name
+61682,52605,Johnson,"Johnson, James and Heather",,Preferred Name
+61683,52606,,Kend Family Fund,,Preferred Name
+61685,47574,Hoytema,Hoytema,,Variant
