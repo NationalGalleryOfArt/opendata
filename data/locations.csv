@@ -24,6 +24,11 @@ locationid,site,room,publicaccess,description,unitposition
 3926,East Building,EM-203,1,"East Bldg, Mezz. Terrace",S
 3928,East Building,EM-204,1,"East Bldg, Mezz. Elevator Lobby",
 3929,East Building,EM-204,1,"East Bldg, Mezz. Elevator Lobby",S
+3932,East Building,EM-214-A,1,"East Bldg, Mezz Gal 214A (Pod 2)",
+3933,East Building,EM-214-A,1,"East Bldg, Mezz Gal 214A (Pod 2)",E
+3934,East Building,EM-214-A,1,"East Bldg, Mezz Gal 214A (Pod 2)",N
+3935,East Building,EM-214-A,1,"East Bldg, Mezz Gal 214A (Pod 2)",S
+3936,East Building,EM-214-A,1,"East Bldg, Mezz Gal 214A (Pod 2)",W
 3947,East Building,EM-216,1,"East Bldg, Vestibule, 216 (Pod 1)",
 3948,East Building,EM-216,1,"East Bldg, Vestibule, 216 (Pod 1)",N
 3949,East Building,EM-216,1,"East Bldg, Vestibule, 216 (Pod 1)",S
@@ -34,13 +39,6 @@ locationid,site,room,publicaccess,description,unitposition
 3959,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",W
 3968,East Building,ENT,1,"East Bldg, North Terrace",
 3971,East Building,EST,1,"East Bldg, South Terrace",
-3981,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",
-3982,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",E
-3983,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",N
-3984,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",S
-3985,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",W
-3986,East Building,ET-502,1,"East Bldg, Tower Elev Lobby 502 (Pod 3)",
-3987,East Building,ET-502,1,"East Bldg, Tower Elev Lobby 502 (Pod 3)",S
 4166,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",
 4167,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",S
 4168,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",W
@@ -649,7 +647,6 @@ locationid,site,room,publicaccess,description,unitposition
 8721,West Building,M-093,1,West Main Floor Gallery 93,S
 8722,West Building,M-093,1,West Main Floor Gallery 93,W
 8779,West Building,WBL,1,West Bldg Lawn,
-8783,West Building,WSG,1,Sculpture Garden,
 8786,West Building,G-004,1,West Ground Floor Gallery 4,W
 8787,West Building,G-004,1,West Ground Floor Gallery 4,N
 8808,West Building,M-107,1,Rotunda,
@@ -677,15 +674,11 @@ locationid,site,room,publicaccess,description,unitposition
 9035,West Building,G-016,1,West Ground Floor Gallery 16,W
 9036,West Building,G-018,1,West Ground Floor Gallery 18,N
 9037,West Building,G-018,1,West Ground Floor Gallery 18,S
-9239,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",CENTER
 9249,West Building,G-003,1,West Ground Floor Gallery 3,S
 9255,West Building,G-004,1,West Ground Floor Gallery 4,CENTER
 9258,West Building,G-005,1,West Ground Floor Gallery 5,S
 9260,West Building,G-006,1,West Ground Floor Gallery 6,CENTER
 9261,West Building,G-007,1,West Ground Floor Gallery 7,CENTER
-9265,East Building,ET-502,1,"East Bldg, Tower Elev Lobby 502 (Pod 3)",N
-9266,East Building,ET-502,1,"East Bldg, Tower Elev Lobby 502 (Pod 3)",E
-9267,East Building,ET-502,1,"East Bldg, Tower Elev Lobby 502 (Pod 3)",W
 9269,East Building,EM-203,1,"East Bldg, Mezz. Terrace",CENTER
 9270,West Building,G-008,1,West Ground Floor Gallery 8,N
 9271,West Building,G-008,1,West Ground Floor Gallery 8,S
@@ -740,6 +733,7 @@ locationid,site,room,publicaccess,description,unitposition
 9713,West Building,G-023,1,West Ground Floor Gallery 23,CENTER
 9725,East Building,EG-100,1,"East Bldg, Central Atrium, South Ledge",SOUTH LEDGE
 9726,West Building,G-044,1,"West Bldg Garden Cafe, Center Fountain",CENTER FOUNTAIN
+9749,East Building,EM-214-A,1,"East Bldg, Mezz Gal 214A (Pod 2)",CENTER
 9752,West Building,G-003,1,West Ground Floor Gallery 3,CENTER
 9774,West Building,G-034,1,West Ground Floor Gallery 34,NORTH BAFFLE
 9775,West Building,G-034,1,West Ground Floor Gallery 34,SOUTH BAFFLE
@@ -817,6 +811,11 @@ locationid,site,room,publicaccess,description,unitposition
 10399,West Building,M-100,1,West Stair Lobby,S
 10400,West Building,M-100,1,West Stair Lobby,W
 10408,West Building,M-121,1,North Stair Landing West,W
+10429,East Building,EM-214-D,1,"East Bldg, Mezz Gal 214D (Pod 2)",
+10430,East Building,EM-214-D,1,"East Bldg, Mezz Gal 214D (Pod 2)",N
+10431,East Building,EM-214-D,1,"East Bldg, Mezz Gal 214D (Pod 2)",E
+10432,East Building,EM-214-D,1,"East Bldg, Mezz Gal 214D (Pod 2)",S
+10433,East Building,EM-214-D,1,"East Bldg, Mezz Gal 214D (Pod 2)",W
 10492,West Building,M-065,1,West Main Floor Gallery 65,CENTER
 10494,West Building,M-073-A,1,West Main Floor Gallery 73 A,
 10495,West Building,M-073-A,1,West Main Floor Gallery 73 A,N
@@ -866,6 +865,9 @@ locationid,site,room,publicaccess,description,unitposition
 13099,East Building,EG-103-C,1,"East Bldg, Ground Gal 103C (Pod 2)",
 13100,East Building,EG-103-D,1,"East Bldg, Ground Gal 103D (Pod 2)",
 13101,East Building,EG-103-E,1,"East Bldg, Ground Gal 103E (Pod 2)",
+13104,East Building,EM-214-B,1,"East Bldg, Mezz Gal 214B (Pod 2)",
+13105,East Building,EM-214-C,1,"East Bldg, Mezz Gal 214C (Pod 2)",
+13106,East Building,EM-214-Z,1,"East Bldg, Mezz Gal 214Z (Pod 2)",
 13107,East Building,EG-103-Z,1,"East Bldg, Ground Lobby 103Z (Pod 2)",
 13108,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",
 13109,East Building,EM-217-C,1,"East Bldg, Mezz Gal 217C (Pod 1)",
@@ -956,6 +958,12 @@ locationid,site,room,publicaccess,description,unitposition
 13199,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",N
 13200,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",E
 13201,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",S
+13202,East Building,EM-214-B,1,"East Bldg, Mezz Gal 214B (Pod 2)",S
+13203,East Building,EM-214-B,1,"East Bldg, Mezz Gal 214B (Pod 2)",N
+13204,East Building,EM-214-B,1,"East Bldg, Mezz Gal 214B (Pod 2)",W
+13205,East Building,EM-214-B,1,"East Bldg, Mezz Gal 214B (Pod 2)",E
+13206,East Building,EM-214-B,1,"East Bldg, Mezz Gal 214B (Pod 2)",CENTER
+13207,East Building,EM-214-D,1,"East Bldg, Mezz Gal 214D (Pod 2)",CENTER
 13208,East Building,ET-606,1,"East Bldg, Tower Gallery 606",CEILING
 13209,East Building,ET-606,1,"East Bldg, Tower Gallery 606",CENTER
 13210,East Building,ET-606,1,"East Bldg, Tower Gallery 606",S
@@ -964,6 +972,8 @@ locationid,site,room,publicaccess,description,unitposition
 13213,East Building,ET-606,1,"East Bldg, Tower Gallery 606",W
 13214,East Building,EG-105,1,"East Bldg, Vestibule, 105 (Pod 1)",N
 13215,East Building,EG-105,1,"East Bldg, Vestibule, 105 (Pod 1)",S
+13291,East Building,EM-214-Z,1,"East Bldg, Mezz Gal 214Z (Pod 2)",N
+13292,East Building,EM-214-Z,1,"East Bldg, Mezz Gal 214Z (Pod 2)",W
 13300,West Building,G-023,1,West Ground Floor Gallery 23,CASE
 13333,West Building,M-090,1,West Main Floor Gallery 90,FLOOR
 13342,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",CENTER
@@ -973,6 +983,7 @@ locationid,site,room,publicaccess,description,unitposition
 13686,East Building,EU-407-X,1,"East Bldg, Upr Lvl Stairway 407X (North Bridge)",S
 13728,West Building,G-027,1,West Ground Floor Gallery 27,BAFFLE
 13764,West Building,M-137,1,"West Bldg, Lobby D",CENTER
+13808,East Building,EM-214-C,1,"East Bldg, Mezz Gal 214C (Pod 2)",CENTER
 13815,West Building,G-045,1,West Ground Floor Gallery 45,
 13816,West Building,G-045,1,West Ground Floor Gallery 45,E
 13817,West Building,G-045,1,West Ground Floor Gallery 45,N
@@ -996,3 +1007,7 @@ locationid,site,room,publicaccess,description,unitposition
 14177,Sculpture Garden (WSG),NE-Quad,1,Sculpture Garden - NE,
 14178,Sculpture Garden (WSG),SE-Quad,1,Sculpture Garden - SE,
 14179,Sculpture Garden (WSG),SW-Quad,1,Sculpture Garden - SW,
+14184,East Building,EM-214-C,1,"East Bldg, Mezz Gal 214C (Pod 2)",E
+14185,East Building,EM-214-C,1,"East Bldg, Mezz Gal 214C (Pod 2)",S
+14186,East Building,EM-214-C,1,"East Bldg, Mezz Gal 214C (Pod 2)",W
+14187,East Building,EM-214-C,1,"East Bldg, Mezz Gal 214C (Pod 2)",N

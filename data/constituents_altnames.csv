@@ -3725,6 +3725,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3917,3924,Devaux,"Devaux, Jean",,Preferred Name
 3918,3925,Devéria,"Devéria, Achille",,Preferred Name
 3919,3926,Deville,"Deville, Henry-Wilfred",,Preferred Name
+61565,52510,Errard,"Errard, Charles, II",,Variant
 3920,3927,Devilliers,"Devilliers, Etienne",,Preferred Name
 3921,3928,Diamaer,"Diamaer, Hendrik Frans",,Preferred Name
 3922,3929,Dian,"Dian, Nal Bal",,Preferred Name
@@ -32733,6 +32734,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61142,52147,Gupta,"Gupta, Sunil",,Preferred Name
 61143,52148,,Hales Gallery,,Preferred Name
 61145,52150,Dallwitz,"Dallwitz, Wolfgang von",,Preferred Name
+61146,52151,Herrera,"Herrera, Carmen",,Preferred Name
 61147,52152,Jemison,"Jemison, G. Peter",,Preferred Name
 61148,52153,,K Art,,Preferred Name
 61150,52155,Bolton,"Bolton, John",,Preferred Name
@@ -32776,6 +32778,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61316,52295,,Stinehour Press,,Preferred Name
 61317,52296,Gottlieb,"Gottlieb, Esther",,Preferred Name
 61330,19648,Ransonette,"Ransonette, Pierre Nicolas",,Variant
+61376,52354,Rembert,"Rembert, Winfred",,Preferred Name
 61385,40689,Sligh,"Sligh, Clarissa T.",,Variant
 61397,52373,Mondella,"Mondella, Battista",,Preferred Name
 61400,52376,Chéry,Chéry,,Preferred Name
@@ -32798,6 +32801,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61461,52436,Pook & Pook Inc.,Pook & Pook Inc.,,Preferred Name
 61462,52437,Skinner Auctioneers,Skinner Auctioneers,,Preferred Name
 61469,52444,von Dietel,"Dietel, Albin Woldemar von",,Preferred Name
+61484,52455,Ford,"Ford, Walton",,Preferred Name
 61487,3453,Zañartu,"Zañartu, Enrique",,Variant
 61488,3451,Zakharov,"Zakharov, Gury",,Variant
 61489,5843,Wray,"Wray, Richard",,Variant
@@ -32828,7 +32832,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61555,38562,Bischoff,"Bischoff, Elmer",,Variant
 61563,52510,Errard,"Errard, Charles",,Preferred Name
 61564,52510,Errard,"Errard, Charles, the Younger",,Variant
-61565,52510,Errard,"Errard, Charles, II",,Variant
 61568,52512,Marseus van Schrieck,"Marseus van Schrieck, Otto",,Preferred Name
 61569,52513,Drouais,"Drouais, Jean Germain",,Preferred Name
 61573,52517,Croce,"Croce, Giulio Cesare",,Preferred Name
@@ -32854,6 +32857,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61667,28875,,"Ronin, Joséphine",,Maiden Name
 61669,3633,Bruijn,"Bruijn, Abraham de",,Variant
 61671,23816,Teyler,"Teyler, Johannes",,Variant
+61675,52603,Schrauwen,"Schrauwen, Adrianus",,Preferred Name
 61676,48776,Couvreur,"Couvreur, Jan C.",,Full Name
 61677,48774,Carbentus,"Carbentus, Anna Cornelia",,Maiden Name
 61678,48778,Mouwen,"Mouwen, Cornelius Hendrickus Wilhelmus",,Variant
@@ -32865,3 +32869,15 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61685,47574,Hoytema,Hoytema,,Variant
 61689,25467,,Kunsthandel Oldenzeel,,Preferred Name
 61691,25465,Enthoven,"Enthoven, John James",,Full Name
+61695,52615,Orsolini,"Orsolini, Carlo",,Preferred Name
+61697,9487,,Mak van Waay,,Variant
+61698,9487,,Kunstveilingen S. J. Mak van Waay,,Variant
+61699,52616,Doorne,"Doorne, Pieter Willem van",,Preferred Name
+61703,52619,Tessin,"Tessin, Carl Gustaf",,Preferred Name
+61704,52620,Lagerbring,"Lagerbring, Carl",,Preferred Name
+61705,52621,Gerdten,"Gerdten, Johan Adam von",,Preferred Name
+61706,52621,Gerdten,,,Variant
+61708,52622,Trolle-Bonde,"Trolle-Bonde, Gustaf",,Preferred Name
+61709,52622,Bonde,,,Variant
+61710,5696,Reinberger,"Reinberger, Gertraud",,Variant
+61711,5696,Reinberger-Brausewetter,"Reinberger-Brausewetter, Gertraud",,Variant
