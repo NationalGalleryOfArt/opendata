@@ -25872,6 +25872,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52016,,"Martinez, Eddie",Eddie Martinez,Martinez,"American, born 1977",1,1977,,1976 to 2000,American,American,individual
 52018,,"Merck, George",George Merck,Merck,,0,,,,,Other,individual
 52019,,"Pecis, Hilary",Hilary Pecis,Pecis,"American, born 1979",1,1979,,1976 to 2000,American,American,individual
+52606,,Kend Family Fund,Kend Family Fund,,,0,,,,,Other,purchase_fund
 52025,,"Hutchinson, Joshua H.",Joshua H. Hutchinson,Hutchinson,"British, c. 1829 - 1892",0,1829,1892,1826 to 1850,British,British,individual
 52026,,"Oppo, Cipriano Efisio",Cipriano Efisio Oppo,Oppo,"Italian, 1891 - 1962",0,1891,1962,1876 to 1900,Italian,Italian,individual
 52027,,Calcographia Gastaldi,Calcographia Gastaldi,,"⁮Italian, 19th century",1,1800,1900,1776 to 1800,⁮Italian,⁮Italian,corporate
@@ -25919,6 +25920,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52140,,"Barnett, Gemma",Gemma Barnett,Barnett,,0,,,,,Other,individual
 52141,,"Steele-Perkins, Chris",Chris Steele-Perkins,Steele-Perkins,"British, born 1947",1,1947,,1926 to 1950,British,British,individual
 52145,500003395,"Wehnert-Beckmann, Bertha",Bertha Wehnert-Beckmann,Wehnert-Beckmann,"German, 1815 - 1901",1,1815,1901,1801 to 1825,German,German,individual
+52146,,"Tramaine, Genesis",Genesis Tramaine,Tramaine,"American, born 1983",1,1983,,1976 to 2000,American,American,individual
 52147,500463765,"Gupta, Sunil",Sunil Gupta,Gupta,"Canadian, born India, 1953",1,1953,,1951 to 1975,Canadian,Canadian,individual
 52148,,Hales Gallery,Hales Gallery,,,0,,,,,Other,corporate
 52150,,"Dallwitz, Wolfgang von",Wolfgang von Dallwitz,Dallwitz,"German, 1863-1928",0,1863,1928,1851 to 1875,German,German,individual
@@ -25945,6 +25947,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52225,,"Miller-Brown, Andrew",Andrew Miller-Brown,Miller-Brown,American,1,,,,American,American,individual
 52229,,"Renard, Jean Augustin",Jean Augustin Renard,Renard,,1,1744,1807,1726 to 1750,French,French,individual
 52230,,"Ballester, Mariano",Mariano Ballester,Ballester,"Spanish, 1916 - 1981",0,1916,1981,1901 to 1925,Spanish,Spanish,individual
+52272,,"Watt, Marie",Marie Watt,Watt,"American, born 1967",1,1967,,1951 to 1975,,Other,individual
 52284,,Print Society,Print Society,,,1,,,,,Other,corporate
 52289,,Silver Mountain Grapics,Silver Mountain Grapics,,,1,,,,,Other,corporate
 52290,,Spudnik Press,Spudnik Press,,,1,,,,,Other,corporate
@@ -25999,16 +26002,17 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52567,,"Vanson, Adrian",Adrian Vanson,Vanson,"Dutch, died c. 1602",1,,1602,,Dutch,Dutch,individual
 52568,,"Bonenfant, Antoine",Antoine Bonenfant,Bonenfant,"Flemish, active 1598 - 1644",1,1598,1644,1551 to 1600,Flemish,Flemish,individual
 52569,,"Lortic, Marcelin",Marcelin Lortic,Lortic,"French, 1852 - 1928",1,1852,1928,1851 to 1875,French,French,individual
+52577,,Almine Rech Gallery,Almine Rech Gallery,,,0,,,,,Other,corporate
 52578,,"Vail, Eliza Phyfe",Eliza Phyfe Vail,Vail,"American, 1801 - 1890",0,1801,1890,1801 to 1825,American,American,individual
 52579,,"Vail, William Jr.",William Vail Jr.,Vail,"American, 1802 - 1875",0,1802,1875,1801 to 1825,American,American,individual
 52580,,"Vail, Duncan P. and Mary F. Onderdonk",Duncan P. and Mary F. Onderdonk Vail,Vail,he: 1829 - 1894; she: 1839 - 1924,0,1829,1924,1826 to 1850,American,American,couple
 52581,,"Vail, Frederick P. and Ida M. McLaurie",Frederick P. and Ida M. McLaurie Vail,Vail,he: 1861 - 1948; she: 1867 - 1952,0,1861,1952,1851 to 1875,American,American,couple
 52586,,"Vail, Virginia",Virginia Vail,Vail,"American, 1897 - 1973",0,1897,1973,1876 to 1900,American,American,individual
 52587,,"Gibbon, Glorianna H.",Glorianna H. Gibbon,Gibbon,"American, 1929 - 2016",0,1929,2016,1926 to 1950,American,American,individual
+52594,,Marc Straus Gallery,Marc Straus Gallery,,,0,,,,,Other,corporate
 52603,,"Schrauwen, Adrianus",Adrianus Schrauwen,Schrauwen,"Dutch, 1834 - 1920",0,1834,1920,1826 to 1850,Dutch,Dutch,individual
 52604,,"Lee, Paul Phillip",Paul Phillip Lee,Lee,,0,,,,,Other,purchase_fund
 52605,,"Johnson, James and Heather",James and Heather Johnson,Johnson,,0,,,,,Other,purchase_fund
-52606,,Kend Family Fund,Kend Family Fund,,,0,,,,,Other,purchase_fund
 52615,,"Orsolini, Carlo",Carlo Orsolini,Orsolini,"Italian, 1703 - 1781",1,1703,1781,1701 to 1725,Italian,Italian,individual
 52616,,"Doorne, Pieter Willem van",Pieter Willem van Doorne,Doorne,"Dutch, 1896 - 1971",0,1896,1971,1876 to 1900,Dutch,Dutch,individual
 52619,,"Tessin, Carl Gustaf",Carl Gustaf Tessin,Tessin,"Swedish, 1695 - 1770",0,1695,1770,1651 to 1700,Swedish,Swedish,individual
