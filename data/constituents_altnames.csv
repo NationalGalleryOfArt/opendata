@@ -3725,7 +3725,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3917,3924,Devaux,"Devaux, Jean",,Preferred Name
 3918,3925,Devéria,"Devéria, Achille",,Preferred Name
 3919,3926,Deville,"Deville, Henry-Wilfred",,Preferred Name
-61565,52510,Errard,"Errard, Charles, II",,Variant
+61555,38562,Bischoff,"Bischoff, Elmer",,Variant
 3920,3927,Devilliers,"Devilliers, Etienne",,Preferred Name
 3921,3928,Diamaer,"Diamaer, Hendrik Frans",,Preferred Name
 3922,3929,Dian,"Dian, Nal Bal",,Preferred Name
@@ -3885,7 +3885,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4087,4094,Fitch,"Fitch, Walter Hood",,Preferred Name
 4088,4095,Fitton,"Fitton, Hedley",,Preferred Name
 4089,4096,Flamen,"Flamen, Albert",,Preferred Name
-4090,4097,Flameng,"Flameng, Leopold",,Preferred Name
+4090,4097,Flameng,"Flameng, Léopold",,Preferred Name
 4091,4098,Flavin,"Flavin, Dan",,Preferred Name
 4092,4099,Fleming,"Fleming, Alexander Patrick",,Preferred Name
 4093,4100,Flindt the Younger,"Flindt the Younger, Paul",,Preferred Name
@@ -4934,7 +4934,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 5182,5189,Perlmutter,"Perlmutter, Jack",,Preferred Name
 5183,5190,Pernet,"Pernet, Jean Henry Alexandre",,Preferred Name
 5184,5191,Pernot,"Pernot, Francois Alexandre",,Preferred Name
-5185,5192,Perret,"Perret, Pieter",,Preferred Name
+5185,5192,Perret,"Perret, Pedro",,Preferred Name
 5186,5193,Perronneau,"Perronneau, Jean-Baptiste",,Preferred Name
 5187,5194,Perry,Perry,,Preferred Name
 5188,5195,Perry,"Perry, Giuseppe Ferrante",,Preferred Name
@@ -8274,6 +8274,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8693,8700,Campbell,"Campbell, 5th Duke of Argyll, John",,Preferred Name
 8694,8701,Campbell,"Campbell, 8th Duke of Argyll, George Douglas",,Preferred Name
 8695,8702,Agar,"Agar, 2nd Earl of Normanton, Welbore Ellis",,Preferred Name
+61565,52510,Errard,"Errard, Charles, II",,Variant
 8696,8703,Agar,"Agar, 3rd Earl of Normanton, James Charles H.W.E.",,Preferred Name
 8697,8704,Agar,"Agar, 4th Earl of Normanton, Sidney James",,Preferred Name
 8698,8705,Heathcote,"Heathcote, John and Lydia",,Preferred Name
@@ -30830,6 +30831,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58242,50037,Henner,"Henner, Mishka",,Preferred Name
 58243,50038,Letinsky,"Letinsky, Laura",,Preferred Name
 58245,50040,Secchiaroli,"Secchiaroli, Tazio",,Preferred Name
+58246,50041,slavick,"slavick, elin o'Hara",,Preferred Name
 58247,50042,,Kolb Brothers,,Preferred Name
 58248,50043,Kolb,"Kolb, Emery",,Preferred Name
 58249,50044,Kolb,"Kolb, Ellsworth",,Preferred Name
@@ -32607,7 +32609,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60811,35895,Dalen,,,Variant
 60814,10100,Nonas,"Nonas, Richard Henry",,Full Name
 60827,51877,Barboza,"Barboza, Anthony",,Preferred Name
-60828,51878,Mannas,"Mannas, James",,Preferred Name
+60828,51878,Mannas,"Mannas, James ""Jimmie"" Jr.",,Preferred Name
 60830,51880,Blum,"Blum, Albert W.",,Preferred Name
 60850,51900,,Mojo Portfolio,,Preferred Name
 60851,51901,,Kunsthandel K. & V. Waterman,,Preferred Name
@@ -32711,6 +32713,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61069,52082,Jekyll,"Jekyll, Herbert Sir",,Preferred Name
 61071,7190,Baumfeld,,,Variant
 61082,52092,Adolfsz.,"Adolfsz., Harmen",,Preferred Name
+61090,52099,Sokol,"Sokol, Gary",,Preferred Name
 61091,52100,Clark,"Clark, Nancy Rutter",,Preferred Name
 61092,52101,Howard,"Howard, Herman",,Preferred Name
 61093,52102,Cowans,"Cowans, Adger",,Preferred Name
@@ -32836,7 +32839,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61550,33260,Buzzelli,"Buzzelli, J. Anthony",,Variant
 61551,33263,Campbell,"Campbell, Charles M.",,Variant
 61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
-61555,38562,Bischoff,"Bischoff, Elmer",,Variant
 61568,52512,Marseus van Schrieck,"Marseus van Schrieck, Otto",,Preferred Name
 61569,52513,Drouais,"Drouais, Jean Germain",,Preferred Name
 61573,52517,Croce,"Croce, Giulio Cesare",,Preferred Name
@@ -32894,3 +32896,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61734,34390,Stephenson,"Stephenson, L. Parker",,Variant
 61738,52641,Smith,"Smith, Joseph Consul",,Preferred Name
 61752,52652,Charrington,"Charrington, John",,Preferred Name
+61762,5192,Perret,"Perret, Pieter",,Variant
+61763,5192,Perret,"Perret, Pierre",,Variant
