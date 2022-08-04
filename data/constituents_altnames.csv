@@ -4217,7 +4217,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4431,4438,Jacquard,"Jacquard, Antoine",,Preferred Name
 4432,4439,Jacque,"Jacque, Charles Émile",,Preferred Name
 4433,4440,Jacque,"Jacque, Maurice",,Preferred Name
-61563,52510,Errard,"Errard, Charles",,Preferred Name
+61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
 4434,4441,Jacquemart,"Jacquemart, Jules-Ferdinand",,Preferred Name
 4435,4442,Jaeckel,"Jaeckel, Willy",,Preferred Name
 4436,4443,Jaki,Jaki,,Preferred Name
@@ -8274,7 +8274,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8693,8700,Campbell,"Campbell, 5th Duke of Argyll, John",,Preferred Name
 8694,8701,Campbell,"Campbell, 8th Duke of Argyll, George Douglas",,Preferred Name
 8695,8702,Agar,"Agar, 2nd Earl of Normanton, Welbore Ellis",,Preferred Name
-61565,52510,Errard,"Errard, Charles, II",,Variant
+61563,52510,Errard,"Errard, Charles",,Preferred Name
 8696,8703,Agar,"Agar, 3rd Earl of Normanton, James Charles H.W.E.",,Preferred Name
 8697,8704,Agar,"Agar, 4th Earl of Normanton, Sidney James",,Preferred Name
 8698,8705,Heathcote,"Heathcote, John and Lydia",,Preferred Name
@@ -9112,6 +9112,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9579,9586,Mackay,"Mackay, Anne Case, Mrs.",,Preferred Name
 9580,9587,,"Anhalt, Dukes of",,Preferred Name
 9581,9588,Rueff,"Rueff, André E.",,Preferred Name
+61565,52510,Errard,"Errard, Charles, II",,Variant
 9582,9589,Boardman,"Boardman, William S., Reverend",,Preferred Name
 9583,9590,West,"West, Addison Tinsley",,Preferred Name
 9584,9591,Nye,"Nye, Electa Earle",,Preferred Name
@@ -20910,7 +20911,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 35201,12382,Dexter,"Dexter, Andrew Alfred Mrs.",,Married Name
 35202,12382,Williams,"Williams, Sarah",,Maiden Name
 35203,12383,Campbell,"Campbell, Charlotte Morton",,Maiden Name
-57735,46876,Haas,"Haas, P.",,Variant
+56448,48714,Rau,"Rau, Woldemar",,Variant
 35204,12383,Longino,"Longino, Thomas Chandler Mrs.",,Variant Index Name
 35205,12383,Howell,"Howell, Park Mrs.",,Married Name
 35206,12383,Means,"Means, John H. Mrs.",,Variant Index Name
@@ -21804,7 +21805,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36836,28142,Torcy Le Bos de Sainte Croix,"Torcy Le Bos de Sainte Croix, Françoise-Julie Cotillon de",,Variant Index Name
 36837,28142,Sainte Croix,"Sainte Croix, Françoise-Julie Cotillon de Torcy Le Bos de",,Variant Index Name
 36838,28143,Fontaine de Resbecq,"Fontaine de Resbecq, Angélique Le Bos de Sainte Croix, comtesse",,Variant Index Name
-58715,917,,,,Variant
+57735,46876,Haas,"Haas, P.",,Variant
 36839,28143,Sainte Croix,"Sainte Croix, Angélique Le Bos de comtesse Fontaine de Resbecq",,Variant Index Name
 36840,28143,Resbecq,"Resbecq, Angélique Le Bos de Sainte Croix, comtesse Fontaine de",,Variant Index Name
 36841,28173,Sagan,"Sagan, Jeanne Marguérite Seillière, Princess de",,Variant Index Name
@@ -22634,7 +22635,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39223,33420,Field,"Field, Edward Loyal",,Preferred Name
 39224,33421,Fink,"Fink, Herbert Lewis",,Preferred Name
 39225,33422,Fink,"Fink, Lucille",,Preferred Name
-58716,50385,,Utopica,,Preferred Name
+58715,917,,,,Variant
 39226,33423,Finley Fry,"Finley Fry, Mary L.",,Preferred Name
 39227,33424,Fiore,"Fiore, Joseph",,Preferred Name
 39228,33425,Fischer,"Fischer, Hulda Rotier",,Preferred Name
@@ -23527,7 +23528,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40181,34352,,"Glen Twins, The",,Preferred Name
 40184,34355,,"Print Research Foundation, The",,Preferred Name
 40185,34355,Williams,"Williams, Dave H. and Reba W.",,Variant
-58717,50289,Padien,"Padien, Bill",,Variant
+58716,50385,,Utopica,,Preferred Name
 40188,34306,Sallae,"Sallae, Charles Louis",,Variant
 40189,34357,Longo,"Longo, Robert",,Preferred Name
 40196,34361,Schley,"Schley, Philippus van der",,Preferred Name
@@ -23816,7 +23817,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40681,6159,Passe,"Passe, Simon van de",,Preferred Name
 40683,34722,Rocker,"Rocker, Fermin",,Preferred Name
 40684,34723,Momper the Elder,"Momper the Elder, Joos de",,Preferred Name
-60758,10095,,"David McKee, Inc.",,Variant
+58717,50289,Padien,"Padien, Bill",,Variant
 40686,22273,Boer,"Boer, P. de Kunsthandel",,Variant Index Name
 40687,33,Stevenson,"Stevenson, John R. Mrs.",,Married Name
 40696,34729,Valentini,"Valentini, Vincenzo",,Preferred Name
@@ -25173,6 +25174,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44202,14809,Fach,"Fach, Barbel",,Variant
 44206,37708,,Peter Fetterman,,Preferred Name
 44211,37713,Parrocel,"Parrocel, Joseph Ignace François",,Preferred Name
+60758,10095,,"David McKee, Inc.",,Variant
 44213,37715,Mauroner,"Mauroner, Fabio",,Preferred Name
 44214,37716,Hulsdonck,"Hulsdonck, Jacob van",,Preferred Name
 44215,37716,van Hulsdonck,"van Hulsdonck, Jacob",,Variant
@@ -29677,7 +29679,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56445,48714,,Rau & Son,,Preferred Name
 56446,48715,Loeillot,"Loeillot, Wilhelm",,Preferred Name
 56447,48714,Rau,"Rau, E. Friedrick",,Variant
-56448,48714,Rau,"Rau, Woldemar",,Variant
 56450,48717,,Marc Selwyn Fine Art,,Preferred Name
 56481,48748,Haverstick,"Haverstick, Iola S. Mrs.",,Preferred Name
 56485,48752,Hill,"Hill, Henry",,Preferred Name
@@ -32838,7 +32839,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61549,33245,Bruton,"Bruton, Helen Bell",,Variant
 61550,33260,Buzzelli,"Buzzelli, J. Anthony",,Variant
 61551,33263,Campbell,"Campbell, Charles M.",,Variant
-61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
 61568,52512,Marseus van Schrieck,"Marseus van Schrieck, Otto",,Preferred Name
 61569,52513,Drouais,"Drouais, Jean Germain",,Preferred Name
 61573,52517,Croce,"Croce, Giulio Cesare",,Preferred Name
