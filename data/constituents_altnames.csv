@@ -3837,7 +3837,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4033,4040,Ermolaev,"Ermolaev, Boris Nicolaevich",,Preferred Name
 4034,4041,Erni,"Erni, Hans",,Preferred Name
 4035,4042,Estes,"Estes, Richard",,Preferred Name
-4036,4043,Etienne,Etienne,,Preferred Name
+4036,4043,Étienne,Étienne,,Preferred Name
 4037,4044,Etzlaub,"Etzlaub, Erhard",,Preferred Name
 4038,4045,Evans,"Evans, Edmund",,Preferred Name
 4039,4046,Everts,"Everts, Connor",,Preferred Name
@@ -32886,15 +32886,20 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61704,52620,Lagerbring,"Lagerbring, Carl",,Preferred Name
 61705,52621,Gerdten,"Gerdten, Johan Adam von",,Preferred Name
 61706,52621,Gerdten,,,Variant
+61707,52621,Gertten,,,Variant
 61708,52622,Trolle-Bonde,"Trolle-Bonde, Gustaf",,Preferred Name
 61709,52622,Bonde,,,Variant
 61710,5696,Reinberger,"Reinberger, Gertraud",,Variant
 61711,5696,Reinberger-Brausewetter,"Reinberger-Brausewetter, Gertraud",,Variant
+61714,686,Johnson,,,Variant
 61719,52629,,"Kunstsammlungen der Veste Coburg, Kupferstichkabinett",,Preferred Name
+61720,3455,Zanetti-Borzino,,,Variant
 61725,2960,Baltens,"Baltens, Peeter",,Variant
 61726,52634,Machanék,"Machanék, Max",,Preferred Name
 61734,34390,Stephenson,"Stephenson, L. Parker",,Variant
 61738,52641,Smith,"Smith, Joseph Consul",,Preferred Name
 61752,52652,Charrington,"Charrington, John",,Preferred Name
+61761,52661,,Antares,,Preferred Name
 61762,5192,Perret,"Perret, Pieter",,Variant
 61763,5192,Perret,"Perret, Pierre",,Variant
+61770,52668,,Jules Meynial,,Preferred Name

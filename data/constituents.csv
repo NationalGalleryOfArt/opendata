@@ -3856,7 +3856,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 4040,500020288,"Ermolaev, Boris Nicolaevich",Boris Nicolaevich Ermolaev,Ermolaev,"Russian, born 1903",1,1903,2003,1901 to 1925,Russian,Russian,individual
 4041,500007927,"Erni, Hans",Hans Erni,Erni,"Swiss, born 1909",1,1909,2009,1901 to 1925,Swiss,Swiss,individual
 4042,500007462,"Estes, Richard",Richard Estes,Estes,"American, born 1932",1,1932,,1926 to 1950,American,American,individual
-4043,,Etienne,Etienne,Etienne,"French, active 19th century",1,1780,1899,1776 to 1800,French,French,individual
+4043,,Étienne,Étienne,Étienne,"French, active 1840-1870",1,1840,1870,1826 to 1850,French,French,individual
 4044,,"Etzlaub, Erhard",Erhard Etzlaub,Etzlaub,"German, died 1532",1,1452,1532,1401 to 1500,German,German,individual
 4045,500023437,"Evans, Edmund",Edmund Evans,Evans,"British, 1826 - 1905",1,1826,1905,1826 to 1850,British,British,individual
 4046,500465324,"Everts, Connor",Connor Everts,Everts,"American, born 1926",1,1926,,1926 to 1950,American,American,individual
@@ -26025,3 +26025,5 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52634,,"Machanék, Max",Max Machanék,Machanék,German,0,,,,German,German,individual
 52641,,"Smith, Joseph Consul",Consul Joseph Smith,Smith,"British, c.1674-1770",0,1674,1770,1651 to 1700,British,British,individual
 52652,,"Charrington, John",John Charrington,Charrington,"British, 1856 - 1939",0,1856,1939,1851 to 1875,British,British,individual
+52661,,Antares,Antares,,,1,,,,,Other,corporate
+52668,,Jules Meynial,Jules Meynial,,,1,,,,,Other,corporate
