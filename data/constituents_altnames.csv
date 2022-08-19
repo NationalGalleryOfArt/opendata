@@ -3725,7 +3725,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3917,3924,Devaux,"Devaux, Jean",,Preferred Name
 3918,3925,Devéria,"Devéria, Achille",,Preferred Name
 3919,3926,Deville,"Deville, Henry-Wilfred",,Preferred Name
-61555,38562,Bischoff,"Bischoff, Elmer",,Variant
+61549,33245,Bruton,"Bruton, Helen Bell",,Variant
 3920,3927,Devilliers,"Devilliers, Etienne",,Preferred Name
 3921,3928,Diamaer,"Diamaer, Hendrik Frans",,Preferred Name
 3922,3929,Dian,"Dian, Nal Bal",,Preferred Name
@@ -4217,7 +4217,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4431,4438,Jacquard,"Jacquard, Antoine",,Preferred Name
 4432,4439,Jacque,"Jacque, Charles Émile",,Preferred Name
 4433,4440,Jacque,"Jacque, Maurice",,Preferred Name
-61551,33263,Campbell,"Campbell, Charles M.",,Variant
+61547,36256,Alston,"Alston, Charles Henry",,Variant
 4434,4441,Jacquemart,"Jacquemart, Jules-Ferdinand",,Preferred Name
 4435,4442,Jaeckel,"Jaeckel, Willy",,Preferred Name
 4436,4443,Jaki,Jaki,,Preferred Name
@@ -8274,7 +8274,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8693,8700,Campbell,"Campbell, 5th Duke of Argyll, John",,Preferred Name
 8694,8701,Campbell,"Campbell, 8th Duke of Argyll, George Douglas",,Preferred Name
 8695,8702,Agar,"Agar, 2nd Earl of Normanton, Welbore Ellis",,Preferred Name
-61563,52510,Errard,"Errard, Charles",,Preferred Name
+61550,33260,Buzzelli,"Buzzelli, J. Anthony",,Variant
 8696,8703,Agar,"Agar, 3rd Earl of Normanton, James Charles H.W.E.",,Preferred Name
 8697,8704,Agar,"Agar, 4th Earl of Normanton, Sidney James",,Preferred Name
 8698,8705,Heathcote,"Heathcote, John and Lydia",,Preferred Name
@@ -8924,7 +8924,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9377,9384,Schultz,"Schultz, Howard Mr. and Mrs.",,Preferred Name
 9378,9385,Barsanti,"Barsanti, Alfredo",,Preferred Name
 9379,9386,Barsanti,"Barsanti, Mario",,Preferred Name
-61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
+61548,33212,Bomar,"Bomar, William Purinton Jr.",,Birth Name
 9380,9387,,"Sassangy, Chapel of the Château de",,Preferred Name
 9381,9388,Meller,"Meller, Simon, Dr.",,Preferred Name
 9382,9389,Hirsch,"Hirsch, Jacob, Dr.",,Preferred Name
@@ -9112,7 +9112,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9579,9586,Mackay,"Mackay, Anne Case, Mrs.",,Preferred Name
 9580,9587,,"Anhalt, Dukes of",,Preferred Name
 9581,9588,Rueff,"Rueff, André E.",,Preferred Name
-61565,52510,Errard,"Errard, Charles, II",,Variant
+61555,38562,Bischoff,"Bischoff, Elmer",,Variant
 9582,9589,Boardman,"Boardman, William S., Reverend",,Preferred Name
 9583,9590,West,"West, Addison Tinsley",,Preferred Name
 9584,9591,Nye,"Nye, Electa Earle",,Preferred Name
@@ -12855,6 +12855,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22632,22639,Parnell,"Parnell, Charles Stewart",,Preferred Name
 22633,22640,Parnell,"Parnell, Olivia, Mrs.",,Preferred Name
 22634,22641,Garland,"Garland, Marie Louise Tudor",,Preferred Name
+61565,52510,Errard,"Errard, Charles, II",,Variant
 22635,22642,Walsh,"Walsh, J.F., Dr.",,Preferred Name
 22636,22643,Walsh,"Walsh, Henry C.",,Preferred Name
 22637,22644,Kain,"Kain, W.J.",,Preferred Name
@@ -13530,7 +13531,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 24136,24143,Badile the Younger,"Badile the Younger, Antonio",,Preferred Name
 24140,24147,Bertini,"Bertini, Loriano",,Preferred Name
 24141,24148,Gaud,"Gaud, Michael, Dr.",,Preferred Name
-61564,52510,Errard,"Errard, Charles, the Younger",,Variant
+61551,33263,Campbell,"Campbell, Charles M.",,Variant
 24142,24149,Goering,"Goering, Hermann, Reichsmarschall",,Preferred Name
 24143,24150,Kniep,"Kniep, Christoph Heinrich",,Preferred Name
 24144,24151,Strozzi,"Strozzi, Alessandro, Bishop",,Preferred Name
@@ -15168,7 +15169,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26928,26935,Robinson,"Robinson, Thomas Philip 2nd earl de Grey of Wrest and 5th baron Lucas of Crudwell",,Preferred Name
 26929,26936,Cowper,"Cowper, Anne Florence de Grey, countess Cowper and 6th baroness Lucas",,Preferred Name
 26930,26937,Cowper,"Cowper, Francis Thomas de Grey, 7th earl Cowper and 7th baron Lucas",,Preferred Name
-61566,52511,van den Aveele,"Aveele, Johannes, van den",,Preferred Name
+61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
 26931,26938,Herbert,"Herbert, Auberon Thoma,s 9th baron Lucas of Crudwell",,Preferred Name
 26932,26939,Cooper,"Cooper, Nan Ino Herbert, 10th baroness Lucas",,Preferred Name
 26933,26940,Erhardt,"Erhardt, H. Charles",,Preferred Name
@@ -15548,7 +15549,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27954,27961,Ligon,"Ligon, Glenn",,Preferred Name
 27955,27962,Harms,"Harms, Johann Oswald",,Preferred Name
 27956,27963,Anderson,"Anderson, Walter",,Preferred Name
-61567,52511,van den Aveele,"Aveele, Jan van den",,Variant
+61563,52510,Errard,"Errard, Charles",,Preferred Name
 27957,27964,Luise Ross Gallery,Luise Ross Gallery,,Preferred Name
 27958,27965,,Lee Marks Fine Art,,Preferred Name
 27959,27966,d'Attimis,"d'Attimis, Conte Maniago, Niccolò",,Preferred Name
@@ -19748,6 +19749,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33715,5554,Unknown Nationality 18th Century,Unknown Nationality 18th Century,,Variant
 33716,5555,Anonymous Egyptian 2nd Century,Anonymous Egyptian 2nd Century,,Variant
 33717,5556,Anonymous Russian 19th Century,Anonymous Russian 19th Century,,Variant
+61564,52510,Errard,"Errard, Charles, the Younger",,Variant
 33722,5561,Crutchfield,"Crutchfield, William Richard",,Variant
 33723,5564,Hoopes,"Hoopes, Henrietta Elizabeth Dodd",,Maiden Name
 33724,5566,Achen,"Achen, Johann von",,Variant
@@ -20101,6 +20103,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34098,8355,Anonymous Dutch 18th Century,Anonymous Dutch 18th Century,,Variant
 34099,8356,Anonymous Chinese Tang Dynasty,Anonymous Chinese Tang Dynasty,,Variant
 34100,8357,Anonymous Chinese Liao Dynasty,Anonymous Chinese Liao Dynasty,,Variant
+61566,52511,van den Aveele,"Aveele, Johannes, van den",,Preferred Name
 34103,8360,Anonymous Chinese Southern Song Dynasty,Anonymous Chinese Southern Song Dynasty,,Variant
 34104,8361,Anonymous Chinese Ming Dynasty,Anonymous Chinese Ming Dynasty,,Variant
 34105,8362,Anonymous Chinese Qing Dynasty,Anonymous Chinese Qing Dynasty,,Variant
@@ -22636,7 +22639,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39223,33420,Field,"Field, Edward Loyal",,Preferred Name
 39224,33421,Fink,"Fink, Herbert Lewis",,Preferred Name
 39225,33422,Fink,"Fink, Lucille",,Preferred Name
-58715,917,,,,Variant
+58581,50301,Buttery,,,Variant
 39226,33423,Finley Fry,"Finley Fry, Mary L.",,Preferred Name
 39227,33424,Fiore,"Fiore, Joseph",,Preferred Name
 39228,33425,Fischer,"Fischer, Hulda Rotier",,Preferred Name
@@ -23529,7 +23532,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40181,34352,,"Glen Twins, The",,Preferred Name
 40184,34355,,"Print Research Foundation, The",,Preferred Name
 40185,34355,Williams,"Williams, Dave H. and Reba W.",,Variant
-58716,50385,,Utopica,,Preferred Name
+59365,27766,,,,Variant
 40188,34306,Sallae,"Sallae, Charles Louis",,Variant
 40189,34357,Longo,"Longo, Robert",,Preferred Name
 40196,34361,Schley,"Schley, Philippus van der",,Preferred Name
@@ -23818,7 +23821,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40681,6159,Passe,"Passe, Simon van de",,Preferred Name
 40683,34722,Rocker,"Rocker, Fermin",,Preferred Name
 40684,34723,Momper the Elder,"Momper the Elder, Joos de",,Preferred Name
-58717,50289,Padien,"Padien, Bill",,Variant
+60240,44845,Kelly,"Kelly, Mary",,Variant
 40686,22273,Boer,"Boer, P. de Kunsthandel",,Variant Index Name
 40687,33,Stevenson,"Stevenson, John R. Mrs.",,Married Name
 40696,34729,Valentini,"Valentini, Vincenzo",,Preferred Name
@@ -25176,7 +25179,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44202,14809,Fach,"Fach, Barbel",,Variant
 44206,37708,,Peter Fetterman,,Preferred Name
 44211,37713,Parrocel,"Parrocel, Joseph Ignace François",,Preferred Name
-60758,10095,,"David McKee, Inc.",,Variant
+60391,51556,Stirling,,,Variant
 44213,37715,Mauroner,"Mauroner, Fabio",,Preferred Name
 44214,37716,Hulsdonck,"Hulsdonck, Jacob van",,Preferred Name
 44215,37716,van Hulsdonck,"van Hulsdonck, Jacob",,Variant
@@ -25859,6 +25862,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45321,38593,Bishop,"Bishop, Cortland Field",,Preferred Name
 45322,38594,Gutekunst,"Gutekunst, Richard",,Preferred Name
 45323,38595,Hubert,"Hubert, Alfred",,Preferred Name
+61567,52511,van den Aveele,"Aveele, Jan van den",,Variant
 45324,38596,Rodenacker,"Rodenacker, Ernst Theodor",,Preferred Name
 45325,38597,La Monte,"La Monte, George M.",,Preferred Name
 45326,38598,ten Cate,"Ten Cate, Hendrikus Egbertus",,Preferred Name
@@ -30655,10 +30659,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58016,49848,Mandello,"Mandello, Jeanne",,Preferred Name
 58018,49850,Brandegee,"Brandegee, Robert Lord",,Preferred Name
 58019,49851,Steinschneider,"Steinschneider, William",,Preferred Name
+58022,49854,Weiyu,Niu Weiyu,,Preferred Name
 58030,49862,Kurtz,"Kurtz, Charles M.",,Preferred Name
 58031,48918,White,"White, Margaret Rutherfurd",,Maiden Name
 58032,48918,Bennett,"Bennett, Margaret White",,Full Name
 58033,48918,Bennett,"Bennett, William Tapley Jr. Mrs.",,Married Name
+58035,49864,Sasamoto,"Sasamoto, Tsuneko",,Preferred Name
 58036,49282,Sale,"Sale, John Russell",,Full Name
 58037,25789,Herrand,"Herrand, Ken",,Variant
 58038,49865,Roberts,"Roberts, Quin",,Preferred Name
@@ -30753,6 +30759,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58143,49954,,University of Pennsylvania Press,,Preferred Name
 58144,49955,,A. Brett & Company,,Preferred Name
 58145,48918,Bennett,"Bennett, Margaret Rutherfurd White",,Full Name
+58146,49956,Chu,GAO Chu (PC),,Preferred Name
 58147,13284,Bonnat,"Bonnat, Léon Joseph Florentin",,Full Name
 58150,46464,White,"White, Henry",,Variant
 58151,49959,White,"White, Henry",,Preferred Name
@@ -30877,6 +30884,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58288,50080,Loewy,"Loewy, Moritz",,Original Name
 58289,50081,De Biasi,"De Biasi, Mario",,Preferred Name
 58290,50082,Morin-Jean,Morin-Jean,,Preferred Name
+58291,50083,,Japan Professional Photographers Society / Japan Photo Archive,,Preferred Name
 58297,18765,,,,Variant
 58298,50089,Palmer,"Palmer, Alfred Herbert",,Preferred Name
 58299,50090,Portien,Portien,,Preferred Name
@@ -31074,7 +31082,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58578,50301,Buttery,"Buttery, Charles",,Full Name
 58579,50301,Buttery,"Buttery, Horace",,Variant
 58580,50301,Buttery,"Buttery, Ayerst Hooker",,Variant
-58581,50301,Buttery,,,Variant
 58582,50302,Haass,"Haass, Julius H.",,Preferred Name
 58583,50303,Marinkelle,"Marinkelle, Joseph",,Preferred Name
 58584,50302,Haass,"Haass, Julius Heinrich",,Full Name
@@ -31176,6 +31183,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58710,50383,Read,"Read, Chris",,Preferred Name
 58711,98,Weisman,"Weisman, Marcia Simon",,Variant
 58712,98,Weisman,"Weisman, Frederick R. Mrs.",,Married Name
+58715,917,,,,Variant
+58716,50385,,Utopica,,Preferred Name
+58717,50289,Padien,"Padien, Bill",,Variant
 58718,50208,Harrigan,"Harrigan, Mike",,Variant
 58719,50179,Corso,"Corso, Joe",,Variant
 58720,50386,Carneiro,"Carneiro, Dulce",,Preferred Name
@@ -31674,7 +31684,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59361,33172,Bell,"Bell, Cecil Crosley",,Variant
 59362,33178,Benno,,,Variant
 59363,50845,Kobashi,"Kobashi, Yasuhide",,Preferred Name
-59365,27766,,,,Variant
 59366,50847,Le Roy,Le Roy,,Preferred Name
 59367,50848,Le Sueur,"Le Sueur, Louis",,Preferred Name
 59369,1068,,Matthiesen Fine Art Limited,,Variant
@@ -32270,7 +32279,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60236,50619,Pflieger,"Pflieger, Donna Carlson",,Full Name
 60237,50619,Pflieger,"Pflieger, John Ely Jr. Mrs.",,Married Name
 60238,29937,,Estate of Anita and Burton Reiner,,Variant
-60240,44845,Kelly,"Kelly, Mary",,Variant
 60241,51462,Leonard,"Leonard, Joanne",,Preferred Name
 60242,44,Digby,"Digby, Pamela Beryl",,Maiden Name
 60243,44,Harriman,"Harriman, Pamela Digby Churchill Hayward",,Full Name
@@ -32372,7 +32380,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60386,23655,,,,Variant
 60388,27831,,,,Variant
 60390,51556,Stirling-Maxwell,"Stirling-Maxwell, William",,Preferred Name
-60391,51556,Stirling,,,Variant
 60400,51565,Freeman,"Freeman, Barbara W.",,Preferred Name
 60405,51570,Walton,"Walton, Robert",,Preferred Name
 60406,51571,Dey,"Dey, Richard",,Preferred Name
@@ -32568,6 +32575,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60755,51830,Stuart,"Stuart, David",,Variant
 60756,51831,Gottlieb,"Gottlieb, Phyllis",,Preferred Name
 60757,12034,Gagosian,"Gagosian, Larry",,Variant
+60758,10095,,"David McKee, Inc.",,Variant
 60759,51832,Jaffee,"Jaffe, William",,Preferred Name
 60760,51833,Scholtz,"Scholtz, Robert",,Preferred Name
 60761,51834,,William Pall Gallery,,Preferred Name
@@ -32709,6 +32717,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61053,52068,Armano,"Armano, Giovanni Antonio",,Preferred Name
 61055,52070,Bernasconi,"Bernasconi, Marià Elvira Celia Méndez de",,Preferred Name
 61056,52071,Inig,"Inig, Ludovico",,Preferred Name
+61060,52075,Fletcher,"Fletcher, Christine B.",,Preferred Name
 61063,52077,Legrain,"Legrain, Jacques Anthoine",,Preferred Name
 61064,52078,Cerroni,"Cerroni, Johann Peter Maria",,Preferred Name
 61066,52079,Rossier,"Rossier, Alfred",,Preferred Name
@@ -32729,6 +32738,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61101,52108,Friedrich,"Friedrich I, Jakob Andreas",,Preferred Name
 61102,52109,Weber,"Weber, Johann Georg",,Preferred Name
 61103,52110,Bethel,"Bethel, Denise",,Preferred Name
+61104,52111,Bennett,"Bennett, Gordon",,Preferred Name
 61105,52112,Beenkens,"Beenkens, Hubert",,Preferred Name
 61106,52113,Deman,"Deman, Edmond",,Preferred Name
 61112,52119,Talbot,"Talbot, Christopher Rice Mansel",,Preferred Name
@@ -32837,10 +32847,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61540,52496,Robinow,"Robinow, Paul M.",,Preferred Name
 61541,52480,Master IS.,,,Variant
 61543,52497,Reggio Emilian 16th Century,Reggio Emilian 16th Century,,Preferred Name
-61547,36256,Alston,"Alston, Charles Henry",,Variant
-61548,33212,Bomar,"Bomar, William Purinton Jr.",,Birth Name
-61549,33245,Bruton,"Bruton, Helen Bell",,Variant
-61550,33260,Buzzelli,"Buzzelli, J. Anthony",,Variant
 61568,52512,Marseus van Schrieck,"Marseus van Schrieck, Otto",,Preferred Name
 61569,52513,Drouais,"Drouais, Jean Germain",,Preferred Name
 61573,52517,Croce,"Croce, Giulio Cesare",,Preferred Name
@@ -32907,3 +32913,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61762,5192,Perret,"Perret, Pieter",,Variant
 61763,5192,Perret,"Perret, Pierre",,Variant
 61770,52668,,Jules Meynial,,Preferred Name
+61786,52678,Paget,"Paget, George",,Preferred Name
