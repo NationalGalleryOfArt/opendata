@@ -4217,7 +4217,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4431,4438,Jacquard,"Jacquard, Antoine",,Preferred Name
 4432,4439,Jacque,"Jacque, Charles Émile",,Preferred Name
 4433,4440,Jacque,"Jacque, Maurice",,Preferred Name
-61547,36256,Alston,"Alston, Charles Henry",,Variant
+61550,33260,Buzzelli,"Buzzelli, J. Anthony",,Variant
 4434,4441,Jacquemart,"Jacquemart, Jules-Ferdinand",,Preferred Name
 4435,4442,Jaeckel,"Jaeckel, Willy",,Preferred Name
 4436,4443,Jaki,Jaki,,Preferred Name
@@ -8274,7 +8274,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8693,8700,Campbell,"Campbell, 5th Duke of Argyll, John",,Preferred Name
 8694,8701,Campbell,"Campbell, 8th Duke of Argyll, George Douglas",,Preferred Name
 8695,8702,Agar,"Agar, 2nd Earl of Normanton, Welbore Ellis",,Preferred Name
-61550,33260,Buzzelli,"Buzzelli, J. Anthony",,Variant
+61551,33263,Campbell,"Campbell, Charles M.",,Variant
 8696,8703,Agar,"Agar, 3rd Earl of Normanton, James Charles H.W.E.",,Preferred Name
 8697,8704,Agar,"Agar, 4th Earl of Normanton, Sidney James",,Preferred Name
 8698,8705,Heathcote,"Heathcote, John and Lydia",,Preferred Name
@@ -13531,7 +13531,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 24136,24143,Badile the Younger,"Badile the Younger, Antonio",,Preferred Name
 24140,24147,Bertini,"Bertini, Loriano",,Preferred Name
 24141,24148,Gaud,"Gaud, Michael, Dr.",,Preferred Name
-61551,33263,Campbell,"Campbell, Charles M.",,Variant
+61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
 24142,24149,Goering,"Goering, Hermann, Reichsmarschall",,Preferred Name
 24143,24150,Kniep,"Kniep, Christoph Heinrich",,Preferred Name
 24144,24151,Strozzi,"Strozzi, Alessandro, Bishop",,Preferred Name
@@ -15169,7 +15169,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26928,26935,Robinson,"Robinson, Thomas Philip 2nd earl de Grey of Wrest and 5th baron Lucas of Crudwell",,Preferred Name
 26929,26936,Cowper,"Cowper, Anne Florence de Grey, countess Cowper and 6th baroness Lucas",,Preferred Name
 26930,26937,Cowper,"Cowper, Francis Thomas de Grey, 7th earl Cowper and 7th baron Lucas",,Preferred Name
-61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
+61563,52510,Errard,"Errard, Charles",,Preferred Name
 26931,26938,Herbert,"Herbert, Auberon Thoma,s 9th baron Lucas of Crudwell",,Preferred Name
 26932,26939,Cooper,"Cooper, Nan Ino Herbert, 10th baroness Lucas",,Preferred Name
 26933,26940,Erhardt,"Erhardt, H. Charles",,Preferred Name
@@ -15549,7 +15549,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27954,27961,Ligon,"Ligon, Glenn",,Preferred Name
 27955,27962,Harms,"Harms, Johann Oswald",,Preferred Name
 27956,27963,Anderson,"Anderson, Walter",,Preferred Name
-61563,52510,Errard,"Errard, Charles",,Preferred Name
+61564,52510,Errard,"Errard, Charles, the Younger",,Variant
 27957,27964,Luise Ross Gallery,Luise Ross Gallery,,Preferred Name
 27958,27965,,Lee Marks Fine Art,,Preferred Name
 27959,27966,d'Attimis,"d'Attimis, Conte Maniago, Niccolò",,Preferred Name
@@ -16508,7 +16508,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 29359,29366,Kupka,"Kupka, Eugénie",,Preferred Name
 29360,29367,Sherfield,"Sherfield, Lord",,Preferred Name
 29361,29368,,"de Bois, J. H.",,Preferred Name
-29362,29369,Wiegersma,"Wiegersma, H.",,Preferred Name
+29362,29369,Wiegersma,"Wiegersma, Hendrik",,Preferred Name
 29363,29370,Hunter,"Hunter, Bryan L.",,Preferred Name
 29364,29371,Goya,"Goya, Javier",,Preferred Name
 29365,29372,Goya,"Goya, Mariano",,Preferred Name
@@ -19749,7 +19749,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33715,5554,Unknown Nationality 18th Century,Unknown Nationality 18th Century,,Variant
 33716,5555,Anonymous Egyptian 2nd Century,Anonymous Egyptian 2nd Century,,Variant
 33717,5556,Anonymous Russian 19th Century,Anonymous Russian 19th Century,,Variant
-61564,52510,Errard,"Errard, Charles, the Younger",,Variant
+61567,52511,van den Aveele,"Aveele, Jan van den",,Variant
 33722,5561,Crutchfield,"Crutchfield, William Richard",,Variant
 33723,5564,Hoopes,"Hoopes, Henrietta Elizabeth Dodd",,Maiden Name
 33724,5566,Achen,"Achen, Johann von",,Variant
@@ -20686,7 +20686,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34747,10330,Galerie J. Kugel,Galerie J. Kugel,,Variant Index Name
 34749,10338,Jaucourt,Jaucourt Comte de,,Variant Index Name
 34750,10364,,Galerie Druet,,Variant Index Name
-34752,10376,Bremmer,"Bremmer, Hendrikus Petrus",,Variant
+34752,10376,Bremmer,"Bremmer, Hendricus Petrus",,Variant
 34753,10388,Palmer,"Palmer, Henry Clay Mrs.",,Variant
 34754,10388,Ridgely,"Ridgely, Mary",,Maiden Name
 34755,10390,Lockwood,"Lockwood, Luke Vincent Mrs.",,Variant
@@ -25862,7 +25862,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45321,38593,Bishop,"Bishop, Cortland Field",,Preferred Name
 45322,38594,Gutekunst,"Gutekunst, Richard",,Preferred Name
 45323,38595,Hubert,"Hubert, Alfred",,Preferred Name
-61567,52511,van den Aveele,"Aveele, Jan van den",,Variant
 45324,38596,Rodenacker,"Rodenacker, Ernst Theodor",,Preferred Name
 45325,38597,La Monte,"La Monte, George M.",,Preferred Name
 45326,38598,ten Cate,"Ten Cate, Hendrikus Egbertus",,Preferred Name
@@ -32791,7 +32790,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61238,52225,Miller-Brown,"Miller-Brown, Andrew",,Preferred Name
 61243,52229,Renard,"Renard, Jean Augustin",,Preferred Name
 61244,52230,Ballester,"Ballester, Mariano",,Preferred Name
-61292,52272,Watt,"Watt, Marie",,Preferred Name
 61304,52284,,Print Society,,Preferred Name
 61310,52289,,Silver Mountain Grapics,,Preferred Name
 61311,52290,,Spudnik Press,,Preferred Name
@@ -32847,6 +32845,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61540,52496,Robinow,"Robinow, Paul M.",,Preferred Name
 61541,52480,Master IS.,,,Variant
 61543,52497,Reggio Emilian 16th Century,Reggio Emilian 16th Century,,Preferred Name
+61547,36256,Alston,"Alston, Charles Henry",,Variant
 61568,52512,Marseus van Schrieck,"Marseus van Schrieck, Otto",,Preferred Name
 61569,52513,Drouais,"Drouais, Jean Germain",,Preferred Name
 61573,52517,Croce,"Croce, Giulio Cesare",,Preferred Name
@@ -32892,6 +32891,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61697,9487,,Mak van Waay,,Variant
 61698,9487,,Kunstveilingen S. J. Mak van Waay,,Variant
 61699,52616,Doorne,"Doorne, Pieter Willem van",,Preferred Name
+61700,52617,,Kunsthandel Walrecht,,Preferred Name
+61702,52617,Walrecht,"Walrecht, Willem",,Variant
 61703,52619,Tessin,"Tessin, Carl Gustaf",,Preferred Name
 61704,52620,Lagerbring,"Lagerbring, Carl",,Preferred Name
 61705,52621,Gerdten,"Gerdten, Johan Adam von",,Preferred Name
@@ -32917,3 +32918,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61788,33318,Crawford,"Crawford, Lesley",,Variant
 61789,52679,Phillips,"Phillips, Richard",,Preferred Name
 61790,52680,,Cadell & Davies,,Preferred Name
+61791,10373,Maclaine Pont,"Maclaine Pont, Willem Pieter",,Full Name
+61792,10374,Maclaine Pont-Stork,"Maclaine Pont-Stork, Anna Wilhelmina",,Full Name
+61793,29369,Wiegersma,"Wiegersma, Hendrik Josef Marie",,Full Name
+61794,10905,,Kunstzaal d'Audretsch,,Variant
