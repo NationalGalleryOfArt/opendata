@@ -5271,6 +5271,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 5543,5550,Fratin,"Fratin, Christophe",,Preferred Name
 5544,5551,Durantino,"Durantino, Francesco",,Preferred Name
 5545,5552,Saracchi Workshop,Saracchi Workshop,,Preferred Name
+5546,5553,Unknown 17th Century,Unknown 17th Century,,Preferred Name
 5547,5554,Unknown 18th Century,Unknown 18th Century,,Preferred Name
 5548,5555,Egyptian 2nd Century,Egyptian 2nd Century,,Preferred Name
 5549,5556,Russian 19th Century,Russian 19th Century,,Preferred Name
@@ -5664,8 +5665,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 5955,5962,Bishop,"Bishop, Isabel",,Preferred Name
 5956,5963,Tommaso di Calisto,Tommaso di Calisto,,Preferred Name
 5957,5964,Callow,"Callow, William",,Preferred Name
-5958,5965,Read,"Read, David Charles",,Preferred Name
 9484,9491,Means,Means,,Preferred Name
+5958,5965,Read,"Read, David Charles",,Preferred Name
 5959,5966,Rugendas,"Rugendas, Georg Philipp",,Preferred Name
 5960,5967,Fanelli,"Fanelli, Francesco",,Preferred Name
 5961,5968,Natoire,"Natoire, Charles Joseph",,Preferred Name
@@ -8274,7 +8275,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8693,8700,Campbell,"Campbell, 5th Duke of Argyll, John",,Preferred Name
 8694,8701,Campbell,"Campbell, 8th Duke of Argyll, George Douglas",,Preferred Name
 8695,8702,Agar,"Agar, 2nd Earl of Normanton, Welbore Ellis",,Preferred Name
-61551,33263,Campbell,"Campbell, Charles M.",,Variant
 8696,8703,Agar,"Agar, 3rd Earl of Normanton, James Charles H.W.E.",,Preferred Name
 8697,8704,Agar,"Agar, 4th Earl of Normanton, Sidney James",,Preferred Name
 8698,8705,Heathcote,"Heathcote, John and Lydia",,Preferred Name
@@ -13531,7 +13531,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 24136,24143,Badile the Younger,"Badile the Younger, Antonio",,Preferred Name
 24140,24147,Bertini,"Bertini, Loriano",,Preferred Name
 24141,24148,Gaud,"Gaud, Michael, Dr.",,Preferred Name
-61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
+61551,33263,Campbell,"Campbell, Charles M.",,Variant
 24142,24149,Goering,"Goering, Hermann, Reichsmarschall",,Preferred Name
 24143,24150,Kniep,"Kniep, Christoph Heinrich",,Preferred Name
 24144,24151,Strozzi,"Strozzi, Alessandro, Bishop",,Preferred Name
@@ -15169,7 +15169,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26928,26935,Robinson,"Robinson, Thomas Philip 2nd earl de Grey of Wrest and 5th baron Lucas of Crudwell",,Preferred Name
 26929,26936,Cowper,"Cowper, Anne Florence de Grey, countess Cowper and 6th baroness Lucas",,Preferred Name
 26930,26937,Cowper,"Cowper, Francis Thomas de Grey, 7th earl Cowper and 7th baron Lucas",,Preferred Name
-61563,52510,Errard,"Errard, Charles",,Preferred Name
+61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
 26931,26938,Herbert,"Herbert, Auberon Thoma,s 9th baron Lucas of Crudwell",,Preferred Name
 26932,26939,Cooper,"Cooper, Nan Ino Herbert, 10th baroness Lucas",,Preferred Name
 26933,26940,Erhardt,"Erhardt, H. Charles",,Preferred Name
@@ -15549,7 +15549,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27954,27961,Ligon,"Ligon, Glenn",,Preferred Name
 27955,27962,Harms,"Harms, Johann Oswald",,Preferred Name
 27956,27963,Anderson,"Anderson, Walter",,Preferred Name
-61564,52510,Errard,"Errard, Charles, the Younger",,Variant
+61563,52510,Errard,"Errard, Charles",,Preferred Name
 27957,27964,Luise Ross Gallery,Luise Ross Gallery,,Preferred Name
 27958,27965,,Lee Marks Fine Art,,Preferred Name
 27959,27966,d'Attimis,"d'Attimis, Conte Maniago, Niccolò",,Preferred Name
@@ -19745,11 +19745,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33708,5540,Contucci,"Contucci, Andrea",,Variant
 33710,5545,Rebillier,"Rebillier, Nicolas",,Variant
 33712,5548,Anonymous French 14th Century,Anonymous French 14th Century,,Variant
+33713,5553,Anonymous Unknown 17th Century,Anonymous Unknown 17th Century,,Variant
 33714,5554,Anonymous Unknown 18th Century,Anonymous Unknown 18th Century,,Variant
 33715,5554,Unknown Nationality 18th Century,Unknown Nationality 18th Century,,Variant
 33716,5555,Anonymous Egyptian 2nd Century,Anonymous Egyptian 2nd Century,,Variant
+61564,52510,Errard,"Errard, Charles, the Younger",,Variant
 33717,5556,Anonymous Russian 19th Century,Anonymous Russian 19th Century,,Variant
-61567,52511,van den Aveele,"Aveele, Jan van den",,Variant
 33722,5561,Crutchfield,"Crutchfield, William Richard",,Variant
 33723,5564,Hoopes,"Hoopes, Henrietta Elizabeth Dodd",,Maiden Name
 33724,5566,Achen,"Achen, Johann von",,Variant
@@ -25557,7 +25558,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44831,5999,Netscher,"Netscher, Gaspar",,Variant
 44837,38205,Looker,"Looker, Robert",,Preferred Name
 44838,38206,Nivola,"Nivola, Pietro",,Preferred Name
-44841,38209,Hermann,"Hermann, Curt",,Preferred Name
+44841,38209,Herrmann,"Herrmann, Curt",,Preferred Name
 44845,38213,Riggio,"Riggio, Louise and Leonard",,Preferred Name
 44850,38216,Rose,"Rose, Ingrid",,Preferred Name
 44851,38217,Breitenbach,"Breitenbach, Josef",,Preferred Name
@@ -25753,8 +25754,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45117,38429,Liebermann,"Liebermann, Käthe",,Maiden Name
 45118,38430,Gogh,"Gogh, Theo van",,Preferred Name
 45119,38430,van Gogh,"van Gogh, Theo",,Variant Index Name
-45120,38431,Hermann,"Hermann, Frederick Henry",,Preferred Name
-45121,38431,Hermann,"Hermann, Fritz Henry",,Nickname/Pseudonym
+45120,38431,Herrmann,"Herrmann, Frederick Henry",,Preferred Name
+45121,38431,Herrmann,"Herrmann, Fritz Henry",,Nickname/Pseudonym
 45122,38430,Gogh,"Gogh, Theodorus van",,Full Name
 45123,38432,Hoogendijk,"Hoogendijk, Cornelis",,Preferred Name
 45126,38435,Harrison,"Harrison, Wanda Malone",,Preferred Name
@@ -25862,6 +25863,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45321,38593,Bishop,"Bishop, Cortland Field",,Preferred Name
 45322,38594,Gutekunst,"Gutekunst, Richard",,Preferred Name
 45323,38595,Hubert,"Hubert, Alfred",,Preferred Name
+61567,52511,van den Aveele,"Aveele, Jan van den",,Variant
 45324,38596,Rodenacker,"Rodenacker, Ernst Theodor",,Preferred Name
 45325,38597,La Monte,"La Monte, George M.",,Preferred Name
 45326,38598,ten Cate,"Ten Cate, Hendrikus Egbertus",,Preferred Name
@@ -32922,3 +32924,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61792,10374,Maclaine Pont-Stork,"Maclaine Pont-Stork, Anna Wilhelmina",,Full Name
 61793,29369,Wiegersma,"Wiegersma, Hendrik Josef Marie",,Full Name
 61794,10905,,Kunstzaal d'Audretsch,,Variant
+61796,52681,Greenbury,"Greenbury, Richard",,Preferred Name
+61797,52681,Greenbury,"Greenbury, Robert",,Variant
+61799,38431,Herrmann,"Herrmann, Fritz Heinrich",,Birth Name
+61800,38209,Herrmann,"Herrmann, Hugo Curt",,Full Name
