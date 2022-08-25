@@ -1917,6 +1917,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 2018,500005382,"Bell, Larry",Larry Bell,Bell,"American, born 1939",1,1939,,1926 to 1950,American,American,individual
 2019,500005431,"Belli, Valerio",Valerio Belli,Belli,"Italian, 1468 - 1546",1,1468,1546,1401 to 1500,Italian,Italian,individual
 2048,500012644,"Callery, Mary",Mary Callery,Callery,"American, 1903 - 1977",1,1903,1977,1901 to 1925,American,American,individual
+52583,,"E. Plon, Nourrit & Cie","E. Plon, Nourrit & Cie",,,1,,,,,Other,corporate
 2020,500026083,"Bellini, Gentile",Gentile Bellini,Bellini,"Venetian, c. 1429/1430 - 1507",1,1429,1507,1401 to 1500,Italian,Italian,individual
 2021,500006675,Benedetto da Maiano,Benedetto da Maiano,Benedetto da Maiano,"Florentine, 1442 - 1497",1,1442,1497,1401 to 1500,Italian,Italian,individual
 2022,500025132,Benedetto da Rovezzano,Benedetto da Rovezzano,Benedetto da Rovezzano,"Florentine, 1474 - c. 1554",1,1474,1554,1401 to 1500,Italian,Italian,individual
@@ -1932,6 +1933,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 2032,500016387,"Bologna, Giovanni",Giovanni Bologna,Bologna,"Flemish, 1529 - 1608",1,1529,1608,1501 to 1550,Flemish,Flemish,individual
 2033,500072132,"Bolsterer, Hans",Hans Bolsterer,Bolsterer,"German, died 1573",1,1473,1573,1401 to 1500,German,German,individual
 2034,500192440,"Bolus, Michael",Michael Bolus,Bolus,"British, born 1934",1,1934,,1926 to 1950,British,British,individual
+52584,,Ducourtioux & Huillard,Ducourtioux & Huillard,,,1,,,,,Other,corporate
 2035,500103742,"Cambio, called Bombarda, Giovanni Battista","Giovanni Battista Cambio, called Bombarda","Cambio, called Bombarda","Emilian, active c. 1540 - 1575",1,1540,1575,1501 to 1550,Italian,Italian,individual
 2036,500128021,Bonino da Campione,Bonino da Campione,Bonino da Campione,"Lombard, active 1357 - 1397",1,1337,1397,1300 to 1400,Italian,Italian,individual
 2037,500107384,"Bonzagni, Giovan Federico",Giovan Federico Bonzagni,Bonzagni,"Parmese, after 1507 - 1588",1,1507,1588,1501 to 1550,Italian,Italian,individual
@@ -7972,7 +7974,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 8339,,Italian 20th Century,Italian 20th Century,Italian 20th Century,,1,1900,1999,1876 to 1900,Italian,Italian,anonymous
 8340,,Netherlandish 14th Century,Netherlandish 14th Century,Netherlandish 14th Century,,1,1300,1399,1300 to 1400,Netherlandish,Netherlandish,anonymous
 8341,,Netherlandish 15th Century,Netherlandish 15th Century,Netherlandish 15th Century,,1,1400,1499,1300 to 1400,Netherlandish,Netherlandish,anonymous
-8342,,Anonymous Netherlandish,Anonymous Netherlandish,Netherlandish 15th Century,,1,1400,1499,1300 to 1400,Netherlandish,Netherlandish,anonymous
+8342,,Anonymous Flemish 15th Century,Anonymous Flemish 15th Century,Flemish 15th Century,,1,1400,1499,1300 to 1400,Flemish,Flemish,anonymous
 8343,,Franco-Flemish 15th Century,Franco-Flemish 15th Century,Franco-Flemish 15th Century,,1,1400,1499,1300 to 1400,Franco-Flemish,Other,anonymous
 8344,,North Netherlandish 15th Century,North Netherlandish 15th Century,North Netherlandish 15th Century,,1,1400,1499,1300 to 1400,Netherlandish,Netherlandish,anonymous
 8345,,South Netherlandish 15th Century,South Netherlandish 15th Century,South Netherlandish 15th Century,,1,1400,1499,1300 to 1400,Netherlandish,Netherlandish,anonymous
@@ -20178,7 +20180,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 36767,,"d'Aquin, Gerard Joseph Emile Count",Count Gerard Joseph Emile d'Aquin,d'Aquin,"Dutch, born 1865",0,1865,1965,1851 to 1875,Dutch,Dutch,individual
 36768,,"Stöpel, Gustav",Gustav Stöpel,Stöpel,,0,,,,,Other,individual
 36769,,Symonds Mrs.,Mrs. Symonds,Symonds,,0,,,,,Other,individual
-36772,,"Fontana, Lavinia",Lavinia Fontana,Fontana,"Italian, 1552 - 1614",1,1552,1614,1551 to 1600,Italian,Italian,individual
 36774,500005245,"Uwins, Thomas",Thomas Uwins,Uwins,"British, 1782 - 1857",1,1782,1857,1776 to 1800,British,British,individual
 36775,,Galerie Jean Fournier,Galerie Jean Fournier,,,0,,,,,Other,corporate
 36776,,"Fauci, Dan",Dan Fauci,Fauci,,0,,,,,Other,individual
@@ -24486,7 +24487,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49851,,"Steinschneider, William",William Steinschneider,Steinschneider,"American, 20th century",0,,,,American,American,individual
 49854,,Niu Weiyu,Niu Weiyu,Weiyu,"Chinese, 1927 - 2020",1,1927,2020,1926 to 1950,Chinese,Chinese,individual
 49862,,"Kurtz, Charles M.",Charles M. Kurtz,Kurtz,"American, 1855 - 1909",0,1855,1909,1851 to 1875,American,American,individual
-49864,,"Sasamoto, Tsuneko",Tsuneko Sasamoto,Sasamoto,"Japanese, born 1914",1,1914,,1901 to 1925,Japanese,Japanese,individual
+49864,,"Sasamoto, Tsuneko",Tsuneko Sasamoto,Sasamoto,"Japanese, 1914 - 2022",1,1914,2022,1901 to 1925,Japanese,Japanese,individual
 49865,,"Roberts, Quin",Quin Roberts,Roberts,"American, active late 20th century",1,,,,American,American,individual
 49866,,"Bowling, Jim",Jim Bowling,Bowling,"American, active late 20th century",1,,,,American,American,individual
 49867,,"Bessman, Cindee",Cindee Bessman,Bessman,"American, active late 20th century",1,,,,American,American,individual
@@ -25986,7 +25987,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52437,,Skinner Auctioneers,Skinner Auctioneers,Skinner Auctioneers,,0,,,,,Other,corporate
 52444,,"Dietel, Albin Woldemar von",Albin Woldemar von Dietel,von Dietel,"German, 1861 - 1928",0,1861,1928,1851 to 1875,German,German,individual
 52455,,"Ford, Walton",Walton Ford,Ford,"American, born 1960",1,1960,,1951 to 1975,American,American,individual
-52468,,Lullo Pampoulides,Lullo Pampoulides,,,0,,,,,Other,corporate
 52470,,"Aslan, Sissi",Sissi Aslan,Aslan,"Italian, 20th century",0,1900,2000,1876 to 1900,"Italian, 20th century",Other,individual
 52478,,"Ridinger, Martin Elias",Martin Elias Ridinger,Ridinger,"German, c. 1730 - 1780",1,1730,1780,1726 to 1750,German,German,individual
 52480,,"Silber, Jonas",Jonas Silber,Silber,"German, active 1572 - 1589",1,1572,1589,1551 to 1600,German,German,individual
@@ -26016,8 +26016,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52579,,"Vail, William Jr.",William Vail Jr.,Vail,"American, 1802 - 1875",0,1802,1875,1801 to 1825,American,American,individual
 52580,,"Vail, Duncan P. and Mary F. Onderdonk",Duncan P. and Mary F. Onderdonk Vail,Vail,he: 1829 - 1894; she: 1839 - 1924,0,1829,1924,1826 to 1850,American,American,couple
 52581,,"Vail, Frederick P. and Ida M. McLaurie",Frederick P. and Ida M. McLaurie Vail,Vail,he: 1861 - 1948; she: 1867 - 1952,0,1861,1952,1851 to 1875,American,American,couple
-52583,,"E. Plon, Nourrit & Cie","E. Plon, Nourrit & Cie",,,1,,,,,Other,corporate
-52584,,Ducourtioux & Huillard,Ducourtioux & Huillard,,,1,,,,,Other,corporate
 52586,,"Vail, Virginia",Virginia Vail,Vail,"American, 1897 - 1973",0,1897,1973,1876 to 1900,American,American,individual
 52587,,"Gibbon, Glorianna H.",Glorianna H. Gibbon,Gibbon,"American, 1929 - 2016",0,1929,2016,1926 to 1950,American,American,individual
 52594,,Marc Straus Gallery,Marc Straus Gallery,,,0,,,,,Other,corporate
