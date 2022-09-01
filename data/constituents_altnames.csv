@@ -4221,7 +4221,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4431,4438,Jacquard,"Jacquard, Antoine",,Preferred Name
 4432,4439,Jacque,"Jacque, Charles Émile",,Preferred Name
 4433,4440,Jacque,"Jacque, Maurice",,Preferred Name
-61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
+61551,33263,Campbell,"Campbell, Charles M.",,Variant
 4434,4441,Jacquemart,"Jacquemart, Jules-Ferdinand",,Preferred Name
 4435,4442,Jaeckel,"Jaeckel, Willy",,Preferred Name
 4436,4443,Jaki,Jaki,,Preferred Name
@@ -8928,7 +8928,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9377,9384,Schultz,"Schultz, Howard Mr. and Mrs.",,Preferred Name
 9378,9385,Barsanti,"Barsanti, Alfredo",,Preferred Name
 9379,9386,Barsanti,"Barsanti, Mario",,Preferred Name
-61563,52510,Errard,"Errard, Charles",,Preferred Name
+61554,38474,Anthing,"Anthing, Johann Friedrich",,Variant
 9380,9387,,"Sassangy, Chapel of the Château de",,Preferred Name
 9381,9388,Meller,"Meller, Simon, Dr.",,Preferred Name
 9382,9389,Hirsch,"Hirsch, Jacob, Dr.",,Preferred Name
@@ -13534,7 +13534,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 24136,24143,Badile the Younger,"Badile the Younger, Antonio",,Preferred Name
 24140,24147,Bertini,"Bertini, Loriano",,Preferred Name
 24141,24148,Gaud,"Gaud, Michael, Dr.",,Preferred Name
-61564,52510,Errard,"Errard, Charles, the Younger",,Variant
+61563,52510,Errard,"Errard, Charles",,Preferred Name
 24142,24149,Goering,"Goering, Hermann, Reichsmarschall",,Preferred Name
 24143,24150,Kniep,"Kniep, Christoph Heinrich",,Preferred Name
 24144,24151,Strozzi,"Strozzi, Alessandro, Bishop",,Preferred Name
@@ -15172,7 +15172,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26928,26935,Robinson,"Robinson, Thomas Philip 2nd earl de Grey of Wrest and 5th baron Lucas of Crudwell",,Preferred Name
 26929,26936,Cowper,"Cowper, Anne Florence de Grey, countess Cowper and 6th baroness Lucas",,Preferred Name
 26930,26937,Cowper,"Cowper, Francis Thomas de Grey, 7th earl Cowper and 7th baron Lucas",,Preferred Name
-61566,52511,van den Aveele,"Aveele, Johannes, van den",,Preferred Name
+61564,52510,Errard,"Errard, Charles, the Younger",,Variant
 26931,26938,Herbert,"Herbert, Auberon Thoma,s 9th baron Lucas of Crudwell",,Preferred Name
 26932,26939,Cooper,"Cooper, Nan Ino Herbert, 10th baroness Lucas",,Preferred Name
 26933,26940,Erhardt,"Erhardt, H. Charles",,Preferred Name
@@ -28086,6 +28086,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54371,47276,Potocki,"Potocki, Leon",,Preferred Name
 54372,47277,Woodward,"Woodward, Charles Warren",,Preferred Name
 54373,30397,,E. Weyhe Inc.,,Variant
+61566,52511,van den Aveele,"Aveele, Johannes, van den",,Preferred Name
 54378,47282,,Libreria Antiquaria il Cartiglio di R. Cena & C. Snc,,Preferred Name
 54379,47283,Minnich,"Minnich, Walter",,Preferred Name
 54380,47284,Dorner,"Dorner, Johann Jakob the younger",,Preferred Name
@@ -32764,6 +32765,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61156,52161,Walker,"Walker, Darren",,Preferred Name
 61158,52163,,Art Information Volunteers,,Preferred Name
 61159,51832,Jaffe,"Jaffe, Bill",,Variant
+61161,52165,Schiffman,"Schiffman, Michael Louis Dr.",,Preferred Name
 61167,46388,,,,Variant
 61169,30461,,,,Full Name
 61176,52015,Kong Yee Ching,,,Variant Index Name
@@ -32846,7 +32848,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61548,33212,Bomar,"Bomar, William Purinton Jr.",,Birth Name
 61549,33245,Bruton,"Bruton, Helen Bell",,Variant
 61550,33260,Buzzelli,"Buzzelli, J. Anthony",,Variant
-61551,33263,Campbell,"Campbell, Charles M.",,Variant
 61568,52512,Marseus van Schrieck,"Marseus van Schrieck, Otto",,Preferred Name
 61569,52513,Drouais,"Drouais, Jean Germain",,Preferred Name
 61573,52517,Croce,"Croce, Giulio Cesare",,Preferred Name
