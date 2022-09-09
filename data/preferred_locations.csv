@@ -1,152 +1,23 @@
 locationkey,locationtype,description,ispublicvenue,mapimageurl,mapshapetype,mapshapecoords,partof
-EC-005,room,East Building Auditorium,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"301,64,355,85,356,121,301,142",3-eb-concourse
-EC-029-N,room,"East Building, Concourse - Gallery 29N",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"390,83,401,87,400,92,396,102,396,117,387,118,385,93",3-eb-concourse
-EC-029-B,room,"East Building, Concourse - Gallery 29B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"414,109,415,129,424,133,425,144,447,136,446,121",3-eb-concourse
-EC-029-R,room,"East Building, Concourse - Gallery 29R",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"496,99,497,102,498,113,496,116,490,116,487,114,487,99",3-eb-concourse
-EBSA,room,East Building Small Auditorium,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,"","",3-eb-concourse
-EC-028,room,"East Building, Concourse - Gallery Lobby",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"387,119,414,119,415,148,386,137",3-eb-concourse
-CLA-098,room,West Concourse Gallery,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,rect,"6,97,17,118",3-eb-concourse
-EC-029-I,room,"East Building, Concourse - Gallery 29I",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"344,42,365,49,362,61,353,64,345,61,339,53",3-eb-concourse
-EC-029-D,room,"East Building, Concourse - Gallery 29D",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"401,95,405,95,425,95,425,103,414,107,414,117,396,117,397,101",3-eb-concourse
-EC-029-G,room,"East Building, Concourse - Gallery 29G",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"392,60,409,65,401,86,385,81",3-eb-concourse
-EC-029-A,room,"East Building, Concourse - Gallery 29A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,rect,"446,95,487,121",3-eb-concourse
-EC-029-F,room,"East Building, Concourse - Gallery 29F",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"409,66,424,72,425,90,403,82",3-eb-concourse
-EC-029-Q,room,"East Building, Concourse - Gallery 29Q",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"390,83,401,87,400,92,396,102,396,117,387,118,385,93",3-eb-concourse
-EBLA,room,East Building Auditorium,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,"","",3-eb-concourse
-EC-029-C,room,"East Building, Concourse - Gallery 29C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"426,80,446,80,446,95,426,103",3-eb-concourse
-EC-029-P,room,"East Building, Concourse - Gallery 29P",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"360,72,391,83,386,90,382,89,381,92,358,83",3-eb-concourse
-G-042-A,room,"West Building, Ground Floor - Gallery 42A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"155,94,173,118",2-wb-ground
-WBLHl,room,West Building Lecture Hall,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,"","",2-wb-ground
-M-092,room,"West Building, Main Floor - Gallery 92",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"327,61,342,72",1-wb-main
-M-073-A,room,"West Building, Main Floor - Gallery 73A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"464,50,479,69",1-wb-main
-M-121,room,"West Building, Main Floor - North Stair Landing West",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"243,49,267,60",1-wb-main
-M-138,room,"West Building, Main Floor - East Stair Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"503,98,518,97,518,102,521,104,522,107,519,110,519,110,518,115,503,115",1-wb-main
-G-026,room,"West Building, Ground Floor - Gallery 26",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"80,165,97,184",1-wb-main
-M-057,room,"West Building, Main Floor - Gallery 57",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"382,119,405,140",1-wb-main
-M-050-C,room,"West Building, Main Floor - Gallery 50C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"232,119,244,131",1-wb-main
-M-100,room,"West Building, Main Floor - West Stair Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"43,93,56,120",1-wb-main
-M-054,room,"West Building, Main Floor - Gallery 54",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"350,141,373,164",1-wb-main
-M-072-A,room,"West Building, Main Floor - Gallery 72-A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,"","",1-wb-main
-M-048,room,"West Building, Main Floor - Gallery 48",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"177,119,209,140",1-wb-main
-M-038,room,"West Building, Main Floor - Gallery 38",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"102,163,97,159,96,148,102,144,107,144,112,148,112,161,106,163",1-wb-main
-M-106,room,"West Building, Main Floor - West Sculpture Hall",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"154,94,232,119",1-wb-main
-MWSLA,room,"West Building, Main Floor - West Stair Landing",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"43,93,56,120",1-wb-main
-M-070,room,"West Building, Main Floor - Gallery 70",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"503,132,529,145",1-wb-main
-M-003,room,"West Building, Main Floor - Gallery 03",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"193,48,210,72",1-wb-main
-M-001,room,"West Building, Main Floor - Gallery 01",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"209,72,232,93",1-wb-main
-M-023,room,"West Building, Main Floor - Gallery 23",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"30,49,56,72",1-wb-main
-M-034,room,"West Building, Main Floor - Gallery 34",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"57,164,75,186",1-wb-main
-G-022,room,"West Building, Ground Floor - Gallery 22",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,89,88,101",2-wb-ground
-WBL,room,West Building Lawn,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"1,47,10,166",2-wb-ground
-G-027,room,"West Building, Ground Floor - Gallery 27",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"132,163,153,183",2-wb-ground
-G-005,room,"West Building, Ground Floor - Gallery 5",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"154,74,168,94",2-wb-ground
-G-010,room,"West Building, Ground Floor - Gallery 10",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"78,3,136,25",2-wb-ground
-G-045,room,"West Building, Ground Floor - Gallery 45",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"304,94,325,118",2-wb-ground
-G-031,room,"West Building, Ground Floor - Gallery 31",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"114,145,132,163",2-wb-ground
-G-025,room,"West Building, Ground Floor - Gallery 25",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,164,78,182",2-wb-ground
-G-032,room,"West Building, Ground Floor - Gallery 32",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"97,145,114,163",2-wb-ground
-G-023,room,"West Building, Ground Floor - Gallery 23",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,120,78,144",2-wb-ground
-G-028,room,"West Building, Ground Floor - Gallery 28",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"132,139,154,163",2-wb-ground
-G-094,room,"West Building, Ground Floor - North Lobby, East Stair",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"293,38,317,59",2-wb-ground
-G-030,room,"West Building, Ground Floor - Gallery 30",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"122,110,132,144",2-wb-ground
-G-037,room,"West Building, Ground Floor - Gallery 37",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,93,78,119",2-wb-ground
-WBPL,room,"West Building, Plaza (4th Street)",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,"","",2-wb-ground
-G-038,room,"West Building, Ground Floor - Gallery 38",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,101,88,110",2-wb-ground
-M-061,room,"West Building, Main Floor - Gallery 61",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"406,165,425,187",1-wb-main
-M-074,room,"West Building, Main Floor - Gallery 74",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"445,50,464,69",1-wb-main
-M-134,room,"West Building, Main Floor - East Sculpture Hall",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"327,94,405,118",1-wb-main
-M-071,room,"West Building, Main Floor - Gallery 71",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"482,116,502,142",1-wb-main
-EM-203,room,"East Building, Mezzanine - Terrace",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"160,70,193,80,193,57,293,93,159,141",5-eb-mezzanine
-EM-203-A,room,"East Building, Mezzanine - Terrace",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"184,74,213,83,213,127,185,137",5-eb-mezzanine
-EM-217-B,room,"East Building, Mezzanine - Gallery 217B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,rect,"319,87,339,124",5-eb-mezzanine
-EM-214-A,room,"East Building, Mezzanine - Gallery 214A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"171,35,191,35,190,56,171,62",5-eb-mezzanine
-EM-214-C,room,"East Building, Mezzanine - Gallery 214C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"151,28,161,24,170,28,169,42,151,42",5-eb-mezzanine
-EM-204,room,"East Building, Mezzanine - Elevator Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"170,137,181,133,181,171,170,168",5-eb-mezzanine
-EM-213,room,"East Building, Mezzanine - East Building, Vestibule 213",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"171,63,182,59,193,66,192,73,183,78,171,74",5-eb-mezzanine
-EM-201,room,"East Building, Mezzanine - Landing",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"192,177,227,165,227,197,203,205,192,202",5-eb-mezzanine
-EM-217-A,room,"East Building, Mezzanine - Gallery 217A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,rect,"339,94,360,116",5-eb-mezzanine
-EM-202,room,"East Building, Mezzanine - Bridge",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"217,121,227,118,227,165,216,169",5-eb-mezzanine
-EM-217-C,room,"East Building, Mezzanine - Gallery 217C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"305,92,312,91,319,95,319,115,313,120,306,120,299,116,299,95",5-eb-mezzanine
-EM-216,room,"East Building, Mezzanine - Vestibule 216",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"288,113,297,109,299,110,300,101,297,102,285,97,273,101,273,108",5-eb-mezzanine
-4-eb-ground,floor,"East Building, Ground Level",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,,,eb
-EU-404-B,room,"East Building, Upper Level - Gallery 404B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,rect,"128,65,144,106",6-eb-upper
-EU-407-X,room,"East Building, Upper Level - Gallery 407X",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"300,85,303,85,303,93,301,95,299,92,294,93,294,87,294,88",6-eb-upper
-EU-407-Z,room,"East Building, Upper Level - Gallery 407Z",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"304,85,304,90,327,83,294,71,293,81,295,86",6-eb-upper
-EU-415-A,room,"East Building, Upper Level - Gallery 415A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,rect,"340,95,360,116",6-eb-upper
-G-011,room,"West Building, Ground Floor - Gallery 11",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,poly,"118,36,121,32,130,31,135,36,135,42,132,47,121,47,118,41,118,36",2-wb-ground
-G-085,room,"West Building, Ground Floor - North Lobby, West Stair",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"242,38,267,59",2-wb-ground
-G-035,room,"West Building, Ground Floor - Gallery 35",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"11,93,41,119",2-wb-ground
-G-020-B,room,"West Building, Ground Floor - Gallery 20B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"88,48,119,67",2-wb-ground
-G-036,room,"West Building, Ground Floor - Gallery 36",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"41,93,57,132",2-wb-ground
-WBGS,room,West Building Gallery Shop,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,"","",2-wb-ground
-G-044-A,room,"West Building, Ground Floor - Garden Cafe Alcove",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"266,118,292,132",2-wb-ground
-G-040,room,"West Building, Ground Floor - Gallery 40",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"122,101,132,110",2-wb-ground
-G-013-A,room,"West Building, Ground Floor - Gallery 13A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,25,97,31",2-wb-ground
-G-026,room,"West Building, Ground Floor - Gallery 26",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"80,165,97,184",2-wb-ground
-G-004,room,"West Building, Ground Floor - Gallery 4",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"167,74,206,94",2-wb-ground
-G-001,room,"West Building, Ground Floor - Gallery 1",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"232,48,242,94",2-wb-ground
-G-042,room,"West Building, Ground Floor - Gallery 42",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"154,94,232,118",2-wb-ground
-G-026-B,room,West Ground Floor Gallery 26B,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"98,165,116,184",2-wb-ground
-M-043,room,"West Building, Main Floor - Gallery 43",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"114,143,141,164",1-wb-main
-M-136,room,"West Building, Main Floor - East Garden Court",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"428,70,481,142",1-wb-main
-M-042,room,"West Building, Main Floor - Gallery 42",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"116,165,153,186",1-wb-main
-M-040,room,"West Building, Main Floor - Gallery 40",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"100,208,95,202,95,192,100,188,109,188,113,193,114,205,109,207",1-wb-main
-M-073,room,"West Building, Main Floor - Gallery 73",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"464,50,502,69",1-wb-main
-M-031,room,"West Building, Main Floor - Gallery 31",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"11,120,42,139",1-wb-main
-M-058,room,"West Building, Main Floor - Gallery 58",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"406,116,427,142",1-wb-main
-M-033,room,"West Building, Main Floor - Gallery 33",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"56,146,77,164",1-wb-main
-M-055,room,"West Building, Main Floor - Gallery 55",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"373,141,405,165",1-wb-main
-M-078-A,room,"West Building, Main Floor - Gallery 78A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"484,24,465,3",1-wb-main
-M-005,room,"West Building, Main Floor - Gallery 05",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"176,48,193,72",1-wb-main
-M-068,room,"West Building, Main Floor - Gallery 68",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"503,146,529,164",1-wb-main
-M-018,room,"West Building, Main Floor - Gallery 18",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"77,3,94,24",1-wb-main
-M-028,room,"West Building, Main Floor - Gallery 28",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"57,70,78,97",1-wb-main
-M-039,room,"West Building, Main Floor - Gallery 39",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"95,165,114,186",1-wb-main
-M-050,room,"West Building, Main Floor - Gallery 50",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"209,140,232,164",1-wb-main
-M-045,room,"West Building, Main Floor - Gallery 45",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"132,116,153,142",1-wb-main
-M-127,room,"West Building, Main Floor - North Stair Landing East",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"293,49,316,59",1-wb-main
-M-025,room,"West Building, Main Floor - Gallery 25",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"11,72,27,88",1-wb-main
-M-050-B,room,"West Building, Main Floor - Gallery 50B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"232,131,244,151",1-wb-main
-M-008,room,"West Building, Main Floor - Gallery 08",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"132,72,153,96",1-wb-main
-M-047,room,"West Building, Main Floor - Gallery 47",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"154,141,184,164",1-wb-main
-M-088,room,"West Building, Main Floor - Gallery 88",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"366,60,382,72",1-wb-main
 EC-029-K,room,"East Building, Concourse - Gallery 29K",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"426,103,435,100,445,105,446,111,434,116,426,113",3-eb-concourse
-G-007,room,"West Building, Ground Floor - Gallery 7",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,circle,"143,60,10",2-wb-ground
-M-060,room,"West Building, Main Floor - Gallery 60",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"451,163,445,158,446,150,450,145,458,145,463,150,464,157,458,163",1-wb-main
-M-053,room,"West Building, Main Floor - Gallery 53",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"327,141,350,164",1-wb-main
-M-049,room,"West Building, Main Floor - Gallery 49",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"185,140,209,164",1-wb-main
-M-113,room,"West Building, Main Floor - Founder's Room",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"293,144,315,175",1-wb-main
-M-010,room,"West Building, Main Floor - Gallery 10",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"114,49,132,70",1-wb-main
-M-135,room,"West Building, Main Floor - Lobby C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"406,98,427,115",1-wb-main
-M-084,room,"West Building, Main Floor - Gallery 84",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"406,70,427,97",1-wb-main
-M-086,room,"West Building, Main Floor - Gallery 86",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"382,48,405,72",1-wb-main
-WBPR,room,West Building Project Room,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,"","",1-wb-main
-M-109,room,"West Building, Main Floor - Information Room",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"245,144,267,175",1-wb-main
-M-079,room,"West Building, Main Floor - Gallery 79",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"444,3,465,24",1-wb-main
-M-041,room,"West Building, Main Floor - Gallery 41",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"115,187,133,210",1-wb-main
-M-066,room,"West Building, Main Floor - Gallery 66",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"483,165,502,187",1-wb-main
-M-012,room,"West Building, Main Floor - Gallery 12",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"99,25,110,48",1-wb-main
-EU-407-A,room,"East Building, Upper Level - Gallery 407A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"285,70,292,73,293,81,283,86,283,99,273,105,272,85,263,83,263,73,271,70",6-eb-upper
-EU-408,room,"East Building, Upper Level - Gallery 408",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"171,65,180,62,194,67,193,73,181,77,170,74",6-eb-upper
-7-eb-tower,floor,"East Building, Tower",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,,,eb
-ET-606,room,"East Building, Tower - Gallery 606",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"137,32,154,25,164,25,183,31,181,61,174,64,168,62,166,65,153,65,137,59",7-eb-tower
-ET-608,room,"East Building, Tower - Gallery 608",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"174,63,180,61,194,67,194,74,186,77,172,72",7-eb-tower
-ET-504,room,"East Building, Tower - Gallery 504",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"193,138,193,154,182,149,182,172,142,158,145,148,161,142,170,146",7-eb-tower
-ET-508,room,"East Building, Tower - Gallery 508",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"128,59,189,81,189,131,128,153",7-eb-tower
-ET-501,room,"East Building, Tower - Gallery 501",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"128,155,159,166,160,188,128,199",7-eb-tower
-G-019,room,"West Building, Ground Floor - Gallery 19",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,54,78,92",2-wb-ground
-ET-615-B,room,"East Building, Tower - Gallery 615B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"299,96,328,86,328,125,299,115",7-eb-tower
-ET-616,room,"East Building, Tower - Gallery 616",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"193,81,193,34,327,82,262,105",7-eb-tower
-ET-614,room,"East Building, Tower - Gallery 614",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"273,103,284,98,298,103,298,108,290,111,272,109",7-eb-tower
-ET-615,room,"East Building, Tower - Gallery 615",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"283,100,284,109,293,112,306,107,306,115,333,124,359,115,359,96,329,85,306,93,305,102,290,97",7-eb-tower
-ET-502,room,"East Building, Tower - Elevator Lobby 502",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"206,150,206,163,187,156,187,158,181,155,181,150",7-eb-tower
-ET-615-A,room,"East Building, Tower - Gallery 615A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"330,126,360,115,359,96,329,85",7-eb-tower
-3-eb-concourse,floor,"East Building, Concourse",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,,,eb
-EC-003,room,"East Building, Concourse - Auditorium Lobby",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"347,166,300,148,301,142,357,122,356,164",3-eb-concourse
-EC-029-E,room,"East Building, Concourse - Gallery 29E",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"404,82,424,89,424,96,404,95,400,94",3-eb-concourse
-SE-Quad,room,Sculpture Garden - SE,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png,poly,"415,137,481,137,481,164,487,164,487,282,372,280,366,276,366,270,356,260,356,227,361,220,360,193,374,190,388,184,400,174,408,162,413,150",8-sg-main
-NW-Quad,room,Sculpture Garden - NW,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png,poly,"196,2,354,3,354,76,340,78,327,83,318,90,310,99,305,107,301,120,298,129,278,129,278,99,268,96,237,96,238,93,195,93,195,56",8-sg-main
-M-105,room,"West Building, Main Floor - Lobby B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"132,97,153,115",1-wb-main
+EC-029-L,room,"East Building, Concourse - Gallery 29L",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"310,66,310,41,321,38,325,40,324,50,337,54,344,65,341,69,331,72,320,68",3-eb-concourse
+EC-001,room,"East Building, Concourse - Gallery Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"357,121,381,113,381,121,376,123,375,137,415,151,386,161,386,205,357,193",3-eb-concourse
+ebes,room,East Building Education Studio,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,"","",3-eb-concourse
+CLA-099,room,"East Building, Concourse - Escalator Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,rect,"22,94,46,121",3-eb-concourse
+EC-029-M,room,"East Building, Concourse - Gallery 29M",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"360,72,391,83,386,90,382,89,381,92,358,83",3-eb-concourse
+EC-029-J,room,"East Building, Concourse - Gallery 29J",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"328,36,344,41,338,54,324,50",3-eb-concourse
+CLA-110,room,"East Building, Concourse - Moving Walkway Tunnel",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"220,120,357,172,357,191,215,137",3-eb-concourse
+EC-029-O,room,"East Building, Concourse - Gallery 29O",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"342,66,360,72,358,78,339,71",3-eb-concourse
+wb,building,West Building,1,,,,
+2-wb-ground,floor,"West Building, Ground Floor",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,,,wb
+G-132,room,"West Building, Ground Floor - Fourth Street Escalator Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"516,81,548,93",2-wb-ground
+G-014,room,"West Building, Ground Floor - Gallery 14",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,3,78,25",2-wb-ground
+G-090,room,"West Building, Ground Floor - North Lobby, Sixth Street",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"267,38,293,69",2-wb-ground
+G-039,room,"West Building, Ground Floor - Gallery 39",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"88,92,122,120",2-wb-ground
+G-001-B,room,"West Building, Ground Floor - Gallery 1",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"232,48,242,94",2-wb-ground
+G-012,room,"West Building, Ground Floor - Gallery 12",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"97,29,117,47",2-wb-ground
+G-043,room,"West Building, Ground Floor - Gallery 43",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"232,94,256,118",2-wb-ground
+G-015,room,"West Building, Ground Floor - Gallery 15",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,26,78,53",2-wb-ground
 M-035,room,"West Building, Main Floor - Gallery 35",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"57,187,75,210",1-wb-main
 M-087,room,"West Building, Main Floor - Gallery 87",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"366,48,382,59",1-wb-main
 M-017,room,"West Building, Main Floor - Gallery 17",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"96,21,96,9,99,6,111,6,114,8,114,21,110,24,100,24",1-wb-main
@@ -166,9 +37,31 @@ M-089,room,"West Building, Main Floor - Gallery 89",0,https://www.nga.gov/conten
 M-037,room,"West Building, Main Floor - Gallery 37",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"77,143,95,164",1-wb-main
 M-021,room,"West Building, Main Floor - Gallery 21",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"77,25,98,48",1-wb-main
 M-091,room,"West Building, Main Floor - Gallery 91",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"327,48,342,60",1-wb-main
+G-013,room,"West Building, Ground Floor - Gallery 13",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"85,31,98,48",2-wb-ground
+G-026-A,room,"West Building, Ground Floor - 26A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"80,165,97,184",2-wb-ground
+G-001-C,room,"West Building, Ground Floor - Gallery 1",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"232,48,242,94",2-wb-ground
+G-008,room,"West Building, Ground Floor - Gallery 8",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"136,26,154,47",2-wb-ground
+G-029,room,"West Building, Ground Floor - Gallery 29",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"132,118,154,139",2-wb-ground
+G-011,room,"West Building, Ground Floor - Gallery 11",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,poly,"118,36,121,32,130,31,135,36,135,42,132,47,121,47,118,41,118,36",2-wb-ground
+G-085,room,"West Building, Ground Floor - North Lobby, West Stair",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"242,38,267,59",2-wb-ground
+G-035,room,"West Building, Ground Floor - Gallery 35",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"11,93,41,119",2-wb-ground
+G-020-B,room,"West Building, Ground Floor - Gallery 20B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"88,48,119,67",2-wb-ground
+G-036,room,"West Building, Ground Floor - Gallery 36",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"41,93,57,132",2-wb-ground
+WBGS,room,West Building Gallery Shop,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,"","",2-wb-ground
+G-044-A,room,"West Building, Ground Floor - Garden Cafe Alcove",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"266,118,292,132",2-wb-ground
+G-040,room,"West Building, Ground Floor - Gallery 40",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"122,101,132,110",2-wb-ground
+G-013-A,room,"West Building, Ground Floor - Gallery 13A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,25,97,31",2-wb-ground
+G-026,room,"West Building, Ground Floor - Gallery 26",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"80,165,97,184",2-wb-ground
+G-004,room,"West Building, Ground Floor - Gallery 4",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"167,74,206,94",2-wb-ground
+G-001,room,"West Building, Ground Floor - Gallery 1",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"232,48,242,94",2-wb-ground
+G-042,room,"West Building, Ground Floor - Gallery 42",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"154,94,232,118",2-wb-ground
+G-026-B,room,West Ground Floor Gallery 26B,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"98,165,116,184",2-wb-ground
+G-042-A,room,"West Building, Ground Floor - Gallery 42A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"155,94,173,118",2-wb-ground
+WBLHl,room,West Building Lecture Hall,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,"","",2-wb-ground
 G-024,room,"West Building, Ground Floor - Gallery 24",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,145,78,163",2-wb-ground
 G-131,room,"West Building, Ground Floor - Fourth Street Escalator Landing",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"520,48,543,64",2-wb-ground
 G-042-C,room,"West Building, Ground Floor - Gallery 42C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"193,94,213,119",2-wb-ground
+G-019,room,"West Building, Ground Floor - Gallery 19",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,54,78,92",2-wb-ground
 G-020-A,room,"West Building, Ground Floor - Gallery 20A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,48,89,67",2-wb-ground
 G-042-D,room,"West Building, Ground Floor - Gallery 42D",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"213,94,233,118",2-wb-ground
 G-138-A,room,"West Building, Ground Floor - Fourth Street Elevator Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"504,97,518,115",2-wb-ground
@@ -182,12 +75,120 @@ G-042-B,room,"West Building, Ground Floor - Gallery 42B",0,https://www.nga.gov/c
 G-021,room,"West Building, Ground Floor - Gallery 21",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"120,68,132,81",2-wb-ground
 G-026-C,room,West Ground Floor Gallery 26C,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"117,165,134,184",2-wb-ground
 G-011-A,room,"West Building, Ground Floor - Gallery 11A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"122,25,135,31",2-wb-ground
+EU-404-B,room,"East Building, Upper Level - Gallery 404B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,rect,"128,65,144,106",6-eb-upper
+EC-029-N,room,"East Building, Concourse - Gallery 29N",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"390,83,401,87,400,92,396,102,396,117,387,118,385,93",3-eb-concourse
+EC-029-B,room,"East Building, Concourse - Gallery 29B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"414,109,415,129,424,133,425,144,447,136,446,121",3-eb-concourse
+EC-029-R,room,"East Building, Concourse - Gallery 29R",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"496,99,497,102,498,113,496,116,490,116,487,114,487,99",3-eb-concourse
+EBSA,room,East Building Small Auditorium,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,"","",3-eb-concourse
+EC-028,room,"East Building, Concourse - Gallery Lobby",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"387,119,414,119,415,148,386,137",3-eb-concourse
+CLA-098,room,West Concourse Gallery,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,rect,"6,97,17,118",3-eb-concourse
+EC-029-I,room,"East Building, Concourse - Gallery 29I",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"344,42,365,49,362,61,353,64,345,61,339,53",3-eb-concourse
+EC-029-D,room,"East Building, Concourse - Gallery 29D",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"401,95,405,95,425,95,425,103,414,107,414,117,396,117,397,101",3-eb-concourse
+EC-029-G,room,"East Building, Concourse - Gallery 29G",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"392,60,409,65,401,86,385,81",3-eb-concourse
+EC-029-A,room,"East Building, Concourse - Gallery 29A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,rect,"446,95,487,121",3-eb-concourse
+EC-029-F,room,"East Building, Concourse - Gallery 29F",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"409,66,424,72,425,90,403,82",3-eb-concourse
+EC-029-Q,room,"East Building, Concourse - Gallery 29Q",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"390,83,401,87,400,92,396,102,396,117,387,118,385,93",3-eb-concourse
+EBLA,room,East Building Auditorium,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,"","",3-eb-concourse
+EC-029-C,room,"East Building, Concourse - Gallery 29C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"426,80,446,80,446,95,426,103",3-eb-concourse
+EC-029-P,room,"East Building, Concourse - Gallery 29P",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"360,72,391,83,386,90,382,89,381,92,358,83",3-eb-concourse
 M-082,room,"West Building, Main Floor - Gallery 82",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"427,25,442,49",1-wb-main
 M-085,room,"West Building, Main Floor - Gallery 85",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"382,72,405,93",1-wb-main
-M-051,room,"West Building, Main Floor - Gallery 51",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"209,119,232,140",1-wb-main
-M-027,room,"West Building, Main Floor - Gallery 27",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"42,72,56,85",1-wb-main
-M-078,room,"West Building, Main Floor - Gallery 78",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,"","",1-wb-main
-M-030,room,"West Building, Main Floor - Gallery 30",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"35,140,56,164",1-wb-main
+M-092,room,"West Building, Main Floor - Gallery 92",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"327,61,342,72",1-wb-main
+M-073-A,room,"West Building, Main Floor - Gallery 73A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"464,50,479,69",1-wb-main
+M-121,room,"West Building, Main Floor - North Stair Landing West",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"243,49,267,60",1-wb-main
+M-138,room,"West Building, Main Floor - East Stair Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"503,98,518,97,518,102,521,104,522,107,519,110,519,110,518,115,503,115",1-wb-main
+G-026,room,"West Building, Ground Floor - Gallery 26",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"80,165,97,184",1-wb-main
+M-057,room,"West Building, Main Floor - Gallery 57",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"382,119,405,140",1-wb-main
+M-050-C,room,"West Building, Main Floor - Gallery 50C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"232,119,244,131",1-wb-main
+M-100,room,"West Building, Main Floor - West Stair Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"43,93,56,120",1-wb-main
+M-054,room,"West Building, Main Floor - Gallery 54",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"350,141,373,164",1-wb-main
+M-072-A,room,"West Building, Main Floor - Gallery 72-A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,"","",1-wb-main
+M-048,room,"West Building, Main Floor - Gallery 48",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"177,119,209,140",1-wb-main
+M-038,room,"West Building, Main Floor - Gallery 38",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"102,163,97,159,96,148,102,144,107,144,112,148,112,161,106,163",1-wb-main
+M-106,room,"West Building, Main Floor - West Sculpture Hall",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"154,94,232,119",1-wb-main
+MWSLA,room,"West Building, Main Floor - West Stair Landing",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"43,93,56,120",1-wb-main
+M-070,room,"West Building, Main Floor - Gallery 70",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"503,132,529,145",1-wb-main
+M-003,room,"West Building, Main Floor - Gallery 03",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"193,48,210,72",1-wb-main
+M-001,room,"West Building, Main Floor - Gallery 01",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"209,72,232,93",1-wb-main
+M-088,room,"West Building, Main Floor - Gallery 88",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"366,60,382,72",1-wb-main
+M-043,room,"West Building, Main Floor - Gallery 43",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"114,143,141,164",1-wb-main
+M-136,room,"West Building, Main Floor - East Garden Court",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"428,70,481,142",1-wb-main
+WBL,room,West Building Lawn,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"1,47,10,166",2-wb-ground
+G-027,room,"West Building, Ground Floor - Gallery 27",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"132,163,153,183",2-wb-ground
+G-005,room,"West Building, Ground Floor - Gallery 5",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"154,74,168,94",2-wb-ground
+G-010,room,"West Building, Ground Floor - Gallery 10",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"78,3,136,25",2-wb-ground
+G-045,room,"West Building, Ground Floor - Gallery 45",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"304,94,325,118",2-wb-ground
+G-031,room,"West Building, Ground Floor - Gallery 31",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"114,145,132,163",2-wb-ground
+G-025,room,"West Building, Ground Floor - Gallery 25",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,164,78,182",2-wb-ground
+G-032,room,"West Building, Ground Floor - Gallery 32",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"97,145,114,163",2-wb-ground
+G-023,room,"West Building, Ground Floor - Gallery 23",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,120,78,144",2-wb-ground
+G-028,room,"West Building, Ground Floor - Gallery 28",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"132,139,154,163",2-wb-ground
+G-094,room,"West Building, Ground Floor - North Lobby, East Stair",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"293,38,317,59",2-wb-ground
+G-030,room,"West Building, Ground Floor - Gallery 30",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"122,110,132,144",2-wb-ground
+G-037,room,"West Building, Ground Floor - Gallery 37",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,93,78,119",2-wb-ground
+WBPL,room,"West Building, Plaza (4th Street)",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,"","",2-wb-ground
+G-038,room,"West Building, Ground Floor - Gallery 38",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,101,88,110",2-wb-ground
+M-078-B,room,"West Building, Main Floor - Gallery 78B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"484,3,503,24",1-wb-main
+M-077,room,"West Building, Main Floor - Gallery 77",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"482,25,502,50",1-wb-main
+M-076,room,"West Building, Main Floor - Gallery 76",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"467,25,482,49",1-wb-main
+M-031,room,"West Building, Main Floor - Gallery 31",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"11,120,42,139",1-wb-main
+M-058,room,"West Building, Main Floor - Gallery 58",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"406,116,427,142",1-wb-main
+M-033,room,"West Building, Main Floor - Gallery 33",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"56,146,77,164",1-wb-main
+M-055,room,"West Building, Main Floor - Gallery 55",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"373,141,405,165",1-wb-main
+M-078-A,room,"West Building, Main Floor - Gallery 78A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"484,24,465,3",1-wb-main
+M-005,room,"West Building, Main Floor - Gallery 05",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"176,48,193,72",1-wb-main
+M-068,room,"West Building, Main Floor - Gallery 68",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"503,146,529,164",1-wb-main
+M-018,room,"West Building, Main Floor - Gallery 18",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"77,3,94,24",1-wb-main
+M-028,room,"West Building, Main Floor - Gallery 28",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"57,70,78,97",1-wb-main
+M-039,room,"West Building, Main Floor - Gallery 39",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"95,165,114,186",1-wb-main
+M-050,room,"West Building, Main Floor - Gallery 50",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"209,140,232,164",1-wb-main
+M-045,room,"West Building, Main Floor - Gallery 45",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"132,116,153,142",1-wb-main
+M-127,room,"West Building, Main Floor - North Stair Landing East",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"293,49,316,59",1-wb-main
+M-025,room,"West Building, Main Floor - Gallery 25",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"11,72,27,88",1-wb-main
+M-050-B,room,"West Building, Main Floor - Gallery 50B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"232,131,244,151",1-wb-main
+M-008,room,"West Building, Main Floor - Gallery 08",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"132,72,153,96",1-wb-main
+M-047,room,"West Building, Main Floor - Gallery 47",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"154,141,184,164",1-wb-main
+EG-106-E,room,"East Building, Ground Level - Gallery 106E",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"354,92,361,95,360,116,354,119",4-eb-ground
+S-111,room,"East Building, Ground Level - Exhibition Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"216,223,295,195,295,175,227,201,227,215,216,218",4-eb-ground
+EBL,room,"East Building, Ground Level - Entrance Terrace",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"126,57,170,74,170,137,125,153",4-eb-ground
+S-131,room,East Building Study Center,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"296,176,296,189,318,181,319,168",4-eb-ground
+EU-407-X,room,"East Building, Upper Level - Gallery 407X",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"300,85,303,85,303,93,301,95,299,92,294,93,294,87,294,88",6-eb-upper
+EU-407-Z,room,"East Building, Upper Level - Gallery 407Z",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"304,85,304,90,327,83,294,71,293,81,295,86",6-eb-upper
+EU-415-A,room,"East Building, Upper Level - Gallery 415A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,rect,"340,95,360,116",6-eb-upper
+EU-405,room,"East Building, Upper Level - West Terrace",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"165,72,193,83,193,129,181,135,181,141,170,137,165,140",6-eb-upper
+EU-407-B,room,"East Building, Upper Level - Gallery 407B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"262,63,262,75,262,82,272,86,272,100,263,103,230,92,230,64,233,52",6-eb-upper
+EU-407-C,room,"East Building, Upper Level - Gallery 407C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"226,69,233,52,201,40,195,58",6-eb-upper
+EU-403-A,room,"East Building, Upper Level - Gallery 403A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"155,187,159,187,160,164,155,164",6-eb-upper
+EU-404-C,room,"East Building, Upper Level - Gallery 404C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,rect,"128,106,162,154",6-eb-upper
+EU-404-F,room,"East Building, Upper Level - Gallery 404F",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"191,76,191,86,178,86,178,72",6-eb-upper
+EU-401,room,"East Building, Upper Level - Elevator Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"182,141,171,138,170,168,182,172",6-eb-upper
+EU-415-B,room,"East Building, Upper Level - Gallery 415B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,rect,"318,88,340,123",6-eb-upper
+EU-414,room,"East Building, Upper Level - Vestibule 414",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"273,105,284,99,298,103,298,109,285,113,273,109",6-eb-upper
+EU-416,room,"East Building, Upper Level - Bridge",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"273,181,282,185,283,114,274,111",6-eb-upper
+EU-417,room,Terrace CafÃ©,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"215,217,215,222,296,194,271,183,206,205,226,213",6-eb-upper
+EU-406-B,room,"East Building, Upper Level - Gallery 406B",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"156,27,164,26,169,29,169,62,163,64,156,64,152,62,151,29",6-eb-upper
+EU-406-Z,room,"East Building, Upper Level - Gallery 406Z",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"127,43,135,43,136,32,126,35",6-eb-upper
+EC-029-H,room,"East Building, Concourse - Gallery 29H",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"366,50,392,59,384,80,359,71",3-eb-concourse
+EC-005,room,East Building Auditorium,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"301,64,355,85,356,121,301,142",3-eb-concourse
+M-042,room,"West Building, Main Floor - Gallery 42",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"116,165,153,186",1-wb-main
+M-040,room,"West Building, Main Floor - Gallery 40",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"100,208,95,202,95,192,100,188,109,188,113,193,114,205,109,207",1-wb-main
+M-073,room,"West Building, Main Floor - Gallery 73",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"464,50,502,69",1-wb-main
+M-060,room,"West Building, Main Floor - Gallery 60",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"451,163,445,158,446,150,450,145,458,145,463,150,464,157,458,163",1-wb-main
+M-053,room,"West Building, Main Floor - Gallery 53",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"327,141,350,164",1-wb-main
+M-049,room,"West Building, Main Floor - Gallery 49",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"185,140,209,164",1-wb-main
+M-113,room,"West Building, Main Floor - Founder's Room",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"293,144,315,175",1-wb-main
+M-010,room,"West Building, Main Floor - Gallery 10",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"114,49,132,70",1-wb-main
+M-135,room,"West Building, Main Floor - Lobby C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"406,98,427,115",1-wb-main
+M-084,room,"West Building, Main Floor - Gallery 84",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"406,70,427,97",1-wb-main
+M-086,room,"West Building, Main Floor - Gallery 86",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"382,48,405,72",1-wb-main
+WBPR,room,West Building Project Room,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,"","",1-wb-main
+M-109,room,"West Building, Main Floor - Information Room",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"245,144,267,175",1-wb-main
+M-079,room,"West Building, Main Floor - Gallery 79",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"444,3,465,24",1-wb-main
+M-041,room,"West Building, Main Floor - Gallery 41",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"115,187,133,210",1-wb-main
+M-066,room,"West Building, Main Floor - Gallery 66",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"483,165,502,187",1-wb-main
+EU-407-A,room,"East Building, Upper Level - Gallery 407A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"285,70,292,73,293,81,283,86,283,99,273,105,272,85,263,83,263,73,271,70",6-eb-upper
+EU-408,room,"East Building, Upper Level - Gallery 408",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"171,65,180,62,194,67,193,73,181,77,170,74",6-eb-upper
+7-eb-tower,floor,"East Building, Tower",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,,,eb
 M-004,room,"West Building, Main Floor - Gallery 04",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"177,72,209,93",1-wb-main
 M-002,room,"West Building, Main Floor - Gallery 02",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"211,66,211,56,216,52,225,52,229,55,230,66,226,69,216,69",1-wb-main
 M-067,room,"West Building, Main Floor - Gallery 67",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"465,144,502,164",1-wb-main
@@ -201,8 +202,49 @@ M-059,room,"West Building, Main Floor - Gallery 59",0,https://www.nga.gov/conten
 M-072-B,room,"West Building, Main Floor - Gallery 72-B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,"","",1-wb-main
 M-073-B,room,"West Building, Main Floor - Gallery 73B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"479,50,502,69",1-wb-main
 M-006,room,"West Building, Main Floor - Gallery 06",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"157,66,156,56,160,52,170,52,174,55,174,67,171,69,161,70,157,66",1-wb-main
-EG-106-B,room,"East Building, Ground Level - Gallery 106B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,rect,"319,87,339,124",4-eb-ground
-EG-105,room,"East Building, Ground Level - Gallery 105",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"272,92,294,100,299,101,299,109,294,109,284,113,271,109",4-eb-ground
+eb,building,East Building,1,,,,
+5-eb-mezzanine,floor,"East Building, Mezzanine",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,,,eb
+EM-214-B,room,"East Building, Mezzanine - Gallery 214B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"151,42,170,42,170,62,161,65,151,63",5-eb-mezzanine
+EM-214-D,room,"East Building, Mezzanine - Gallery 214D",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"137,31,150,27,151,58,141,61,137,58",5-eb-mezzanine
+EM-214-Z,room,"East Building, Mezzanine - Gallery 214Z",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"126,36,136,32,136,42,127,42",5-eb-mezzanine
+EM-203,room,"East Building, Mezzanine - Terrace",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"160,70,193,80,193,57,293,93,159,141",5-eb-mezzanine
+EM-203-A,room,"East Building, Mezzanine - Terrace",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"184,74,213,83,213,127,185,137",5-eb-mezzanine
+G-044,room,"West Building, Ground Floor - Garden Cafe",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,poly,"256,94,267,94,267,82,293,82,293,94,303,94,304,118,256,118",2-wb-ground
+G-034,room,"West Building, Ground Floor - Gallery 34",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,110,88,144",2-wb-ground
+G-016,room,"West Building, Ground Floor - Gallery 16",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"32,48,57,65",2-wb-ground
+G-134,room,"West Building, Ground Floor - Fourth Street Hallway",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"481,97,498,115",2-wb-ground
+G-033,room,"West Building, Ground Floor - Gallery 33",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,145,96,163",2-wb-ground
+G-002,room,"West Building, Ground Floor - Gallery 2",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"214,48,232,75",2-wb-ground
+G-022-A,room,"West Building, Ground Floor - Gallery 22A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,74,88,89",2-wb-ground
+1-wb-main,floor,"West Building, Main Floor",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,,,wb
+M-013,room,"West Building, Main Floor - Gallery 13",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"110,25,132,48",1-wb-main
+M-063,room,"West Building, Main Floor - Gallery 63",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"426,165,446,187",1-wb-main
+M-104,room,"West Building, Main Floor - West Garden Court",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"78,70,131,142",1-wb-main
+M-026,room,"West Building, Main Floor - Gallery 26",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"28,87,27,73,41,72,41,86,40,90,38,91,31,90,28,89,28,86",1-wb-main
+M-065,room,"West Building, Main Floor - Gallery 65",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"465,165,483,187",1-wb-main
+M-011,room,"West Building, Main Floor - Gallery 11",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,circle,"105,59,9",1-wb-main
+M-041-A,room,"West Building, Main Floor - Gallery 41A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"134,187,153,210",1-wb-main
+M-069-A,room,"West Building, Main Floor - Gallery 69A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"538,121,548,132",1-wb-main
+M-024,room,"West Building, Main Floor - Gallery 24",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"11,49,30,72",1-wb-main
+M-060-B,room,"West Building, Main Floor - Gallery 60B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"450,207,445,203,444,193,450,188,458,188,464,193,464,202,459,207",1-wb-main
+M-105,room,"West Building, Main Floor - Lobby B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"132,97,153,115",1-wb-main
+EM-217-B,room,"East Building, Mezzanine - Gallery 217B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,rect,"319,87,339,124",5-eb-mezzanine
+EM-214-A,room,"East Building, Mezzanine - Gallery 214A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"171,35,191,35,190,56,171,62",5-eb-mezzanine
+EM-214-C,room,"East Building, Mezzanine - Gallery 214C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"151,28,161,24,170,28,169,42,151,42",5-eb-mezzanine
+EM-204,room,"East Building, Mezzanine - Elevator Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"170,137,181,133,181,171,170,168",5-eb-mezzanine
+EM-213,room,"East Building, Mezzanine - East Building, Vestibule 213",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"171,63,182,59,193,66,192,73,183,78,171,74",5-eb-mezzanine
+EM-201,room,"East Building, Mezzanine - Landing",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"192,177,227,165,227,197,203,205,192,202",5-eb-mezzanine
+EM-217-A,room,"East Building, Mezzanine - Gallery 217A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,rect,"339,94,360,116",5-eb-mezzanine
+EM-202,room,"East Building, Mezzanine - Bridge",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"217,121,227,118,227,165,216,169",5-eb-mezzanine
+EM-217-C,room,"East Building, Mezzanine - Gallery 217C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"305,92,312,91,319,95,319,115,313,120,306,120,299,116,299,95",5-eb-mezzanine
+EM-216,room,"East Building, Mezzanine - Vestibule 216",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"288,113,297,109,299,110,300,101,297,102,285,97,273,101,273,108",5-eb-mezzanine
+4-eb-ground,floor,"East Building, Ground Level",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,,,eb
+SE-Quad,room,Sculpture Garden - SE,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png,poly,"415,137,481,137,481,164,487,164,487,282,372,280,366,276,366,270,356,260,356,227,361,220,360,193,374,190,388,184,400,174,408,162,413,150",8-sg-main
+NW-Quad,room,Sculpture Garden - NW,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png,poly,"196,2,354,3,354,76,340,78,327,83,318,90,310,99,305,107,301,120,298,129,278,129,278,99,268,96,237,96,238,93,195,93,195,56",8-sg-main
+M-061,room,"West Building, Main Floor - Gallery 61",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"406,165,425,187",1-wb-main
+M-074,room,"West Building, Main Floor - Gallery 74",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"445,50,464,69",1-wb-main
+M-134,room,"West Building, Main Floor - East Sculpture Hall",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"327,94,405,118",1-wb-main
+M-071,room,"West Building, Main Floor - Gallery 71",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"482,116,502,142",1-wb-main
 M-050-A,room,"West Building, Main Floor - Gallery 50A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"232,152,244,164",1-wb-main
 M-072,room,"West Building, Main Floor - Gallery 72",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"482,71,502,97",1-wb-main
 M-081,room,"West Building, Main Floor - Gallery 81",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"406,25,426,49",1-wb-main
@@ -220,14 +262,6 @@ sg,building,Sculpture Garden,1,,,,
 NE-Quad,room,Sculpture Garden - NE,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png,poly,"360,3,485,1,486,101,483,101,482,130,415,129,412,116,406,103,396,91,387,84,377,79,367,77,360,75",8-sg-main
 SW-Quad,room,Sculpture Garden - SW,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png,poly,"341,279,194,280,194,176,237,177,237,173,269,173,278,168,278,137,298,138,301,153,307,166,318,178,330,186,342,190,352,192,352,219,354,227,354,260,348,269,347,275,341,275,341,279",8-sg-main
 WSG,room,Sculpture Garden,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png,"","",8-sg-main
-G-015,room,"West Building, Ground Floor - Gallery 15",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,26,78,53",2-wb-ground
-G-044,room,"West Building, Ground Floor - Garden Cafe",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,poly,"256,94,267,94,267,82,293,82,293,94,303,94,304,118,256,118",2-wb-ground
-G-034,room,"West Building, Ground Floor - Gallery 34",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,110,88,144",2-wb-ground
-G-016,room,"West Building, Ground Floor - Gallery 16",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"32,48,57,65",2-wb-ground
-EG-106-E,room,"East Building, Ground Level - Gallery 106E",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"354,92,361,95,360,116,354,119",4-eb-ground
-S-111,room,"East Building, Ground Level - Exhibition Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"216,223,295,195,295,175,227,201,227,215,216,218",4-eb-ground
-EBL,room,"East Building, Ground Level - Entrance Terrace",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"126,57,170,74,170,137,125,153",4-eb-ground
-S-131,room,East Building Study Center,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"296,176,296,189,318,181,319,168",4-eb-ground
 S-159,room,Library Atrium,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"329,221,351,213,375,222,374,171,330,187",4-eb-ground
 EG-103-B,room,"East Building, Ground Level - Gallery 103B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"159,30,168,27,177,30,175,44,174,44,169,45,159,43",4-eb-ground
 EG-106-A,room,"East Building, Ground Level - Gallery 106A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"339,92,342,90,349,90,353,92,353,118,349,120,343,121,339,118",4-eb-ground
@@ -240,45 +274,32 @@ S-175,room,East Building Study Center,0,https://www.nga.gov/content/dam/ngaweb/L
 EG-103-D,room,"East Building, Ground Level - Gallery 103D",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"137,32,148,28,159,32,158,41,152,45,145,45,137,42",4-eb-ground
 EG-103-Z,room,"East Building, Ground Level - Gallery 103Z",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"126,43,136,43,137,31,126,35",4-eb-ground
 EG-100,room,East Building Atrium,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"219,74,272,93,271,109,363,142,294,166,295,175,284,179,272,173,261,177,261,155,219,137",4-eb-ground
-EC-029-H,room,"East Building, Concourse - Gallery 29H",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"366,50,392,59,384,80,359,71",3-eb-concourse
-EU-405,room,"East Building, Upper Level - West Terrace",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"165,72,193,83,193,129,181,135,181,141,170,137,165,140",6-eb-upper
-EU-407-B,room,"East Building, Upper Level - Gallery 407B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"262,63,262,75,262,82,272,86,272,100,263,103,230,92,230,64,233,52",6-eb-upper
-EU-407-C,room,"East Building, Upper Level - Gallery 407C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"226,69,233,52,201,40,195,58",6-eb-upper
-EU-403-A,room,"East Building, Upper Level - Gallery 403A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"155,187,159,187,160,164,155,164",6-eb-upper
-EU-404-C,room,"East Building, Upper Level - Gallery 404C",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,rect,"128,106,162,154",6-eb-upper
-EU-404-F,room,"East Building, Upper Level - Gallery 404F",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"191,76,191,86,178,86,178,72",6-eb-upper
-EU-401,room,"East Building, Upper Level - Elevator Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"182,141,171,138,170,168,182,172",6-eb-upper
-EU-415-B,room,"East Building, Upper Level - Gallery 415B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,rect,"318,88,340,123",6-eb-upper
-EU-414,room,"East Building, Upper Level - Vestibule 414",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"273,105,284,99,298,103,298,109,285,113,273,109",6-eb-upper
-EU-416,room,"East Building, Upper Level - Bridge",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"273,181,282,185,283,114,274,111",6-eb-upper
-EU-417,room,Terrace CafÃ©,0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"215,217,215,222,296,194,271,183,206,205,226,213",6-eb-upper
-EU-406-B,room,"East Building, Upper Level - Gallery 406B",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"156,27,164,26,169,29,169,62,163,64,156,64,152,62,151,29",6-eb-upper
-EU-406-Z,room,"East Building, Upper Level - Gallery 406Z",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"127,43,135,43,136,32,126,35",6-eb-upper
-G-013,room,"West Building, Ground Floor - Gallery 13",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"85,31,98,48",2-wb-ground
-G-026-A,room,"West Building, Ground Floor - 26A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"80,165,97,184",2-wb-ground
-G-001-C,room,"West Building, Ground Floor - Gallery 1",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"232,48,242,94",2-wb-ground
-G-008,room,"West Building, Ground Floor - Gallery 8",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"136,26,154,47",2-wb-ground
-G-029,room,"West Building, Ground Floor - Gallery 29",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"132,118,154,139",2-wb-ground
-G-134,room,"West Building, Ground Floor - Fourth Street Hallway",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"481,97,498,115",2-wb-ground
-G-033,room,"West Building, Ground Floor - Gallery 33",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,145,96,163",2-wb-ground
-G-002,room,"West Building, Ground Floor - Gallery 2",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"214,48,232,75",2-wb-ground
-G-022-A,room,"West Building, Ground Floor - Gallery 22A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,74,88,89",2-wb-ground
-1-wb-main,floor,"West Building, Main Floor",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,,,wb
-M-013,room,"West Building, Main Floor - Gallery 13",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"110,25,132,48",1-wb-main
-M-063,room,"West Building, Main Floor - Gallery 63",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"426,165,446,187",1-wb-main
-M-104,room,"West Building, Main Floor - West Garden Court",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"78,70,131,142",1-wb-main
-M-026,room,"West Building, Main Floor - Gallery 26",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"28,87,27,73,41,72,41,86,40,90,38,91,31,90,28,89,28,86",1-wb-main
-M-065,room,"West Building, Main Floor - Gallery 65",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"465,165,483,187",1-wb-main
-M-011,room,"West Building, Main Floor - Gallery 11",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,circle,"105,59,9",1-wb-main
-M-041-A,room,"West Building, Main Floor - Gallery 41A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"134,187,153,210",1-wb-main
-M-069-A,room,"West Building, Main Floor - Gallery 69A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"538,121,548,132",1-wb-main
-M-024,room,"West Building, Main Floor - Gallery 24",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"11,49,30,72",1-wb-main
-M-060-B,room,"West Building, Main Floor - Gallery 60B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,poly,"450,207,445,203,444,193,450,188,458,188,464,193,464,202,459,207",1-wb-main
-eb,building,East Building,1,,,,
-5-eb-mezzanine,floor,"East Building, Mezzanine",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,,,eb
-EM-214-B,room,"East Building, Mezzanine - Gallery 214B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"151,42,170,42,170,62,161,65,151,63",5-eb-mezzanine
-EM-214-D,room,"East Building, Mezzanine - Gallery 214D",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"137,31,150,27,151,58,141,61,137,58",5-eb-mezzanine
-EM-214-Z,room,"East Building, Mezzanine - Gallery 214Z",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png,poly,"126,36,136,32,136,42,127,42",5-eb-mezzanine
+M-023,room,"West Building, Main Floor - Gallery 23",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"30,49,56,72",1-wb-main
+M-034,room,"West Building, Main Floor - Gallery 34",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"57,164,75,186",1-wb-main
+M-051,room,"West Building, Main Floor - Gallery 51",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"209,119,232,140",1-wb-main
+M-027,room,"West Building, Main Floor - Gallery 27",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"42,72,56,85",1-wb-main
+M-078,room,"West Building, Main Floor - Gallery 78",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,"","",1-wb-main
+M-030,room,"West Building, Main Floor - Gallery 30",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"35,140,56,164",1-wb-main
+ET-606,room,"East Building, Tower - Gallery 606",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"137,32,154,25,164,25,183,31,181,61,174,64,168,62,166,65,153,65,137,59",7-eb-tower
+ET-608,room,"East Building, Tower - Gallery 608",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"174,63,180,61,194,67,194,74,186,77,172,72",7-eb-tower
+ET-504,room,"East Building, Tower - Gallery 504",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"193,138,193,154,182,149,182,172,142,158,145,148,161,142,170,146",7-eb-tower
+ET-508,room,"East Building, Tower - Gallery 508",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"128,59,189,81,189,131,128,153",7-eb-tower
+ET-501,room,"East Building, Tower - Gallery 501",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"128,155,159,166,160,188,128,199",7-eb-tower
+ET-615-B,room,"East Building, Tower - Gallery 615B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"299,96,328,86,328,125,299,115",7-eb-tower
+ET-616,room,"East Building, Tower - Gallery 616",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"193,81,193,34,327,82,262,105",7-eb-tower
+ET-614,room,"East Building, Tower - Gallery 614",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"273,103,284,98,298,103,298,108,290,111,272,109",7-eb-tower
+ET-615,room,"East Building, Tower - Gallery 615",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"283,100,284,109,293,112,306,107,306,115,333,124,359,115,359,96,329,85,306,93,305,102,290,97",7-eb-tower
+ET-502,room,"East Building, Tower - Elevator Lobby 502",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"206,150,206,163,187,156,187,158,181,155,181,150",7-eb-tower
+ET-615-A,room,"East Building, Tower - Gallery 615A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png,poly,"330,126,360,115,359,96,329,85",7-eb-tower
+3-eb-concourse,floor,"East Building, Concourse",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,,,eb
+EC-003,room,"East Building, Concourse - Auditorium Lobby",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"347,166,300,148,301,142,357,122,356,164",3-eb-concourse
+EC-029-E,room,"East Building, Concourse - Gallery 29E",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"404,82,424,89,424,96,404,95,400,94",3-eb-concourse
+G-041,room,"West Building, Ground Floor - Gallery 41",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"132,93,154,118",2-wb-ground
+G-001-A,room,"West Building, Ground Floor - Gallery 1",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"232,48,242,94",2-wb-ground
+G-007,room,"West Building, Ground Floor - Gallery 7",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,circle,"143,60,10",2-wb-ground
+G-022,room,"West Building, Ground Floor - Gallery 22",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"79,89,88,101",2-wb-ground
+EG-106-B,room,"East Building, Ground Level - Gallery 106B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,rect,"319,87,339,124",4-eb-ground
+EG-105,room,"East Building, Ground Level - Gallery 105",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"272,92,294,100,299,101,299,109,294,109,284,113,271,109",4-eb-ground
 ENT,room,"East Building, Ground Level - North Terrace",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"193,34,299,70,329,60,329,81,285,97,194,65",4-eb-ground
 EM-201,room,"East Building, Mezzanine - Landing",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,poly,"192,177,227,165,227,197,203,205,192,202",4-eb-ground
 EG-103-A,room,"East Bldg, Ground Gal 103A (Pod 2)",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png,"","",4-eb-ground
@@ -294,25 +315,4 @@ EU-406-C,room,"East Building, Upper Level - Gallery 406C",0,https://www.nga.gov/
 EU-404-A,room,"East Building, Upper Level - Gallery 404A",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,rect,"145,71,162,107",6-eb-upper
 EU-403-B,room,"East Building, Upper Level - Gallery 403B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"131,153,131,197,153,189,154,154",6-eb-upper
 EU-404-E,room,"East Building, Upper Level - Gallery 404E",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png,poly,"158,64,177,71,177,86,158,86",6-eb-upper
-M-078-B,room,"West Building, Main Floor - Gallery 78B",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"484,3,503,24",1-wb-main
-M-077,room,"West Building, Main Floor - Gallery 77",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"482,25,502,50",1-wb-main
-M-076,room,"West Building, Main Floor - Gallery 76",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"467,25,482,49",1-wb-main
-EC-029-L,room,"East Building, Concourse - Gallery 29L",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"310,66,310,41,321,38,325,40,324,50,337,54,344,65,341,69,331,72,320,68",3-eb-concourse
-EC-001,room,"East Building, Concourse - Gallery Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"357,121,381,113,381,121,376,123,375,137,415,151,386,161,386,205,357,193",3-eb-concourse
-ebes,room,East Building Education Studio,1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,"","",3-eb-concourse
-CLA-099,room,"East Building, Concourse - Escalator Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,rect,"22,94,46,121",3-eb-concourse
-EC-029-M,room,"East Building, Concourse - Gallery 29M",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"360,72,391,83,386,90,382,89,381,92,358,83",3-eb-concourse
-EC-029-J,room,"East Building, Concourse - Gallery 29J",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"328,36,344,41,338,54,324,50",3-eb-concourse
-CLA-110,room,"East Building, Concourse - Moving Walkway Tunnel",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"220,120,357,172,357,191,215,137",3-eb-concourse
-EC-029-O,room,"East Building, Concourse - Gallery 29O",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png,poly,"342,66,360,72,358,78,339,71",3-eb-concourse
-wb,building,West Building,1,,,,
-2-wb-ground,floor,"West Building, Ground Floor",1,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,,,wb
-G-132,room,"West Building, Ground Floor - Fourth Street Escalator Lobby",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"516,81,548,93",2-wb-ground
-G-014,room,"West Building, Ground Floor - Gallery 14",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"57,3,78,25",2-wb-ground
-G-090,room,"West Building, Ground Floor - North Lobby, Sixth Street",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"267,38,293,69",2-wb-ground
-G-039,room,"West Building, Ground Floor - Gallery 39",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"88,92,122,120",2-wb-ground
-G-001-B,room,"West Building, Ground Floor - Gallery 1",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"232,48,242,94",2-wb-ground
-G-012,room,"West Building, Ground Floor - Gallery 12",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"97,29,117,47",2-wb-ground
-G-043,room,"West Building, Ground Floor - Gallery 43",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"232,94,256,118",2-wb-ground
-G-041,room,"West Building, Ground Floor - Gallery 41",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"132,93,154,118",2-wb-ground
-G-001-A,room,"West Building, Ground Floor - Gallery 1",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png,rect,"232,48,242,94",2-wb-ground
+M-012,room,"West Building, Main Floor - Gallery 12",0,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png,rect,"99,25,110,48",1-wb-main
