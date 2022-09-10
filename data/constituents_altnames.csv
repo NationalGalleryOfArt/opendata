@@ -10534,7 +10534,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 12220,12227,Crozat,"Crozat, baron de Thiers, Louis-Antoine",,Preferred Name
 12221,12228,Diderot,"Diderot, Denis",,Preferred Name
 12225,12232,,Martin Chasin Fine Arts,,Preferred Name
-12227,12234,,"Arkansas Arts Center, The",,Preferred Name
+12227,12234,,"Arkansas Arts Center, The",,Variant
 12228,12235,,"Adelson Galleries, Inc.",,Preferred Name
 12236,12243,Orléans,"Orléans, Louis, duc d'",,Preferred Name
 12240,12247,Larkin,"Larkin, John E. Jr. Dr. and Mrs.",,Preferred Name
@@ -18380,7 +18380,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32261,1243,Brookman,"Brookman, Philip and Amy",,Variant
 32262,1244,Kramarsky,"Kramarsky, Werner H. and Sarah-Ann",,Variant
 32263,1244,Binkhorst c/o Mr. Werner Kramarsky,"Binkhorst c/o Mr. Werner Kramarsky, Sonja Dr.",,Variant
-58041,5836,Tyler,"Tyler, Ken",,Variant
+58824,47679,Stern,"Stern, Grete",,Variant
 32264,1244,Kramarsky,"Kramarsky, Werner H. Mr.",,Variant Index Name
 32265,1248,Du Bois,"Du Bois, Guy Pène",,Variant Index Name
 32266,1249,Duccio,Duccio,,Variant
@@ -18572,7 +18572,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32457,1690,Massys,"Massys, Quinten",,Variant
 32458,1690,Matsys,"Matsys, Quentin",,Variant
 32459,1691,Master of the Barberini Panels,Master of the Barberini Panels,,Variant
-58042,49404,Clark,"Clark, Nick",,Variant
+61489,5843,Wray,"Wray, Richard",,Variant
 32460,1691,Fra Carnevale,Fra Carnevale,,Variant Index Name
 32461,1691,Corradini,"Corradini, Bartolomeo di Giovanni",,Full Name
 32462,1693,Borgo Crucifix Master,Borgo Crucifix Master,,Variant
@@ -18668,7 +18668,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32560,1845,Rousseau,"Rousseau, Henri-Julien Felix",,Variant
 32561,1846,Rousseau,"Rousseau, Pierre Etienne Theodore",,Variant
 32562,1850,Ruysdael,"Ruysdael, Jacob van",,Variant
-61489,5843,Wray,"Wray, Richard",,Variant
+61493,21225,Maupin,,,Variant
 32563,1856,Francesco de' Rossi,Francesco de' Rossi,,Variant
 32564,1856,Rossi,"Rossi, Francesco de'",,Variant
 32565,1856,Salviati,"Salviati, Cecchino",,Variant
@@ -19248,7 +19248,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33180,3309,Vischer,"Vischer, Johannes",,Variant
 33182,3321,Vliet,"Vliet, Jan Joris van",,Variant
 33183,3325,Vorsterman I,"Vorsterman I, Lucas",,Variant
-61493,21225,Maupin,,,Variant
 33184,3325,Vosterman I,"Vosterman I, Lucas",,Variant
 33186,3331,Vries,"Vries, Hans Vredeman de",,Variant Index Name
 33187,3332,Wachlmayr,"Wachlmayr, Aloys",,Variant
@@ -27342,6 +27341,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 51959,45168,Fields,"Fields, Ted and Suzanne",,Preferred Name
 51965,45174,Simpson,"Simpson, William Kelly",,Preferred Name
 51972,45181,,American Federation of Arts,,Preferred Name
+51977,12234,,Arkansas Art Center,,Variant
 52025,45234,,Gerald Peters Gallery,,Preferred Name
 52063,12843,,Museum of Contemporary Art Chicago,,Variant
 52184,23656,Newman,"Newman, Arnold Mr.",,Variant
@@ -30676,6 +30676,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58038,49865,Roberts,"Roberts, Quin",,Preferred Name
 58039,49866,Bowling,"Bowling, Jim",,Preferred Name
 58040,49867,Bessman,"Bessman, Cindee",,Preferred Name
+58041,5836,Tyler,"Tyler, Ken",,Variant
+58042,49404,Clark,"Clark, Nick",,Variant
 58043,49868,Hölty,"Hölty, Ludwig Christoph Heinrich",,Preferred Name
 58044,49869,Bryant,"Bryant, John Howard",,Preferred Name
 58045,49870,Hayne,"Hayne, Paul Hamilton",,Preferred Name
@@ -31276,7 +31278,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58821,50435,Nass,"Nass, Markus Dr.",,Preferred Name
 58822,50436,,F. Dörling Auktionen,,Preferred Name
 58823,48119,Perlson,"Perlson, Trina",,Original Name
-58824,47679,Stern,"Stern, Grete",,Variant
 58825,47679,Auerbach,"Auerbach, Ellen",,Variant
 58826,50437,,"Pasquale Iannetti Art Galleries, Inc.",,Preferred Name
 58827,50438,,Joby Patterson Fine Prints,,Preferred Name
@@ -32602,6 +32603,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60774,51841,Van Der Zee,"Van Der Zee, Donna",,Preferred Name
 60775,51842,Stubbs,"Stubbs, George Townley",,Preferred Name
 60776,51190,,,,Full Name
+60777,51843,Akomfrah,"Akomfrah, John",,Preferred Name
 60778,50484,Spiro,"Spiro, Harry",,Spouse
 60779,4922,Monogrammist S,Monogrammist S,,Variant
 60780,51844,Mondo,"Mondo, Domenico",,Preferred Name
@@ -32949,3 +32951,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61799,38431,Herrmann,"Herrmann, Fritz Heinrich",,Birth Name
 61800,38209,Herrmann,"Herrmann, Hugo Curt",,Full Name
 61811,28976,Walker Fine Art,Walker Fine Art,,Variant
+61822,12234,,Arkansas Museum of Fine Arts,,Preferred Name
