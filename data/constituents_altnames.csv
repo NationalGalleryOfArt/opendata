@@ -844,6 +844,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 901,908,,Wiener Antiquariat,,Preferred Name
 902,909,,"Wildenstein & Co., Inc.",,Preferred Name
 903,910,,"Willard Gallery, Inc.",,Preferred Name
+61787,52678,Paget,,,Variant
 904,911,Williford,"Williford, Graham",,Preferred Name
 905,912,Wittrock,"Wittrock, Wolfgang, Herr",,Preferred Name
 906,913,,Workart Est.,,Preferred Name
@@ -1219,7 +1220,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
 1302,1309,Shickman,"Shickman, Herman",,Preferred Name
-61788,33318,Crawford,"Crawford, Lesley",,Variant
+61786,52678,Paget,"Paget, George",,Preferred Name
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1507,7 +1508,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
-61789,52679,Phillips,"Phillips, Richard",,Preferred Name
+61788,33318,Crawford,"Crawford, Lesley",,Variant
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -4212,6 +4213,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4431,4438,Jacquard,"Jacquard, Antoine",,Preferred Name
 4432,4439,Jacque,"Jacque, Charles Émile",,Preferred Name
 4433,4440,Jacque,"Jacque, Maurice",,Preferred Name
+61789,52679,Phillips,"Phillips, Richard",,Preferred Name
 4434,4441,Jacquemart,"Jacquemart, Jules-Ferdinand",,Preferred Name
 4435,4442,Jaeckel,"Jaeckel, Willy",,Preferred Name
 4436,4443,Jaki,Jaki,,Preferred Name
@@ -18572,7 +18574,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32457,1690,Massys,"Massys, Quinten",,Variant
 32458,1690,Matsys,"Matsys, Quentin",,Variant
 32459,1691,Master of the Barberini Panels,Master of the Barberini Panels,,Variant
-61489,5843,Wray,"Wray, Richard",,Variant
+61785,38375,Eynhoudts,,,Variant
 32460,1691,Fra Carnevale,Fra Carnevale,,Variant Index Name
 32461,1691,Corradini,"Corradini, Bartolomeo di Giovanni",,Full Name
 32462,1693,Borgo Crucifix Master,Borgo Crucifix Master,,Variant
@@ -18668,7 +18670,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32560,1845,Rousseau,"Rousseau, Henri-Julien Felix",,Variant
 32561,1846,Rousseau,"Rousseau, Pierre Etienne Theodore",,Variant
 32562,1850,Ruysdael,"Ruysdael, Jacob van",,Variant
-61493,21225,Maupin,,,Variant
 32563,1856,Francesco de' Rossi,Francesco de' Rossi,,Variant
 32564,1856,Rossi,"Rossi, Francesco de'",,Variant
 32565,1856,Salviati,"Salviati, Cecchino",,Variant
@@ -32842,6 +32843,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61484,52455,Ford,"Ford, Walton",,Preferred Name
 61487,3453,Zañartu,"Zañartu, Enrique",,Variant
 61488,3451,Zakharov,"Zakharov, Gury",,Variant
+61489,5843,Wray,"Wray, Richard",,Variant
+61493,21225,Maupin,,,Variant
 61505,52470,Aslan,"Aslan, Sissi",,Preferred Name
 61515,52478,Ridinger,"Ridinger, Martin Elias",,Preferred Name
 61517,4100,Flindt II,"Flindt II, Paul",,Variant
@@ -32939,9 +32942,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61762,5192,Perret,"Perret, Pieter",,Variant
 61763,5192,Perret,"Perret, Pierre",,Variant
 61770,52668,,Jules Meynial,,Preferred Name
-61785,38375,Eynhoudts,,,Variant
-61786,52678,Paget,"Paget, George",,Preferred Name
-61787,52678,Paget,,,Variant
 61791,10373,Maclaine Pont,"Maclaine Pont, Willem Pieter",,Full Name
 61792,10374,Maclaine Pont-Stork,"Maclaine Pont-Stork, Anna Wilhelmina",,Full Name
 61793,29369,Wiegersma,"Wiegersma, Hendrik Josef Marie",,Full Name
@@ -32952,3 +32952,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61800,38209,Herrmann,"Herrmann, Hugo Curt",,Full Name
 61811,28976,Walker Fine Art,Walker Fine Art,,Variant
 61822,12234,,Arkansas Museum of Fine Arts,,Preferred Name
+61824,47970,,Maurizio Nobile Paris,,Variant
+61825,47970,,Maurizio Nobile Paris,,Variant
