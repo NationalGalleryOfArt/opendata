@@ -1222,7 +1222,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
 1302,1309,Shickman,"Shickman, Herman",,Preferred Name
-61734,34390,Stephenson,"Stephenson, L. Parker",,Variant
+61726,52634,Machanék,"Machanék, Max",,Preferred Name
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1510,7 +1510,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
-61738,52641,Smith,"Smith, Joseph Consul",,Preferred Name
+61734,34390,Stephenson,"Stephenson, L. Parker",,Variant
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -4219,7 +4219,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4431,4438,Jacquard,"Jacquard, Antoine",,Preferred Name
 4432,4439,Jacque,"Jacque, Charles Émile",,Preferred Name
 4433,4440,Jacque,"Jacque, Maurice",,Preferred Name
-61788,33318,Crawford,"Crawford, Lesley",,Variant
+61738,52641,Smith,"Smith, Joseph Consul",,Preferred Name
 4434,4441,Jacquemart,"Jacquemart, Jules-Ferdinand",,Preferred Name
 4435,4442,Jaeckel,"Jaeckel, Willy",,Preferred Name
 4436,4443,Jaki,Jaki,,Preferred Name
@@ -9114,6 +9114,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9579,9586,Mackay,"Mackay, Anne Case, Mrs.",,Preferred Name
 9580,9587,,"Anhalt, Dukes of",,Preferred Name
 9581,9588,Rueff,"Rueff, André E.",,Preferred Name
+61788,33318,Crawford,"Crawford, Lesley",,Variant
 9582,9589,Boardman,"Boardman, William S., Reverend",,Preferred Name
 9583,9590,West,"West, Addison Tinsley",,Preferred Name
 9584,9591,Nye,"Nye, Electa Earle",,Preferred Name
@@ -32950,7 +32951,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61719,52629,,"Kunstsammlungen der Veste Coburg, Kupferstichkabinett",,Preferred Name
 61720,3455,Zanetti-Borzino,,,Variant
 61725,2960,Baltens,"Baltens, Peeter",,Variant
-61726,52634,Machanék,"Machanék, Max",,Preferred Name
 61791,10373,Maclaine Pont,"Maclaine Pont, Willem Pieter",,Full Name
 61792,10374,Maclaine Pont-Stork,"Maclaine Pont-Stork, Anna Wilhelmina",,Full Name
 61793,29369,Wiegersma,"Wiegersma, Hendrik Josef Marie",,Full Name
