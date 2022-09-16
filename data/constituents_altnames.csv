@@ -1222,7 +1222,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1300,1307,Simmons,"Simmons, Robert Hilton, Mr. and Mrs.",,Preferred Name
 1301,1308,Allen,"Allen, Natalie Fuller, Ms.",,Preferred Name
 1302,1309,Shickman,"Shickman, Herman",,Preferred Name
-61726,52634,Machanék,"Machanék, Max",,Preferred Name
+61725,2960,Baltens,"Baltens, Peeter",,Variant
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
@@ -1510,7 +1510,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1597,1604,,Prince George's Docents,,Preferred Name
 1598,1605,,"Mathison Trust, Jeanne Rowe",,Preferred Name
 1599,1606,,Galerie Sanct Lucas,,Preferred Name
-61734,34390,Stephenson,"Stephenson, L. Parker",,Variant
+61726,52634,Machanék,"Machanék, Max",,Preferred Name
 1600,1607,,Adolph and Esther Gottlieb Foundation,,Preferred Name
 1601,1608,,"Gregory Gallery, Martyn",,Preferred Name
 1602,1609,Gray,"Gray, Clive S., Mr.",,Preferred Name
@@ -4219,7 +4219,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4431,4438,Jacquard,"Jacquard, Antoine",,Preferred Name
 4432,4439,Jacque,"Jacque, Charles Émile",,Preferred Name
 4433,4440,Jacque,"Jacque, Maurice",,Preferred Name
-61738,52641,Smith,"Smith, Joseph Consul",,Preferred Name
+61734,34390,Stephenson,"Stephenson, L. Parker",,Variant
 4434,4441,Jacquemart,"Jacquemart, Jules-Ferdinand",,Preferred Name
 4435,4442,Jaeckel,"Jaeckel, Willy",,Preferred Name
 4436,4443,Jaki,Jaki,,Preferred Name
@@ -8926,7 +8926,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9377,9384,Schultz,"Schultz, Howard Mr. and Mrs.",,Preferred Name
 9378,9385,Barsanti,"Barsanti, Alfredo",,Preferred Name
 9379,9386,Barsanti,"Barsanti, Mario",,Preferred Name
-61752,52652,Charrington,"Charrington, John",,Preferred Name
+61738,52641,Smith,"Smith, Joseph Consul",,Preferred Name
 9380,9387,,"Sassangy, Chapel of the Château de",,Preferred Name
 9381,9388,Meller,"Meller, Simon, Dr.",,Preferred Name
 9382,9389,Hirsch,"Hirsch, Jacob, Dr.",,Preferred Name
@@ -17623,7 +17623,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 31328,31335,,Canadeesche Hypothek Bank,,Preferred Name
 31329,31336,,Benacosi family,,Preferred Name
 31331,31338,Pourtalès,"Pourtalès, Charles de, Count",,Preferred Name
-58819,25704,Farley,"Farley, Ken",,Variant
+55198,38400,Avery,"Avery, S. P.",,Variant
 31332,31339,Jervas,"Jervas, Charles",,Preferred Name
 31333,31340,Temple,"Temple, 1st Viscount Cobham, Richard",,Preferred Name
 31334,31341,Grenville,"Grenville, 1st Countess Temple, Hester Temple",,Preferred Name
@@ -18391,7 +18391,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32261,1243,Brookman,"Brookman, Philip and Amy",,Variant
 32262,1244,Kramarsky,"Kramarsky, Werner H. and Sarah-Ann",,Variant
 32263,1244,Binkhorst c/o Mr. Werner Kramarsky,"Binkhorst c/o Mr. Werner Kramarsky, Sonja Dr.",,Variant
-59343,50652,,,,Variant
+55199,38400,Avery,"Avery, Sam P.",,Variant
 32264,1244,Kramarsky,"Kramarsky, Werner H. Mr.",,Variant Index Name
 32265,1248,Du Bois,"Du Bois, Guy Pène",,Variant Index Name
 32266,1249,Duccio,Duccio,,Variant
@@ -18583,7 +18583,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32457,1690,Massys,"Massys, Quinten",,Variant
 32458,1690,Matsys,"Matsys, Quentin",,Variant
 32459,1691,Master of the Barberini Panels,Master of the Barberini Panels,,Variant
-60729,48610,,,,Full Name
+58819,25704,Farley,"Farley, Ken",,Variant
 32460,1691,Fra Carnevale,Fra Carnevale,,Variant Index Name
 32461,1691,Corradini,"Corradini, Bartolomeo di Giovanni",,Full Name
 32462,1693,Borgo Crucifix Master,Borgo Crucifix Master,,Variant
@@ -18679,7 +18679,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32560,1845,Rousseau,"Rousseau, Henri-Julien Felix",,Variant
 32561,1846,Rousseau,"Rousseau, Pierre Etienne Theodore",,Variant
 32562,1850,Ruysdael,"Ruysdael, Jacob van",,Variant
-60730,48610,,,,Full Name
+59343,50652,,,,Variant
 32563,1856,Francesco de' Rossi,Francesco de' Rossi,,Variant
 32564,1856,Rossi,"Rossi, Francesco de'",,Variant
 32565,1856,Salviati,"Salviati, Cecchino",,Variant
@@ -19259,6 +19259,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33180,3309,Vischer,"Vischer, Johannes",,Variant
 33182,3321,Vliet,"Vliet, Jan Joris van",,Variant
 33183,3325,Vorsterman I,"Vorsterman I, Lucas",,Variant
+60729,48610,,,,Full Name
 33184,3325,Vosterman I,"Vosterman I, Lucas",,Variant
 33186,3331,Vries,"Vries, Hans Vredeman de",,Variant Index Name
 33187,3332,Wachlmayr,"Wachlmayr, Aloys",,Variant
@@ -19655,6 +19656,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33598,5130,Montpensier,"Montpensier, Antoine Marie P.L. d'Orleans, duc de",,Variant
 33599,5130,"Antoine, duc de Montpensier","Antoine, duc de Montpensier",,Variant
 33600,5131,Chartres,"Chartres, Philippe II, duc de",,Variant
+60730,48610,,,,Full Name
 33601,5132,van Orley,"van Orley, Richard",,Variant Index Name
 33602,5134,Orlowski,"Orlowski, Alexander",,Variant
 33603,5134,Orlovsky,"Orlovsky, Alexander",,Variant
@@ -20191,6 +20193,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34181,8521,,Van Diemen-Margraf Gallery,,Variant
 34183,8525,,A.R. Ball,,Variant
 34184,8528,Templetown,"Templetown, John Henry Upton, 1st viscount",,Variant Index Name
+61752,52652,Charrington,"Charrington, John",,Preferred Name
 34185,8536,Wales,"Wales George IV, Prince of",,Variant Index Name
 34186,8539,Vezeler,"Vezeler, Joris",,Variant
 34187,8539,Vezelaer(e),"Vezelaer(e), Joris",,Variant
@@ -27359,6 +27362,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 51972,45181,,American Federation of Arts,,Preferred Name
 51977,12234,,Arkansas Art Center,,Variant
 52025,45234,,Gerald Peters Gallery,,Preferred Name
+52027,45236,,Gladstone Gallery,,Preferred Name
 52063,12843,,Museum of Contemporary Art Chicago,,Variant
 52184,23656,Newman,"Newman, Arnold Mr.",,Variant
 52209,40964,Williams,"Williams, Clarence Mr.",,Variant
@@ -28679,8 +28683,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55195,47830,Smithers,"Smithers, Francis Sydney",,Preferred Name
 55196,47831,,Phillips and Sampson,,Preferred Name
 55197,38400,Avery,"Avery, Samuel P.",,Variant
-55198,38400,Avery,"Avery, S. P.",,Variant
-55199,38400,Avery,"Avery, Sam P.",,Variant
 55202,47834,Carle,"Carle, Elizabeth Stevens",,Preferred Name
 55203,47835,Stevens,"Stevens, Sarah Smith Phillips",,Preferred Name
 55204,47836,Phillips,"Phillips, James Francis Armstrong",,Preferred Name
@@ -32857,6 +32859,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61461,52436,Pook & Pook Inc.,Pook & Pook Inc.,,Preferred Name
 61462,52437,Skinner Auctioneers,Skinner Auctioneers,,Preferred Name
 61469,52444,von Dietel,"Dietel, Albin Woldemar von",,Preferred Name
+61476,52449,Frazier,"Frazier, LaToya Ruby",,Preferred Name
+61477,52449,Frazier,"Frazier, LaToya",,Variant
 61484,52455,Ford,"Ford, Walton",,Preferred Name
 61487,3453,Zañartu,"Zañartu, Enrique",,Variant
 61488,3451,Zakharov,"Zakharov, Gury",,Variant
@@ -32878,6 +32882,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61539,52495,Meijer,"Meijer, Konrad",,Preferred Name
 61540,52496,Robinow,"Robinow, Paul M.",,Preferred Name
 61541,52480,Master IS.,,,Variant
+61542,45236,,Barbara Gladstone Gallery,,Variant
 61543,52497,Reggio Emilian 16th Century,Reggio Emilian 16th Century,,Preferred Name
 61547,36256,Alston,"Alston, Charles Henry",,Variant
 61548,33212,Bomar,"Bomar, William Purinton Jr.",,Birth Name
@@ -32950,7 +32955,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61714,686,Johnson,,,Variant
 61719,52629,,"Kunstsammlungen der Veste Coburg, Kupferstichkabinett",,Preferred Name
 61720,3455,Zanetti-Borzino,,,Variant
-61725,2960,Baltens,"Baltens, Peeter",,Variant
 61791,10373,Maclaine Pont,"Maclaine Pont, Willem Pieter",,Full Name
 61792,10374,Maclaine Pont-Stork,"Maclaine Pont-Stork, Anna Wilhelmina",,Full Name
 61793,29369,Wiegersma,"Wiegersma, Hendrik Josef Marie",,Full Name
