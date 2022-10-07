@@ -29,5 +29,6 @@
  volume                      | character varying(850)   | 
  watermarks                  | character varying(512)   | 
  lastdetectedmodification    | timestamp with time zone | 
+ wikidataid                  | character varying(64)    | 
  customprinturl              | character varying(512)   | 
 
