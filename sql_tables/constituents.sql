@@ -14,4 +14,5 @@
  nationality              | character varying(128) | 
  visualbrowsernationality | character varying(128) | 
  constituenttype          | character varying(30)  | 
+ wikidataid               | character varying(64)  | 
 

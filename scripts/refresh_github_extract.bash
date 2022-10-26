@@ -7,23 +7,24 @@ fi
 
 # from https://stackoverflow.com/questions/8943693/can-git-operate-in-silent-mode
 quiet_git() {
-    stdout=/tmp/opendatagit.log
-    stderr=/tmp/opendatagit.log
-
-    if ! git "$@" </dev/null >$stdout 2>$stderr; then
-        cat $stderr >&2
-        rm -f $stdout $stderr
-        exit 1
-    fi
-
-    rm -f $stdout $stderr
+echo "skipping git for now"
+#    stdout=/tmp/opendatagit.log
+#    stderr=/tmp/opendatagit.log
+#
+#    if ! git "$@" </dev/null >$stdout 2>$stderr; then
+#        cat $stderr >&2
+#        rm -f $stdout $stderr
+#        exit 1
+#    fi
+#
+#    rm -f $stdout $stderr
 }
-
-quiet_git pull
 
 DBSERVER=$1
 DBNAME=$2
 DBUSER=$3
+
+quiet_git pull 
 
 # read the contents of tables.sql into a variable
 TABLES=$(<tables.sql)
