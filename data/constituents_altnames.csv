@@ -1315,6 +1315,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1401,1408,Huntington,"Huntington, Daniel",,Preferred Name
 1402,1409,Huysum,"Huysum, Jan van",,Preferred Name
 1403,1410,Ingham,"Ingham, Charles Cromwell",,Preferred Name
+61676,48776,Couvreur,"Couvreur, Jan C.",,Full Name
 1404,1411,Ingres,"Ingres, Jean-Auguste-Dominique",,Preferred Name
 1405,1412,Inman,"Inman, Henry",,Preferred Name
 1406,1413,Inness,"Inness, George",,Preferred Name
@@ -1598,7 +1599,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1694,1701,Donner,"Donner, M., Ms.",,Preferred Name
 1695,1702,Master of Saint Giles,Master of Saint Giles,,Preferred Name
 1696,1703,Master of the Saint Lucy Legend,Master of the Saint Lucy Legend,,Preferred Name
-61677,48774,Carbentus,"Carbentus, Anna Cornelia",,Maiden Name
+61675,52603,Schrauwen,"Schrauwen, Adrianus",,Preferred Name
 1697,1704,Master of Saint Veronica,Master of Saint Veronica,,Preferred Name
 1699,1706,Matisse,"Matisse, Henri",,Preferred Name
 1700,1707,Matta,Matta,,Preferred Name
@@ -8915,6 +8916,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9377,9384,Schultz,"Schultz, Howard Mr. and Mrs.",,Preferred Name
 9378,9385,Barsanti,"Barsanti, Alfredo",,Preferred Name
 9379,9386,Barsanti,"Barsanti, Mario",,Preferred Name
+61677,48774,Carbentus,"Carbentus, Anna Cornelia",,Maiden Name
 9380,9387,,"Sassangy, Chapel of the Château de",,Preferred Name
 9381,9388,Meller,"Meller, Simon, Dr.",,Preferred Name
 9382,9389,Hirsch,"Hirsch, Jacob, Dr.",,Preferred Name
@@ -22317,6 +22319,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38878,33084,,Mark Moore Gallery,,Preferred Name
 38879,33085,Rugg,"Rugg, Kim",,Preferred Name
 38888,33090,Kanev,"Kanev, Paul and Teresa",,Variant
+38889,33091,Roldán,"Roldán, Luisa",,Preferred Name
 38892,33094,,"Speaks, Cooper Phillips, Estate of",,Preferred Name
 38893,33095,Kim,"Kim, Byron",,Preferred Name
 38894,33096,,Tyler & Co.,,Preferred Name
@@ -22529,7 +22532,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39116,33313,Cramer,"Cramer, Konrad",,Preferred Name
 39117,33314,Crane,"Crane, Alan Horton",,Preferred Name
 39118,33315,Crane,"Crane, Stanley William",,Preferred Name
-58819,25704,Farley,"Farley, Ken",,Variant
+55198,38400,Avery,"Avery, S. P.",,Variant
 39119,33316,Crawford,"Crawford, Barbara",,Preferred Name
 39120,33317,Crawford,"Crawford, Esther Mabel",,Preferred Name
 39121,33318,Crawford,"Crawford, Lesley Buckland",,Preferred Name
@@ -22726,6 +22729,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39324,33521,Handelsman,"Handelsman, Bernard",,Preferred Name
 39325,33522,Hannah,"Hannah, John",,Preferred Name
 39326,33523,Harari,"Harari, Hananiah",,Preferred Name
+55199,38400,Avery,"Avery, Sam P.",,Variant
 39327,33524,Harper,"Harper, William Saint John",,Preferred Name
 39328,33525,Harris,"Harris, Alice",,Preferred Name
 39329,33526,Harris,"Harris, George Albert",,Preferred Name
@@ -22925,6 +22929,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39533,33729,Lowe,"Lowe, Marvin",,Preferred Name
 39534,33730,Lowrie,"Lowrie, Agnes Potter",,Preferred Name
 39535,33731,Ludwig,"Ludwig, Helen",,Preferred Name
+58819,25704,Farley,"Farley, Ken",,Variant
 39537,33733,Luna,"Luna, Andrew Rodriguez",,Preferred Name
 39538,33734,Lundeberg,"Lundeberg, Helen",,Preferred Name
 39539,33735,Lyall,"Lyall, Agnes",,Preferred Name
@@ -24843,6 +24848,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 43140,36768,Stöpel,"Stöpel, Gustav",,Preferred Name
 43142,36769,Symonds,Symonds Mrs.,,Preferred Name
 43143,35535,Kasmin Gallery,"Kasmin Gallery, Paul",,Variant Index Name
+43146,36772,Fontana,"Fontana, Lavinia",,Preferred Name
 43148,36774,Uwins,"Uwins, Thomas",,Preferred Name
 43150,36775,,Galerie Jean Fournier,,Preferred Name
 43151,36776,Fauci,"Fauci, Dan",,Preferred Name
@@ -27385,6 +27391,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 52814,46023,Cohen,"Cohen, Joseph",,Preferred Name
 52818,33083,Stein,"Stein, Stephen",,Variant
 52824,46033,Harris,"Harris, Thomas",,Preferred Name
+52830,46039,Mahon,"Mahon, Annie and Paul",,Preferred Name
 52833,45423,,David Levinthal Studio,,Variant
 52838,46047,,Fine Arts Museums of San Francisco,,Preferred Name
 52843,46052,Johns,Bud and Fran Moreland Johns,,Preferred Name
@@ -28671,8 +28678,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55195,47830,Smithers,"Smithers, Francis Sydney",,Preferred Name
 55196,47831,,Phillips and Sampson,,Preferred Name
 55197,38400,Avery,"Avery, Samuel P.",,Variant
-55198,38400,Avery,"Avery, S. P.",,Variant
-55199,38400,Avery,"Avery, Sam P.",,Variant
 55202,47834,Carle,"Carle, Elizabeth Stevens",,Preferred Name
 55203,47835,Stevens,"Stevens, Sarah Smith Phillips",,Preferred Name
 55204,47836,Phillips,"Phillips, James Francis Armstrong",,Preferred Name
@@ -32884,6 +32889,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61488,3451,Zakharov,"Zakharov, Gury",,Variant
 61489,5843,Wray,"Wray, Richard",,Variant
 61493,21225,Maupin,,,Variant
+61502,52467,,Carteia Fine Arts,,Preferred Name
+61503,52468,,Lullo Pampoulides,,Preferred Name
 61505,52470,Aslan,"Aslan, Sissi",,Preferred Name
 61515,52478,Ridinger,"Ridinger, Martin Elias",,Preferred Name
 61517,4100,Flindt II,"Flindt II, Paul",,Variant
@@ -32943,8 +32950,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61667,28875,,"Ronin, Joséphine",,Maiden Name
 61669,3633,Bruijn,"Bruijn, Abraham de",,Variant
 61671,23816,Teyler,"Teyler, Johannes",,Variant
-61675,52603,Schrauwen,"Schrauwen, Adrianus",,Preferred Name
-61676,48776,Couvreur,"Couvreur, Jan C.",,Full Name
 61678,48778,Mouwen,"Mouwen, Cornelius Hendrickus Wilhelmus",,Variant
 61679,48778,Mouwen,"Mouwen, C.",,Variant
 61680,48778,Mouwen,"Mouwen, Cees",,Variant
