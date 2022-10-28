@@ -7,17 +7,17 @@ fi
 
 # from https://stackoverflow.com/questions/8943693/can-git-operate-in-silent-mode
 quiet_git() {
-echo "skipping git for now"
-#    stdout=/tmp/opendatagit.log
-#    stderr=/tmp/opendatagit.log
-#
-#    if ! git "$@" </dev/null >$stdout 2>$stderr; then
-#        cat $stderr >&2
-#        rm -f $stdout $stderr
-#        exit 1
-#    fi
-#
-#    rm -f $stdout $stderr
+# echo "skipping git for now"
+    stdout=/tmp/opendatagit.log
+    stderr=/tmp/opendatagit.log
+
+    if ! git "$@" </dev/null >$stdout 2>$stderr; then
+        cat $stderr >&2
+        rm -f $stdout $stderr
+        exit 1
+    fi
+
+    rm -f $stdout $stderr
 }
 
 DBSERVER=$1
