@@ -1884,7 +1884,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1986,500007835,"Zak, Eugène",Eugène Zak,Zak,"Polish, 1884 - 1926",1,1884,1926,1876 to 1900,Polish,Other,individual,Q983573
 1987,500028241,"Zeliff, Amzi Emmons",Amzi Emmons Zeliff,Zeliff,"American, 1831 - 1915",1,1831,1915,1826 to 1850,American,American,individual,Q21497656
 1988,500013090,"Zoffany, Johann",Johann Zoffany,Zoffany,"British, 1733 - 1810",1,1733,1810,1726 to 1750,British,British,individual,Q702272
-52291,,SKHS,SKHS,,,1,,,,,Other,corporate,
 1990,500021908,"Zorach, Marguerite",Marguerite Zorach,Zorach,"American, 1887 - 1968",1,1887,1968,1876 to 1900,American,American,individual,Q6760826
 1991,500002927,"Zorn, Anders",Anders Zorn,Zorn,"Swedish, 1860 - 1920",1,1860,1920,1851 to 1875,Swedish,Swedish,individual,Q206820
 1992,500015091,"Zuloaga, Ignacio",Ignacio Zuloaga,Zuloaga,"Spanish, 1870 - 1945",1,1870,1945,1851 to 1875,Spanish,Spanish,individual,Q460198
@@ -2132,7 +2131,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 2232,500013242,"Pollaiuolo, Antonio del",Antonio del Pollaiuolo,Pollaiuolo,"Italian, c. 1431 - 1498",1,1431,1498,1401 to 1500,Italian,Italian,individual,Q318640
 2321,,"Norton, Eardley",Eardley Norton,Norton,"British, active 1750/1795",1,1715,1810,1701 to 1725,British,British,individual,
 2360,500014228,"Bassano, Gerolamo",Gerolamo Bassano,Bassano,"Italian, 1566 - 1621",1,1566,1621,1551 to 1600,Italian,Italian,individual,Q286685
-52490,,Cadart & Chevalier,Cadart & Chevalier,,,1,,,,,Other,corporate,
 2233,500012863,"Pomedelli, Giovanni Maria",Giovanni Maria Pomedelli,Pomedelli,"Veronese, 1478/1479 - 1537",1,1478,1537,1401 to 1500,Italian,Italian,individual,
 2234,500001864,"Porta, Guglielmo della",Guglielmo della Porta,Porta,"Lombard, 1500/1510 - 1577",1,1500,1577,1401 to 1500,Italian,Italian,individual,Q1623328
 2235,500032093,"Pradier, Jean-Jacques",Jean-Jacques Pradier,Pradier,"French, 1790 - 1852",1,1790,1852,1776 to 1800,French,French,individual,Q1362889
@@ -25331,7 +25329,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50922,,Carlos Carvalho Arte Contemporanea,Carlos Carvalho Arte Contemporanea,,Portuguese,0,,,,Portuguese,Other,corporate,
 50923,,"Hutton, Kurt",Kurt Hutton,Hutton,"German, 1893 - 1960",1,1893,1960,1876 to 1900,German,German,individual,
 50924,500118845,"Beard, Richard",Richard Beard,Beard,"British, 1801 - 1885",1,1801,1885,1801 to 1825,British,British,individual,
-51633,,"Ehrens, Susan",Susan Ehrens,Ehrens,,0,,,,,Other,individual,
+51854,,Triton Press,Triton Press,,,1,,,,,Other,corporate,
 50925,500033707,"Renard, François-Auguste",François-Auguste Renard,Renard,"French, 1806 - 1890",1,1806,1890,1801 to 1825,French,French,individual,
 50926,,"Johnston, John Dudley",John Dudley Johnston,Johnston,"British, 1868 - 1955",1,1868,1955,1851 to 1875,British,British,individual,
 50927,,Stewart & Skeels,Stewart & Skeels,,,0,,,,British,British,corporate,
@@ -25661,7 +25659,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51466,,"Myers, Ethel",Ethel Myers,Myers,"American, 1881 - 1960",1,1881,1960,1876 to 1900,American,American,individual,
 51468,,"Shils, Stuart",Stuart Shils,Shils,"American, born 1954",1,1954,,1951 to 1975,American,American,individual,
 51471,,"Zellar, Brad",Brad Zellar,Zellar,"American, born 1961",1,1961,,1951 to 1975,American,American,individual,
-51859,,Terzo Piano,Terzo Piano,,,0,,,,,Other,corporate,
 51473,,Artists and Writers Protest,Artists and Writers Protest,,active c. 1967,1,1965,1967,1951 to 1975,American,American,corporate,
 51478,,Joseph Goddu Fine Arts,Joseph Goddu Fine Arts,,,0,,,,,Other,corporate,
 51482,500125735,"Young, Purvis",Purvis Young,Young,"American, 1943 - 2010",1,1943,2010,1926 to 1950,American,American,individual,
@@ -25730,6 +25727,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51597,,"Karl III Philipp, Elector Palatine","Karl III Philipp, Elector Palatine",,"German, 1661 - 1742",0,1661,1742,1651 to 1700,German,German,individual,
 51598,,"Karl Theodor, Elector Palatine and Elector of Bavaria","Karl Theodor,  Elector Palatine and Elector of Bavaria",,,0,1724,1799,1701 to 1725,German,German,individual,
 51599,,"Maximilian I Joseph, King of Bavaria","Maximilian I Joseph, King of Bavaria",,"German, 1756 - 1825",0,1756,1825,1751 to 1775,German,German,individual,
+51600,,Audrey Shachnow and Robert  A. Schubert,Audrey Shachnow and Robert  A. Schubert,,,0,,,,,Other,couple,
 51601,500452100,Galerie Stern,Galerie Stern,,"German, 1913 - 1937",0,1913,1937,1901 to 1925,German,German,corporate,
 51602,,"Schwerdt, Charles Francis George Richard",Charles Francis George Richard Schwerdt,Schwerdt,"British, 1862 - 1939",0,1862,1939,1851 to 1875,British,British,individual,
 51603,,"Eliot, F. S.",F. S. Eliot,Eliot,"British, active 19th century",0,1800,1900,1776 to 1800,British,British,individual,
@@ -25757,6 +25755,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51629,500122995,"De Bruyckere, Berlinde",Berlinde De Bruyckere,De Bruyckere,"Belgian, born 1964",1,1964,,1951 to 1975,Belgian,Belgian,individual,
 51630,,"Zhen, Chen",Chen Zhen,Zhen,"Chinese, 1955 - 2000",1,1955,2000,1951 to 1975,Chinese,Chinese,individual,
 51632,,"Goodman, Dane",Dane Goodman,Goodman,,0,,,,American,American,individual,
+51633,,"Ehrens, Susan",Susan Ehrens,Ehrens,,0,,,,,Other,individual,
 51634,,"Martin, Edward Wenman",Edward Wenman Martin,Martin,"British, d. c. 1853",0,,1853,,British,British,individual,
 51636,,"Hess, Johann Franz  Adam",Johann Franz  Adam Hess,Hess,"Swiss, 1740 - 1814",1,1740,1814,1726 to 1750,Swiss,Swiss,individual,
 51637,,"Tunno, Edward Rose",Edward Rose Tunno,Tunno,"British, 1794 - 1863",0,1794,1863,1776 to 1800,British,British,individual,
@@ -25863,8 +25862,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51851,,"Kord, Catherine",Catherine Kord,Kord,,1,,,,,Other,individual,
 51852,,"Arnow, Aaron",Aaron Arnow,Arnow,,1,,,,,Other,individual,
 51853,,A. Colish Press,A. Colish Press,,,1,,,,,Other,corporate,
-51854,,Triton Press,Triton Press,,,1,,,,,Other,corporate,
 51858,,"Heitz, Paul",Paul Heitz,Heitz,"French, 1857 - 1943",0,1857,1943,1851 to 1875,French,French,individual,
+51859,,Terzo Piano,Terzo Piano,,,0,,,,,Other,corporate,
 51863,,Philippsohn Collection,Philippsohn Collection,,American,0,,,,American,American,corporate,
 51864,,Rotta Dr.,Dr. Rotta,Rotta,"Italian, active 18th century",0,1700,1800,1651 to 1700,Italian,Italian,individual,
 51877,500124748,"Barboza, Anthony",Anthony Barboza,Barboza,"American, born 1944",1,1944,,1926 to 1950,American,American,individual,
@@ -25919,6 +25918,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52025,,"Hutchinson, Joshua H.",Joshua H. Hutchinson,Hutchinson,"British, c. 1829 - 1892",0,1829,1892,1826 to 1850,British,British,individual,
 52026,,"Oppo, Cipriano Efisio",Cipriano Efisio Oppo,Oppo,"Italian, 1891 - 1962",0,1891,1962,1876 to 1900,Italian,Italian,individual,
 52027,,Calcographia Gastaldi,Calcographia Gastaldi,,"⁮Italian, 19th century",1,1800,1900,1776 to 1800,⁮Italian,⁮Italian,corporate,
+52031,500127750,"Whitehorse, Emmi",Emmi Whitehorse,Whitehorse,"Navajo, born 1957",1,1957,,1951 to 1975,American,American,individual,
+52032,,Chiaroscuro Contemporary Art Gallery Santa Fe,Chiaroscuro Contemporary Art Gallery Santa Fe,,,0,,,,,Other,corporate,
 52035,,"Vincent, Florence Cole",Florence Cole Vincent,Vincent,"American, 1876 - 1971",0,1876,1971,1876 to 1900,American,American,individual,
 52036,,Vielmetter Los Angeles,Vielmetter Los Angeles,,,0,,,,,Other,corporate,
 52037,,"Lierres, Etienne de",Etienne de Lierres,Lierres,"French, active late 19th - early 20th century",1,1850,1950,1826 to 1850,French,French,individual,
@@ -26002,6 +26003,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52284,,Print Society,Print Society,,,1,,,,,Other,corporate,
 52289,,Silver Mountain Grapics,Silver Mountain Grapics,,,1,,,,,Other,corporate,
 52290,,Spudnik Press,Spudnik Press,,,1,,,,,Other,corporate,
+52291,,SKHS,SKHS,,,1,,,,,Other,corporate,
 52292,,"Hanche-Olsen, Eystein",Eystein Hanche-Olsen,Hanche-Olsen,"Norwegian, born 1933",1,1933,,1926 to 1950,Norwegian,Norwegian,individual,
 52294,,Gefn Janus Unlimited,Gefn Janus Unlimited,,,1,,,,,Other,corporate,
 52295,,Stinehour Press,Stinehour Press,,,1,,,,,Other,corporate,
@@ -26058,6 +26060,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52480,,"Silber, Jonas",Jonas Silber,Silber,"German, active 1572 - 1589",1,1572,1589,1551 to 1600,German,German,individual,
 52486,,"Specklin, Veit",Veit Specklin,Specklin,"German, active c. 1525 - 1550",1,1525,1550,1501 to 1550,German,German,individual,
 52487,,Blain,Blain,Blain,"French, active 18th century",1,1700,1800,1651 to 1700,French,French,individual,
+52490,,Cadart & Chevalier,Cadart & Chevalier,,,1,,,,,Other,corporate,
 52491,,"Comiot, Charles",Charles Comiot,Comiot,"French, 1861 - 1945",0,1861,1945,1851 to 1875,French,French,individual,
 52492,,Altavoz del Frente,Altavoz del Frente,,,1,,,,,Other,corporate,
 52493,,"Forgues, Eugène Daurand",Eugène Daurand Forgues,Forgues,"French, 1857 - 1933",0,1857,1933,1851 to 1875,French,French,individual,
@@ -26086,6 +26089,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52584,,Ducourtioux & Huillard,Ducourtioux & Huillard,,,1,,,,,Other,corporate,
 52586,,"Vail, Virginia",Virginia Vail,Vail,"American, 1897 - 1973",0,1897,1973,1876 to 1900,American,American,individual,
 52587,,"Gibbon, Glorianna H.",Glorianna H. Gibbon,Gibbon,"American, 1929 - 2016",0,1929,2016,1926 to 1950,American,American,individual,
+52594,,Marc Straus Gallery,Marc Straus Gallery,,,0,,,,,Other,corporate,
 52603,,"Schrauwen, Adrianus",Adrianus Schrauwen,Schrauwen,"Dutch, 1834 - 1920",0,1834,1920,1826 to 1850,Dutch,Dutch,individual,
 52604,,"Lee, Paul Phillip",Paul Phillip Lee,Lee,,0,,,,,Other,purchase_fund,
 52605,,"Johnson, James and Heather",James and Heather Johnson,Johnson,,0,,,,,Other,purchase_fund,
