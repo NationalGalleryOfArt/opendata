@@ -13,11 +13,6 @@ locationid,site,room,publicaccess,description,unitposition
 3629,East Building,EC-005,1,"East Bldg, Auditorium",N
 3630,East Building,EC-005,1,"East Bldg, Auditorium",S
 3631,East Building,EC-005,1,"East Bldg, Auditorium",W
-3680,East Building,EC-028,1,"East Bldg, Concourse Gallery Lobby",
-3681,East Building,EC-028,1,"East Bldg, Concourse Gallery Lobby",E
-3682,East Building,EC-028,1,"East Bldg, Concourse Gallery Lobby",N
-3683,East Building,EC-028,1,"East Bldg, Concourse Gallery Lobby",S
-3684,East Building,EC-028,1,"East Bldg, Concourse Gallery Lobby",W
 3809,East Building,EG-100,1,"East Bldg, Central Atrium",
 3810,East Building,EG-100,1,"East Bldg, Central Atrium",E
 3811,East Building,EG-100,1,"East Bldg, Central Atrium",N
@@ -668,7 +663,6 @@ locationid,site,room,publicaccess,description,unitposition
 8841,East Building,EU-408,1,"East Bldg, Vestibule, 408 (Pod 2)",S
 8857,East Building,CLA-110,1,Moving Walkway Tunnel,
 8860,West Building,G-001-C,1,West Ground Floor Gallery 1C,N
-9006,East Building,EC-028,1,"East Bldg, Concourse Gallery Lobby",CENTER
 9009,East Building,EG-100,1,"East Bldg, Central Atrium",CEILING
 9010,East Building,EM-203,1,"East Bldg, Mezz. Terrace",W
 9012,West Building,G-036,1,West Ground Floor Gallery 36,CENTER
@@ -861,17 +855,8 @@ locationid,site,room,publicaccess,description,unitposition
 13055,East Building,ET-615-B,1,"East Bldg, Tower Gallery 615B",W
 13056,East Building,ET-615-B,1,"East Bldg, Tower Gallery 615B",N
 13057,East Building,ET-615-B,1,"East Bldg, Tower Gallery 615B",S
-13060,East Building,EC-029-A,1,"East Bldg, Concourse Gallery 29A",
-13061,East Building,EC-029-B,1,"East Bldg, Concourse Gallery 29B",
-13062,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",
-13063,East Building,EC-029-D,1,"East Bldg, Concourse Gallery 29D",
-13064,East Building,EC-029-E,1,"East Bldg, Concourse Gallery 29E",
 13081,East Building,EM-204,1,"East Bldg, Mezz. Elevator Lobby",E
-13082,East Building,EC-029-H,1,"East Bldg, Concourse Gallery 29H",
 13085,East Building,EG-105,1,"East Bldg, Vestibule, 105 (Pod 1)",E
-13086,East Building,EC-029-F,1,"East Bldg, Concourse Gallery 29F",
-13087,East Building,EC-029-G,1,"East Bldg, Concourse Gallery 29G",
-13088,East Building,EC-029-I,1,"East Bldg, Concourse Gallery 29I",
 13093,East Building,EG-106-A,1,"East Bldg, Ground Gal 106A (Pod 1)",
 13094,East Building,EG-106-C,1,"East Bldg, Ground Gal 106C (Pod 1)",
 13095,East Building,EG-106-E,1,"East Bldg, Ground Gal 106E (Pod 1)",
@@ -995,44 +980,6 @@ locationid,site,room,publicaccess,description,unitposition
 13226,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",E
 13227,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",S
 13228,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",W
-13229,East Building,EC-029-A,1,"East Bldg, Concourse Gallery 29A",N
-13230,East Building,EC-029-A,1,"East Bldg, Concourse Gallery 29A",E
-13231,East Building,EC-029-A,1,"East Bldg, Concourse Gallery 29A",S
-13232,East Building,EC-029-A,1,"East Bldg, Concourse Gallery 29A",W
-13233,East Building,EC-029-B,1,"East Bldg, Concourse Gallery 29B",N
-13234,East Building,EC-029-B,1,"East Bldg, Concourse Gallery 29B",E
-13235,East Building,EC-029-B,1,"East Bldg, Concourse Gallery 29B",S
-13236,East Building,EC-029-B,1,"East Bldg, Concourse Gallery 29B",W
-13237,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",N
-13238,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",E
-13239,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",S
-13240,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",W
-13241,East Building,EC-029-D,1,"East Bldg, Concourse Gallery 29D",N
-13242,East Building,EC-029-D,1,"East Bldg, Concourse Gallery 29D",E
-13243,East Building,EC-029-D,1,"East Bldg, Concourse Gallery 29D",S
-13244,East Building,EC-029-D,1,"East Bldg, Concourse Gallery 29D",W
-13245,East Building,EC-029-E,1,"East Bldg, Concourse Gallery 29E",N
-13246,East Building,EC-029-E,1,"East Bldg, Concourse Gallery 29E",E
-13247,East Building,EC-029-E,1,"East Bldg, Concourse Gallery 29E",S
-13248,East Building,EC-029-E,1,"East Bldg, Concourse Gallery 29E",W
-13249,East Building,EC-029-F,1,"East Bldg, Concourse Gallery 29F",N
-13250,East Building,EC-029-F,1,"East Bldg, Concourse Gallery 29F",E
-13251,East Building,EC-029-F,1,"East Bldg, Concourse Gallery 29F",S
-13252,East Building,EC-029-F,1,"East Bldg, Concourse Gallery 29F",W
-13253,East Building,EC-029-G,1,"East Bldg, Concourse Gallery 29G",N
-13254,East Building,EC-029-G,1,"East Bldg, Concourse Gallery 29G",E
-13255,East Building,EC-029-G,1,"East Bldg, Concourse Gallery 29G",S
-13256,East Building,EC-029-G,1,"East Bldg, Concourse Gallery 29G",W
-13257,East Building,EC-029-H,1,"East Bldg, Concourse Gallery 29H",N
-13258,East Building,EC-029-H,1,"East Bldg, Concourse Gallery 29H",E
-13259,East Building,EC-029-H,1,"East Bldg, Concourse Gallery 29H",S
-13260,East Building,EC-029-H,1,"East Bldg, Concourse Gallery 29H",W
-13261,East Building,EC-029-I,1,"East Bldg, Concourse Gallery 29I",N
-13262,East Building,EC-029-I,1,"East Bldg, Concourse Gallery 29I",E
-13263,East Building,EC-029-I,1,"East Bldg, Concourse Gallery 29I",S
-13264,East Building,EC-029-I,1,"East Bldg, Concourse Gallery 29I",W
-13285,East Building,EC-029-H,1,"East Bldg, Concourse Gallery 29H",CENTER
-13287,East Building,EC-029-A,1,"East Bldg, Concourse Gallery 29A",CENTER
 13291,East Building,EM-214-Z,1,"East Bldg, Mezz Gal 214Z (Pod 2)",N
 13292,East Building,EM-214-Z,1,"East Bldg, Mezz Gal 214Z (Pod 2)",W
 13300,West Building,G-023,1,West Ground Floor Gallery 23,CASE
@@ -1043,13 +990,8 @@ locationid,site,room,publicaccess,description,unitposition
 13579,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",CENTER
 13584,West Building,M-055,1,West Main Floor Gallery 55,Center
 13686,East Building,EU-407-X,1,"East Bldg, Upr Lvl Stairway 407X (North Bridge)",S
-13699,East Building,EC-029-F,1,"East Bldg, Concourse Gallery 29F",CENTER
-13701,East Building,EC-029-B,1,"East Bldg, Concourse Gallery 29B",CENTER
-13703,East Building,EC-029-G,1,"East Bldg, Concourse Gallery 29G",CENTER
-13704,East Building,EC-029-D,1,"East Bldg, Concourse Gallery 29D",CENTER
 13728,West Building,G-027,1,West Ground Floor Gallery 27,BAFFLE
 13764,West Building,M-137,1,"West Bldg, Lobby D",CENTER
-13814,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",CENTER
 13815,West Building,G-045,1,West Ground Floor Gallery 45,
 13816,West Building,G-045,1,West Ground Floor Gallery 45,E
 13817,West Building,G-045,1,West Ground Floor Gallery 45,N
@@ -1063,7 +1005,6 @@ locationid,site,room,publicaccess,description,unitposition
 13900,West Building,M-077,1,West Main Floor Gallery 77,EAST BAFFLE
 13931,West Building,G-029,1,West Ground Floor Gallery 29,BAFFLE
 13949,East Building,EU-405,1,"East Bldg, West Terrace",
-13954,East Building,EC-029-E,1,"East Bldg, Concourse Gallery 29E",CENTER
 13963,East Building,EG-106-E,1,"East Bldg, Ground Gal 106E (Pod 1)",E
 13964,East Building,EG-106-E,1,"East Bldg, Ground Gal 106E (Pod 1)",N
 13989,West Building,M-076,1,West Main Floor Gallery 76,Center
@@ -1074,5 +1015,4 @@ locationid,site,room,publicaccess,description,unitposition
 14177,Sculpture Garden (WSG),NE-Quad,1,Sculpture Garden - NE,
 14178,Sculpture Garden (WSG),SE-Quad,1,Sculpture Garden - SE,
 14179,Sculpture Garden (WSG),SW-Quad,1,Sculpture Garden - SW,
-14188,East Building,EC-029-I,1,"East Bldg, Concourse Gallery 29I",CENTER
 14615,West Building,M-078-A,1,West Main Floor Gallery 78A,CENTER
