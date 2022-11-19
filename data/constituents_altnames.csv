@@ -12861,7 +12861,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22632,22639,Parnell,"Parnell, Charles Stewart",,Preferred Name
 22633,22640,Parnell,"Parnell, Olivia, Mrs.",,Preferred Name
 22634,22641,Garland,"Garland, Marie Louise Tudor",,Preferred Name
-61621,52565,Kung,"Kung, Georgia",,Preferred Name
+61915,52772,Waldie,"Waldie, John",,Preferred Name
 22635,22642,Walsh,"Walsh, J.F., Dr.",,Preferred Name
 22636,22643,Walsh,"Walsh, Henry C.",,Preferred Name
 22637,22644,Kain,"Kain, W.J.",,Preferred Name
@@ -20365,7 +20365,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34356,9004,Beatson,"Beatson, Dora Isabella",,Maiden Name
 34358,9025,,Louis Lyons,,Variant Index Name
 34359,9028,Bertram,"Bertram, Clara K.",,Maiden Name
-61613,52557,Frost,"Frost, Henry Harvey",,Preferred Name
 34360,9032,Brandon,"Brandon, James Hamilton, 2nd Duke of",,Variant
 34361,9033,Brandon,"Brandon, Alfred Douglas Hamilton, 10th Duke of",,Variant
 34362,9033,Hamilton-Douglas,"Hamilton-Douglas, Alfred Doublas 13th Duke of Hamilton",,Variant
@@ -20641,7 +20640,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34659,9946,Meunier,"Meunier, Jules Baronne",,Variant Index Name
 34660,9947,Bianchi,"Bianchi, Marius Mme",,Variant Index Name
 34661,9947,Jeanin,"Jeanin, Mathilde",,Maiden Name
-61615,52559,Verbeck,"Verbeck, Charles H.W.",,Preferred Name
 34664,9951,Bianchi,"Bianchi, Caroline-Pauline-Thérèse",,Maiden Name
 34665,9951,Murat,"Murat, Gaétan-François-Lucien-Joachim Comptesse",,Variant Index Name
 34667,9965,,Private Collection,,Variant
@@ -21291,7 +21289,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 35939,22460,Stewart,"Stewart, Mary",,Maiden Name
 35941,22469,Leveson-Gower,"Leveson-Gower, George Granville, 1st duke of Sutherland",,Variant Index Name
 35942,22471,Sutherland,"Sutherland, John Duke of Sutherland",,Variant
-61616,52560,Liegme,"Liegme, Jean-François",,Preferred Name
 35943,22488,,Del Bufalo della Valle Cancellieri family,,Variant
 35944,22494,Johnson,"Johnson, John Graver",,Full Name
 35945,22504,Zanoletti,"Zanoletti, Aurelio",,Variant
@@ -24116,7 +24113,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41129,35075,Presser,"Presser, Josef",,Preferred Name
 41130,35076,Nisita,"Nisita, Carlo Antonia",,Preferred Name
 41131,35077,Mintz,"Mintz, Harry S.",,Preferred Name
-61619,52563,Bellenger,"Bellenger, Clément",,Preferred Name
 41132,35078,Melville,"Melville, Grevis Whitaker",,Preferred Name
 41133,35079,Maurice,"Maurice, Alfred Paul",,Preferred Name
 41134,35080,Macpherson,"Macpherson, Marie R.",,Preferred Name
@@ -31007,7 +31003,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58420,50180,,"Frye & Smith, Ltd.",,Preferred Name
 58422,50182,Fulton,"Fulton, Jack",,Preferred Name
 58423,47299,,,,Nickname/Pseudonym
-61620,52564,,"Griffelkunstvereinigung, Hamburg",,Preferred Name
 58424,50183,Hungarian 20th Century,Hungarian 20th Century,,Preferred Name
 58425,50183,,,,Variant
 58427,50185,Benveniste,"Benveniste, Dan Albert",,Preferred Name
@@ -32977,6 +32972,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61568,52512,Marseus van Schrieck,"Marseus van Schrieck, Otto",,Preferred Name
 61569,52513,Drouais,"Drouais, Jean Germain",,Preferred Name
 61573,52517,Croce,"Croce, Giulio Cesare",,Preferred Name
+61613,52557,Frost,"Frost, Henry Harvey",,Preferred Name
+61615,52559,Verbeck,"Verbeck, Charles H.W.",,Preferred Name
+61616,52560,Liegme,"Liegme, Jean-François",,Preferred Name
+61619,52563,Bellenger,"Bellenger, Clément",,Preferred Name
+61620,52564,,"Griffelkunstvereinigung, Hamburg",,Preferred Name
+61621,52565,Kung,"Kung, Georgia",,Preferred Name
 61625,52567,Vanson,"Vanson, Adrian",,Preferred Name
 61626,52568,Bonenfant,"Bonenfant, Antoine",,Preferred Name
 61627,52569,Lortic,"Lortic, Marcelin",,Preferred Name
@@ -33069,3 +33070,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61856,52722,Espérance Bourlet de la Vallée,,,Variant
 61859,52725,Gauguin,"Gauguin, Pola",,Preferred Name
 61860,52726,Maroni,"Maroni, Albert",,Preferred Name
+61924,52781,,Print and Drawing Club of The Art Institute of Chicago,,Preferred Name
