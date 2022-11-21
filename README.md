@@ -18,6 +18,14 @@ While links and references to images and other media (such as audio and video fi
 
 Our collection management is a process in continuous motion and therefore the dataset released through this open data program may not be entirely complete, correct, or up to date. This dataset is provided “as is”, is updated frequently (usually once a day), and should be used at your own risk. The National Gallery of Art makes no representations or warranties of any kind. If you notice erroneous data in our public dataset, please [let us know](https://www.nga.gov/contact-us/ask-a-question.html).
 
+### Why are Wikidata Identifiers included in this dataset?
+
+In 2018, the National Gallery of Art began a program with the Wikimedia Foundation to [donate open-access images and data to Wikimedia platforms](https://www.nga.gov/open-access-images/wikimedia-commons-wikidata.html). In 2022, known Wikidata Identifiers were reconciled with the National Gallery’s collections management system, and this dataset now includes Q-item values for associated Wikidata records. These associated values should not be considered exhaustive and new Wikidata Idenifiers will be added over time as the data is refreshed. These associated Wikidata Identifiers are intended as useful, stable identifiers for open data research questions and experiments.
+
+Example: [Q230673](https://www.wikidata.org/wiki/Q230673), Dorothea Lange (photographer)
+
+The National Gallery welcomes and encourages everyone to explore, enjoy, share, use, re-use, and build with its collection on Wikimedia Commons and Wikidata.
+
 ### Please consider citing the National Gallery of Art.
 
 Please consider providing attribution to or citing the [National Gallery of Art's Collection Dataset](https://github.com/NationalGalleryOfArt/opendata) when using this data for research purposes, but please do not use the National Gallery of Art's logo or make any representation, express or implied, that the National Gallery of Art endorses your work without first acquiring our prior written permission to do so.
