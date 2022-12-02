@@ -17999,7 +17999,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 33079,,Mailly,Mailly,Mailly,,0,,,,,Other,individual,
 33080,,"Merrill, Ross",Ross Merrill,Merrill,"American, 1943 - 2010",1,1943,2010,1926 to 1950,American,American,individual,
 33081,,"Enden, Martin van den I",Martin van den Enden I,Enden,"Flemish, 1630 - 1654",1,1630,1654,1601 to 1650,Flemish,Flemish,individual,
-33082,500090689,"Mayhew, Richard",Richard Mayhew,Mayhew,"American, born 1924",1,1924,,1901 to 1925,American,American,individual,
+33082,500090689,"Mayhew, Richard",Richard Mayhew,Mayhew,"American, born 1924",1,1924,,1901 to 1925,American,American,individual,Q19605041
 33083,,"Stein, Stephen G.",Stephen G. Stein,Stein,"",0,,,,,Other,individual,
 33084,,Mark Moore Gallery,Mark Moore Gallery,,,0,,,,,Other,corporate,
 33085,,"Rugg, Kim",Kim Rugg,Rugg,"Canadian, born 1963",1,1963,,1951 to 1975,Canadian,Canadian,individual,
@@ -22378,7 +22378,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 45732,500016363,"Yoshida, Ray",Ray Yoshida,Yoshida,"American, 1930 - 2009",1,1930,2009,1926 to 1950,American,American,individual,
 45764,,Davis,Davis,Davis,,0,,,,,Other,individual,
 45776,,"Bodine, A. Aubrey",A. Aubrey Bodine,Bodine,"American, 1906 - 1970",1,1906,1970,1901 to 1925,American,American,individual,
-45841,,"Tolliver, Mose",Mose Tolliver,Tolliver,"American, 1918 - 2006",1,1918,2006,1901 to 1925,American,American,individual,
+45841,500125726,"Tolliver, Mose",Mose Tolliver,Tolliver,"American, 1918 - 2006",1,1918,2006,1901 to 1925,American,American,individual,Q4274641
 45888,,"Parr, Martin",Martin Parr,Parr,"British, born 1952",1,1952,,1951 to 1975,British,British,individual,
 45890,,"Davies, John",John Davies,Davies,"British, born 1949",1,1949,,1926 to 1950,British,British,individual,
 45913,,Barnard & Gibson,Barnard & Gibson,,"American, active 1860s",1,,,,American,American,corporate,
@@ -26197,3 +26197,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52785,,"Alianello, Raffaele",Raffaele Alianello,Alianello,"Italian, 1908 - 1988",0,1908,1988,1901 to 1925,Italian,Italian,individual,
 52792,,"Rosenbach, A. S. W. Dr.",Dr. A. S. W. Rosenbach,Rosenbach,"American, 1876 - 1952",0,1876,1952,1876 to 1900,American,American,individual,
 52793,,"Frazier, Peter",Peter Frazier,Frazier,"British, born 1953",1,1953,,1951 to 1975,British,British,individual,
+52800,,"Atelier Bordas, Paris","Atelier Bordas, Paris",,,1,,,,,Other,corporate,
