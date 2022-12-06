@@ -1220,6 +1220,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1302,1309,Shickman,"Shickman, Herman",,Preferred Name
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
+61709,52622,Bonde,,,Variant
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
 1306,1313,Nitze,"Nitze, II, William, The Honorable and Mrs.",,Preferred Name
 1307,1314,Butler,"Butler, Gilbert, Mr. and Mrs.",,Preferred Name
@@ -1599,6 +1600,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1694,1701,Donner,"Donner, M., Ms.",,Preferred Name
 1695,1702,Master of Saint Giles,Master of Saint Giles,,Preferred Name
 1696,1703,Master of the Saint Lucy Legend,Master of the Saint Lucy Legend,,Preferred Name
+61708,52622,Trolle-Bonde,"Trolle-Bonde, Gustaf",,Preferred Name
 1697,1704,Master of Saint Veronica,Master of Saint Veronica,,Preferred Name
 1699,1706,Matisse,"Matisse, Henri",,Preferred Name
 1700,1707,Matta,Matta,,Preferred Name
@@ -32872,6 +32874,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61243,52229,Renard,"Renard, Jean Augustin",,Preferred Name
 61244,52230,Ballester,"Ballester, Mariano",,Preferred Name
 61247,52231,Patterson,"Patterson, Margaret",,Preferred Name
+61292,52272,Watt,"Watt, Marie",,Preferred Name
 61304,52284,,Print Society,,Preferred Name
 61305,52285,Shigeta,"Shigeta, Harry Kinzi",,Preferred Name
 61306,52286,Itano,"Itano, Riso",,Preferred Name
@@ -33047,8 +33050,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61705,52621,Gerdten,"Gerdten, Johan Adam von",,Preferred Name
 61706,52621,Gerdten,,,Variant
 61707,52621,Gertten,,,Variant
-61708,52622,Trolle-Bonde,"Trolle-Bonde, Gustaf",,Preferred Name
-61709,52622,Bonde,,,Variant
 61711,5696,Reinberger-Brausewetter,"Reinberger-Brausewetter, Gertraud",,Variant
 61714,686,Johnson,,,Variant
 61716,52626,Odescalchi,"Odescalchi, Ladislao Prince",,Preferred Name
@@ -33109,3 +33110,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61943,52793,Frazier,"Frazier, Peter",,Preferred Name
 61952,52800,,"Atelier Bordas, Paris",,Preferred Name
 61954,33703,Levi,"Levi, Julian E.",,Variant
+61955,52802,,"International Fine Art Exposition for Art Asia, Hong Kong",,Preferred Name
