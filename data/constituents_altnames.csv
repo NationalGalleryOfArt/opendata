@@ -27993,7 +27993,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54187,7111,Sage,"Sage, Katherine Linn",,Full Name
 54188,7111,Tanguy,"Tanguy, Yves Mrs.",,Married Name
 54189,47130,Masieri,"Masieri, Francesco",,Preferred Name
-57682,786,,Kennedy Graphics,,Variant
+57410,49412,,Paul Borel,,Variant
 54190,47131,Hope Vere,"Hope Vere, William Edward",,Preferred Name
 54192,192,Mellon,"Mellon, Ailsa",,Maiden Name
 54195,47135,Schuffenecker,"Schuffenecker, Jeanne",,Preferred Name
@@ -30256,7 +30256,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57357,18760,Kahn,"Kahn, Anita and Arthur",,Variant
 57360,49384,Holzer,"Holzer, Jacob A.",,Preferred Name
 57362,49093,Ream,"Ream, Cadurcis Plantagenet",,Full Name
-57363,39811,Hoffy,"Hoffy, Alfred A.",,Variant
 57364,49386,Clark,"Clark, James G.",,Preferred Name
 57365,49384,Holzer,"Holzer, Jacob Adolphus",,Full Name
 57366,49384,Holzer,"Holzer, Jacob Adolphe",,Variant
@@ -30287,7 +30286,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57407,3599,Brangwyn,"Brangwyn, Frank",,Variant
 57408,49411,,The Acorn,,Preferred Name
 57409,49412,Borel,"Borel, André-Marie-Paul",,Preferred Name
-57410,49412,,Paul Borel,,Variant
 57413,622,White,"White, Harriet W. Lancashire",,Full Name
 57414,622,Lancashire,"Lancashire, Harriet W.",,Maiden Name
 57415,7173,Hatch,"Hatch, Olivia Egleston Phelps Stokes",,Full Name
@@ -30489,6 +30487,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57678,49579,,Graphic Workshop,,Preferred Name
 57679,49580,Bar,"Bar, Jacques Charles",,Preferred Name
 57681,49582,Isaacs,"Isaacs, Charles T. Dr. and Mrs.",,Preferred Name
+57682,786,,Kennedy Graphics,,Variant
 57686,49585,Reynoso,"Reynoso, Antonio",,Preferred Name
 57687,49586,Basseporte,"Basseporte, Madeleine Françoise",,Preferred Name
 57690,49589,Bo,"Bo, Hai",,Preferred Name
@@ -33124,3 +33123,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61965,52812,Michel,"Michel, Marius",,Preferred Name
 61971,33234,Shermer,"Shermer, Frederika",,Variant
 61972,33234,Frederika,"Frederika, Fritzi",,Variant
+61982,39611,Kemble,"Kemble, Edward Windsor",,Variant
+61983,39611,Kemble,"Kemble, E. W.",,Variant
+61984,33300,Cohen,"Cohen, H. George",,Variant
+61985,33395,Emmanuel,"Emmanuel, Herzel",,Variant
