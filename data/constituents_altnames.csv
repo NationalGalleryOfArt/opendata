@@ -31745,8 +31745,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59390,37904,Edmunds,"Edmunds, Allan L.",,Full Name
 59391,37905,Mosley,"Mosley, Quentin B.",,Full Name
 59392,50866,Carr-Prindle,"Carr-Prindle, Sam",,Preferred Name
-59393,10961,Feld,,,Variant
-59394,10961,Feld,,,Variant
+59393,10961,Feld,"Feld, Ellen Dr.",,Variant
+59394,10961,Feld,"Feld, Ellen Dr.",,Variant
 59395,50867,Juxon,"Juxon, William",,Preferred Name
 59396,50868,Osborne,"Osborne, Elizabeth",,Preferred Name
 59397,50869,Richter,"Richter, Johann Carl",,Preferred Name
@@ -33132,3 +33132,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61984,33300,Cohen,"Cohen, H. George",,Variant
 61985,33395,Emmanuel,"Emmanuel, Herzel",,Variant
 61992,33287,Chatterton,"Chatterton, Clarence Kerr",,Variant
+62002,4004,,USCO,,Variant
