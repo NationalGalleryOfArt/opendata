@@ -1220,7 +1220,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1302,1309,Shickman,"Shickman, Herman",,Preferred Name
 1303,1310,Marron,"Marron, Donald B., Mr. and Mrs.",,Preferred Name
 1304,1311,Foppa,"Foppa, Vincenzo",,Preferred Name
-61706,52621,Gerdten,,,Variant
+62017,34235,Gilbert,,,Variant
 1305,1312,Marin,"Marin, Norma B., Mrs.",,Preferred Name
 1306,1313,Nitze,"Nitze, II, William, The Honorable and Mrs.",,Preferred Name
 1307,1314,Butler,"Butler, Gilbert, Mr. and Mrs.",,Preferred Name
@@ -3046,7 +3046,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3206,3213,Toyen (pseudonym),Toyen (pseudonym),,Preferred Name
 3207,3214,Traut,"Traut, Wolf",,Preferred Name
 3208,3215,Treiman,"Treiman, Joyce Wahl",,Preferred Name
-61707,52621,Gertten,,,Variant
+61706,52621,Gerdten,,,Variant
 3209,3216,Tremolieres,"Tremolieres, Pierre Charles",,Preferred Name
 3210,3217,Tresca,"Tresca, Salvatore",,Preferred Name
 3211,3218,Trevelyan,"Trevelyan, Julian",,Preferred Name
@@ -3439,7 +3439,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3617,3624,Browne,"Browne, John",,Preferred Name
 3618,3625,Brown,"Brown, William",,Preferred Name
 3619,3626,Brueghel the Elder,"Brueghel the Elder, Jan",,Preferred Name
-61709,52622,Bonde,,,Variant
+61707,52621,Gertten,,,Variant
 3620,3627,Brueghel the Younger,"Brueghel the Younger, Pieter",,Preferred Name
 3621,3628,Bruggen,"Bruggen, Jan van der",,Preferred Name
 3622,3629,Brun,"Brun, Franz",,Preferred Name
@@ -3924,7 +3924,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4127,4134,Fredou,"Fredou, Jean-Martial",,Preferred Name
 4128,4135,Freudenberger,"Freudenberger, Sigmund",,Preferred Name
 4129,4136,Frezza,"Frezza, Giovanni Girolamo",,Preferred Name
-61700,52617,,Kunsthandel Walrecht,,Preferred Name
+62014,33441,Pierce,"Pierce, Leona",,Variant
 4130,4137,Friedensohn,"Friedensohn, Elias",,Preferred Name
 4131,4138,Friedlaender,"Friedlaender, Johnny",,Preferred Name
 4132,4139,Friedlander,"Friedlander, Isac",,Preferred Name
@@ -4507,7 +4507,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4740,4747,Lorraine,"Lorraine, Jean-Baptiste de",,Preferred Name
 4741,4748,Loubon,"Loubon, Emile Charles Joseph",,Preferred Name
 4742,4749,Louis,"Louis, Jacob",,Preferred Name
-61702,52617,Walrecht,"Walrecht, Willem",,Variant
+62013,33439,Dalstrom,"Dalstrom, Gustaf Mrs.",,Variant
 4744,4751,Loutherbourg II,"Loutherbourg II, Philippe Jacques de",,Preferred Name
 4745,4752,Lowengrund,"Lowengrund, Margaret",,Preferred Name
 4746,4753,Lozowick,"Lozowick, Louis",,Preferred Name
@@ -4693,7 +4693,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4936,4943,Maurand,"Maurand, Charles",,Preferred Name
 4937,4944,Maurin,"Maurin, Charles",,Preferred Name
 4938,4945,Mauzey,"Mauzey, Merritt",,Preferred Name
-61703,52619,Tessin,"Tessin, Carl Gustaf",,Preferred Name
+62015,33466,Renison,"Renison, Paula Gerard",,Variant
 4939,4946,Mazzoni-Zarini,"Mazzoni-Zarini, Emilio",,Preferred Name
 4940,4947,McGarrell,"McGarrell, James",,Preferred Name
 4941,4948,McGinnis,"McGinnis, Christine",,Preferred Name
@@ -5275,6 +5275,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 5546,5553,Unknown 17th Century,Unknown 17th Century,,Preferred Name
 5547,5554,Unknown 18th Century,Unknown 18th Century,,Preferred Name
 5548,5555,Egyptian 2nd Century,Egyptian 2nd Century,,Preferred Name
+62016,33469,Minor,"Minor, Lydia Gibson",,Variant
 5549,5556,Russian 19th Century,Russian 19th Century,,Preferred Name
 5554,5561,Crutchfield,"Crutchfield, William",,Preferred Name
 5555,5562,Price,"Price, Ken",,Preferred Name
@@ -6358,6 +6359,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 6660,6667,Guidobono,"Guidobono, Bartolomeo",,Preferred Name
 6661,6668,Gosse,"Gosse, Sylvia",,Preferred Name
 6662,6669,Still,"Still, Clyfford",,Preferred Name
+62019,33828,Murphy,"Murphy, M. Lois",,Variant
 6663,6670,Gramatté,"Gramatté, Walter",,Preferred Name
 6664,6671,Roland,"Roland, Philippe-Laurent",,Preferred Name
 6665,6672,Schübler,"Schübler, Johann Jacob",,Preferred Name
@@ -8275,7 +8277,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8693,8700,Campbell,"Campbell, 5th Duke of Argyll, John",,Preferred Name
 8694,8701,Campbell,"Campbell, 8th Duke of Argyll, George Douglas",,Preferred Name
 8695,8702,Agar,"Agar, 2nd Earl of Normanton, Welbore Ellis",,Preferred Name
-61710,5696,Reinberger,"Reinberger, Gertraud",,Variant
 8696,8703,Agar,"Agar, 3rd Earl of Normanton, James Charles H.W.E.",,Preferred Name
 8697,8704,Agar,"Agar, 4th Earl of Normanton, Sidney James",,Preferred Name
 8698,8705,Heathcote,"Heathcote, John and Lydia",,Preferred Name
@@ -8925,7 +8926,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9377,9384,Schultz,"Schultz, Howard Mr. and Mrs.",,Preferred Name
 9378,9385,Barsanti,"Barsanti, Alfredo",,Preferred Name
 9379,9386,Barsanti,"Barsanti, Mario",,Preferred Name
-61704,52620,Lagerbring,"Lagerbring, Carl",,Preferred Name
+61700,52617,,Kunsthandel Walrecht,,Preferred Name
 9380,9387,,"Sassangy, Chapel of the Château de",,Preferred Name
 9381,9388,Meller,"Meller, Simon, Dr.",,Preferred Name
 9382,9389,Hirsch,"Hirsch, Jacob, Dr.",,Preferred Name
@@ -10077,6 +10078,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11045,11052,Dick-Cunyngham,"Dick-Cunyngham, Dick-Cunyngham, 9th Bt. Prestonfield, Robert Keith, Sir",,Preferred Name
 11046,11053,Dick-Cunyngham,"Dick-Cunyngham, 10th Bt. Prestonfield, William Stewart, Sir",,Preferred Name
 11048,11055,Birch,"Birch, Thomas",,Preferred Name
+61702,52617,Walrecht,"Walrecht, Willem",,Variant
 11050,11057,Christopherson,"Christopherson, John",,Preferred Name
 11053,11060,Adams,"Adams, John Quincy",,Preferred Name
 11054,11061,Adams,"Adams, Charles Francis",,Preferred Name
@@ -19157,7 +19159,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33071,2838,Anonymous German 19th Century,Anonymous German 19th Century,,Variant
 33072,2839,Anonymous German 20th Century,Anonymous German 20th Century,,Variant
 33073,2840,Anonymous South German 16th Century,Anonymous South German 16th Century,,Variant
-61705,52621,Gerdten,"Gerdten, Johan Adam von",,Preferred Name
+61703,52619,Tessin,"Tessin, Carl Gustaf",,Preferred Name
 33074,2841,Anonymous Isfahan 17th Century,Anonymous Isfahan 17th Century,,Variant
 33078,2845,Anonymous Japanese 13th Century,Anonymous Japanese 13th Century,,Variant
 33080,2847,Anonymous Kashan 16th Century,Anonymous Kashan 16th Century,,Variant
@@ -20450,6 +20452,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34447,9333,Armistead,"Armistead, Eliza",,Variant
 34448,9333,Bolling,"Bolling, Archibald Mrs.",,Married Name
 34449,9344,von der Heydt,"von der Heydt, Eduard Baron",,Variant Index Name
+61704,52620,Lagerbring,"Lagerbring, Carl",,Preferred Name
 34450,9344,Von der Heydt Museum,Von der Heydt Museum,,Variant Index Name
 34451,9347,Farner,"Farner, Martha Gertrude",,Maiden Name
 34452,9347,Cork,"Cork, Charles Mrs.",,Married Name
@@ -28486,7 +28489,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54859,47601,Walsh Jr.,"Walsh, Jr., E.",,Preferred Name
 54861,47603,Edelson,"Edelson, S.",,Preferred Name
 54862,47604,Kaplan,"Kaplan, S.",,Preferred Name
-61708,52622,Trolle-Bonde,"Trolle-Bonde, Gustaf",,Preferred Name
+61705,52621,Gerdten,"Gerdten, Johan Adam von",,Preferred Name
 54864,39215,Christenberry,"Christenberry, William Andrew, Jr.",,Full Name
 54865,47605,Bacon,"Bacon, Henry Mrs.",,Preferred Name
 54866,47606,Kido,"Kido, Hitoshi",,Preferred Name
@@ -33051,6 +33054,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61697,9487,,Mak van Waay,,Variant
 61698,9487,,Kunstveilingen S. J. Mak van Waay,,Variant
 61699,52616,Doorne,"Doorne, Pieter Willem van",,Preferred Name
+61708,52622,Trolle-Bonde,"Trolle-Bonde, Gustaf",,Preferred Name
+61709,52622,Bonde,,,Variant
+61710,5696,Reinberger,"Reinberger, Gertraud",,Variant
 61711,5696,Reinberger-Brausewetter,"Reinberger-Brausewetter, Gertraud",,Variant
 61714,686,Johnson,,,Variant
 61716,52626,Odescalchi,"Odescalchi, Ladislao Prince",,Preferred Name
@@ -33137,3 +33143,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62008,33262,Cady,"Cady, Walter Harrison",,Variant
 62009,33501,Griffen,"Griffen, William Davenport",,Variant
 62010,33275,Carroll,"Carroll, J. Wesley",,Variant
+62011,38942,Dunn,"Dunn, Charles A. R.",,Variant
+62012,33256,Burkhardt,"Burkhardt, Hans",,Variant
