@@ -8926,7 +8926,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9377,9384,Schultz,"Schultz, Howard Mr. and Mrs.",,Preferred Name
 9378,9385,Barsanti,"Barsanti, Alfredo",,Preferred Name
 9379,9386,Barsanti,"Barsanti, Mario",,Preferred Name
-61700,52617,,Kunsthandel Walrecht,,Preferred Name
+62022,33290,Christie,"Christie, A. N.",,Variant
 9380,9387,,"Sassangy, Chapel of the Château de",,Preferred Name
 9381,9388,Meller,"Meller, Simon, Dr.",,Preferred Name
 9382,9389,Hirsch,"Hirsch, Jacob, Dr.",,Preferred Name
@@ -10078,7 +10078,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11045,11052,Dick-Cunyngham,"Dick-Cunyngham, Dick-Cunyngham, 9th Bt. Prestonfield, Robert Keith, Sir",,Preferred Name
 11046,11053,Dick-Cunyngham,"Dick-Cunyngham, 10th Bt. Prestonfield, William Stewart, Sir",,Preferred Name
 11048,11055,Birch,"Birch, Thomas",,Preferred Name
-61702,52617,Walrecht,"Walrecht, Willem",,Variant
+62023,52834,,"Pyramid Arts, Ltd.",,Preferred Name
 11050,11057,Christopherson,"Christopherson, John",,Preferred Name
 11053,11060,Adams,"Adams, John Quincy",,Preferred Name
 11054,11061,Adams,"Adams, Charles Francis",,Preferred Name
@@ -11802,6 +11802,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 19733,19740,Cungi,"Cungi, Camillio",,Preferred Name
 19734,19741,Greuter,"Greuter, Johann Friedrich",,Preferred Name
 19735,19742,Camassei,"Camassei, Andrea",,Preferred Name
+61700,52617,,Kunsthandel Walrecht,,Preferred Name
 19736,19743,Gagliardi,"Gagliardi, Filippo",,Preferred Name
 19737,19744,Castellucci,"Castellucci, Salvo",,Preferred Name
 19738,19745,Abbatini,"Abbatini, Guido Ubaldo",,Preferred Name
@@ -12193,6 +12194,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21392,21399,,Galerie Pierre Colle,,Preferred Name
 21393,21400,Miralda,"Miralda, Antoni",,Preferred Name
 21396,21403,Wright,"Wright, Harold R., Captain",,Preferred Name
+61702,52617,Walrecht,"Walrecht, Willem",,Variant
 21402,21409,Turpin de Crissé,"Turpin de Crissé, Lancelot-Théodore",,Preferred Name
 21403,21410,,Blondeau & Associés SAS,,Preferred Name
 21404,21411,,Gurr-Johns,,Preferred Name
@@ -33016,6 +33018,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61625,52567,Vanson,"Vanson, Adrian",,Preferred Name
 61626,52568,Bonenfant,"Bonenfant, Antoine",,Preferred Name
 61627,52569,Lortic,"Lortic, Marcelin",,Preferred Name
+61629,52571,,Petzel,,Preferred Name
+61631,52573,Sidhu,"Sidhu, Zorawar",,Preferred Name
+61632,52574,Swainston,"Swainston, Robert",,Preferred Name
 61634,34140,,,,Variant
 61635,52576,,Fern and Hersh Cohen,,Preferred Name
 61636,52577,,Almine Rech Gallery,,Preferred Name
