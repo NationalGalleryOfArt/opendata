@@ -4580,7 +4580,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4816,4823,Marshall,"Marshall, Edward",,Preferred Name
 4817,4824,Marshall,"Marshall, William Edgar",,Preferred Name
 4818,4825,Martenasie,"Martenasie, Pierre Francois",,Preferred Name
-4819,4826,Martial Potémont,"Martial Potémont, Adolphe Théodore Jules",,Preferred Name
+4819,4826,Potémont,"Potémont, Adolphe Théodore Jules Martial",,Preferred Name
 4820,4827,Martin,"Martin, Elias",,Preferred Name
 4822,4829,Martin,"Martin, John",,Preferred Name
 4823,4830,Martin,"Martin, Stefan",,Preferred Name
@@ -15640,7 +15640,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 28081,28088,Bonnard-Terrasse family,Bonnard-Terrasse family,,Preferred Name
 28082,28089,Pap,"Pap, Gyula",,Preferred Name
 28084,28091,Barberini,"Barberini, Carlo, Cardinal",,Preferred Name
-61700,52617,,Kunsthandel Walrecht,,Preferred Name
 28085,28092,Colonna di Sciarra,"Colonna di Sciarra, Cornelia Costanza",,Preferred Name
 28086,28093,Colonna di Sciarra,"Colonna di Sciarra, Principe di Carbognano, Maffeo Barberini",,Preferred Name
 28087,28094,Barberini,"Barberini, Antonio, Cardinal",,Preferred Name
@@ -16295,7 +16294,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 29004,29011,,Capel-Cure,,Preferred Name
 29006,29013,Stern,"Stern, Louis, Mrs.",,Preferred Name
 29007,29014,,Salvadori,,Preferred Name
-61702,52617,Walrecht,"Walrecht, Willem",,Variant
 29008,29015,Theïs,"Theïs, Baron de",,Preferred Name
 29011,29018,Frilli,"Frilli, Antonio",,Preferred Name
 29012,29019,Strachan,"Strachan, Frank Duncan MacPherson",,Preferred Name
@@ -20456,7 +20454,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34447,9333,Armistead,"Armistead, Eliza",,Variant
 34448,9333,Bolling,"Bolling, Archibald Mrs.",,Married Name
 34449,9344,von der Heydt,"von der Heydt, Eduard Baron",,Variant Index Name
-61698,9487,,Kunstveilingen S. J. Mak van Waay,,Variant
 34450,9344,Von der Heydt Museum,Von der Heydt Museum,,Variant Index Name
 34451,9347,Farner,"Farner, Martha Gertrude",,Maiden Name
 34452,9347,Cork,"Cork, Charles Mrs.",,Married Name
@@ -28493,7 +28490,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54859,47601,Walsh Jr.,"Walsh, Jr., E.",,Preferred Name
 54861,47603,Edelson,"Edelson, S.",,Preferred Name
 54862,47604,Kaplan,"Kaplan, S.",,Preferred Name
-61699,52616,Doorne,"Doorne, Pieter Willem van",,Preferred Name
 54864,39215,Christenberry,"Christenberry, William Andrew, Jr.",,Full Name
 54865,47605,Bacon,"Bacon, Henry Mrs.",,Preferred Name
 54866,47606,Kido,"Kido, Hitoshi",,Preferred Name
@@ -33041,6 +33037,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61652,52587,Gibbon,"Gibbon, John Mrs.",,Married Name
 61654,28271,Broeck,"Broeck, Crispijn van den",,Variant
 61655,28271,Broeck,"Broeck, Chrispijn van den",,Variant
+61660,52593,Peterson,"Peterson, Mark",,Preferred Name
 61661,52594,,Marc Straus Gallery,,Preferred Name
 61666,29368,,"de Bois, Johannes Hendricus",,Variant
 61667,28875,,"Ronin, Joséphine",,Maiden Name
@@ -33061,6 +33058,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61691,25465,Enthoven,"Enthoven, John James",,Full Name
 61695,52615,Orsolini,"Orsolini, Carlo",,Preferred Name
 61697,9487,,Mak van Waay,,Variant
+61698,9487,,Kunstveilingen S. J. Mak van Waay,,Variant
+61699,52616,Doorne,"Doorne, Pieter Willem van",,Preferred Name
+61700,52617,,Kunsthandel Walrecht,,Preferred Name
+61702,52617,Walrecht,"Walrecht, Willem",,Variant
 61703,52619,Tessin,"Tessin, Carl Gustaf",,Preferred Name
 61704,52620,Lagerbring,"Lagerbring, Carl",,Preferred Name
 61705,52621,Gerdten,"Gerdten, Johan Adam von",,Preferred Name
@@ -33154,3 +33155,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62007,34454,Kerrick,"Kerrick, Arthur T.",,Variant
 62008,33262,Cady,"Cady, Walter Harrison",,Variant
 62009,33501,Griffen,"Griffen, William Davenport",,Variant
+62030,4826,Martial Potémont,"Martial Potémont, Adolphe Théodore Jules",,Variant
+62032,52840,,"Solo Press Inc., New York",,Preferred Name
+62033,52841,Lassiter,"Lassiter, Norman",,Preferred Name
