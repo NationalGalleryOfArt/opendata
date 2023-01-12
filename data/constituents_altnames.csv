@@ -25984,6 +25984,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45573,38803,Gallays,"Gallays, Pierre",,Preferred Name
 45575,38805,Masury,"Masury, Samuel",,Preferred Name
 45576,30049,Feld,"Feld, Sanford Mr.",,Preferred Name
+45579,38808,Edwards,"Edwards, Jay Dearborn",,Preferred Name
 45581,38810,Bottani,"Bottani, Giuseppe",,Preferred Name
 45582,38811,Bottani,"Bottani, Giovanni",,Preferred Name
 45584,38813,Tappert,"Tappert, Georg",,Preferred Name
@@ -30682,6 +30683,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57963,49568,Alloway,"Alloway, Lawrence Mrs.",,Married Name
 57964,49568,Greenwood,"Greenwood, Sylvia Sleigh",,Married Name
 57965,49568,Greenwood,"Greenwood, Michael Mrs.",,Married Name
+57983,49816,Jackson,"Jackson, Vera",,Preferred Name
 57993,49826,Ignatovich,"Ignatovich, Elizaveta",,Preferred Name
 57998,49831,Emerson,"Emerson, Ralph Waldo",,Preferred Name
 57999,49832,Longfellow,"Longfellow, Henry Wadsworth",,Preferred Name
@@ -32827,6 +32829,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61115,52122,Smith,"Smith, John Thomas",,Preferred Name
 61129,52136,Phillips,"Phillips, Stephen Mr.",,Preferred Name
 61130,52137,Lesire,"Lesire, Paulus",,Preferred Name
+61131,52138,Burke,"Burke, Vanley",,Preferred Name
 61132,52139,van Schurman,"Schurman, Anna Maria van",,Preferred Name
 61133,52140,Barnett,"Barnett, Gemma",,Preferred Name
 61134,52141,Steele-Perkins,"Steele-Perkins, Chris",,Preferred Name
@@ -32886,6 +32889,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61243,52229,Renard,"Renard, Jean Augustin",,Preferred Name
 61244,52230,Ballester,"Ballester, Mariano",,Preferred Name
 61247,52231,Patterson,"Patterson, Margaret",,Preferred Name
+61249,52233,Cole,"Cole, Ernest",,Preferred Name
+61252,52236,Cowherd,"Cowherd, Darryl",,Preferred Name
 61292,52272,Watt,"Watt, Marie",,Preferred Name
 61304,52284,,Print Society,,Preferred Name
 61305,52285,Shigeta,"Shigeta, Harry Kinzi",,Preferred Name
@@ -32905,6 +32910,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61377,52355,Baderou,"Baderou, Henri",,Preferred Name
 61378,52356,Fiertag,"Fiertag, Neal",,Preferred Name
 61380,52357,Snelgrove,"Snelgrove, Dudley F.S.A.",,Preferred Name
+61383,52360,Muhammad,"Muhammad, Ozier",,Preferred Name
 61385,40689,Sligh,"Sligh, Clarissa T.",,Variant
 61386,52362,Malins,"Malins, John",,Preferred Name
 61387,52363,Williams,"Williams, Iolo",,Preferred Name
@@ -33146,6 +33152,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61970,4934,González,,,Variant
 61971,33234,Shermer,"Shermer, Frederika",,Variant
 61972,33234,Frederika,"Frederika, Fritzi",,Variant
+61976,52819,Storey,"Storey, John",,Preferred Name
 61982,39611,Kemble,"Kemble, Edward Windsor",,Variant
 61983,39611,Kemble,"Kemble, E. W.",,Variant
 61984,33300,Cohen,"Cohen, H. George",,Variant
@@ -33158,3 +33165,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62030,4826,Martial Potémont,"Martial Potémont, Adolphe Théodore Jules",,Variant
 62032,52840,,"Solo Press Inc., New York",,Preferred Name
 62033,52841,Lassiter,"Lassiter, Norman",,Preferred Name
+62034,52842,,RounTree Fine Art Ltd.,,Preferred Name
+62038,52844,,"Waddington Graphics, London",,Preferred Name
+62039,52845,Starobinski,"Starobinski, Jean",,Preferred Name
