@@ -1598,7 +1598,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1694,1701,Donner,"Donner, M., Ms.",,Preferred Name
 1695,1702,Master of Saint Giles,Master of Saint Giles,,Preferred Name
 1696,1703,Master of the Saint Lucy Legend,Master of the Saint Lucy Legend,,Preferred Name
-61957,52804,Goldston,"Goldston, Richard",,Preferred Name
 1697,1704,Master of Saint Veronica,Master of Saint Veronica,,Preferred Name
 1699,1706,Matisse,"Matisse, Henri",,Preferred Name
 1700,1707,Matta,Matta,,Preferred Name
@@ -3723,7 +3722,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3922,3929,Dian,"Dian, Nal Bal",,Preferred Name
 3923,3930,Diebenkorn,"Diebenkorn, Richard",,Preferred Name
 3924,3931,Diehl,"Diehl, Gottfried",,Preferred Name
-61958,52805,,"Galleria La Tartaruga, Rome",,Preferred Name
 3925,3932,Dietrich,"Dietrich, Christian Wilhelm Ernst",,Preferred Name
 3926,3933,Dignimont,"Dignimont, André",,Preferred Name
 3927,3934,Dirnfeld,"Dirnfeld, Frederick Arnold",,Preferred Name
@@ -4500,7 +4498,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4740,4747,Lorraine,"Lorraine, Jean-Baptiste de",,Preferred Name
 4741,4748,Loubon,"Loubon, Emile Charles Joseph",,Preferred Name
 4742,4749,Louis,"Louis, Jacob",,Preferred Name
-61959,52806,,"Litografia R. Bulla, Rome",,Preferred Name
 4744,4751,Loutherbourg II,"Loutherbourg II, Philippe Jacques de",,Preferred Name
 4745,4752,Lowengrund,"Lowengrund, Margaret",,Preferred Name
 4746,4753,Lozowick,"Lozowick, Louis",,Preferred Name
@@ -22636,7 +22633,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39209,33406,Falkenstein,"Falkenstein, Claire",,Preferred Name
 39212,33409,Fay,"Fay, Clark",,Preferred Name
 39213,33410,Faye,"Faye, Harold Knickerbocker",,Preferred Name
-39214,33411,Fearing,"Fearing, William Kelly",,Preferred Name
 39215,33412,Feher,"Feher, Magda A.",,Preferred Name
 39216,33413,Feldhaus,"Feldhaus, Paul A.",,Preferred Name
 39217,33414,Feldman,"Feldman, Walter",,Preferred Name
@@ -33098,10 +33094,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61726,52634,Machanék,"Machanék, Max",,Preferred Name
 61734,34390,Stephenson,"Stephenson, L. Parker",,Variant
 61738,52641,Smith,"Smith, Joseph Consul",,Preferred Name
+61741,52643,Jang,"Jang, Michael",,Preferred Name
 61752,52652,Charrington,"Charrington, John",,Preferred Name
 61761,52661,,Antares,,Preferred Name
 61762,5192,Perret,"Perret, Pieter",,Variant
 61763,5192,Perret,"Perret, Pierre",,Variant
+61769,52667,,Photographs Do Not Bend Gallery,,Preferred Name
 61770,52668,,Jules Meynial,,Preferred Name
 61785,38375,Eynhoudts,,,Variant
 61786,52678,Paget,"Paget, George",,Preferred Name
@@ -33159,6 +33157,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61952,52800,,"Atelier Bordas, Paris",,Preferred Name
 61954,33703,Levi,"Levi, Julian E.",,Variant
 61955,52802,,"International Fine Art Exposition for Art Asia, Hong Kong",,Preferred Name
+61957,52804,Goldston,"Goldston, Richard",,Preferred Name
+61958,52805,,"Galleria La Tartaruga, Rome",,Preferred Name
+61959,52806,,"Litografia R. Bulla, Rome",,Preferred Name
 61961,52808,Perugian 15th Century,Perugian 15th Century,,Preferred Name
 61962,52809,Perugian 16th Century,Perugian 16th Century,,Preferred Name
 61963,52810,Maglin,"Maglin, F. A.",,Preferred Name
@@ -33212,3 +33213,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62099,52893,Andrews,"Andrews, Mary Ellen",,Preferred Name
 62100,52893,Smith,,,Maiden Name
 62101,52893,Jones Smith,,,Variant
+62102,33411,Fearing,"Fearing, Kelly",,Preferred Name
