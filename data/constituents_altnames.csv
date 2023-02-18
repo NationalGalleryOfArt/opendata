@@ -2366,6 +2366,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2496,2503,Flint,"Flint, W. Russell",,Preferred Name
 2497,2504,Floris I,"Floris I, Frans",,Preferred Name
 2499,2506,Fontebasso,"Fontebasso, Francesco",,Preferred Name
+21814,21821,,Cantrell,,Preferred Name
 2500,2507,Foot,"Foot, F.H.",,Preferred Name
 2501,2508,Forbes,"Forbes, Edwin",,Preferred Name
 2502,2509,Franceschini,"Franceschini, Baldassare",,Preferred Name
@@ -12148,6 +12149,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21245,21252,Maggiotto,"Maggiotto, Domenico",,Preferred Name
 21254,21261,Calame,"Calame, Alexandre",,Preferred Name
 21262,21269,Oettingen-Wallerstein,"Oettingen-Wallerstein, Prince",,Preferred Name
+21267,21274,Greek 18th Century,Greek 18th Century,,Preferred Name
 21277,21284,Taylor I,"Taylor I, Isaac",,Preferred Name
 21283,21290,Hamal,"Hamal, Henry",,Preferred Name
 21289,21296,Cham,"Cham, Amédée Charles Henri",,Preferred Name
@@ -12375,7 +12377,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21811,21818,Phillips,"Phillips, Grace Hendrick Eustis",,Preferred Name
 21812,21819,Coudert,"Coudert, Frederic René",,Preferred Name
 21813,21820,Gascoigne,"Gascoigne, Myrtle, Mrs.",,Preferred Name
-21814,21821,,Cantrell,,Preferred Name
 21815,21822,Dreer,"Dreer, Ferdinand J.",,Preferred Name
 21819,21826,Master VCD,Master VCD,,Preferred Name
 21820,21827,Hollins,"Hollins, Mariette B.",,Preferred Name
@@ -27468,6 +27469,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 52990,46190,,Salon 94,,Preferred Name
 52994,46194,,Hauser & Wirth,,Preferred Name
 53005,46205,Whitten,"Whitten, Jack",,Preferred Name
+53012,46211,,P.P.O.W. Gallery,,Preferred Name
 53017,46216,Long,"Long, David B.",,Preferred Name
 53023,46222,Motley,"Motley, Archibald John Jr.",,Preferred Name
 53024,20484,Feeley,"Feeley, Paul Terence",,Full Name
@@ -27490,7 +27492,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53083,46278,McEvoy,"McEvoy, Nion",,Preferred Name
 53084,16609,Robinson,"Robinson, Mary",,Variant
 53085,7744,Gauthier,"Gauthier, Lucille Lacoursiere",,Married Name
-57657,49565,Gelozzi,,,Variant
 53086,46279,Biennourry,"Biennourry, Victor-François-Eloi",,Preferred Name
 53088,39679,Glasier,"Glasier, Alice Geneva",,Variant
 53090,46282,Meyerson,"Meyerson, Marlene",,Preferred Name
@@ -27686,7 +27687,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53712,46800,McClure,"McClure, Michael",,Preferred Name
 53713,46501,Dillon,"Dillon, Mildred",,Variant
 53717,34764,,Sol LeWitt Non Exempt Marital Trust,,Variant
-57658,49565,Gelosi,,,Variant
+57657,49565,Gelozzi,,,Variant
 53720,34348,"Private Collection (Kruger, London)","Private Collection (Kruger, London)",,Variant
 53723,46806,Adams,"Adams, John and Laurie",,Preferred Name
 53724,46807,,Andre and Elizabeth Kertesz Foundation,,Preferred Name
@@ -27983,7 +27984,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54167,47117,Potash,"Potash, Richard Jay",,Variant
 54168,47118,Sargent,"Sargent, Emily",,Preferred Name
 54169,47119,Ormond,"Ormond, Violet Sargent",,Preferred Name
-59049,24281,,Mallett & Son,,Variant
+57658,49565,Gelosi,,,Variant
 54170,47119,Ormond,"Ormond, Louis Francis Mrs.",,Married Name
 54171,47120,Agassis,"Agassis, Joseph-Marius",,Preferred Name
 54172,43237,Marsh,"Marsh, Reginald Mrs.",,Married Name
@@ -28275,7 +28276,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54554,40749,King,"King, Dorothy Stratton",,Married Name
 54555,47400,Walker,"Walker, Hudson D. and Ione",,Preferred Name
 54556,47400,Walker,"Walker, Hudson Dean",,Full Name
-61167,46388,,,,Variant
+59049,24281,,Mallett & Son,,Variant
 54557,47400,Gaul,"Gaul, Ione Harvey",,Maiden Name
 54558,47400,Walker,"Walker, Ione H. Gaul",,Married Name
 54559,47401,Bierstadt,"Bierstadt, Edward",,Preferred Name
@@ -29682,7 +29683,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56386,48675,,Art in America,,Preferred Name
 56387,38980,Moffett,"Moffett, Ross Embrose",,Full Name
 56388,48676,Weeks,"Weeks, Beverley Warner",,Preferred Name
-61169,30461,,,,Full Name
+61167,46388,,,,Variant
 56389,47303,Weeks,"Weeks, Frances Washington Hunter",,Full Name
 56390,48677,Weeks,"Weeks, Anne Stephen Hunter",,Preferred Name
 56391,48677,Weeks,"Weeks, Alfred Conrad Mrs.",,Married Name
@@ -30583,6 +30584,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57825,49692,Stiegelmeyer,"Stiegelmeyer, Norman",,Preferred Name
 57828,49695,,2RC Gallery,,Preferred Name
 57829,43916,,Handprint Workshop International,,Variant
+61169,30461,,,,Full Name
 57833,49699,Jacquin,"Jacquin, Ch.",,Preferred Name
 57834,49700,Kolko,"Kolko, Bernice",,Preferred Name
 57835,49701,Lehmann,"Lehmann, Henri",,Preferred Name
@@ -33223,3 +33225,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62115,52899,Northern Italian 18th Century,Northern Italian 18th Century,,Preferred Name
 62116,52900,Northern Italian 19th Century,Northern Italian 19th Century,,Preferred Name
 62117,52901,Mayer,"Mayer, Vinzent",,Preferred Name
+62118,52902,Ubaldini,"Ubaldini, Bernardino",,Preferred Name
