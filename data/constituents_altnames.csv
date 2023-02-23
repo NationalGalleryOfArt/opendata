@@ -1599,7 +1599,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1694,1701,Donner,"Donner, M., Ms.",,Preferred Name
 1695,1702,Master of Saint Giles,Master of Saint Giles,,Preferred Name
 1696,1703,Master of the Saint Lucy Legend,Master of the Saint Lucy Legend,,Preferred Name
-61890,52748,,Ryan E. Lee and Lee Group Holdings (LGH),,Preferred Name
+61889,52747,,Frederick & Diana Prince Foundation,,Preferred Name
 1697,1704,Master of Saint Veronica,Master of Saint Veronica,,Preferred Name
 1699,1706,Matisse,"Matisse, Henri",,Preferred Name
 1700,1707,Matta,Matta,,Preferred Name
@@ -16570,6 +16570,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 29428,29435,August Wilhelm,"August Wilhelm, Prince",,Preferred Name
 29429,29436,Throckmorton,"Throckmorton, 4th Bart, Robert, Sir",,Preferred Name
 29430,29437,Throckmorton,"Throckmorton, 5th Bart., John Courtenay, Sir",,Preferred Name
+61890,52748,,Ryan E. Lee and Lee Group Holdings (LGH),,Preferred Name
 29431,29438,Throckmorton,"Throckmorton, 6th Bart., George, Sir",,Preferred Name
 29432,29439,Throckmorton,"Throckmorton, 7th Bart., Charles, Sir",,Preferred Name
 29433,29440,Throckmorton,"Throckmorton, 8th Bart., Robert George, Sir",,Preferred Name
@@ -17164,6 +17165,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 30422,30429,Gandie,"Gandie, Dr.",,Preferred Name
 30423,30430,Greenfield,"Greenfield, Lauren",,Preferred Name
 30425,30432,Janssen,"Janssen, Jules Cesar",,Preferred Name
+30426,30433,Kinsey,"Kinsey, Darius",,Preferred Name
 30427,30434,le Morvan,"Le Morvan, Charles",,Preferred Name
 30428,30435,Loewy et Puiseux,Loewy et Puiseux,,Preferred Name
 30429,30436,Puiseux,"Puiseux, Pierre Henri",,Preferred Name
@@ -33103,10 +33105,14 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61734,34390,Stephenson,"Stephenson, L. Parker",,Variant
 61738,52641,Smith,"Smith, Joseph Consul",,Preferred Name
 61741,52643,Jang,"Jang, Michael",,Preferred Name
+61742,52644,Kato,"Kato, Taizo",,Preferred Name
 61752,52652,Charrington,"Charrington, John",,Preferred Name
 61761,52661,,Antares,,Preferred Name
 61762,5192,Perret,"Perret, Pieter",,Variant
 61763,5192,Perret,"Perret, Pierre",,Variant
+61764,52662,Phillips,"Phillips, Sandra",,Preferred Name
+61766,52664,Szarkowski,"Szarkowski, John",,Preferred Name
+61768,52666,Graves,"Graves, Ken",,Preferred Name
 61769,52667,,Photographs Do Not Bend Gallery,,Preferred Name
 61770,52668,,Jules Meynial,,Preferred Name
 61785,38375,Eynhoudts,,,Variant
@@ -33132,6 +33138,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61830,52705,,Fridman Gallery,,Preferred Name
 61831,52705,Fridman,"Fridman,Iliya",,Variant
 61837,12844,Pappajohn,,,Variant
+61839,30433,Kinsey,"Kinsey, Darius Reynold",,Variant
 61841,52710,James,"James, Walter Henry",,Preferred Name
 61842,52711,,Raphael King Ltd.,,Preferred Name
 61849,52717,Hartshorne,"Hartshorne, Robert",,Preferred Name
@@ -33144,7 +33151,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61881,52740,,Kanthos Press,,Preferred Name
 61882,52741,Ciardi,"Ciardi, John",,Preferred Name
 61885,16229,,,,Variant
-61889,52747,,Frederick & Diana Prince Foundation,,Preferred Name
 61924,52781,,Print and Drawing Club of The Art Institute of Chicago,,Preferred Name
 61927,52784,McKeown,"McKeown, Anne Q.",,Preferred Name
 61928,4074,,,,Variant
@@ -33221,6 +33227,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62102,33411,Fearing,"Fearing, Kelly",,Preferred Name
 62108,33665,Kuhlman,"Kuhlman, Walter",,Variant
 62109,33665,Kuhlman,"Kuhlman, Walter Egel",,Variant
+62112,52897,,Brook and Pam Smith,,Preferred Name
 62114,5933,"di Ligano, called Napoletano","di Ligano, called Napoletano, Teodoro Filippo",,Variant
 62115,52899,Northern Italian 18th Century,Northern Italian 18th Century,,Preferred Name
 62116,52900,Northern Italian 19th Century,Northern Italian 19th Century,,Preferred Name
