@@ -6001,7 +6001,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 6301,6308,Sherwin,"Sherwin, William",,Preferred Name
 6302,6309,Stock,"Stock, Andries Jacobsz",,Preferred Name
 6303,6310,Stock,"Stock, H.",,Preferred Name
-6304,6311,Swanenburgh,"Swanenburgh, Willem",,Preferred Name
+6304,6311,Swanenburgh,"Swanenburgh, Willem van",,Preferred Name
 6305,6312,Tringham,"Tringham, W.",,Preferred Name
 6306,6313,Troschel,"Troschel, Peter",,Preferred Name
 6307,6314,Brighty,"Brighty, G.M.",,Preferred Name
@@ -27689,7 +27689,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53712,46800,McClure,"McClure, Michael",,Preferred Name
 53713,46501,Dillon,"Dillon, Mildred",,Variant
 53717,34764,,Sol LeWitt Non Exempt Marital Trust,,Variant
-57657,49565,Gelozzi,,,Variant
+59049,24281,,Mallett & Son,,Variant
 53720,34348,"Private Collection (Kruger, London)","Private Collection (Kruger, London)",,Variant
 53723,46806,Adams,"Adams, John and Laurie",,Preferred Name
 53724,46807,,Andre and Elizabeth Kertesz Foundation,,Preferred Name
@@ -27986,7 +27986,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54167,47117,Potash,"Potash, Richard Jay",,Variant
 54168,47118,Sargent,"Sargent, Emily",,Preferred Name
 54169,47119,Ormond,"Ormond, Violet Sargent",,Preferred Name
-57658,49565,Gelosi,,,Variant
+61167,46388,,,,Variant
 54170,47119,Ormond,"Ormond, Louis Francis Mrs.",,Married Name
 54171,47120,Agassis,"Agassis, Joseph-Marius",,Preferred Name
 54172,43237,Marsh,"Marsh, Reginald Mrs.",,Married Name
@@ -28278,7 +28278,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54554,40749,King,"King, Dorothy Stratton",,Married Name
 54555,47400,Walker,"Walker, Hudson D. and Ione",,Preferred Name
 54556,47400,Walker,"Walker, Hudson Dean",,Full Name
-59049,24281,,Mallett & Son,,Variant
+61169,30461,,,,Full Name
 54557,47400,Gaul,"Gaul, Ione Harvey",,Maiden Name
 54558,47400,Walker,"Walker, Ione H. Gaul",,Married Name
 54559,47401,Bierstadt,"Bierstadt, Edward",,Preferred Name
@@ -29685,7 +29685,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56386,48675,,Art in America,,Preferred Name
 56387,38980,Moffett,"Moffett, Ross Embrose",,Full Name
 56388,48676,Weeks,"Weeks, Beverley Warner",,Preferred Name
-61167,46388,,,,Variant
 56389,47303,Weeks,"Weeks, Frances Washington Hunter",,Full Name
 56390,48677,Weeks,"Weeks, Anne Stephen Hunter",,Preferred Name
 56391,48677,Weeks,"Weeks, Alfred Conrad Mrs.",,Married Name
@@ -29913,7 +29912,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56731,48868,Byron,"Byron, Frederick George",,Preferred Name
 56732,48869,Garrard,"Garrard, George",,Preferred Name
 56733,48870,Dolnier,"Dolnier, Sandy",,Preferred Name
-56734,48871,van Swanenburg,"van Swanenburg, Willem",,Preferred Name
 56735,42158,Mosley,"Mosley, Barbara Tyson",,Variant
 56738,41251,Bauermeister,"Bauermeister, Mary Hilde Ruth",,Full Name
 56746,48881,White,"White, Jessica Ms.",,Preferred Name
@@ -30483,6 +30481,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57653,48015,Weyer,,,Variant
 57654,49563,,Gehenna Press,,Preferred Name
 57656,49565,Genevosio,"Genevosio, Modesto Ignazio Bonaventura Luigi Conte",,Preferred Name
+57657,49565,Gelozzi,,,Variant
+57658,49565,Gelosi,,,Variant
 57659,49566,,Edith Rudolf Gallery,,Preferred Name
 57660,11788,Townsend,"Townsend, Robert",,Variant
 57662,40997,,"Murderme, Ltd.",,Variant
@@ -30586,7 +30586,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57825,49692,Stiegelmeyer,"Stiegelmeyer, Norman",,Preferred Name
 57828,49695,,2RC Gallery,,Preferred Name
 57829,43916,,Handprint Workshop International,,Variant
-61169,30461,,,,Full Name
 57833,49699,Jacquin,"Jacquin, Ch.",,Preferred Name
 57834,49700,Kolko,"Kolko, Bernice",,Preferred Name
 57835,49701,Lehmann,"Lehmann, Henri",,Preferred Name
@@ -33233,3 +33232,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62116,52900,Northern Italian 19th Century,Northern Italian 19th Century,,Preferred Name
 62117,52901,Mayer,"Mayer, Vinzent",,Preferred Name
 62118,52902,Ubaldini,"Ubaldini, Bernardino",,Preferred Name
+62120,6311,Swanenburg,"Swanenburg, Willem",,Variant
+62121,6311,Swanenburg,"Swanenburg, Willem Isaacsz",,Variant
