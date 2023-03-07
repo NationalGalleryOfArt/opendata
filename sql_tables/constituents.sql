@@ -1,4 +1,4 @@
-                     Table "constituents"
+                    Table "constituents"
           Column          |          Type          | Modifiers 
 --------------------------+------------------------+-----------
  constituentid            | integer                | 
