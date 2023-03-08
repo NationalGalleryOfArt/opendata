@@ -1,4 +1,4 @@
-              Table "alternative_identifiers"
+               Table "alternative_identifiers"
     Column     |         Type          | Modifiers 
 ---------------+-----------------------+-----------
  uuid          | character varying(64) | 
