@@ -21820,6 +21820,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 42421,,"Lathrop, Gertrude K.",Gertrude K. Lathrop,Lathrop,"American, 1896 - 1986",1,1896,1986,1876 to 1900,American,American,individual,
 42422,,"Watrous, Harry Willson",Harry Willson Watrous,Watrous,"American, 1857 - 1940",0,1857,1940,1851 to 1875,American,American,individual,
 42435,,"Coux, Janet de",Janet de Coux,Coux,"American, 1904 - 1999",1,1904,1999,1901 to 1925,American,American,individual,Q26818584
+42445,,"Rogers, Gretchen W.",Gretchen W. Rogers,Rogers,"American, 1881 - 1967",1,1881,1967,1876 to 1900,American,American,individual,
 42495,500001340,"Tryon, Dwight William",Dwight William Tryon,Tryon,"American, 1849 - 1925",1,1849,1925,1826 to 1850,American,American,individual,Q1268511
 42508,500050409,"Nebel, Carl",Carl Nebel,Nebel,"German, 1805 - 1855",1,1805,1855,1801 to 1825,German,German,individual,
 42561,500017835,"Brown, Roger",Roger Brown,Brown,"American, 1941 - 1997",1,1941,1997,1926 to 1950,American,American,individual,Q15487281
@@ -24416,6 +24417,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49631,,Atelier Tanguy Garric,Atelier Tanguy Garric,,,1,,,,French,French,corporate,
 49632,,Éditions Sollertis,Éditions Sollertis,,,1,,,,French,French,corporate,
 49633,,Graphis,Graphis,,,1,,,,German,German,corporate,
+49634,500013207,"Galizia, Fede",Fede Galizia,Galizia,"Italian, c. 1578 - c. 1630",1,1578,1630,1551 to 1600,Italian,Italian,individual,
 49642,,White Ink Ltd.,White Ink Ltd.,,,1,,,,British,British,corporate,
 49643,500020916,"Le Piper, Francis",Francis Le Piper,Le Piper,"British, 1640 - 1698",1,1640,1698,1601 to 1650,British,British,individual,
 49644,,"Forster, Thomas",Thomas Forster,Forster,"British, 1677 - 1712",1,1677,1712,1651 to 1700,British,British,individual,
@@ -26310,6 +26312,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52867,,"Morse, Sydney",Sydney Morse,Morse,"British, 1854 - 1929",0,1854,1929,1851 to 1875,British,British,individual,
 52881,,Union Pacific Railroad,Union Pacific Railroad,,,1,,,,,Other,corporate,
 52882,,"Borroni, Paolo",Paolo Borroni,Borroni,"Italian, 1749 - 1819",1,1749,1819,1726 to 1750,Italian,Italian,individual,
+52888,,James and Christiane Valone Fund,James and Christiane Valone Fund,,,0,,,,,Other,purchase_fund,
 52889,,Michael Findlay and Victoria Findlay Wolfe Fund,Michael Findlay and Victoria Findlay Wolfe Fund,,,0,,,,,Other,purchase_fund,
 52890,,"Wolf, Clarence",Clarence Wolf,Wolf,,0,,,,American,American,individual,
 52891,,"DuMouchelle Art Galleries, Co.","DuMouchelle Art Galleries, Co.",,,0,,,,American,American,corporate,
@@ -26321,7 +26324,10 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52901,,"Mayer, Vinzent",Vinzent Mayer,Mayer,"German, 1831 - 1919",0,1831,1919,1826 to 1850,German,German,individual,
 52902,,"Ubaldini, Bernardino",Bernardino Ubaldini,Ubaldini,"Italian, 1625 - 1687",0,1625,1687,1601 to 1650,Italian,Italian,individual,
 52910,,"Wood, John",John Wood,Wood,"American, born England, 1806 - 1866",1,1806,1866,1801 to 1825,"American, born England",Other,individual,
+52915,,"Monti, Giulio",Giulio Monti,Monti,c. 1604 - 1686,0,1604,1686,1601 to 1650,Italian,Italian,individual,
 52930,,Deborah Burkland Fund,Deborah Burkland Fund,,,0,,,,,Other,purchase_fund,
 52932,,Millon & Associés,Millon & Associés,,,0,,,,,Other,corporate,
 52933,,Elliott Fine Art,Elliott Fine Art,,,0,,,,,Other,corporate,
 52939,,"Lieberg, Friedrich Andreas",Friedrich Andreas Lieberg,Lieberg,"German, born 1898",0,1898,,1876 to 1900,German,German,individual,
+52940,,"Monti, Cesare Cardinal",Cardinal Cesare Monti,Monti,"Italian, 1594 - 1650",0,1594,1650,1551 to 1600,Italian,Italian,individual,
+52942,,"Little, Philip",Philip Little,Little,"American, 1857 - 1942",0,1857,1942,1851 to 1875,American,American,individual,

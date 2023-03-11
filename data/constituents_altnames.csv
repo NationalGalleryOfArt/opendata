@@ -26760,6 +26760,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 49212,42421,Lathrop,"Lathrop, Gertrude K.",,Preferred Name
 49213,42422,Watrous,"Watrous, Harry Willson",,Preferred Name
 49226,42435,Coux,"Coux, Janet de",,Preferred Name
+49236,42445,Rogers,"Rogers, Gretchen W.",,Preferred Name
 49286,42495,Tryon,"Tryon, Dwight William",,Preferred Name
 49299,42508,Nebel,"Nebel, Carl",,Preferred Name
 49352,42561,Brown,"Brown, Roger",,Preferred Name
@@ -30533,6 +30534,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57743,49631,,Atelier Tanguy Garric,,Preferred Name
 57744,49632,,Éditions Sollertis,,Preferred Name
 57746,49633,,Graphis,,Preferred Name
+57747,49634,Galizia,"Galizia, Fede",,Preferred Name
 57755,49642,,White Ink Ltd.,,Preferred Name
 57756,49643,Le Piper,"Le Piper, Francis",,Preferred Name
 57757,49644,Forster,"Forster, Thomas",,Preferred Name
@@ -33255,6 +33257,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62083,52881,,Union Pacific Railroad,,Preferred Name
 62084,52882,Borroni,"Borroni, Paolo",,Preferred Name
 62090,48647,,,,Variant Index Name
+62091,52888,,James and Christiane Valone Fund,,Preferred Name
 62093,52889,,Michael Findlay and Victoria Findlay Wolfe Fund,,Preferred Name
 62094,3416,Wolf,,,Variant
 62095,52890,Wolf,"Wolf, Clarence",,Preferred Name
@@ -33278,6 +33281,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62121,6311,Swanenburg,"Swanenburg, Willem Isaacsz",,Variant
 62122,6311,van Swanenburg,"van Swanenburg, Willem Isaacsz",,Variant
 62130,52910,Wood,"Wood, John",,Preferred Name
+62132,42445,Rogers,"Rogers, Gretchen Woodman",,Variant
+62133,42445,Rogers,"Rogers, Gretechen (Margaret) W",,Variant
+62137,52915,Monti,"Monti, Giulio",,Preferred Name
+62138,52915,Monti,"Monti, Giulio Cesare",,Variant
 62149,46619,Lumpkins,"Lumpkins, William Thomas",,Variant
 62154,39347,Polk,"Polk, Prentice Herman",,Variant
 62156,52930,,Deborah Burkland Fund,,Preferred Name
@@ -33286,3 +33293,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62162,52462,Austen,"Austen, Elizabeth Alice",,Variant
 62163,15988,,"Hans Kraus Fine Photographs, Inc.",,Variant
 62169,52939,Lieberg,"Lieberg, Friedrich Andreas",,Preferred Name
+62170,52940,Monti,"Monti, Cesare Cardinal",,Preferred Name
+62172,52942,Little,"Little, Philip",,Preferred Name
