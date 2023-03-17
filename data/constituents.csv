@@ -15433,7 +15433,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27625,,"Doria, Gian Carlo",Gian Carlo Doria,Doria,died 1625,0,1525,1625,1501 to 1550,,Other,individual,
 27626,,"Adanero, Counts of",Counts of Adanero,Adanero,,0,,,,,Other,individual,
 27627,,Caylus Anticuario,Caylus Anticuario,,,0,,,,,Other,corporate,
-27628,,"Simelli, Carlo Baldassare",Carlo Baldassare Simelli,Simelli,"Italian, 1811 - 1880",1,1811,1880,1801 to 1825,Italian,Italian,individual,Q23776035
+27628,,"Simelli, Carlo Baldassare",Carlo Baldassare Simelli,Simelli,"Italian, 1811 - 1877",1,1811,1877,1801 to 1825,Italian,Italian,individual,Q23776035
 27631,,Ancre Aldine,Ancre Aldine,,,0,,,,,Other,corporate,
 27633,500046192,"Pian, Antonio",Antonio Pian,Pian,"Italian, 1784 - 1851",1,1784,1851,1776 to 1800,Italian,Italian,individual,Q606053
 27634,,"Roberts, Marshall O.",Marshall O. Roberts,Roberts,1814 - 1880,0,1814,1880,1801 to 1825,,Other,individual,
@@ -20982,7 +20982,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 38592,,"Kalle, Friedrich",Friedrich Kalle,Kalle,,0,,,,,Other,individual,
 38593,,"Bishop, Cortland Field",Cortland Field Bishop,Bishop,"American, 1870-1935",0,1870,1935,1851 to 1875,,Other,individual,
 38594,,"Gutekunst, Richard",Richard Gutekunst,Gutekunst,,0,,,,,Other,individual,
-38595,,"Hubert, Alfred",Alfred Hubert,Hubert,"French, died c. 1908",0,,1908,,French,French,individual,
+38595,,"Hubert, Alfred",Alfred Hubert,Hubert,"French, 1831- c. 1908",0,1831,1908,1826 to 1850,French,French,individual,
 38596,,"Rodenacker, Ernst Theodor",Ernst Theodor Rodenacker,Rodenacker,,0,,,,,Other,individual,
 38597,,"La Monte, George M.",George M. La Monte,La Monte,"American, 1863 - 1927",0,1863,1927,1851 to 1875,American,American,individual,
 38598,,"Ten Cate, Hendrikus Egbertus",Hendrikus Egbertus ten Cate,ten Cate,"Dutch, 1868 - 1955",0,1868,1955,1851 to 1875,Dutch,Dutch,individual,
@@ -22325,7 +22325,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 44054,500125335,"Sidibé, Malick",Malick Sidibé,Sidibé,"Malian, 1936 - 2016",1,1936,2016,1926 to 1950,Malian,Other,individual,Q781717
 44075,,"Booker, Chakaia",Chakaia Booker,Booker,"American, born 1953",1,1953,,1951 to 1975,American,American,individual,Q5068272
 44087,,Tiffany & Co.,Tiffany & Co.,Tiffany & Co.,,1,,,,,Other,individual,
-44093,,"Meyers, Linn",Linn Meyers,Meyers,"American, born 1968",1,1968,,1951 to 1975,American,American,individual,
+44093,500488539,"Meyers, Linn",Linn Meyers,Meyers,"American, born 1968",1,1968,,1951 to 1975,American,American,individual,
 44231,,"Healy, Claire",Claire Healy,Healy,"Australian, born 1971",1,1971,,1951 to 1975,Australian,Other,individual,
 44358,500007674,"Lange, Dorothea",Dorothea Lange,Lange,"American, 1895 - 1965",1,1895,1965,1876 to 1900,American,American,individual,Q230673
 44363,500013773,"Avedon, Richard",Richard Avedon,Avedon,"American, 1923 - 2004",1,1923,2004,1901 to 1925,American,American,individual,
@@ -26051,6 +26051,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52155,,"Bolton, John",John Bolton,Bolton,,0,,,,,Other,individual,
 52157,,"Ott, Joseph K. and Anne",Joseph K. and Anne Ott,Ott,"American, he: 1929 - 1994",0,1929,1994,1926 to 1950,American,American,couple,
 52158,,Mann Paller Foundation,Mann Paller Foundation,,,0,,,,,Other,corporate,
+52691,,Schuler Auktionen,Schuler Auktionen,,,0,,,,,Other,corporate,
 52159,,Silicon Valley Community Foundation,Silicon Valley Community Foundation,,,0,,,,,Other,corporate,
 52160,,"Nooyi, Raj and Indra",Raj and Indra Nooyi,Nooyi,,0,,,,,Other,couple,
 52161,,"Walker, Darren",Darren Walker,Walker,,0,,,,,Other,individual,
@@ -26250,6 +26251,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52666,500155244,"Graves, Ken",Ken Graves,Graves,"American, born 1942",1,1942,,1926 to 1950,American,American,individual,Q42315101
 52667,,Photographs Do Not Bend Gallery,Photographs Do Not Bend Gallery,,,0,,,,,Other,corporate,
 52668,,Jules Meynial,Jules Meynial,,,1,,,,,Other,corporate,
+52675,,Collection Defer-Dumesnil,Collection Defer-Dumesnil,,"French, 1800 - 1899",0,1800,1899,1776 to 1800,French,French,corporate,
 52678,,"Paget, George",George Paget,Paget,"British, 1818 - 1880",0,1818,1880,1801 to 1825,British,British,individual,
 52679,,"Phillips, Richard",Richard Phillips,Phillips,"British, active 1803 - 1809",1,1803,1809,1801 to 1825,British,British,individual,
 52680,,Cadell & Davies,Cadell & Davies,,,1,,,,,Other,corporate,
@@ -26259,7 +26261,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52688,,Bertolini Arte,Bertolini Arte,,,0,,,,Italian,Italian,corporate,
 52689,,"Muret, Madeleine",Madeleine Muret,Muret,"Swiss, active 20th century",0,1900,2000,1876 to 1900,Swiss,Swiss,individual,
 52690,,"Bonet, Marie",Marie Bonet,Bonet,,0,,,,,Other,individual,
-52691,,Schuler Auktionen,Schuler Auktionen,,,0,,,,,Other,corporate,
 52697,,"Scott, Dread",Dread Scott,Scott,"American, born 1965",1,1965,,1951 to 1975,American,American,individual,
 52702,,"Rodríquez, Lourdes and Alejandro",Lourdes and Alejandro Rodríquez,Rodríquez,,0,,,,,Other,couple,
 52703,,Kunstkammer Georg Laue,Kunstkammer Georg Laue,,,0,,,,,Other,corporate,
@@ -26333,3 +26334,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52940,,"Monti, Cesare Cardinal",Cardinal Cesare Monti,Monti,"Italian, 1594 - 1650",0,1594,1650,1551 to 1600,Italian,Italian,individual,
 52942,,"Little, Philip",Philip Little,Little,"American, 1857 - 1942",0,1857,1942,1851 to 1875,American,American,individual,
 52946,,"Marbeau, Pierre",Pierre Marbeau,Marbeau,"French, 1901 - 1991",0,1901,1991,1901 to 1925,French,French,individual,
+52948,,"Petitjean, Charles M.",Charles M. Petitjean,Petitjean,"French, died c.1925",0,,1925,,French,French,individual,
