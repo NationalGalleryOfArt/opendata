@@ -12659,7 +12659,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22349,22356,,"Sale, The Hague",,Preferred Name
 22350,22357,Baring,"Baring, Thomas",,Preferred Name
 22351,22358,Baring,"Baring, Thomas George, 1st earl of Northbrook",,Preferred Name
-58937,50526,,,,Variant
+50073,598,Vail,"Vail, Gertrude",,Variant
 22352,22359,Baring,"Baring, Francis George, 2nd earl of Northbrook",,Preferred Name
 22353,22360,Way,"Way, Colonel Gregory Holman Bromley",,Preferred Name
 22354,22361,Smith,"Smith, John",,Preferred Name
@@ -12751,7 +12751,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22489,22496,Winter,"Winter, Emil",,Preferred Name
 22490,22497,,"Agnew and Ansdell, C.M.",,Preferred Name
 22491,22498,Kann,"Kann, Alphonse",,Preferred Name
-60318,23909,Johnson,,,Birth Name
 22492,22499,Gabburri,"Gabburri, Francesco Maria Nicolo",,Preferred Name
 22493,22500,Nelli,"Nelli, Plautilla, Sister",,Preferred Name
 22494,22501,White,"White, 2nd Earl of Bantry, Richard",,Preferred Name
@@ -12843,7 +12842,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 22607,22614,Lewisohn,"Lewisohn, Adolph",,Preferred Name
 22609,22616,Barbour,"Barbour, Lola Diehl",,Preferred Name
 22612,22619,Chanler,"Chanler, Elizabeth",,Preferred Name
-61017,50755,,,,Full Name
 22613,22620,White,"White, Bessie Smith",,Preferred Name
 22614,22621,White,"White, Lawrence Grant",,Preferred Name
 22615,22622,Angelis,"Angelis, Pietro de",,Preferred Name
@@ -24707,6 +24705,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42619,36336,Brigman,"Brigman, Anne W.",,Preferred Name
 42628,36345,Lambrecht,"Lambrecht, Laurie",,Preferred Name
 42632,36349,Sauty,"Sauty, Alfred De",,Preferred Name
+42633,36350,Ross,"Ross, Clifford",,Preferred Name
 42672,36012,Feder,"Feder, Joseph Fuller Mrs.",,Married Name
 42685,36401,,Galleria Longari,,Preferred Name
 42686,36402,Mone,"Mone, Jean",,Preferred Name
@@ -26320,6 +26319,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 46950,40159,Roome,"Roome, Jan van",,Preferred Name
 46954,40163,Sangiamo,"Sangiamo, Albert",,Preferred Name
 46964,40173,King,"King, Rufus",,Preferred Name
+46965,40174,Sills,"Sills, Thomas",,Preferred Name
 46967,40176,Simpson,"Simpson, William Skinner, Jr.",,Preferred Name
 46968,40177,Sizer,"Sizer, Asa B.",,Preferred Name
 46969,40178,Speicher,"Speicher, Eugene",,Preferred Name
@@ -26428,6 +26428,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 47509,17805,Smith,"Smith, Kiki",,Variant
 47513,40722,Smith,"Smith, Gladys Nelson",,Preferred Name
 47515,40724,Oliphant,"Oliphant, Pat",,Preferred Name
+47526,40735,Dempsey,"Dempsey, Richard",,Preferred Name
 47534,40743,Hunter,"Hunter, Debora",,Preferred Name
 47536,40745,Chao,"Chao, Chan",,Preferred Name
 47538,40747,Leviant,"Leviant, Isia",,Preferred Name
@@ -27041,7 +27042,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 50059,43268,Baldwin,"Baldwin, Theodore III",,Preferred Name
 50068,43277,,Betty Parsons Gallery,,Preferred Name
 50070,43279,Kaufmann,"Kaufmann, Cecil D.",,Preferred Name
-50073,598,Vail,"Vail, Gertrude",,Variant
 50074,43283,Whittingham,"Whittingham, August M.",,Preferred Name
 50080,43289,Gerstin,"Gerstin, Marvin and Florence",,Preferred Name
 50082,43291,Garber,"Garber, J. Otis and Esther G.",,Preferred Name
@@ -27382,6 +27382,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 52308,9966,,LOC,,Variant
 52356,42719,Thiebaud,"Thiebaud, Paul Lebaron",,Full Name
 52405,45614,Carl,"Carl, William",,Preferred Name
+52414,45623,Waring,"Waring, Laura Wheeler",,Preferred Name
 52429,45638,Capa,"Capa, Cornell",,Preferred Name
 52430,45639,Dutton,"Dutton, Allen",,Preferred Name
 52474,45683,Baum,"Baum, Don",,Preferred Name
@@ -27515,6 +27516,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53122,46312,Boeotian 2nd Century B.C.,Boeotian 2nd Century B.C.,,Preferred Name
 53129,46319,Attic 4th Century B.C.,Attic 4th Century B.C.,,Preferred Name
 53130,46320,Myrinaean 2nd Century B.C.,Myrinaean 2nd Century B.C.,,Preferred Name
+53416,46530,Martinet,"Martinet, Aaron",,Preferred Name
 53131,46321,Myrinaean 1st Century B.C.,Myrinaean 1st Century B.C.,,Preferred Name
 53132,6347,Anonymous Unknown Nationality 19th Century,Anonymous Unknown Nationality 19th Century,,Variant
 53133,6347,Unknown Nationality 19th Century,Unknown Nationality 19th Century,,Variant
@@ -27609,7 +27611,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53410,43262,Tayloe,"Tayloe, Phoebe Warren",,Full Name
 53411,46525,Tayloe,"Tayloe, Benjamin Ogle",,Preferred Name
 53412,46526,Gabriel,"Gabriel, Ramon",,Preferred Name
-53416,46530,Martinet,"Martinet, Aaron",,Preferred Name
+56083,34127,Seeds,"Seeds, Elise",,Variant
 53421,46535,Finot,"Finot, Albert Leon Victor",,Preferred Name
 53426,46540,Green,"Green, Art",,Preferred Name
 53427,46541,Gubbiotti,"Gubbiotti, Jason",,Preferred Name
@@ -27706,6 +27708,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53735,11204,,Estate of Thomas Klarner,,Variant
 53737,46812,Fisher,"Fisher, Robert",,Preferred Name
 53738,46813,,Edith K. Bralove Trust,,Preferred Name
+60460,9362,,Galerie Dominion,,Variant
 53741,13564,Outerbridge,"Outerbridge, Paul Jr.",,Variant
 53744,26553,Driskell,"Driskell, David",,Variant
 53747,46820,Hochberg,"Hochberg, Michael and Judith",,Preferred Name
@@ -29460,7 +29463,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56080,48459,Buck,"Buck, Thomas Waldo",,Preferred Name
 56081,6526,Rodchenko,"Rodchenko, Aleksandr",,Preferred Name
 56082,34127,Welton,"Welton, Elise",,Variant
-56083,34127,Seeds,"Seeds, Elise",,Variant
 56084,34127,Armitage,"Armitage, Elise",,Variant
 56085,34127,Seeds,"Seeds, Elise Cavanna",,Variant
 56086,6526,Rodchenko,"Rodchenko, Alexander",,Variant
@@ -31416,6 +31418,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58934,49701,Lehmann,"Lehmann, Heinrich",,Variant
 58935,50525,Bauer,"Bauer, James",,Preferred Name
 58936,50526,Edison,"Edison, Hope and Julian",,Preferred Name
+58937,50526,,,,Variant
 58940,50529,Lake,"Lake, Carlton",,Preferred Name
 58942,50530,,Galerie Lucette Herzog,,Preferred Name
 58943,50531,,Tortue Gallery,,Preferred Name
@@ -32386,6 +32389,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60311,43833,,Ronald Feldman Gallery,,Variant
 60313,49445,McLaughlin,"McLaughlin, Frances",,Birth Name
 60316,38366,Modotti Mondini,,,Birth Name
+60318,23909,Johnson,,,Birth Name
 60321,1689,Fini,"Fini, Tommaso di Cristoforo",,Full Name
 60324,51509,Crosby,"Crosby, Njideka Akunyili",,Preferred Name
 60325,51175,,Private Collection courtesy of Victoria Miro Gallery,,Variant
@@ -32476,7 +32480,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60457,51612,Bamberger,"Bamberger, Ursula Friede",,Variant
 60458,51613,Vok,"Vok, Marietta",,Preferred Name
 60459,51601,Stern,"Stern, Max",,Variant
-60460,9362,,Galerie Dominion,,Variant
 60461,51614,Balas,"Balas, Jack",,Preferred Name
 60462,51615,Hempel,"Hempel, Wes",,Preferred Name
 60463,51616,,Swoon,,Preferred Name
@@ -32775,6 +32778,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61011,31191,,,,Original Name
 61012,52038,Luna,"Luna, James",,Preferred Name
 61013,38117,,,,Full Name
+61017,50755,,,,Full Name
 61018,52042,,Roberts Projects,,Preferred Name
 61019,23922,Fortuny y Carbó,"Fortuny y Carbó, Mariano",,Variant
 61021,52044,Seligman,"Seligman, Richard",,Preferred Name
@@ -32840,6 +32844,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61112,52119,Talbot,"Talbot, Christopher Rice Mansel",,Preferred Name
 61114,52121,,Chambolle-Duru,,Preferred Name
 61115,52122,Smith,"Smith, John Thomas",,Preferred Name
+61123,52130,Kháyyám,"Kháyyám, Omar",,Preferred Name
 61129,52136,Phillips,"Phillips, Stephen Mr.",,Preferred Name
 61130,52137,Lesire,"Lesire, Paulus",,Preferred Name
 61131,52138,Burke,"Burke, Vanley",,Preferred Name
@@ -33116,6 +33121,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61709,52622,Bonde,,,Variant
 61710,5696,Reinberger,"Reinberger, Gertraud",,Variant
 61711,5696,Reinberger-Brausewetter,"Reinberger-Brausewetter, Gertraud",,Variant
+61712,52623,,LaMontagne Gallery,,Preferred Name
+61713,52624,Locke,"Locke, Steve",,Preferred Name
 61714,686,Johnson,,,Variant
 61715,52625,Lantara,"Lantara, Simon Mathurin",,Preferred Name
 61716,52626,Odescalchi,"Odescalchi, Ladislao Prince",,Preferred Name
@@ -33171,6 +33178,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61830,52705,,Fridman Gallery,,Preferred Name
 61831,52705,Fridman,"Fridman,Iliya",,Variant
 61837,12844,Pappajohn,,,Variant
+61838,40174,Sills,"Sills, Thomas Albert",,Variant
 61839,30433,Kinsey,"Kinsey, Darius Reynold",,Variant
 61841,52710,James,"James, Walter Henry",,Preferred Name
 61842,52711,,Raphael King Ltd.,,Preferred Name
@@ -33205,6 +33213,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61937,52788,,Friends and Colleagues in honor of D. Dodge Thompson,,Preferred Name
 61942,52792,Rosenbach,"Rosenbach, A. S. W. Dr.",,Preferred Name
 61943,52793,Frazier,"Frazier, Peter",,Preferred Name
+61951,40735,Dempsey,,,Variant
 61952,52800,,"Atelier Bordas, Paris",,Preferred Name
 61954,33703,Levi,"Levi, Julian E.",,Variant
 61955,52802,,"International Fine Art Exposition for Art Asia, Hong Kong",,Preferred Name
@@ -33226,6 +33235,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61983,39611,Kemble,"Kemble, E. W.",,Variant
 61984,33300,Cohen,"Cohen, H. George",,Variant
 61985,33395,Emmanuel,"Emmanuel, Herzel",,Variant
+61991,52826,,Kate Haw and Elizabeth Tinsman,,Preferred Name
 61992,33287,Chatterton,"Chatterton, Clarence Kerr",,Variant
 62002,4004,,USCO,,Variant
 62007,34454,Kerrick,"Kerrick, Arthur T.",,Variant
@@ -33289,7 +33299,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62138,52915,Monti,"Monti, Giulio Cesare",,Variant
 62149,46619,Lumpkins,"Lumpkins, William Thomas",,Variant
 62154,39347,Polk,"Polk, Prentice Herman",,Variant
-62156,52930,,Deborah Burkland Fund,,Preferred Name
+62156,52930,,Deborah Burklund Fund,,Preferred Name
 62160,52932,,Millon & Associés,,Preferred Name
 62161,52933,,Elliott Fine Art,,Preferred Name
 62162,52462,Austen,"Austen, Elizabeth Alice",,Variant
@@ -33300,3 +33310,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62176,52946,Marbeau,"Marbeau, Pierre",,Preferred Name
 62178,2039,Brancusi,"Brancusi, Constantin",,Variant Index Name
 62180,52948,Petitjean,"Petitjean, Charles M.",,Preferred Name
+62186,52952,Calvocoressi,"Calvocoressi, Peter",,Preferred Name
