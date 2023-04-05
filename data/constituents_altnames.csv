@@ -10039,6 +10039,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 10954,10961,,Toledo Museum of Art,,Preferred Name
 10960,10967,Szegedy-Maszak and Dr. Elizabeth Bobrick,"Szegedy-Maszak and Dr. Elizabeth Bobrick, Andrew, Dr.",,Preferred Name
 10964,10971,Dayes,"Dayes, Edward",,Preferred Name
+10965,10972,Fielding,"Fielding, Anthony Vandyck Copley",,Preferred Name
 10966,10973,Lewis,"Lewis, John Frederick",,Preferred Name
 10969,10976,Middleton,"Middleton, John",,Preferred Name
 10972,10979,Abbott,"Abbott, John White",,Preferred Name
@@ -10748,7 +10749,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13084,13091,Molesworth,"Molesworth, Frances",,Preferred Name
 13085,13092,Woodforde,"Woodforde, Juliani",,Preferred Name
 13094,13101,Ehrenkranz,"Ehrenkranz, Joel, Mr. and Mrs.",,Preferred Name
-13099,13106,,"MacKinnon, James",,Preferred Name
+13099,13106,,"Mackinnon, James",,Preferred Name
 13109,13116,Selle,"Selle, Richard, Mr. and Mrs.",,Preferred Name
 13112,13119,,Galerie Lingenauber,,Preferred Name
 13147,13154,Felsing,"Felsing, Wilhelm",,Preferred Name
@@ -15114,7 +15115,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26854,26861,Re,"Re, Sebastiano di",,Preferred Name
 26855,26862,Monogrammist CB,Monogrammist CB,,Preferred Name
 26859,26866,de Groot,"de Groot, Hofstede",,Preferred Name
-26860,26867,Richter,"Richter, Jan Paul",,Preferred Name
+26860,26867,Richter,"Richter, Ellen von Seggern Richter and Jan Paul",,Preferred Name
 26862,26869,,Gersel Corp.,,Preferred Name
 26864,26871,Marcantonio School,Marcantonio School,,Preferred Name
 26865,26872,Ramsden,"Ramsden, John Charles",,Preferred Name
@@ -33183,6 +33184,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61828,52703,,Kunstkammer Georg Laue,,Preferred Name
 61830,52705,,Fridman Gallery,,Preferred Name
 61831,52705,Fridman,"Fridman,Iliya",,Variant
+61832,52706,Martin,"Martin, Isaiah ""Guy"" Guyman Jr.",,Preferred Name
+61833,52706,Martin,,,Variant
+61834,52707,Roberts,"Roberts, Humphrey Esq.",,Preferred Name
 61837,12844,Pappajohn,,,Variant
 61838,40174,Sills,"Sills, Thomas Albert",,Variant
 61839,30433,Kinsey,"Kinsey, Darius Reynold",,Variant
@@ -33194,6 +33198,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61856,52722,Espérance Bourlet de la Vallée,,,Variant
 61859,52725,Gauguin,"Gauguin, Pola",,Preferred Name
 61860,52726,Maroni,"Maroni, Albert",,Preferred Name
+61864,52728,Theobald,"Theobald, J. P. Esq.",,Preferred Name
 61876,52736,,Haw Contemporary,,Preferred Name
 61877,52736,Haw,"Haw, Bill",,Variant
 61878,52737,,Art Seminar Group,,Preferred Name
