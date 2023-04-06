@@ -688,21 +688,25 @@ previous_attribution,12103,2,Attributed to Sassetta,"Sassetta, Attributed to","B
 previous_attribution,12103,1,Sassetta,Sassetta,Attribution at time of gift,
 previous_attribution,12118,1,"""Ugolino Lorenzetti""","Lorenzetti, Ugolino",Bd. Tr. approval 1/9/64,1964-01-09
 previous_attribution,12118,2,Pietro Lorenzetti,"Lorenzetti, Pietro",Attribution at time of gift,1943
+previous_attribution,12189,1,"Florentine 15th or 16th Century, probably after a model by Andrea del Verrocchio and Orsino Benintendi","Florentine 15th or 16th Century, probably after a model by Andrea del Verrocchio and Orsino Benintendi",Bd. Tr. approval 5/1/1997,1997-05-01
+previous_attribution,12189,2,Andrea del Verrocchio,"Verrocchio, Andrea del",Attribution at time of acquisition,
 previous_attribution,12135,1,Giovanni Bellini,"Bellini, Giovanni","Attribution at time of acquisition
 ",
 previous_attribution,12139,1,Ercole de' Roberti,"Roberti, Ercole de'",Attribution at time of gift,
 previous_attribution,12139,2,Attributed to Baldassare d'Este,"Baldassare d'Este, Attributed to","Bd. Tr. approval 1/9/1964
 ",
-previous_attribution,12170,1,Pietro Lombardo,"Lombardo, Pietro",Attribution at time of acquisition,
 previous_attribution,12143,1,Master of the Life of Saint John the Baptist,Master of the Life of Saint John the Baptist,"This change appears not to have been passed by the Bd. Tr.; memos in the object file indicate John Walker directed the change be made in December 1956, and the change was finalized by June 1957.",1957-06-01
 previous_attribution,12143,2,Giovanni Baronzio,"Baronzio, Giovanni",Attribution at time of gift,1943
 previous_attribution,12145,1,Botticelli,Botticelli,Attribution at time of gift,
+previous_attribution,12170,1,Pietro Lombardo,"Lombardo, Pietro",Attribution at time of acquisition,
 previous_attribution,12172,1,Antonio del Pollaiuolo,"Pollaiuolo, Antonio del",Attribution at time of gift,
 previous_attribution,12173,2,Florentine 16th Century,Florentine 16th Century,Bd. Tr. approval 5/5/1976,1976-05-05
 previous_attribution,12173,1,Benedetto da Maiano,Benedetto da Maiano,Attribution at time of gift,
 previous_attribution,12175,1,Giovanni Antonio Amadeo,"Amadeo, Giovanni Antonio",Attribution at time of gift,
 previous_attribution,12176,1,Antonio Rossellino,"Rossellino, Antonio",Attribution at time of gift,
 previous_attribution,12178,1,Mino da Fiesole,Mino da Fiesole,Attribution at time of gift,
+previous_attribution,12186,2,Jacques Prou II,"Prou II, Jacques",Letter to Kress Foundation 11/30/1955 requesting approval for attribution and title change was approved by Mario Modestini; there appears to have been no Bd. Tr. action on the attribution change.  Published with this attribution in the 1959 NGA/Kress catalogue.,1955-11-30
+previous_attribution,12186,1,Antoine Coysevox,"Coysevox, Antoine",Attribution at time of gift,
 previous_attribution,12179,1,Andrea del Verrocchio,"Verrocchio, Andrea del",Attribution at time of gift,
 previous_attribution,12180,1,Matteo Civitali,"Civitali, Matteo",Attribution at time of gift,
 previous_attribution,12181,1,Donatello,Donatello,Attribution at time of gift,
@@ -713,10 +717,6 @@ previous_attribution,12183,2,Venetian 16th or 17th Century (Jacopo Albarelli ?),
 previous_attribution,12184,1,Germain Pilon,"Pilon, Germain",Attribution at time of gift,
 previous_attribution,12185,2,after Gian Lorenzo Bernini,"Bernini, Gian Lorenzo, after",Bd. Tr. approval 1/19/1971,1971-01-19
 previous_attribution,12185,1,Gian Lorenzo Bernini,"Bernini, Gian Lorenzo",Attribution at time of gift,
-previous_attribution,12186,2,Jacques Prou II,"Prou II, Jacques",Letter to Kress Foundation 11/30/1955 requesting approval for attribution and title change was approved by Mario Modestini; there appears to have been no Bd. Tr. action on the attribution change.  Published with this attribution in the 1959 NGA/Kress catalogue.,1955-11-30
-previous_attribution,12186,1,Antoine Coysevox,"Coysevox, Antoine",Attribution at time of gift,
-previous_attribution,12189,1,"Florentine 15th or 16th Century, probably after a model by Andrea del Verrocchio and Orsino Benintendi","Florentine 15th or 16th Century, probably after a model by Andrea del Verrocchio and Orsino Benintendi",Bd. Tr. approval 5/1/1997,1997-05-01
-previous_attribution,12189,2,Andrea del Verrocchio,"Verrocchio, Andrea del",Attribution at time of acquisition,
 previous_attribution,12190,1,Lorenzo Ghiberti,"Ghiberti, Lorenzo",Attribution at time of gift,
 previous_attribution,12201,1,Jean Siméon Chardin,"Chardin, Jean Siméon",Attribution at time of gift,
 previous_attribution,12203,1,Hubert Drouais,"Drouais, Hubert","Attribution at time of acquisition
@@ -1073,6 +1073,7 @@ previous_attribution,41501,1,Attributed to John Sell Cotman,"Cotman, John Sell, 
 previous_attribution,41506,1,Attributed to John Sell Cotman,"Cotman, John Sell, Attributed to",,
 previous_attribution,41507,1,Follower of John Sell Cotman,"Cotman, John Sell, Follower of","This work was called School of John Sell Cotman until 1983, when the National Gallery adopted the attribution terminology developed by the Curatorial Committee for a Catalogue Raisonné, see memorandum on revised attribution terms from Suzannah Fabing to J. Carter Brown of 11/14/83.",
 previous_attribution,41508,1,Follower of John Sell Cotman,"Cotman, John Sell, Follower of","This work was called School of John Sell Cotman until 1983, when the National Gallery adopted the attribution terminology developed by the Curatorial Committee for a Catalogue Raisonné, see memorandum on revised attribution terms from Suzannah Fabing to J. Carter Brown of 11/14/83.",
+previous_attribution,41510,1,Attributed to Robert Dixon,"Dixon, Robert, Attributed to",,
 previous_attribution,41511,1,British 19th Century,British 19th Century,,
 previous_attribution,41512,1,British 19th Century,British 19th Century,,
 previous_attribution,41514,1,British 19th Century,British 19th Century,,
@@ -2134,8 +2135,8 @@ previous_attribution,49370,1,Garo Antreasian,"Antreasian, Garo",,
 previous_attribution,49371,1,Garo Antreasian,"Antreasian, Garo",,
 previous_attribution,50220,1,French 15th Century,French 15th Century,Attribution at time of acquisition,1964
 previous_attribution,50246,1,Dutch 18th Century,Dutch 18th Century,Attribution at time of acquisition,          
-previous_attribution,50302,1,American 19th Century,American 19th Century,Attribution at time of acquisition,
 previous_attribution,50297,1,Jean-Honoré Fragonard,"Fragonard, Jean-Honoré",,
+previous_attribution,50302,1,American 19th Century,American 19th Century,Attribution at time of acquisition,
 previous_attribution,50690,1,H.M.T. Powell,"Powell, H.M.T.",Attribution at time of gift,
 previous_attribution,50690,2,American School,American School,"Bd. Tr. approval 4/30/1969; list reads ""Artist Unknown"", but original change proposal was annotated by W.P. Campbell to read ""American School"".",
 previous_attribution,50691,2,Attributed to Sturtevant J. Hamblin,"Hamblin, Sturtevant J., Attributed to",Bd. Tr. approval 9/29/82,
@@ -2613,12 +2614,14 @@ previous_attribution,74847,1,Roman 15th or 16th Century,Roman 15th or 16th Centu
 previous_attribution,75175,1,Attributed to Niccolò Tribolo,"Tribolo, Niccolò, Attributed to","Attribution at time of acquisition
 ",
 previous_attribution,75654,1,Edward Ruscha,"Ruscha, Edward",,
+previous_attribution,75752,1,"Louis de Carrogis, called Carmontelle","Carrogis, Louis de, called Carmontelle",,
 previous_attribution,75776,1,Fontainebleau School,Fontainebleau School,,
 previous_title,75776,2,Design for a Morion-Burgonet Helmet,,,
 previous_attribution,75791,1,Attributed to Pinturicchio (formerly Il Perugino),"Pinturicchio (formerly Il Perugino), Attributed to",,
 previous_attribution,75803,1,Netherlandish 17th Century after Federico Barocci,Netherlandish 17th Century after Federico Barocci,Attribution at time of acquisition,2006
 previous_attribution,75864,1,Jean Jouvenet,"Jouvenet, Jean",,
 previous_attribution,75848,1,Attributed to Alessandro Allori after Michelangelo,"Allori, Alessandro, Attributed to after Michelangelo",,
+previous_attribution,75878,1,Sir Edward Coley Burne-Jones,"Burne-Jones, Edward Coley, Sir",,
 previous_attribution,75880,1,Sir Frederick William Burton,"Burton, Frederick William, Sir",,
 previous_attribution,76122,1,Allan Ramsay,"Ramsay, Allan",,
 previous_attribution,76209,1,Attributed to Abraham Bosschaert,"Bosschaert, Abraham, Attributed to",,
@@ -4948,6 +4951,7 @@ previous_attribution,213127,1,"after Luca Cambiaso, Italian 17th - 18th century"
 previous_attribution,213146,1,"Daniele Crespi, formerly attributed to Bernardino Campi","Crespi, Daniele, formerly attributed to Bernardino Campi",,
 previous_attribution,213146,2,Italian 17th Century,Italian 17th Century,,
 previous_title,213152,2,"A Seated Soldier with a Sword and Shield, Seen from Below",,Incoming title from donor,
+previous_attribution,213163,1,George Romney,"Romney, George",,
 previous_title,213188,2,Recto: Bust Views of Two Young Women; verso: Unfinished Landscape,,,
 previous_title,213189,2,Recto: Self Portrait;  verso: Profile and bust of young girl,,,
 previous_title,213192,2,"Recto: Young Woman Leaning on Parapet, Florence; verso: Outline of Female Torso and Fragment of Nude Buttocks",,,
@@ -5482,8 +5486,8 @@ previous_attribution,217949,1,Prince Napoleon Victor Jerome Bonaparte,"Bonaparte
 previous_attribution,217956,1,Judy  Dater,"Dater, Judy",,
 previous_attribution,218143,1,Unknown Photographer,Unknown Photographer,,
 previous_attribution,218189,1,Unknown Photographer,Unknown Photographer,,
-previous_attribution,218232,1,Georges Méjat,"Méjat, Georges",,
 previous_attribution,218247,1,Robert Capa,"Capa, Robert",,
+previous_attribution,218232,1,Georges Méjat,"Méjat, Georges",,
 previous_attribution,218250,1,Robert Capa,"Capa, Robert",,
 previous_attribution,218285,1,Unknown Photographer,Unknown Photographer,,
 previous_attribution,218449,1,National Aeronautics and Space Administration,National Aeronautics and Space Administration,,
@@ -5504,10 +5508,10 @@ previous_title,219299,2,"Untitled, Brazil",,,
 previous_title,219356,2,Untitled,,,
 previous_title,220155,3,The North Front of Old Somerset House,,,
 previous_title,220155,2,Part of Somerset House in the Strand,,,
-previous_title,220207,3,The Inner Courtyard of Old Somerset House,,,
-previous_title,220207,2,Part of  Somerset House in the Strand,,,
 previous_title,220477,2,Studies for Raccolta delle zucche,,,
 previous_title,220477,3,Two Studies of a  Woman Carrying a Gourd [recto]; Three Studies of a Standing Girl [verso],,,
+previous_title,220207,3,The Inner Courtyard of Old Somerset House,,,
+previous_title,220207,2,Part of  Somerset House in the Strand,,,
 previous_attribution,220598,1,"Charles Mottram, after John Martin and published by Thomas McLean","Mottram, Charles, Thomas McLean, John Martin",,
 previous_attribution,220599,1,"Charles Mottram, after John Martin and published by Thomas McLean","Mottram, Charles, Thomas McLean, John Martin",,
 previous_attribution,220625,1,Edward Avedisian,"Avedisian, Edward",,
@@ -5525,18 +5529,18 @@ previous_attribution,221261,1,M. L. Braxton,"Braxton, M. L.",,
 previous_attribution,221261,2,American 20th Century,American 20th Century,,
 previous_title,222268,2,Portrait of the Artist,,,
 previous_attribution,222425,1,Sally Mae Pettway,"Pettway, Sally Mae",,
+previous_attribution,222615,1,Willem de Heusch,"de Heusch, Willem",,
+previous_attribution,222885,1,Italian 15th Century,Italian 15th Century,Attribution at time of acquisition,""
 previous_attribution,222609,1,Willem de Heusch,"de Heusch, Willem",,
 previous_attribution,222610,1,Willem de Heusch,"de Heusch, Willem",,
 previous_attribution,222611,1,Willem de Heusch,"de Heusch, Willem",,
 previous_attribution,222612,1,Willem de Heusch,"de Heusch, Willem",,
 previous_attribution,222613,1,Willem de Heusch,"de Heusch, Willem",,
 previous_attribution,222614,1,Willem de Heusch,"de Heusch, Willem",,
-previous_attribution,222615,1,Willem de Heusch,"de Heusch, Willem",,
+previous_attribution,222886,1,Italian 15th Century,Italian 15th Century,Attribution at time of acquisition,""
 previous_attribution,222686,1,"Giovanni Battista Fontana, Domenico Campagnola","Fontana, Giovanni Battista, Domenico Campagnola",,
 previous_attribution,222739,1,Robert Adams,"Adams, Robert",,
 previous_attribution,222743,1,Robert Adams,"Adams, Robert",,
-previous_attribution,222885,1,Italian 15th Century,Italian 15th Century,Attribution at time of acquisition,""
-previous_attribution,222886,1,Italian 15th Century,Italian 15th Century,Attribution at time of acquisition,""
 previous_attribution,223069,1, ,,,
 previous_attribution,223407,1,Washington L Germon,"Germon, Washington L",,
 previous_attribution,223407,2,Charles D. Fredricks,"Fredricks, Charles D.",,
