@@ -17688,6 +17688,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 31401,31408,Lewis,"Lewis, Samuel",,Preferred Name
 31403,31410,Stiglmeier,Stiglmeier,,Preferred Name
 31404,31411,Seasongood,"Seasongood, E. A.",,Preferred Name
+31405,31412,Montgomery,"Montgomery, Lucie de, Mme",,Preferred Name
 31406,31413,Hall,"Hall, Angélique Lucie",,Preferred Name
 31408,31415,Price,"Price, Mr.",,Preferred Name
 31409,31416,Agard,Agard,,Preferred Name
@@ -22147,6 +22148,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 37366,31379,,Pictura Fine Art Fair,,Variant
 37367,31383,Stevens,"Stevens, Mabel Ledyard",,Maiden Name
 37368,31384,Töpper,"Töpper, Carl Franz",,Variant
+37369,31412,Montgomery,"Montgomery, Lucie Ditte",,Full Name
+37370,31412,Ditte,"Ditte, Lucie",,Maiden Name
 37371,31413,Garnier,"Garnier, Angélique Hall",,Married Name
 37377,31496,von Österreich,"von Österreich, Ferdinand Carl Erzherzog",,Variant Index Name
 37378,31513,van Eyck-Koenigs,"van Eyck-Koenigs, Kornelia",,Variant Index Name
@@ -25370,7 +25373,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44548,37972,,Guy Peppiatt Fine Art,,Preferred Name
 44549,37973,Brandt,"Brandt, Matthew",,Preferred Name
 44551,37975,Vegetti,"Vegetti, Enrico",,Preferred Name
-44554,37978,,Lucerne Fine Art Co.,,Preferred Name
+44554,37978,,Kunsthandel AG Luzern,,Preferred Name
 44555,37979,Marc,"Marc, Maria",,Preferred Name
 44557,37981,Hilker,"Hilker, Franz",,Preferred Name
 44560,37984,Finkel,"Finkel, Jay",,Preferred Name
@@ -25623,6 +25626,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44943,38293,Rees,"Rees, Mina Spiegel",,Preferred Name
 44944,38294,Mayer,"Mayer, Musa",,Preferred Name
 44945,38295,Mayer,"Mayer, Thomas",,Preferred Name
+45077,38398,Pulsifer,"Pulsifer, Susan Farley Nicholas",,Preferred Name
 44948,38298,Italian 18th/19th Century,Italian 18th/19th Century,,Preferred Name
 44950,38300,Bellon,"Bellon, Denise",,Preferred Name
 44951,29202,d'Ora,"D'Ora, Madame",,Full Name
@@ -25718,7 +25722,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45074,38396,Pulsifer,"Pulsifer, Almira Houghton Valentine",,Preferred Name
 45075,38396,Pulsifer,"Pulsifer, Nathan Trowbridge Mrs.",,Maiden Name
 45076,38397,Pulsifer,"Pulsifer, Harold Trowbridge",,Preferred Name
-45077,38398,Pulsifer,"Pulsifer, Susan Farley Nicholas",,Preferred Name
+55969,48380,Lawso,"Lawso, Robbie",,Variant
 45078,38398,Pulsifer,"Pulsifer, Harold Trowbridge Mrs.",,Married Name
 45079,38399,Doyle,"Doyle, Alice Pulsifer",,Preferred Name
 45080,38399,Doyle,"Doyle, Joseph Mrs.",,Married Name
@@ -25812,6 +25816,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45253,21656,,"Mellon, Rachel Lambert, Estate of",,Preferred Name
 45254,38538,Jenckes,"Jenckes, Joseph S. V",,Preferred Name
 45255,38539,Brand,"Brand, Johann Christian",,Preferred Name
+55970,48379,J.,"J., Michael",,Variant
 45256,38540,Gille,"Gille, Sighard",,Preferred Name
 45257,38541,Libuda,"Libuda, Walter",,Preferred Name
 45258,38542,Heisig,"Heisig, Johannes",,Preferred Name
@@ -26192,6 +26197,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 46430,39639,Logasa,"Logasa, Charles",,Preferred Name
 46432,39641,Louis,"Louis, James M",,Preferred Name
 46441,39650,Matter,"Matter, Mercedes Carles",,Preferred Name
+56083,34127,Seeds,"Seeds, Elise",,Variant
 46442,39651,Mayer,"Mayer, Frank Blackwell",,Preferred Name
 46446,39655,Michel,"Michel, Sally",,Preferred Name
 46448,39657,Newell,"Newell, Peter",,Preferred Name
@@ -26375,6 +26381,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 47204,40413,Thomas,"Thomas, Lew",,Preferred Name
 47205,10087,Sonneman,"Sonneman, Eve",,Variant
 47209,40418,Frankel,"Frankel, Godfrey",,Preferred Name
+60460,9362,,Galerie Dominion,,Variant
 47213,40422,Bodrov,"Bodrov, Gennadi",,Preferred Name
 47232,40441,Moukhin,"Moukhin, Igor",,Preferred Name
 47233,40442,Wall,"Wall, William Allen",,Preferred Name
@@ -27517,7 +27524,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53122,46312,Boeotian 2nd Century B.C.,Boeotian 2nd Century B.C.,,Preferred Name
 53129,46319,Attic 4th Century B.C.,Attic 4th Century B.C.,,Preferred Name
 53130,46320,Myrinaean 2nd Century B.C.,Myrinaean 2nd Century B.C.,,Preferred Name
-53416,46530,Martinet,"Martinet, Aaron",,Preferred Name
 53131,46321,Myrinaean 1st Century B.C.,Myrinaean 1st Century B.C.,,Preferred Name
 53132,6347,Anonymous Unknown Nationality 19th Century,Anonymous Unknown Nationality 19th Century,,Variant
 53133,6347,Unknown Nationality 19th Century,Unknown Nationality 19th Century,,Variant
@@ -27612,7 +27618,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53410,43262,Tayloe,"Tayloe, Phoebe Warren",,Full Name
 53411,46525,Tayloe,"Tayloe, Benjamin Ogle",,Preferred Name
 53412,46526,Gabriel,"Gabriel, Ramon",,Preferred Name
-56083,34127,Seeds,"Seeds, Elise",,Variant
+53416,46530,Martinet,"Martinet, Aaron",,Preferred Name
 53421,46535,Finot,"Finot, Albert Leon Victor",,Preferred Name
 53426,46540,Green,"Green, Art",,Preferred Name
 53427,46541,Gubbiotti,"Gubbiotti, Jason",,Preferred Name
@@ -27709,7 +27715,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53735,11204,,Estate of Thomas Klarner,,Variant
 53737,46812,Fisher,"Fisher, Robert",,Preferred Name
 53738,46813,,Edith K. Bralove Trust,,Preferred Name
-60460,9362,,Galerie Dominion,,Variant
 53741,13564,Outerbridge,"Outerbridge, Paul Jr.",,Variant
 53744,26553,Driskell,"Driskell, David",,Variant
 53747,46820,Hochberg,"Hochberg, Michael and Judith",,Preferred Name
@@ -29363,8 +29368,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55966,48378,,Random House,,Variant Index Name
 55967,48379,Becker,"Becker, Michael J.",,Preferred Name
 55968,48380,Landeros,"Landeros, Robbie",,Preferred Name
-55969,48380,Lawso,"Lawso, Robbie",,Variant
-55970,48379,J.,"J., Michael",,Variant
 55971,48381,Murphy,"Murphy, Willy",,Preferred Name
 55972,48382,,Mervinius,,Preferred Name
 55973,48382,Gilbert,"Gilbert, Mervin",,Full Name
@@ -33333,3 +33336,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62230,52992,,The Golden Cockerel Press,,Preferred Name
 62232,52994,Herbert,"Herbert, Alfred",,Preferred Name
 62233,52995,Strudwick,"Strudwick, Thomas Melhuis",,Preferred Name
+62389,37978,,Lucerne Fine Art Co.,,Variant
+62390,31412,Ditte,"Ditte, Marie Lucie Adèlee",,Birth Name
