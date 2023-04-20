@@ -104,7 +104,7 @@ we only use a limited number of anonymous artists to represent all anonymous art
 it is possible for some fields, e.g. biography, to have embedded HTML italics tags – this is generally true of about a dozen columns across various tables in the public collection extract – in some cases underscores are used and in other cases simple HTML markup is present
 
 (	
-    constituentID               integer NOT NULL PRIMARY KEY,	primary key
+    constituentID               integer NOT NULL PRIMARY KEY,	primary key (tms identifier)
     ULANID                      character varying(32) NULL,	Getty ULAN ID - partially applied to NGA artists - not all artists are in ULAN and not all matches have been curated yet
     preferredDisplayName        character varying(256) NULL,	inverted full name of the constituent - this is the NGA's preferred name for the constituent
     forwardDisplayName          character varying(256) NULL,	forward direction preferred full name of the constituent
@@ -268,7 +268,8 @@ The begin and end dates are provided to facilitate returning the object via sear
 Underscores appearing in nvarchar columns should be treated as an italicizing markup, e.g., _title_ => title
 
 (	
-    objectID                    integer NOT NULL PRIMARY KEY,	the primary identifier for an art object - identifier is created by the NGA's collection management system; primary key for the table
+    objectID                    integer NOT NULL PRIMARY KEY,	the primary identifier for an art object - identifier is created by the NGA's collection management system (tms); primary key for the table
+    uuid			nvarchar(36) NULL,	a persistent unique identifier for this art object; used as a key into other tables such as alternative numbers and will play a more active role in linking the art object with other data sources moving forward
     accessioned                 integer NOT NULL,	0 | 1 flag indicating whether this object is an NGA accessioned work - for the public collection extract, this should always be 1
     accessionNum                character varying(32) NULL,	accession number assigned to an art object - art objects that are not accessioned works do not begin with a year - otherwise, the vast majority of NGA art object accession numbers are formatted with a numbering system starting with the year, then followed by an accession lot, and finally ordering within that lot, e.g. 1942.2.1 - depending on the complexity of an art object these can be more complicated
     objectLeonardoID            character varying(16) NULL,	prior legacy CMS sytem id - might consider moving these to the historical_data table or the object_altnums table
