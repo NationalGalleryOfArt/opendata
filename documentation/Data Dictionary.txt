@@ -105,6 +105,7 @@ it is possible for some fields, e.g. biography, to have embedded HTML italics ta
 
 (	
     constituentID               integer NOT NULL PRIMARY KEY,	primary key (tms identifier)
+    uuid			nvarchar(36) NULL,	a persistent unique identifier for this constituent; used as a key into other tables such as alternative numbers and will play a more active role in linking constituents with other data sources moving forward
     ULANID                      character varying(32) NULL,	Getty ULAN ID - partially applied to NGA artists - not all artists are in ULAN and not all matches have been curated yet
     preferredDisplayName        character varying(256) NULL,	inverted full name of the constituent - this is the NGA's preferred name for the constituent
     forwardDisplayName          character varying(256) NULL,	forward direction preferred full name of the constituent
