@@ -2,6 +2,7 @@
           Column          |          Type          | Modifiers 
 --------------------------+------------------------+-----------
  constituentid            | integer                | 
+ uuid                     | character varying(64)  | 
  ulanid                   | character varying(32)  | 
  preferreddisplayname     | character varying(256) | 
  forwarddisplayname       | character varying(256) | 
