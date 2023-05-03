@@ -1,4 +1,4 @@
-               Table "objects_constituents"
+                Table "objects_constituents"
     Column     |          Type          | Modifiers 
 ---------------+------------------------+-----------
  objectid      | integer                | 
