@@ -15461,6 +15461,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27788,27795,Solomon,"Solomon, Dan and Mary",,Preferred Name
 27812,27819,,"Daxer and Marschall Kunsthandels, GmbH",,Preferred Name
 27813,27820,Borsato,"Borsato, Giuseppe",,Preferred Name
+36788,27958,Peters,"Peters, Susan",,Spouse
 27820,27827,Veil-Picard,"Veil-Picard, Arthur",,Preferred Name
 27824,27831,Ceputis,"Ceputis, Eric, Mr.",,Preferred Name
 27827,27834,Reuter,"Reuter, Willem",,Preferred Name
@@ -21695,7 +21696,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36629,26819,Tranquillus,"Tranquillus, Caius Suetonius",,Variant
 36631,26836,Gurr Johns,Gurr Johns,,Variant
 36637,26858,Schickler,"Schickler, Marguerite de",,Maiden Name
-36638,26867,Richter,"Richter, Ellen von Seggern",,Spouse
 36642,26884,d'Este,"d'Este, Alfonso I Duke of Ferrara",,Variant Index Name
 36643,26884,Ferrara,"Ferrara, Alfonso I d'Este, Duke of",,Variant Index Name
 36644,26885,Shrewsbury,"Shrewsbury, Bertram Arthur Talbot, 17th Earl",,Variant Index Name
@@ -21771,9 +21771,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36784,27928,Salinelles-Bazille,"Salinelles-Bazille, Meynier de Mme",,Variant Index Name
 36785,27928,Bazille,"Bazille, Meynier de Salinelles- Mme",,Variant Index Name
 36786,27930,Bazille,"Bazille, Rachou- Mme",,Variant Index Name
-36976,28972,Göz,"Göz, Gottfried Bernhard",,Variant
 36787,27952,Oxenbridge and 7th baron Monson,"Oxenbridge and 7th baron Monson, William John Monson, viscount",,Variant
-36788,27958,Peters,"Peters, Susan",,Spouse
 36789,27958,Peters,"Peters, Louis Dr. and Mrs.",,Variant
 36790,27963,Anderson,"Anderson, Walter Inglis",,Variant
 36791,27964,Ross,"Ross, Luise",,Variant Index Name
@@ -21847,9 +21845,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36876,28412,,Galerie Fricker,,Variant Index Name
 36877,28418,Hertzberg,"Hertzberg, Benjamin Mr. and Mrs.",,Variant
 36878,28418,Hertzberg,"Hertzberg, Benjamin and Lilian",,Variant
-56325,47059,Henry,"Henry, H. S.",,Variant
 36879,28428,Estate of Moses Lasky,Estate of Moses Lasky,,Variant Index Name
 36880,28430,Joyan,"Joyan, Jules-Romain",,Variant Index Name
+36978,28988,Parrish,"Parrish, Frederick",,Variant
 36881,28432,Gourdaine,"Gourdaine, Sébastien-Louis-Guillaume Norblin de la",,Variant Index Name
 36882,28432,Norblin,"Norblin, Sébastien-Louis-Guillaume",,Variant
 36883,28432,Sobeck,"Sobeck, Sébastien-Louis-Guillaume Norblin de la Gourdaine, called",,Variant
@@ -21926,8 +21924,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36971,28924,Caraman-Chimay,"Caraman-Chimay, Elisabeth de Princess",,Maiden Name
 36972,28924,de Caraman-Chimay,"de Caraman-Chimay, Elisabeth Princess",,Variant Index Name
 36975,28956,Saxe-Meiningen,"Saxe-Meiningen, Georg II Grand Duke",,Variant Index Name
+36976,28972,Göz,"Göz, Gottfried Bernhard",,Variant
 36977,28972,Goetz,"Goetz, Gottfried Bernhard",,Variant
-36978,28988,Parrish,"Parrish, Frederick",,Variant
 36980,29005,Bonaparte,"Bonaparte, Napoleon",,Variant Index Name
 36981,29005,Buonaparte,"Buonaparte, Napoleon",,Variant Index Name
 36983,29041,Severn,"Severn, Arthur Mrs.",,Married Name
@@ -22096,6 +22094,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 37265,30764,,Kunstkabinett Ketterer,,Variant Index Name
 37266,30768,Meldolla,"Meldolla, Andrea",,Variant
 37267,30768,Medulic,"Medulic, Andrija",,Variant
+56325,47059,Henry,"Henry, H. S.",,Variant
 37269,30805,,Königliche Gemäldegalerie Kassel,,Variant Index Name
 37284,30981,Tardiveau,"Tardiveau, René Auguste",,Variant
 37286,30990,Sussy,"Sussy, Jean-Baptiste Henry Collin, comte de",,Variant
@@ -22181,7 +22180,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38442,32752,Verwer,"Verwer, Abraham de",,Preferred Name
 38450,32759,Poe,"Poe, Edgar Allan",,Preferred Name
 38452,32760,,Detroit Photographic Company,,Preferred Name
-59533,33203,Bloom,"Bloom, John",,Variant
 38453,32761,Benci,"Benci, Francesco",,Preferred Name
 38456,32764,Teichs,"Teichs, Adolf Friedrich",,Preferred Name
 38458,32766,Dickinson,"Dickinson, Edwin Walter",,Preferred Name
@@ -22375,6 +22373,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38934,33131,Anderson,"Anderson, Hjordis (Ethel)",,Preferred Name
 38935,33132,Angelo,"Angelo, Michael Valenti",,Preferred Name
 38936,33133,Annette,"Annette, Ina",,Preferred Name
+59533,33203,Bloom,"Bloom, John",,Variant
 38937,33134,Ariss,"Ariss, Bruce",,Preferred Name
 38938,33135,Armin,"Armin, Emil",,Preferred Name
 38939,33136,Arnest,"Arnest, Bernard Patrick",,Preferred Name
@@ -24015,7 +24014,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40986,34959,,"Lichtenstein, Roy, Estate of",,Preferred Name
 40988,34961,Zachs,"Zachs, William",,Preferred Name
 40989,34962,Simonetti,"Simonetti, Luciana",,Preferred Name
-40993,34966,Düb,"Düb, Rudolf",,Preferred Name
+40993,34966,Dub,"Dub, Rudolf",,Preferred Name
 40996,34969,,James Goodman Gallery,,Preferred Name
 40998,34971,Mond,"Mond, Robert L. Sir",,Preferred Name
 41007,34980,Polos,"Polos, Theodore C.",,Preferred Name
@@ -33338,7 +33337,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62149,46619,Lumpkins,"Lumpkins, William Thomas",,Variant
 62153,52086,De Bra,"De Bra, Mabel Mason",,Variant
 62154,39347,Polk,"Polk, Prentice Herman",,Variant
+62155,52929,Kultermann,"Kultermann, Udo",,Preferred Name
 62156,52930,,Deborah Burklund Fund,,Preferred Name
+62157,24202,Sant,,,Variant
 62158,52120,Millet,"Millet, Josiah Byram",,Variant
 62160,52932,,Millon & Associés,,Preferred Name
 62161,52933,,Elliott Fine Art,,Preferred Name
@@ -33346,14 +33347,19 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62163,15988,,"Hans Kraus Fine Photographs, Inc.",,Variant
 62169,52939,Lieberg,"Lieberg, Friedrich Andreas",,Preferred Name
 62170,52940,Monti,"Monti, Cesare Cardinal",,Preferred Name
+62171,52941,Monti Melzi,"Monti Melzi, Cesare Count",,Preferred Name
 62172,52942,Little,"Little, Philip",,Preferred Name
 62176,52946,Marbeau,"Marbeau, Pierre",,Preferred Name
 62178,2039,Brancusi,"Brancusi, Constantin",,Variant Index Name
+62179,27628,Simelli,,,Variant
 62180,52948,Petitjean,"Petitjean, Charles M.",,Preferred Name
+62181,38595,Hubert,,,Variant
+62185,45011,,,,Variant
 62186,52952,Calvocoressi,"Calvocoressi, Peter",,Preferred Name
 62191,52957,,Primrose Press,,Preferred Name
 62193,40072,Mathieson,"Mathieson, John George",,Variant
 62207,33715,Limbach,"Limbach, Russell T.",,Variant
+62222,26867,Richter,,,Spouse
 62229,52991,,J. B. Lippincott Company,,Preferred Name
 62230,52992,,The Golden Cockerel Press,,Preferred Name
 62232,52994,Herbert,"Herbert, Alfred",,Preferred Name
@@ -33368,3 +33374,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62477,53232,Bianchi,"Bianchi, Jan Frederik",,Preferred Name
 62479,53234,Rosenthal,"Rosenthal, Ernest",,Preferred Name
 62481,53236,Ruocco,"Ruocco, Jeff",,Preferred Name
+62483,33543,Helck,"Helck, Peter",,Variant

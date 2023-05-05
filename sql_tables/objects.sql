@@ -1,4 +1,4 @@
-                        Table "objects"
+                       Table "objects"
            Column            |           Type           | Modifiers 
 -----------------------------+--------------------------+-----------
  objectid                    | integer                  | 
