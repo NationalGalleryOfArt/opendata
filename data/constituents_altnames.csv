@@ -1381,7 +1381,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1465,1472,Lawrence,"Lawrence, Thomas, Sir",,Preferred Name
 1466,1473,Lawson,"Lawson, Thomas Bayley",,Preferred Name
 1467,1474,Lebrun,"Lebrun, Rico",,Preferred Name
-61528,52485,Trevisan,,,Variant
+61527,52485,Trevisanus,,,Variant
 1468,1475,Léger,"Léger, Fernand",,Preferred Name
 1469,1476,Legros,"Legros, Alphonse",,Preferred Name
 1470,1477,Lely,"Lely, Peter, Sir",,Preferred Name
@@ -1753,6 +1753,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1853,1860,Sassetta,Sassetta,,Preferred Name
 1854,1861,Savage,"Savage, Edward",,Preferred Name
 1855,1862,Savoldo,"Savoldo, Giovanni Girolamo",,Preferred Name
+61528,52485,Trevisan,,,Variant
 1856,1863,Schäufelein,"Schäufelein, Hans Leonard",,Preferred Name
 1857,1864,Scliar,"Scliar, Carlos",,Preferred Name
 1858,1865,Scorel,"Scorel, Jan van",,Preferred Name
@@ -33051,7 +33052,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61523,52483,Marcaggi,"Marcaggi, Felipe",,Preferred Name
 61524,52484,Zatta,"Zatta, Antonio",,Preferred Name
 61526,52485,Trivisanus,"Trivisanus, Josephus Marchio",,Preferred Name
-61527,52485,Trevisanus,,,Variant
 61529,52486,Specklin,"Specklin, Veit",,Preferred Name
 61530,52487,Blain,Blain,,Preferred Name
 61531,52488,,Gonnelli Casa d'Aste,,Preferred Name
