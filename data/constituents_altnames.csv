@@ -22375,6 +22375,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38934,33131,Anderson,"Anderson, Hjordis (Ethel)",,Preferred Name
 38935,33132,Angelo,"Angelo, Michael Valenti",,Preferred Name
 38936,33133,Annette,"Annette, Ina",,Preferred Name
+59651,33995,Shields,,,Full Name
 38937,33134,Ariss,"Ariss, Bruce",,Preferred Name
 38938,33135,Armin,"Armin, Emil",,Preferred Name
 38939,33136,Arnest,"Arnest, Bernard Patrick",,Preferred Name
@@ -22471,6 +22472,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39032,33229,Braught,"Braught, Ross Eugene",,Preferred Name
 39033,33230,Breene,"Breene, Walter Simmons",,Preferred Name
 39034,33231,Brett,"Brett, Nancy",,Preferred Name
+61047,52063,,,,Variant
 39035,33232,Briem,"Briem, Gottlob L.",,Preferred Name
 39036,33233,Britton,"Britton, Edgar",,Preferred Name
 39037,33234,Brod,"Brod, Fritzi",,Preferred Name
@@ -22759,6 +22761,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39339,33536,Hawkins,"Hawkins, Basil",,Preferred Name
 39340,33537,Haydon,"Haydon, Harold",,Preferred Name
 39341,33538,Heaslip,"Heaslip, William",,Preferred Name
+61634,34140,,,,Variant
 39342,33539,Hebert,"Hebert, Marian Frances",,Preferred Name
 39343,33540,Hechenbleikner,"Hechenbleikner, Louis",,Preferred Name
 39344,33541,Heckman,"Heckman, Albert William",,Preferred Name
@@ -31748,9 +31751,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59348,50834,Judson,"Judson, Myron",,Preferred Name
 59352,50838,Choe,"Choe, Sun Mi",,Preferred Name
 59353,31397,Nice,"Nice, Donald Harry",,Variant
-59355,50840,Speight,"Speight, Jack",,Preferred Name
-59356,50841,Burke,"Burke, Ralph",,Preferred Name
-59357,50842,Kroloff,"Kroloff, Jack",,Preferred Name
 59358,25992,Robie,"Robie, Jim",,Variant
 59359,50843,Tonelli,"Tonelli, Anna Nistri",,Preferred Name
 59360,50844,Firman,"Firman, Tom",,Preferred Name
@@ -31961,7 +31961,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59648,4955,Meeker,"Meeker, Dean Jackson",,Full Name
 59649,34694,Robertson,"Robertson, Thomas Arthur",,Full Name
 59650,33980,Seawell,,,Full Name
-59651,33995,Shields,,,Full Name
 59652,51045,,United States Marine Corps,,Preferred Name
 59653,34115,Wands,"Wands, Alfred James",,Full Name
 59654,51046,,Will A. Kistler Company,,Preferred Name
@@ -32841,7 +32840,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61043,52060,Marcus,"Marcus, Peter E.",,Variant
 61045,52062,Lind-Ramos,"Lind-Ramos, Daniel",,Preferred Name
 61046,52063,Levai,"Levai, Max",,Preferred Name
-61047,52063,,,,Variant
 61051,7440,De Zon,"De Zon, Sylvia",,Variant
 61053,52068,Armano,"Armano, Giovanni Antonio",,Preferred Name
 61055,52070,Bernasconi,"Bernasconi, Marià Elvira Celia Méndez de",,Preferred Name
@@ -33045,6 +33043,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61475,52448,Hutchinson,"Hutchinson, Isabella",,Variant
 61476,52449,Frazier,"Frazier, LaToya Ruby",,Preferred Name
 61477,52449,Frazier,"Frazier, LaToya",,Variant
+61483,52454,Gutierrez,"Gutierrez, Martine",,Preferred Name
 61484,52455,Ford,"Ford, Walton",,Preferred Name
 61485,52456,Schoonhoven,"Schoonhoven, Jan",,Preferred Name
 61486,52457,Therrien,"Therrien, Robert",,Preferred Name
@@ -33126,7 +33125,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61631,52573,Sidhu,"Sidhu, Zorawar",,Preferred Name
 61632,52574,Swainston,"Swainston, Rob",,Preferred Name
 61633,52575,Arrillaga-Andresseen,"Arrillaga-Andresseen, Lauren",,Preferred Name
-61634,34140,,,,Variant
 61635,52576,,Fern and Hersh Cohen,,Preferred Name
 61636,52577,,Almine Rech Gallery,,Preferred Name
 61637,52578,Vail,"Vail, Eliza Phyfe",,Preferred Name
@@ -33415,3 +33413,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62483,33543,Helck,"Helck, Peter",,Variant
 62490,33887,Picken,"Picken, George Alexander",,Variant
 62493,51616,Curry,"Curry, Caledonia",,Original Name
+62495,53246,Richter,"Richter, Jean Paul",,Preferred Name

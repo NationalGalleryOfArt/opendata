@@ -2,7 +2,6 @@
            Column            |           Type           | Modifiers 
 -----------------------------+--------------------------+-----------
  objectid                    | integer                  | 
- uuid                        | character varying(64)    | 
  accessioned                 | integer                  | 
  accessionnum                | character varying(32)    | 
  locationid                  | integer                  | 
