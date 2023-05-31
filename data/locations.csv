@@ -75,6 +75,11 @@ locationid,site,room,publicaccess,description,unitposition
 4212,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",N
 4213,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",S
 4214,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",W
+4215,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",
+4216,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",E
+4217,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",N
+4218,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",S
+4219,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",W
 4220,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",
 4221,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",E
 4222,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",N
@@ -752,6 +757,7 @@ locationid,site,room,publicaccess,description,unitposition
 9795,West Building,G-016,1,West Ground Floor Gallery 16,CENTER
 9796,West Building,G-022,1,West Ground Floor Gallery 22,CENTER
 9824,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",CENTER
+9983,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",CENTER
 9984,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",CENTER
 10001,East Building,EU-405,1,"East Bldg, West Terrace",STAIRWELL
 10063,West Building,M-005,1,West Main Floor Gallery 5,CENTER
