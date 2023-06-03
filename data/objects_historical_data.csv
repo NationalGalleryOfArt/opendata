@@ -617,6 +617,7 @@ previous_attribution,10860,1,Hans Wechtlin I,"Wechtlin I, Hans",,
 previous_title,10912,2,The Title to the French Set,,,
 previous_title,10913,2,Reading in Bed,,,
 previous_title,10933,2,"Astruc, A Literary Man",,,
+previous_attribution,11353,1,Luca Giordano,"Giordano, Luca",,
 previous_title,11048,3,La Salute: Dawn,,,
 previous_title,11156,2,Drouet,,,
 previous_title,11157,2,Drouet,,,
@@ -635,9 +636,8 @@ previous_title,11299,2,Nude Figure Seated,,,
 previous_attribution,11308,1,James McNeill Whistler,"Whistler, James McNeill",,
 previous_attribution,11309,1,James McNeill Whistler,"Whistler, James McNeill",,
 previous_attribution,11310,1,James McNeill Whistler,"Whistler, James McNeill",,
-previous_attribution,11319,1,James McNeill Whistler,"Whistler, James McNeill",,
 previous_attribution,11323,1,Attributed to Hieronymus Wierix after Lucas van Leyden,"Wierix, Hieronymus, Attributed to after Lucas van Leyden",,
-previous_attribution,11353,1,Luca Giordano,"Giordano, Luca",,
+previous_attribution,11319,1,James McNeill Whistler,"Whistler, James McNeill",,
 previous_attribution,11354,1,Daniele Ricciarelli,"Ricciarelli, Daniele",,
 previous_attribution,11355,1,Pontormo,Pontormo,,
 previous_attribution,11358,1,Polidoro da Caravaggio,Polidoro da Caravaggio,,
@@ -676,6 +676,10 @@ previous_attribution,11399,1,Luca Cambiaso,"Cambiaso, Luca",,
 previous_attribution,11403,1,Andrea Boscoli,"Boscoli, Andrea",,
 previous_title,11434,2,House in the Trees,,,
 previous_title,11925,2,Cornelia van de Capelle,,,
+previous_attribution,12184,1,Germain Pilon,"Pilon, Germain",Attribution at time of gift,
+previous_attribution,12139,1,Ercole de' Roberti,"Roberti, Ercole de'",Attribution at time of gift,
+previous_attribution,12139,2,Attributed to Baldassare d'Este,"Baldassare d'Este, Attributed to","Bd. Tr. approval 1/9/1964
+",
 previous_attribution,12099,2,Style of Andrea del Verrocchio,"Verrocchio, Andrea del, Style of","Bd. Tr. approval 1/9/1964
 ",
 previous_attribution,12099,1,Andrea del Verrocchio,"Verrocchio, Andrea del",Attribution at time of gift,
@@ -690,9 +694,6 @@ previous_attribution,12118,1,"""Ugolino Lorenzetti""","Lorenzetti, Ugolino",Bd. 
 previous_attribution,12118,2,Pietro Lorenzetti,"Lorenzetti, Pietro",Attribution at time of gift,1943
 previous_attribution,12135,1,Giovanni Bellini,"Bellini, Giovanni","Attribution at time of acquisition
 ",
-previous_attribution,12139,1,Ercole de' Roberti,"Roberti, Ercole de'",Attribution at time of gift,
-previous_attribution,12139,2,Attributed to Baldassare d'Este,"Baldassare d'Este, Attributed to","Bd. Tr. approval 1/9/1964
-",
 previous_attribution,12143,1,Master of the Life of Saint John the Baptist,Master of the Life of Saint John the Baptist,"This change appears not to have been passed by the Bd. Tr.; memos in the object file indicate John Walker directed the change be made in December 1956, and the change was finalized by June 1957.",1957-06-01
 previous_attribution,12143,2,Giovanni Baronzio,"Baronzio, Giovanni",Attribution at time of gift,1943
 previous_attribution,12145,1,Botticelli,Botticelli,Attribution at time of gift,
@@ -705,19 +706,18 @@ previous_attribution,12176,1,Antonio Rossellino,"Rossellino, Antonio",Attributio
 previous_attribution,12178,1,Mino da Fiesole,Mino da Fiesole,Attribution at time of gift,
 previous_attribution,12179,1,Andrea del Verrocchio,"Verrocchio, Andrea del",Attribution at time of gift,
 previous_attribution,12180,1,Matteo Civitali,"Civitali, Matteo",Attribution at time of gift,
-previous_attribution,12190,1,Lorenzo Ghiberti,"Ghiberti, Lorenzo",Attribution at time of gift,
 previous_attribution,12181,1,Donatello,Donatello,Attribution at time of gift,
 previous_attribution,12182,1,Leone Leoni,"Leoni, Leone",Attribution at time of gift,
 previous_attribution,12183,3,Attributed to Jacopo Albarelli,"Albarelli, Jacopo, Attributed to",Reported to Bd. Tr. 10/1/1987,
 previous_attribution,12183,1,Alessandro Vittoria,"Vittoria, Alessandro",Attribution at time of gift,
 previous_attribution,12183,2,Venetian 16th or 17th Century (Jacopo Albarelli ?),Venetian 16th or 17th Century (Jacopo Albarelli ?),Bd. Tr. approval 10/4/1984,
-previous_attribution,12184,1,Germain Pilon,"Pilon, Germain",Attribution at time of gift,
 previous_attribution,12185,2,after Gian Lorenzo Bernini,"Bernini, Gian Lorenzo, after",Bd. Tr. approval 1/19/1971,1971-01-19
 previous_attribution,12185,1,Gian Lorenzo Bernini,"Bernini, Gian Lorenzo",Attribution at time of gift,
 previous_attribution,12186,2,Jacques Prou II,"Prou II, Jacques",Letter to Kress Foundation 11/30/1955 requesting approval for attribution and title change was approved by Mario Modestini; there appears to have been no Bd. Tr. action on the attribution change.  Published with this attribution in the 1959 NGA/Kress catalogue.,1955-11-30
 previous_attribution,12186,1,Antoine Coysevox,"Coysevox, Antoine",Attribution at time of gift,
 previous_attribution,12189,1,"Florentine 15th or 16th Century, probably after a model by Andrea del Verrocchio and Orsino Benintendi","Florentine 15th or 16th Century, probably after a model by Andrea del Verrocchio and Orsino Benintendi",Bd. Tr. approval 5/1/1997,1997-05-01
 previous_attribution,12189,2,Andrea del Verrocchio,"Verrocchio, Andrea del",Attribution at time of acquisition,
+previous_attribution,12190,1,Lorenzo Ghiberti,"Ghiberti, Lorenzo",Attribution at time of gift,
 previous_attribution,12201,1,Jean Siméon Chardin,"Chardin, Jean Siméon",Attribution at time of gift,
 previous_attribution,12203,1,Hubert Drouais,"Drouais, Hubert","Attribution at time of acquisition
 ",
@@ -799,10 +799,10 @@ previous_title,32734,2,William Penn's Treaty with the Indians,,,
 previous_title,32997,3,Album of Prints after Chardin,,,
 previous_attribution,33246,2,School of Alessandro Longhi,"Longhi, Alessandro, School of",Bd. Tr. approval 5/4/48,
 previous_attribution,33246,1,English School,English School,Attribution at time of gift,
+previous_attribution,33268,1,Italian 13th Century,Italian 13th Century,,
 previous_attribution,33261,1,Netherlandish 15th Century,Netherlandish 15th Century,,
 previous_attribution,33265,1,Netherlandish 15th Century,Netherlandish 15th Century,Attribution at time of acquisition,""
 previous_attribution,33266,1,Workshop of Limbourg Brothers,"Limbourg Brothers, Workshop of",,
-previous_attribution,33268,1,Italian 13th Century,Italian 13th Century,,
 previous_attribution,33269,1,Italian 14th Century,Italian 14th Century,,
 previous_title,33563,2,Nassau Hall from Chancellor Green,,,
 previous_title,33708,2,Figure Study,,,
@@ -830,7 +830,6 @@ previous_attribution,34063,3,American School (?),American School (?),This attrib
 previous_attribution,34067,2,American School (?),American School (?),Bd. Tr. approval 5/6/1964,""
 previous_attribution,34067,1,Washington Allston,"Allston, Washington",Attribution at time of gift,
 previous_attribution,34067,3,European 19th Century,European 19th Century,"Changed to this attribution on unknown date, per accession card and notation on 1964 change proposal.",
-previous_attribution,34085,1,Asher Brown Durand,"Durand, Asher Brown",Attribution at time of gift,
 previous_attribution,34069,1,Joseph Alexander Ames,"Ames, Joseph Alexander",Attribution at time of gift,
 previous_attribution,34070,2,American School (?),American School (?),"Bd. Tr. approval 4/30/69; list reads ""Artist Unknown"", but original change proposal was annotated by W.P. Campbell to read ""American School (?), second quarter 18th century"".",1969-04-30
 previous_attribution,34070,3,Anonymous Unknown Nationality 18th Century,Unknown 18th Century,Change memo 11/14/83,1983-11-14
@@ -847,8 +846,8 @@ previous_attribution,34075,2,School of Sir Godfrey Kneller,"Kneller, Sir Godfrey
 previous_attribution,34075,3,American School (?),American School (?),This attribution assigned at an unknown date.,
 previous_attribution,34077,2,Attributed to Mather Brown,"Brown, Mather, Attributed to",Bd. Tr. approval 4/30/69,
 previous_attribution,34077,1,Mather Brown,"Brown, Mather",Attribution at time of gift,
-previous_attribution,34086,2,European 18th Century,European 18th Century,Bd. Tr. approval 4/30/69,
-previous_attribution,34086,1,Evert Duyckinck I,"Duyckinck I, Evert",Attribution at time of gift,
+previous_attribution,34085,1,Asher Brown Durand,"Durand, Asher Brown",Attribution at time of gift,
+previous_attribution,34132,1,Rembrandt Peale,"Peale, Rembrandt",Attribution at time of acquisition,
 previous_attribution,34079,2,American School (?),American School (?),"Bd. Tr. approval 4/30/69; list reads ""Artist Unknown"", but original change proposal was annotated by W.P. Campbell twice, first to read ""English School, mid 18th century"", then to read ""American (?)"".",
 previous_attribution,34079,1,James Claypoole,"Claypoole, James",Attribution at time of gift,
 previous_attribution,34079,3,Anonymous Unknown Nationality 18th Century,Anonymous Unknown Nationality 18th Century,Change memo 11/14/83,
@@ -863,6 +862,8 @@ previous_attribution,34082,2,European 17th Century,European 17th Century,Bd. Tr.
 previous_attribution,34083,2,American School (?),American School (?),Bd. Tr. approval 5/6/64,
 previous_attribution,34083,1,Abraham Delanoy,"Delanoy, Abraham",Attribution at time of gift,
 previous_attribution,34084,1,William Dunlap,"Dunlap, William",Attribution at time of acquisition,
+previous_attribution,34086,2,European 18th Century,European 18th Century,Bd. Tr. approval 4/30/69,
+previous_attribution,34086,1,Evert Duyckinck I,"Duyckinck I, Evert",Attribution at time of gift,
 previous_attribution,34087,3,Anonymous Unknown Nationality 18th Century,Anonymous Unknown Nationality 18th Century,Change memo 11/14/83,
 previous_attribution,34087,2,European 18th Century,European 18th Century,"Bd. Tr. approval 4/30/69; original change proposal was annotated by W.P. Campbell twice, first to read ""American School (?), first quarter 18th century"", then ""European of indeterminate origin, c. 1700"".",
 previous_attribution,34087,1,Evert Duyckinck III,"Duyckinck III, Evert",Attribution at time of gift,
@@ -877,6 +878,7 @@ previous_attribution,34091,1,Edward Truman,"Truman, Edward",Attribution at time 
 previous_attribution,34091,3,Anonymous Unknown Nationality 18th Century,Anonymous Unknown Nationality 18th Century,Change memo 11/14/83,
 previous_attribution,34091,2,American School (?),American School (?),"Bd. Tr. approval 4/30/69; list reads ""Artist Unknown"", but original change proposal was annotated to indicate that the painting was published under the ""American (?)"" section of the catalogue.",
 previous_attribution,34092,1,Ralph Earl,"Earl, Ralph",Attribution at time of gift,
+previous_attribution,34109,1,John Wesley Jarvis,"Jarvis, John Wesley",Attribution at time of gift,
 previous_attribution,34094,1,John Vanderlyn,"Vanderlyn, John",Attribution at time of gift,
 previous_attribution,34095,2,European 18th Century,European 18th Century,Bd. Tr. approval 4/30/69,
 previous_attribution,34095,1,Nathaniel Emmons,"Emmons, Nathaniel",Attribution at time of gift,
@@ -893,8 +895,6 @@ previous_attribution,34103,1,James Herring,"Herring, James",Attribution at time 
 previous_attribution,34106,1,Henry Inman,"Inman, Henry",Attribution at time of gift,
 previous_attribution,34107,1,Henry Inman,"Inman, Henry",Attribution at time of gift,
 previous_attribution,34108,1,Henry Inman,"Inman, Henry",Attribution at time of acquisition,
-previous_attribution,34109,1,John Wesley Jarvis,"Jarvis, John Wesley",Attribution at time of gift,
-previous_attribution,34118,1,Edward D. Marchant,"Marchant, Edward D.",Attribution at time of gift,
 previous_attribution,34112,2,School of Sir Godfrey Kneller,"Kneller, Sir Godfrey, School of","Bd. Tr. approval 4/30/69; list reads ""Artist Unknown"", but original change proposal was annotated by W.P. Campbell to read ""School of Sir Godfrey Kneller, British School (1646-1723)"".",
 previous_attribution,34112,4,Anonymous Unknown Nationality 17th Century,Anonymous Unknown Nationality 17th Century,"Change memo 11/14/83; list reads ""18th Century"", but this was a mistaken assignment to match the date of a false inscription; error was corrected and attribution changed to 17th Century in 1986.",
 previous_attribution,34112,3,American School (?),American School (?),This attribution assigned at an unknown date.,
@@ -903,6 +903,7 @@ previous_attribution,34114,2,Artist Unknown,Artist Unknown,Bd. Tr. approval 4/30
 previous_attribution,34114,1,Charles Bird King,"King, Charles Bird",Attribution at time of gift,
 previous_attribution,34115,1,James Reid Lambdin,"Lambdin, James Reid",Attribution at time of gift,
 previous_attribution,34117,1,Edward Greene Malbone,"Malbone, Edward Greene",Attribution at time of acquisition,
+previous_attribution,34118,1,Edward D. Marchant,"Marchant, Edward D.",Attribution at time of gift,
 previous_attribution,34119,3,Attributed to John Mare,"Mare, John, Attributed to",See 8/17/83 and 8/23/83 memos on computer artist file,
 previous_attribution,34119,2,John Mare (?),"Mare, John (?)",Bd. Tr. approval 4/30/69,
 previous_attribution,34119,1,John Mare,"Mare, John",Attribution at time of gift,
@@ -924,8 +925,6 @@ previous_attribution,34131,4,Attributed to British 18th Century,"British 18th Ce
 previous_attribution,34131,3,Anonymous Unknown Nationality 19th Century,Anonymous Unknown Nationality 19th Century,Change memo 11/14/1983,1983-11-14
 previous_attribution,34131,1,James Peale,"Peale, James",Attribution at time of gift,
 previous_attribution,34131,2,American School (?),American School (?),"Bd. Tr. approval 4/30/1969; list reads ""Artist Unknown"", but original change proposal was annotated by W.P. Campbell to read ""American (?), second half 18th century (but could be European as well)"".",1969-04-30
-previous_attribution,34132,1,Rembrandt Peale,"Peale, Rembrandt",Attribution at time of acquisition,
-previous_attribution,34147,1,Jacobus Gerritsen Strycker,"Strycker, Jacobus Gerritsen",Attribution at time of gift,
 previous_attribution,34134,5,Attributed to British 18th Century,"British 18th Century, Attributed to",Bd. Tr. approval 10/5/89,
 previous_attribution,34134,1,John Watson,"Watson, John",Attribution at time of gift,
 previous_attribution,34134,4,Anonymous Unknown Nationality 18th Century,Anonymous Unknown Nationality 18th Century,Change memo 11/14/83,
@@ -957,15 +956,16 @@ previous_attribution,34143,2,American School,American School,"Bd. Tr. approval 4
 previous_attribution,34143,1,John Smibert,"Smibert, John",Attribution at time of gift,
 previous_attribution,34145,1,Junius Brutus Stearns,"Stearns, Junius Brutus",Attribution at time of acquisition,
 previous_attribution,34146,1,Jacobus Gerritsen Strycker,"Strycker, Jacobus Gerritsen",Attribution at time of gift,
+previous_attribution,34147,1,Jacobus Gerritsen Strycker,"Strycker, Jacobus Gerritsen",Attribution at time of gift,
 previous_attribution,34148,2,European 18th Century,European 18th Century,Bd. Tr. approval 4/30/69,
 previous_attribution,34148,1,Adolph-Ulrich Wertmüller,"Wertmüller, Adolph-Ulrich",Attribution at time of gift,
 previous_attribution,34150,1,Gilbert Stuart,"Stuart, Gilbert",Attribution at time of gift,
+previous_attribution,34157,1,Thomas Sully,"Sully, Thomas",Attribution at time of gift,
 previous_attribution,34152,3,Attributed to Gilbert Stuart and Follower of Gilbert Stuart,"Stuart, Gilbert, Attributed to and Follower of Gilbert Stuart",See 8/17/83 and 8/23/83 memos on computer artist file,
 previous_attribution,34152,2,Gilbert Stuart (?),"Stuart, Gilbert (?)","Bd. Tr. approval 4/30/69.  W. P. Campbell memo proposing change originally recommended a change to ""Artist(s) Unknown"".  On copy in object file, this has been crossed out and ""Gilbert Stuart (?)"" added.  At some later date the attribution was apparently considered to be ""Gilbert Stuart (?) and Unknown Artist"", because this is what was put in the new format in 1983.  Perhaps it was a combination of the two attributions indicated on the 1969 change memo.",
 previous_attribution,34152,1,Gilbert Stuart,"Stuart, Gilbert",Attribution at time of gift,
 previous_attribution,34154,1,Gilbert Stuart,"Stuart, Gilbert",Attribution at time of gift,
 previous_attribution,34155,1,Gilbert Stuart,"Stuart, Gilbert",Attribution at time of gift,
-previous_attribution,34157,1,Thomas Sully,"Sully, Thomas",Attribution at time of gift,
 previous_attribution,34158,1,Thomas Sully,"Sully, Thomas",Attribution at time of gift,
 previous_attribution,34159,2,American School after Gilbert Stuart,American School after Gilbert Stuart,"Bd. Tr. approval 4/30/69.  W. P. Campbell originally recommended a change to ""Copy after Gilbert Stuart"".  He then amended the proposal to make the attribution ""American School (Copy after Gilbert Stuart)"".",
 previous_attribution,34159,1,Thomas Sully,"Sully, Thomas",Attribution at time of gift,
@@ -974,7 +974,6 @@ previous_attribution,34161,1,Jeremiah Theus,"Theus, Jeremiah",Attribution at tim
 previous_attribution,34161,2,European 18th Century,European 18th Century,"Bd. Tr. approval 4/30/1969
 ",
 previous_attribution,34162,1,British 16th Century,British 16th Century,Attribution at time of gift,
-previous_title,36506,2,Camp Fire,,,
 previous_title,34760,2,Moresques et Damasquines,,,
 previous_title,34902,1,Self-Portrait,,,
 previous_attribution,34907,1,Katharina Prestel after Allart van Everdingen,"Prestel, Katharina after Allart van Everdingen",,
@@ -997,14 +996,15 @@ previous_attribution,35143,1,School of Claude Lorrain,"Claude Lorrain, School of
 previous_attribution,35441,1,Alfred Stieglitz,"Stieglitz, Alfred",,
 previous_title,36500,2,Chicken Vendors,,,
 previous_title,36501,2,Going to the Sacrifice,,,
+previous_title,36506,2,Camp Fire,,,
 previous_attribution,36529,1,Follower of Lippo Vanni,"Vanni, Lippo, Follower of",,
 previous_attribution,37004,1,Byzantine 13th Century,Byzantine 13th Century,Attribution at time of acquisition,1949
 previous_attribution,37028,1,Attributed to Egyptian Ptolemaic Period,"Egyptian Ptolemaic Period, Attributed to",Attribution at time of gift,
 previous_attribution,37028,2,Probably Egyptian Ptolemaic Period,"Egyptian Ptolemaic Period, Probably","Change memo 10/9/1991
 ",
 previous_attribution,37039,1,Jost Amman,"Amman, Jost",,
-previous_attribution,37060,1,Attributed to Philip Galle after Pieter Bruegel the Elder,"Galle, Philip, Attributed to after Pieter Bruegel the Elder",attribution confirmed in Galle New Hollstein (2001),""
 previous_attribution,37044,1,Follower of Lorenzo Monaco,"Lorenzo Monaco, Follower of",Change of attribution reflects proposal of 5/08,2008-05-28
+previous_attribution,37060,1,Attributed to Philip Galle after Pieter Bruegel the Elder,"Galle, Philip, Attributed to after Pieter Bruegel the Elder",attribution confirmed in Galle New Hollstein (2001),""
 previous_attribution,37061,1,Attributed to Philip Galle after Pieter Bruegel the Elder,"Galle, Philip, Attributed to after Pieter Bruegel the Elder",attribution confirmed in Galle New Hollstein (2001),""
 previous_attribution,37107,1,Hendrik Goltzius,"Goltzius, Hendrik",,
 previous_attribution,37632,1,Attributed to Justus Sustermans,"Sustermans, Justus, Attributed to","Attribution at time of acquisition
@@ -1095,6 +1095,7 @@ previous_attribution,41610,3,British 18th Century,British 18th Century,See 8/17/
 previous_attribution,41610,2,English School,English School,Bd. Tr. approval 4/30/69,
 previous_attribution,41610,1,William Hogarth,"Hogarth, William",Attribution at time of gift,
 previous_attribution,41612,1,Luca Signorelli,"Signorelli, Luca",Attribution at time of gift,
+previous_attribution,41664,1,Nicolas Poussin,"Poussin, Nicolas",Attribution at time of acquisition,
 previous_attribution,41628,1,Orcagna and Jacopo di Cione,Orcagna and Jacopo di Cione,Attribution at time of acquisition,1952
 previous_attribution,41629,3,Workshop of Piero della Francesca,"Piero della Francesca, Workshop of","See 8/17/1983 and 8/23/1983 memos on computer artist file
 ",
@@ -1116,22 +1117,21 @@ previous_attribution,41635,1,Simone Martini and Assistants,Simone Martini and As
 previous_attribution,41636,2,Workshop of Simone Martini,"Simone Martini, Workshop of",Bd. Tr. approval 10/4/84,1984-10-04
 previous_attribution,41636,1,Simone Martini and Assistants,Simone Martini and Assistants,Attribution at time of gift,1952
 previous_attribution,41637,1,Circle of Tintoretto (Probably Lambert Sustris),Circle of Tintoretto (Probably Lambert Sustris),Bd. Tr. 1/25/2018 ,2018-01-25
+previous_attribution,41680,2,Circle of Andrea del Verrocchio (Possibly Leonardo da Vinci),"Verrocchio, Andrea del, Circle of (Possibly Leonardo da Vinci)","Date of change unknown, but published with this attribution in 1965 summary catalogue.
+",
+previous_attribution,41680,1,Attributed to Leonardo da Vinci,"Leonardo da Vinci, Attributed to",Attribution at time of gift,
+previous_attribution,41680,3,Workshop of Andrea del Verrocchio (Possibly Leonardo da Vinci),"Verrocchio, Andrea del, Workshop of (Possibly Leonardo da Vinci)","Change memo 11/14/1983, where change was incorrectly listed as to ""Attributed to Leonardo da Vinci"" (the attribution at time of acquisition); published with this attribution in 1985 summary catalogue.
+",""
 previous_attribution,41641,1,Albrecht Altdorfer,"Altdorfer, Albrecht",Attribution at time of gift,
 previous_attribution,41642,1,Albrecht Altdorfer,"Altdorfer, Albrecht",Attribution at time of gift,
 previous_attribution,41643,1,Albrecht Altdorfer,"Altdorfer, Albrecht",Attribution at time of gift,
 previous_attribution,41644,1,School of Amiens,School of Amiens,Attribution at time of gift,
 previous_attribution,41654,1,Hispano-Dutch School,Hispano-Dutch School,Attribution at time of gift,
 previous_attribution,41658,1,Studio of Simon Marmion,"Marmion, Simon, Studio of",Attribution at time of acquisition,
-previous_attribution,41664,1,Nicolas Poussin,"Poussin, Nicolas",Attribution at time of acquisition,
 previous_attribution,41675,2,Attributed to Cimabue,"Cimabue, Attributed to",Bd. Tr. approval 1/9/1964,1964-01-09
 previous_attribution,41675,1,Cimabue,Cimabue,Attribution at time of gift,1952
 previous_attribution,41677,1,Domenico Ghirlandaio,"Ghirlandaio, Domenico","Attribution at time of acquisition
 ",
-previous_attribution,41680,2,Circle of Andrea del Verrocchio (Possibly Leonardo da Vinci),"Verrocchio, Andrea del, Circle of (Possibly Leonardo da Vinci)","Date of change unknown, but published with this attribution in 1965 summary catalogue.
-",
-previous_attribution,41680,1,Attributed to Leonardo da Vinci,"Leonardo da Vinci, Attributed to",Attribution at time of gift,
-previous_attribution,41680,3,Workshop of Andrea del Verrocchio (Possibly Leonardo da Vinci),"Verrocchio, Andrea del, Workshop of (Possibly Leonardo da Vinci)","Change memo 11/14/1983, where change was incorrectly listed as to ""Attributed to Leonardo da Vinci"" (the attribution at time of acquisition); published with this attribution in 1985 summary catalogue.
-",""
 previous_attribution,41681,1,Studio of Leonardo da Vinci,"Leonardo da Vinci, Studio of","Attribution at time of acquisition
 ",
 previous_attribution,41683,1,Master of the Life of Saint John the Baptist,Master of the Life of Saint John the Baptist,Attribution at time of acquisition,1952
@@ -2739,9 +2739,9 @@ previous_title,111583,2,Procession Entering a City,,,
 previous_title,117817,3,Mutter,,,
 previous_title,118123,2,L.A. 98,,,
 previous_attribution,118129,1,James VanDerZee,"VanDerZee, James",,
-previous_attribution,118822,1,Manner of Sir Anthony van Dyck,"Dyck, Sir Anthony van, Manner of",Attribution at time of acquisition,
 previous_attribution,118820,1,Manner of Sir Anthony van Dyck,"Dyck, Sir Anthony van, Manner of",Attribution at time of acquisition,
 previous_attribution,118821,1,Manner of Sir Anthony van Dyck,"Dyck, Sir Anthony van, Manner of",Attribution at time of acquisition,
+previous_attribution,118822,1,Manner of Sir Anthony van Dyck,"Dyck, Sir Anthony van, Manner of",Attribution at time of acquisition,
 previous_attribution,118823,1,Manner of Sir Anthony van Dyck,"Dyck, Sir Anthony van, Manner of",Attribution at time of acquisition,
 previous_attribution,118824,1,Manner of Sir Anthony van Dyck,"Dyck, Sir Anthony van, Manner of",Attribution at time of acquisition,
 previous_attribution,118825,1,Manner of Sir Anthony van Dyck,"Dyck, Sir Anthony van, Manner of",Attribution at time of acquisition,
@@ -3127,8 +3127,8 @@ previous_attribution,150139,1,North Italian 16th Century,North Italian 16th Cent
 previous_attribution,150139,2,Paduan 16th Century,Paduan 16th Century,Attribution at time of gift,
 previous_attribution,150140,1,North Italian 16th Century,North Italian 16th Century,Reported to Bd. Tr. 5/4/1983,""
 previous_attribution,150140,2,Paduan 16th Century,Paduan 16th Century,Attribution at time of gift,
-previous_title,151036,2,A Vase of Fuschias,,,
 previous_attribution,151054,1,Maurice Denis,"Denis, Maurice",,
+previous_title,151036,2,A Vase of Fuschias,,,
 previous_title,151080,2,"The Quais, St. Tropez",,,
 previous_title,151095,2,"The Great Red Rock (Garden of the Gods, Colo)",,,
 previous_attribution,151111,1,"European 19th Century, after Bernard Palissy","European 19th Century, after Bernard Palissy","Corcoran change proposal 9/7/2007; entered originally as ""Unknown 19th Century, after Bernard Palissy"" but adjusted to ""European 19th Century, after Bernard Palissy"" when lead-glazed earthenware objects validated in May 2020",2007-09-07
@@ -3137,6 +3137,7 @@ previous_attribution,151227,1,French 19th Century,French 19th Century,,
 previous_title,151229,2,Clothed Torso,,,
 previous_title,151240,2,Midas,,,
 previous_attribution,151274,1,Georg Friedrich Schmidt,"Schmidt, Georg Friedrich",,
+previous_title,152738,2,Sea Gulls,,,
 previous_attribution,151355,1,Johann Gottlieb Prestel,"Prestel, Johann Gottlieb",,
 previous_title,151472,2,Bettelheim Image,,,
 previous_title,151473,2,Bettelheim Image,,,
@@ -3147,10 +3148,8 @@ previous_title,152254,2,The Adoration of the Christ Child with the Manger,,,
 previous_title,152255,2,A Cherub Pointing the Way for Two Biblical Figures,,,
 previous_title,152392,2,"Essais de gravure à l'eau forte par Alexandre Calame, II, pl. 24",,,
 previous_title,152726,2,Still Life (Two Pears and Strawberries),,,
-previous_title,152738,2,Sea Gulls,,,
 previous_attribution,152778,1,Hendrik Goltzius,"Goltzius, Hendrik",,
 previous_title,152824,2,An Oriental Ruler Seated on His Throne,,,
-previous_attribution,154419,1,Mathias Gabriel Lory Fils,"Lory, Mathias Gabriel Fils",,
 previous_attribution,153115,1,Vincenzo Camuccini,"Camuccini, Vincenzo",,
 previous_attribution,153116,1,Esperanza de Cervantes,"de Cervantes, Esperanza",,
 previous_title,153453,2,the puritan,,,
@@ -3167,11 +3166,12 @@ previous_attribution,154019,1,Jan Pietersz Saenredam,"Saenredam, Jan Pietersz",,
 previous_attribution,154023,1,"Jan Pietersz Saenredam, after Hendrick Goltzius","Saenredam, Jan Pietersz, after Hendrick Goltzius",Given to Goltzius in New Hollstein (2012) based on scholarship by Jan Piet Filedt Kok and others,2020-01-17
 previous_title,154153,3,Six Wild Animals,,,
 previous_attribution,154159,1,Currier and Ives (publishers),Currier and Ives (publishers),,
-previous_attribution,154219,1,Sam Taylor-Wood,"Taylor-Wood, Sam",,
 previous_attribution,154230,1,"Ernst Ludwig Kirchner, Will Grohmann","Kirchner, Ernst Ludwig, Will Grohmann",,
+previous_attribution,154219,1,Sam Taylor-Wood,"Taylor-Wood, Sam",,
 previous_attribution,154300,1,"Hans Collaert, after Philip Galle","Collaert, Hans, after Philip Galle",,
 previous_attribution,154301,1,"Hans Collaert, after Philip Galle","Collaert, Hans, after Philip Galle",,
 previous_attribution,154302,1,"Hans Collaert, after Philip Galle","Collaert, Hans, after Philip Galle",,
+previous_attribution,154419,1,Mathias Gabriel Lory Fils,"Lory, Mathias Gabriel Fils",,
 previous_attribution,154420,1,Mathias Gabriel Lory Fils,"Lory, Mathias Gabriel Fils",,
 previous_attribution,154431,1,Jacoba van Heemskerck,"van Heemskerck, Jacoba",,
 previous_attribution,154431,2,Erich Heckel,"Heckel, Erich",,
@@ -5550,13 +5550,13 @@ previous_attribution,222743,1,Robert Adams,"Adams, Robert",,
 previous_attribution,222885,1,Italian 15th Century,Italian 15th Century,Attribution at time of acquisition,""
 previous_attribution,222886,1,Italian 15th Century,Italian 15th Century,Attribution at time of acquisition,""
 previous_attribution,223069,1, ,,,
+previous_attribution,223412,1,Stacy,Stacy,,
 previous_title,223186,2,"SONG OF SOLOMON 5:16 – BE BEEWORLD: BE B BOY B GIRL (after “Emperor Xuanzong and Yang Gueifei playing the same flute,” by Utamaro Kitagawa)",,,
 previous_attribution,223401,1,Charles D. Fredricks,"Fredricks, Charles D.",,
 previous_attribution,223406,1,Bingham,Bingham,,
 previous_attribution,223407,1,Washington L Germon,"Germon, Washington L",,
 previous_attribution,223407,2,Charles D. Fredricks,"Fredricks, Charles D.",,
 previous_attribution,223409,1,Charles D. Fredricks,"Fredricks, Charles D.",,
-previous_attribution,223412,1,Stacy,Stacy,,
 previous_attribution,223445,1,Unknown 19th Century,Unknown 19th Century,,
 previous_attribution,223445,2,Charles D. Fredricks,"Fredricks, Charles D.",,
 previous_attribution,223731,1,Zaneli Muholi,"Muholi, Zaneli",,

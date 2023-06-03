@@ -867,7 +867,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 926,,"Weis, Paul J., Mr.",Mr. Paul J. Weis,Weis,,0,,,,,Other,individual,
 973,500014669,"Bloch, Martin",Martin Bloch,Bloch,"German, 1883 - 1954",1,1883,1954,1876 to 1900,German,German,individual,Q3295343
 974,500016466,"Böcklin, Arnold",Arnold Böcklin,Böcklin,"Swiss, 1827 - 1901",1,1827,1901,1826 to 1850,Swiss,Swiss,individual,Q123071
-53236,,"Ruocco, Jeff",Jeff Ruocco,Ruocco,,1,,,,,Other,individual,
 930,,"Bader, Franz, Mr. and Mrs.",Mr. and Mrs. Franz Bader,Bader,he: 1903 - 1994,0,1903,1994,1901 to 1925,,Other,couple,
 931,,"Kinnaird, 13th Baron Kinnaird, Graham Charles","Graham Charles Kinnaird, 13th Baron Kinnaird",Kinnaird,"Scottish, 1912 - 1997",0,1912,1997,1901 to 1925,Scottish,Scottish,individual,
 932,,"Hatch, Claire Penelope, Mrs.",Mrs. Claire Penelope Hatch,Hatch,,0,,,,,Other,individual,
@@ -14080,6 +14079,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 25003,500488027,"Asher, Lila Oliver",Lila Oliver Asher,Asher,"American, 1921 - 2021",1,1921,2021,1901 to 1925,American,American,individual,
 25004,,"Penrhyn, Edward Sholto, 3rd Baron","Edward Sholto, 3rd Baron Penrhyn",Penrhyn,1864 - 1927,0,1864,1927,1851 to 1875,,Other,individual,
 25005,,"Clemenceau, Georges",Georges Clemenceau,Clemenceau,"French, 1841 - 1929",1,1841,1929,1826 to 1850,French,French,individual,Q171730
+25006,,"Gijsbrechts, Cornelis Norbertus",Cornelis Norbertus Gijsbrechts,Gijsbrechts,"Flemish (?), active c.1659 - c.1675",1,1610,1675,1601 to 1650,Flemish (?),Flemish,individual,
 25026,,"Dupan, Jules",Jules Dupan,Dupan,,0,,,,,Other,individual,
 25027,,Flury-Hérard,Flury-Hérard,Flury-Hérard,,0,,,,,Other,individual,
 25029,,"Gerbeau, Jules",Jules Gerbeau,Gerbeau,"French, 1833 - 1906",0,1833,1906,1826 to 1850,French,French,individual,
@@ -15693,7 +15693,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 28125,,"Bagnesi, Adele, Marchesa",Marchesa Adele Bagnesi,Bagnesi,,0,,,,,Other,individual,
 28126,,"Bonaccini, Zelindo",Zelindo Bonaccini,Bonaccini,"Italian, 1890 - 1967",0,1890,1967,1876 to 1900,Italian,Italian,individual,
 28130,,"Macauley, William J. Babington, Mrs.",Mrs. William J. Babington Macauley,Macauley,,0,,,,,Other,individual,
-28132,500021244,"Borch, Gesina ter",Gesina ter Borch,Borch,"Dutch, 1633 - 1690",1,1633,1690,1601 to 1650,Dutch,Dutch,individual,
+28132,500021244,"Ter Borch, Gesina",Gesina ter Borch,Ter Borch,"Dutch, 1631 - 1690",1,1631,1690,1601 to 1650,Dutch,Dutch,individual,
 28133,500108241,"Bovy, Antoine",Antoine Bovy,Bovy,"Swiss, 1795 - 1877",1,1795,1877,1776 to 1800,Swiss,Swiss,individual,Q116730
 28134,,"Dubufe, Juliette",Juliette Dubufe,Dubufe,"French, active mid 19th century",1,1794,1885,1776 to 1800,French,French,individual,
 28135,500332700,"Dropsy, Henry",Henry Dropsy,Dropsy,"French, 1885 - 1969",1,1885,1969,1876 to 1900,French,French,individual,Q3131000
@@ -26033,7 +26033,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52009,,"Rivkin, Jay",Jay Rivkin,Rivkin,"American, 1916 - 2006",1,1916,2006,1901 to 1925,American,American,individual,
 52010,,"Blassingame, Tia",Tia Blassingame,Blassingame,"American, born 1971",1,1971,,1951 to 1975,American,American,individual,
 52015,,"Kong, Ellen",Ellen Kong,Kong,,0,,,,,Other,individual,
-52016,,"Martinez, Eddie",Eddie Martinez,Martinez,"American, born 1977",1,1977,,1976 to 2000,American,American,individual,
+52016,500524106,"Martinez, Eddie",Eddie Martinez,Martinez,"American, born 1977",1,1977,,1976 to 2000,American,American,individual,
 52018,,"Merck, George",George Merck,Merck,,0,,,,,Other,individual,
 52019,,"Pecis, Hilary",Hilary Pecis,Pecis,"American, born 1979",1,1979,,1976 to 2000,American,American,individual,
 52020,,"Cooper, Ted",Ted Cooper,Cooper,,0,,,,,Other,individual,
@@ -26119,7 +26119,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52146,,"Tramaine, Genesis",Genesis Tramaine,Tramaine,"American, born 1983",1,1983,,1976 to 2000,American,American,individual,
 52147,500463765,"Gupta, Sunil",Sunil Gupta,Gupta,"Canadian, born India, 1953",1,1953,,1951 to 1975,Canadian,Canadian,individual,
 52148,,Hales Gallery,Hales Gallery,,,0,,,,,Other,corporate,
-52149,,"Caesar, Pogus",Pogus Caesar,Caesar,"British, born St. Kitts, 1953",1,1953,,1951 to 1975,British,British,individual,
+52149,,"Caesar, Pogus",Pogus Caesar,Caesar,"British, born St. Kitts, 1953",1,1953,,1951 to 1975,British,British,individual,Q7207725
 52150,,"Dallwitz, Wolfgang von",Wolfgang von Dallwitz,Dallwitz,"German, 1863-1928",0,1863,1928,1851 to 1875,German,German,individual,
 52151,500332016,"Herrera, Carmen",Carmen Herrera,Herrera,"American, born Cuba 1915 - 2022",1,1915,2022,1901 to 1925,American,American,individual,Q522662
 52152,500126900,"Jemison, G. Peter",G. Peter Jemison,Jemison,"Seneca, Heron Clan, born 1945",1,1945,,1926 to 1950,American,American,individual,
@@ -26416,7 +26416,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52834,,"Pyramid Arts, Ltd.","Pyramid Arts, Ltd.",,,1,,,,,Other,corporate,
 52835,,"Edition Fred Jahn, Munich","Edition Fred Jahn, Munich",,,1,,,,,Other,corporate,
 52836,,"Imhof, Karl",Karl Imhof,Imhof,"German, born 1940",1,1940,,1926 to 1950,German,German,individual,
-53234,,"Rosenthal, Ernest",Ernest Rosenthal,Rosenthal,,1,,,,,Other,individual,
 52840,,"Solo Press Inc., New York","Solo Press Inc., New York",,,1,,,,,Other,corporate,
 52841,,"Lassiter, Norman",Norman Lassiter,Lassiter,,1,,,,,Other,individual,
 52842,,RounTree Fine Art Ltd.,RounTree Fine Art Ltd.,,,0,,,,,Other,corporate,
@@ -26454,6 +26453,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52948,,"Petitjean, Charles M.",Charles M. Petitjean,Petitjean,"French, died c.1925",0,,1925,,French,French,individual,
 52952,,"Calvocoressi, Peter",Peter Calvocoressi,Calvocoressi,"British, 1912 - 2010",0,1912,2010,1901 to 1925,British,British,individual,
 52957,,Primrose Press,Primrose Press,,,1,,,,,Other,corporate,
+52965,,"von Auersperg, Johann Ferdinand Duke of Silesia-Münsterberg Prince","Prince Johann Ferdinand von Auersperg, Duke of Silesia-Münsterberg",von Auersperg,1655 - 1705,0,1655,1705,1651 to 1700,,Other,individual,
+52966,,Galerie Robert Finck,"Galerie Robert Finck, Brussels",,,0,,,,,Other,corporate,
 52991,,J. B. Lippincott Company,J. B. Lippincott Company,,,1,1836,,1826 to 1850,,Other,corporate,
 52992,,The Golden Cockerel Press,The Golden Cockerel Press,,,1,,,,,Other,corporate,
 52994,,"Herbert, Alfred",Alfred Herbert,Herbert,"British, c. 1820 - 1861",1,1820,1861,1801 to 1825,British,British,individual,
@@ -26464,6 +26465,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53228,,"Meyer, Dietrich the Elder",Dietrich Meyer the Elder,Meyer,"Swiss, 1572 - 1658",1,1572,1658,1551 to 1600,Swiss,Swiss,individual,
 53231,,"Montauban van Swijndrecht, Hubertus Michiel",Hubertus Michiel Montauban van Swijndrecht,Montauban van Swijndrecht,"Dutch, 1841 - 1929",0,1841,1929,1826 to 1850,Dutch,Dutch,individual,
 53232,,"Bianchi, Jan Frederik",Jan Frederik Bianchi,Bianchi,"Dutch, 1878 - 1963",0,1878,1963,1876 to 1900,Dutch,Dutch,individual,
+53234,,"Rosenthal, Ernest",Ernest Rosenthal,Rosenthal,,1,,,,,Other,individual,
+53236,,"Ruocco, Jeff",Jeff Ruocco,Ruocco,,1,,,,,Other,individual,
 53246,,"Richter, Jean Paul",Jean Paul Richter,Richter,"German, 1847 - 1937",0,1847,1937,1826 to 1850,German,German,individual,
 53250,,"Johanson, Cynthia J.",Cynthia J. Johanson,Johanson,,0,1946,2004,1926 to 1950,,Other,individual,
 53251,,Mystic Fine Arts,Mystic Fine Arts,,,0,1982,2002,1976 to 2000,,Other,corporate,
