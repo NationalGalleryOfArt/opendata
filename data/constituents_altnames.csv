@@ -6296,7 +6296,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 6609,6616,Vlieger,"Vlieger, Simon de",,Preferred Name
 6610,6617,Pennington,"Pennington, Harper",,Preferred Name
 6611,6618,Watelet,"Watelet, Claude Henri",,Preferred Name
-31792,109,Kainen,"Kainen, Ruth",,Spouse
+19102,19109,Smith,Smith,,Preferred Name
 6612,6619,Falconetto,"Falconetto, Angelo",,Preferred Name
 6613,6620,Swart van Groningen,"Swart van Groningen, Jan",,Preferred Name
 6614,6621,Ponce,"Ponce, Marguerite",,Preferred Name
@@ -7452,6 +7452,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 7839,7846,Merkley,"Merkley, Arthur G.",,Preferred Name
 7840,7847,Merklin,"Merklin, William",,Preferred Name
 7841,7848,Merriam,"Merriam, Harold",,Preferred Name
+31792,109,Kainen,"Kainen, Ruth",,Spouse
 7842,7849,Merrill,"Merrill, Katharine",,Preferred Name
 7843,7850,Merrill,"Merrill, Sumner",,Preferred Name
 7844,7851,Metelli,"Metelli, Guido",,Preferred Name
@@ -11221,6 +11222,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 15866,15873,Dies,"Dies, Albert Christoph",,Preferred Name
 15867,15874,Mechau,"Mechau, Jacob Wilhelm",,Preferred Name
 15903,15910,Phyfe,"Phyfe, Duncan",,Preferred Name
+15907,15914,Braman,"Braman, Norman, Mr. and Mrs.",,Preferred Name
 15908,15915,,Fondation Maeght,,Preferred Name
 15930,15937,,Musée National Fernand-Leger,,Preferred Name
 15943,15950,Perls,"Perls, Klaus",,Preferred Name
@@ -11701,7 +11703,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 19099,19106,Pfaff,"Pfaff, Judy",,Preferred Name
 19100,19107,Raetz,"Raetz, Markus",,Preferred Name
 19101,19108,West,"West, Jr., Benjamin",,Preferred Name
-19102,19109,Smith,Smith,,Preferred Name
 19103,19110,"Private Collection, Yorkshire","Private Collection, Yorkshire",,Preferred Name
 19105,19112,George III,"George III, King of England",,Preferred Name
 19106,19113,Beckford,"Beckford, 10th Duchess of Hamilton, Susan Euphemia",,Preferred Name
@@ -33005,6 +33006,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61238,52225,Miller-Brown,"Miller-Brown, Andrew",,Preferred Name
 61243,52229,Renard,"Renard, Jean Augustin",,Preferred Name
 61244,52230,Ballester,"Ballester, Mariano",,Preferred Name
+61245,15914,,"Braman dated May 21, 2022, Declaration of Trust of Norman",,Variant
+61246,15914,Braman,"Braman, Irma and Norman",,Variant Index Name
 61247,52231,Patterson,"Patterson, Margaret",,Preferred Name
 61249,52233,Cole,"Cole, Ernest",,Preferred Name
 61251,52235,,Bockley Gallery,,Preferred Name
@@ -33358,6 +33361,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61983,39611,Kemble,"Kemble, E. W.",,Variant
 61984,33300,Cohen,"Cohen, H. George",,Variant
 61985,33395,Emmanuel,"Emmanuel, Herzel",,Variant
+61986,52825,Small,"Small, Shirley S.",,Preferred Name
 61991,52826,,Kate Haw and Elizabeth Tinsman,,Preferred Name
 61992,33287,Chatterton,"Chatterton, Clarence Kerr",,Variant
 61993,52827,USCO,USCO,,Preferred Name
@@ -33389,6 +33393,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62026,52836,Imhof,"Imhof, Karl",,Preferred Name
 62027,52837,Farquhar,"Farquhar, Elinor",,Preferred Name
 62030,4826,Martial Potémont,"Martial Potémont, Adolphe Théodore Jules",,Variant
+62031,52839,Chin,"Chin, Mel",,Preferred Name
 62032,52840,,"Solo Press Inc., New York",,Preferred Name
 62033,52841,Lassiter,"Lassiter, Norman",,Preferred Name
 62034,52842,,RounTree Fine Art Ltd.,,Preferred Name
@@ -33502,3 +33507,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62559,53288,Hartshorne,"Hartshorne, Richard",,Preferred Name
 62565,44747,,Yancey Richardson Gallery,,Preferred Name
 62566,8492,Boehler,"Boehler, Julius",,Variant
+62572,23566,,,,Variant
