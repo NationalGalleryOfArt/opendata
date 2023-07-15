@@ -6300,7 +6300,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 6609,6616,Vlieger,"Vlieger, Simon de",,Preferred Name
 6610,6617,Pennington,"Pennington, Harper",,Preferred Name
 6611,6618,Watelet,"Watelet, Claude Henri",,Preferred Name
-19102,19109,Smith,Smith,,Preferred Name
 6612,6619,Falconetto,"Falconetto, Angelo",,Preferred Name
 6613,6620,Swart van Groningen,"Swart van Groningen, Jan",,Preferred Name
 6614,6621,Ponce,"Ponce, Marguerite",,Preferred Name
@@ -7456,7 +7455,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 7839,7846,Merkley,"Merkley, Arthur G.",,Preferred Name
 7840,7847,Merklin,"Merklin, William",,Preferred Name
 7841,7848,Merriam,"Merriam, Harold",,Preferred Name
-31792,109,Kainen,"Kainen, Ruth",,Spouse
 7842,7849,Merrill,"Merrill, Katharine",,Preferred Name
 7843,7850,Merrill,"Merrill, Sumner",,Preferred Name
 7844,7851,Metelli,"Metelli, Guido",,Preferred Name
@@ -10180,6 +10178,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11352,11359,Mariette,"Mariette, Jean",,Preferred Name
 11356,11363,,National Collection of Fine Arts,,Preferred Name
 11357,11364,Meissonnier,"Meissonnier, Juste Aurèle",,Preferred Name
+11359,11366,,"Szépművészeti Múzeum, Budapest",,Unicode Display Name
 11360,11367,Montfaucon,"Montfaucon, Bernard de",,Preferred Name
 11361,11368,Neufforge,"Neufforge, Jean-François de",,Preferred Name
 11365,11372,Niceron,"Niceron, Jean François",,Preferred Name
@@ -10396,6 +10395,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11668,11675,Beinaschi,"Beinaschi, Giovanni Battista",,Preferred Name
 11671,11678,,Spanierman Gallery,,Preferred Name
 11673,11680,Augustus II,"Augustus II, Elector of Saxony, Friedrich",,Preferred Name
+12073,12080,Fougeron,"Fougeron, Ignace",,Preferred Name
 11676,11683,Temple,"Temple, 2nd Viscount Palmerston, Henry",,Preferred Name
 11677,11684,"Lygon, 1st Earl Beauchamp","Lygon, 1st Earl Beauchamp, William",,Preferred Name
 11678,11685,Beauchamp,"Beauchamp, Else, Countess",,Preferred Name
@@ -10490,7 +10490,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 12053,12060,Meyer,"Meyer, Franz, Mr.",,Preferred Name
 12068,12075,Shafto,"Shafto, Robert",,Preferred Name
 12069,12076,Adair,"Adair, William",,Preferred Name
-12073,12080,Fougeron,"Fougeron, Ignace",,Preferred Name
 12074,12081,Miller,"Miller, Tobias",,Preferred Name
 12078,12085,Bodenehr,"Bodenehr, Georg-Conrad",,Preferred Name
 12079,12086,Böcklin,"Böcklin, Johann",,Preferred Name
@@ -10951,6 +10950,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13954,13961,,"National Gallery of Art Library, Department of Image Collections",,Preferred Name
 13956,13963,Walter,"Walter, Paul F., Mr.",,Preferred Name
 13961,13968,Poel,"Poel, Pieter Dirk van der",,Preferred Name
+19102,19109,Smith,Smith,,Preferred Name
 13962,13969,Huyghe,"Huyghe, René, Professor",,Preferred Name
 13981,13988,Antonio da Sangallo,Antonio da Sangallo,,Preferred Name
 13982,13989,Heymann,"Heymann, H.",,Preferred Name
@@ -11044,6 +11044,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 14541,14548,Giraudoux,"Giraudoux, Jean",,Preferred Name
 14543,14550,Mac Orlan,"Mac Orlan, Pierre",,Preferred Name
 14544,14551,Salmon,"Salmon, André",,Preferred Name
+31792,109,Kainen,"Kainen, Ruth",,Spouse
 14546,14553,Jacob,"Jacob, Max",,Preferred Name
 14547,14554,Lacretelle,"Lacretelle, Jacques de",,Preferred Name
 14548,14555,Kessel,"Kessel, Joseph",,Preferred Name
@@ -22237,6 +22238,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38550,32836,Rhoades,"Rhoades, Katharine Nash",,Preferred Name
 38559,32843,Lelu,"Lelu, Pierre",,Preferred Name
 38560,32844,Cipriano,"Cipriano, Jennifer",,Preferred Name
+38564,11366,,"Museum of Fine Arts, Budapest",,Preferred Name
 38577,32857,DiGangi,"DiGangi, Joseph P.",,Preferred Name
 38578,32858,Muschio,"Muschio, Andrea",,Preferred Name
 38579,32859,,Didier Aaron,,Preferred Name
