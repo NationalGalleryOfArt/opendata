@@ -65,21 +65,6 @@ locationid,site,room,publicaccess,description,unitposition
 4207,East Building,EU-405,1,"East Bldg, West Terrace",N
 4208,East Building,EU-405,1,"East Bldg, West Terrace",S
 4209,East Building,EU-405,1,"East Bldg, West Terrace",W
-4210,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",
-4211,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",E
-4212,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",N
-4213,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",S
-4214,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",W
-4215,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",
-4216,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",E
-4217,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",N
-4218,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",S
-4219,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",W
-4220,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",
-4221,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",E
-4222,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",N
-4223,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",S
-4224,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",W
 4266,East Building,EU-408,1,"East Bldg, Vestibule, 408 (Pod 2)",
 4267,East Building,EU-408,1,"East Bldg, Vestibule, 408 (Pod 2)",N
 4268,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",
@@ -427,6 +412,121 @@ locationid,site,room,publicaccess,description,unitposition
 8467,West Building,M-051,1,West Main Floor Gallery 51,N
 8468,West Building,M-051,1,West Main Floor Gallery 51,S
 8469,West Building,M-051,1,West Main Floor Gallery 51,W
+8470,West Building,M-052,1,West Main Floor Gallery 52,
+8471,West Building,M-052,1,West Main Floor Gallery 52,E
+8472,West Building,M-052,1,West Main Floor Gallery 52,N
+8473,West Building,M-052,1,West Main Floor Gallery 52,S
+8474,West Building,M-052,1,West Main Floor Gallery 52,W
+8475,West Building,M-053,1,West Main Floor Gallery 53,
+8476,West Building,M-053,1,West Main Floor Gallery 53,E
+8477,West Building,M-053,1,West Main Floor Gallery 53,N
+8478,West Building,M-053,1,West Main Floor Gallery 53,S
+8479,West Building,M-053,1,West Main Floor Gallery 53,W
+8494,West Building,M-054,1,West Main Floor Gallery 54,
+8495,West Building,M-054,1,West Main Floor Gallery 54,E
+8496,West Building,M-054,1,West Main Floor Gallery 54,N
+8497,West Building,M-054,1,West Main Floor Gallery 54,S
+8498,West Building,M-054,1,West Main Floor Gallery 54,W
+8501,West Building,M-055,1,West Main Floor Gallery 55,
+8502,West Building,M-055,1,West Main Floor Gallery 55,E
+8503,West Building,M-055,1,West Main Floor Gallery 55,N
+8504,West Building,M-055,1,West Main Floor Gallery 55,S
+8505,West Building,M-055,1,West Main Floor Gallery 55,W
+8506,West Building,M-056,1,West Main Floor Gallery 56,
+8507,West Building,M-056,1,West Main Floor Gallery 56,E
+8508,West Building,M-056,1,West Main Floor Gallery 56,N
+8509,West Building,M-056,1,West Main Floor Gallery 56,S
+8510,West Building,M-056,1,West Main Floor Gallery 56,W
+8511,West Building,M-057,1,West Main Floor Gallery 57,
+8512,West Building,M-057,1,West Main Floor Gallery 57,E
+8513,West Building,M-057,1,West Main Floor Gallery 57,N
+8514,West Building,M-057,1,West Main Floor Gallery 57,S
+8515,West Building,M-057,1,West Main Floor Gallery 57,W
+8516,West Building,M-058,1,West Main Floor Gallery 58,
+8517,West Building,M-058,1,West Main Floor Gallery 58,E
+8518,West Building,M-058,1,West Main Floor Gallery 58,N
+8519,West Building,M-058,1,West Main Floor Gallery 58,S
+8520,West Building,M-058,1,West Main Floor Gallery 58,W
+8521,West Building,M-059,1,West Main Floor Gallery 59,
+8522,West Building,M-059,1,West Main Floor Gallery 59,E
+8523,West Building,M-059,1,West Main Floor Gallery 59,N
+8524,West Building,M-059,1,West Main Floor Gallery 59,S
+8525,West Building,M-059,1,West Main Floor Gallery 59,W
+8526,West Building,M-060,1,West Main Floor Gallery 60,
+8527,West Building,M-060,1,West Main Floor Gallery 60,E
+8528,West Building,M-060,1,West Main Floor Gallery 60,N
+8529,West Building,M-060,1,West Main Floor Gallery 60,S
+8530,West Building,M-060,1,West Main Floor Gallery 60,W
+8531,West Building,M-060-A,1,West Main Floor Gallery 60 A,
+8532,West Building,M-060-A,1,West Main Floor Gallery 60 A,E
+8533,West Building,M-060-A,1,West Main Floor Gallery 60 A,N
+8534,West Building,M-060-A,1,West Main Floor Gallery 60 A,S
+8535,West Building,M-060-A,1,West Main Floor Gallery 60 A,W
+8536,West Building,M-060-B,1,West Main Floor Gallery 60 B,
+8537,West Building,M-060-B,1,West Main Floor Gallery 60 B,E
+8538,West Building,M-060-B,1,West Main Floor Gallery 60 B,N
+8539,West Building,M-060-B,1,West Main Floor Gallery 60 B,S
+8540,West Building,M-060-B,1,West Main Floor Gallery 60 B,W
+8541,West Building,M-061,1,West Main Floor Gallery 61,
+8542,West Building,M-061,1,West Main Floor Gallery 61,E
+8543,West Building,M-061,1,West Main Floor Gallery 61,N
+8544,West Building,M-061,1,West Main Floor Gallery 61,S
+8545,West Building,M-061,1,West Main Floor Gallery 61,W
+8546,West Building,M-062,1,West Main Floor Gallery 62,
+8547,West Building,M-062,1,West Main Floor Gallery 62,E
+8548,West Building,M-062,1,West Main Floor Gallery 62,N
+8549,West Building,M-062,1,West Main Floor Gallery 62,S
+8550,West Building,M-062,1,West Main Floor Gallery 62,W
+8551,West Building,M-063,1,West Main Floor Gallery 63,
+8552,West Building,M-063,1,West Main Floor Gallery 63,E
+8553,West Building,M-063,1,West Main Floor Gallery 63,N
+8554,West Building,M-063,1,West Main Floor Gallery 63,S
+8555,West Building,M-063,1,West Main Floor Gallery 63,W
+8556,West Building,M-064,1,West Main Floor Gallery 64,
+8557,West Building,M-064,1,West Main Floor Gallery 64,E
+8558,West Building,M-064,1,West Main Floor Gallery 64,N
+8559,West Building,M-064,1,West Main Floor Gallery 64,S
+8560,West Building,M-064,1,West Main Floor Gallery 64,W
+8561,West Building,M-065,1,West Main Floor Gallery 65,
+8562,West Building,M-065,1,West Main Floor Gallery 65,E
+8563,West Building,M-065,1,West Main Floor Gallery 65,N
+8564,West Building,M-065,1,West Main Floor Gallery 65,S
+8565,West Building,M-065,1,West Main Floor Gallery 65,W
+8567,West Building,M-066,1,West Main Floor Gallery 66,
+8568,West Building,M-066,1,West Main Floor Gallery 66,E
+8569,West Building,M-066,1,West Main Floor Gallery 66,N
+8570,West Building,M-066,1,West Main Floor Gallery 66,S
+8571,West Building,M-066,1,West Main Floor Gallery 66,W
+8573,West Building,M-067,1,West Main Floor Gallery 67,
+8574,West Building,M-067,1,West Main Floor Gallery 67,E
+8575,West Building,M-067,1,West Main Floor Gallery 67,N
+8576,West Building,M-067,1,West Main Floor Gallery 67,S
+8577,West Building,M-067,1,West Main Floor Gallery 67,W
+8578,West Building,M-068,1,West Main Floor Gallery 68,
+8579,West Building,M-068,1,West Main Floor Gallery 68,E
+8580,West Building,M-068,1,West Main Floor Gallery 68,N
+8581,West Building,M-068,1,West Main Floor Gallery 68,S
+8582,West Building,M-068,1,West Main Floor Gallery 68,W
+8583,West Building,M-069,1,West Main Floor Gallery 69,
+8584,West Building,M-069,1,West Main Floor Gallery 69,E
+8585,West Building,M-069,1,West Main Floor Gallery 69,N
+8586,West Building,M-069,1,West Main Floor Gallery 69,S
+8587,West Building,M-069,1,West Main Floor Gallery 69,W
+8588,West Building,M-069-A,1,West Main Floor Gallery 69 A,
+8589,West Building,M-069-A,1,West Main Floor Gallery 69 A,E
+8590,West Building,M-069-A,1,West Main Floor Gallery 69 A,N
+8591,West Building,M-069-A,1,West Main Floor Gallery 69 A,S
+8592,West Building,M-069-A,1,West Main Floor Gallery 69 A,W
+8593,West Building,M-070,1,West Main Floor Gallery 70,
+8594,West Building,M-070,1,West Main Floor Gallery 70,E
+8595,West Building,M-070,1,West Main Floor Gallery 70,N
+8596,West Building,M-070,1,West Main Floor Gallery 70,S
+8597,West Building,M-070,1,West Main Floor Gallery 70,W
+8598,West Building,M-071,1,West Main Floor Gallery 71,
+8599,West Building,M-071,1,West Main Floor Gallery 71,E
+8600,West Building,M-071,1,West Main Floor Gallery 71,N
+8601,West Building,M-071,1,West Main Floor Gallery 71,S
+8602,West Building,M-071,1,West Main Floor Gallery 71,W
 8603,West Building,M-072,1,West Main Floor Gallery 72,
 8604,West Building,M-072,1,West Main Floor Gallery 72,E
 8605,West Building,M-072,1,West Main Floor Gallery 72,N
@@ -607,6 +707,7 @@ locationid,site,room,publicaccess,description,unitposition
 9478,West Building,G-030,1,West Ground Floor Gallery 30,CENTER
 9479,West Building,G-031,1,West Ground Floor Gallery 31,CENTER
 9482,West Building,G-026-B,1,West Ground Floor Gallery 26B,CENTER
+9506,West Building,M-052,1,West Main Floor Gallery 52,CENTER
 9522,West Building,G-044-A,1,West Bldg Garden Cafe - niche,
 9523,West Building,G-044-A,1,West Bldg Garden Cafe - niche,S
 9524,West Building,G-042-B,1,West Ground Floor Gallery 42B,BAFFLE
@@ -624,8 +725,6 @@ locationid,site,room,publicaccess,description,unitposition
 9795,West Building,G-016,1,West Ground Floor Gallery 16,CENTER
 9796,West Building,G-022,1,West Ground Floor Gallery 22,CENTER
 9824,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",CENTER
-9983,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",CENTER
-9984,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",CENTER
 10001,East Building,EU-405,1,"East Bldg, West Terrace",STAIRWELL
 10099,East Building,EM-204,1,"East Bldg, Mezz. Elevator Lobby",W
 10105,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",CENTER
@@ -638,7 +737,6 @@ locationid,site,room,publicaccess,description,unitposition
 10325,West Building,G-042-A,1,West Ground Floor Gallery 42A,Center
 10326,West Building,G-042-C,1,West Ground Floor Gallery 42A,CENTER
 10327,West Building,G-014,1,West Ground Floor Gallery 14,CEILING
-10330,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",CENTER
 10343,West Building,M-136,1,East Garden Court,
 10344,West Building,M-136,1,East Garden Court,CENTER
 10345,West Building,M-136,1,East Garden Court,N
@@ -699,6 +797,7 @@ locationid,site,room,publicaccess,description,unitposition
 10431,East Building,EM-214-D,1,"East Bldg, Mezz Gal 214D (Pod 2)",E
 10432,East Building,EM-214-D,1,"East Bldg, Mezz Gal 214D (Pod 2)",S
 10433,East Building,EM-214-D,1,"East Bldg, Mezz Gal 214D (Pod 2)",W
+10492,West Building,M-065,1,West Main Floor Gallery 65,CENTER
 10494,West Building,M-073-A,1,West Main Floor Gallery 73 A,
 10495,West Building,M-073-A,1,West Main Floor Gallery 73 A,N
 10496,West Building,M-073-A,1,West Main Floor Gallery 73 A,E
@@ -763,7 +862,6 @@ locationid,site,room,publicaccess,description,unitposition
 13107,East Building,EG-103-Z,1,"East Bldg, Ground Lobby 103Z (Pod 2)",
 13108,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",
 13109,East Building,EM-217-C,1,"East Bldg, Mezz Gal 217C (Pod 1)",
-13111,East Building,EU-406-Z,1,"East Bldg, Upr Lvl Lobby 406Z (Pod 2)",
 13112,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",
 13113,East Building,EU-407-B,1,"East Bldg, Upr Lvl Gal 407B (North Bridge)",
 13114,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",
@@ -821,8 +919,6 @@ locationid,site,room,publicaccess,description,unitposition
 13170,East Building,EG-103-E,1,"East Bldg, Ground Gal 103E (Pod 2)",W
 13171,East Building,EG-103-Z,1,"East Bldg, Ground Lobby 103Z (Pod 2)",N
 13172,East Building,EG-103-Z,1,"East Bldg, Ground Lobby 103Z (Pod 2)",W
-13173,East Building,EU-406-Z,1,"East Bldg, Upr Lvl Lobby 406Z (Pod 2)",N
-13174,East Building,EU-406-Z,1,"East Bldg, Upr Lvl Lobby 406Z (Pod 2)",W
 13175,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",N
 13176,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",E
 13177,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",S
@@ -912,6 +1008,7 @@ locationid,site,room,publicaccess,description,unitposition
 13333,West Building,M-090,1,West Main Floor Gallery 90,FLOOR
 13342,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",CENTER
 13577,West Building,G-021,1,West Ground Floor Gallery 21,S
+13584,West Building,M-055,1,West Main Floor Gallery 55,Center
 13686,East Building,EU-407-X,1,"East Bldg, Upr Lvl Stairway 407X (North Bridge)",S
 13699,East Building,EC-029-F,1,"East Bldg, Concourse Gallery 29F",CENTER
 13700,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",BAFFLE
