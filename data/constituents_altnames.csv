@@ -1010,7 +1010,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1084,1091,Goldman,"Goldman, Guido, Dr.",,Preferred Name
 1085,1092,Carpaccio,"Carpaccio, Vittore",,Preferred Name
 1086,1093,Baines,"Baines, Claire, Mrs.",,Preferred Name
-60480,8980,,James P. Silo,,Variant
+59613,19948,Quellinus,,,Variant
 1087,1094,Carpenter,"Carpenter, Francis Bicknell",,Preferred Name
 1088,1095,,John Mitchell Fine Paintings,,Preferred Name
 1089,1096,Carracci,"Carracci, Annibale",,Preferred Name
@@ -1381,7 +1381,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1465,1472,Lawrence,"Lawrence, Thomas, Sir",,Preferred Name
 1466,1473,Lawson,"Lawson, Thomas Bayley",,Preferred Name
 1467,1474,Lebrun,"Lebrun, Rico",,Preferred Name
-60481,8980,,James P. Silo & Son,,Variant
+60480,8980,,James P. Silo,,Variant
 1468,1475,Léger,"Léger, Fernand",,Preferred Name
 1469,1476,Legros,"Legros, Alphonse",,Preferred Name
 1470,1477,Lely,"Lely, Peter, Sir",,Preferred Name
@@ -1753,7 +1753,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1853,1860,Sassetta,Sassetta,,Preferred Name
 1854,1861,Savage,"Savage, Edward",,Preferred Name
 1855,1862,Savoldo,"Savoldo, Giovanni Girolamo",,Preferred Name
-61732,52637,Ei-Kyu,Ei-Kyu,,Variant
+60481,8980,,James P. Silo & Son,,Variant
 1856,1863,Schäufelein,"Schäufelein, Hans Leonard",,Preferred Name
 1857,1864,Scliar,"Scliar, Carlos",,Preferred Name
 1858,1865,Scorel,"Scorel, Jan van",,Preferred Name
@@ -1941,6 +1941,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 2046,2053,Foppa,"Foppa, Caradosso",,Preferred Name
 2047,2054,Carl,"Carl, Matthäus",,Preferred Name
 2048,2055,Caro,"Caro, Anthony",,Preferred Name
+61732,52637,Ei-Kyu,Ei-Kyu,,Variant
 2049,2056,Carpeaux,"Carpeaux, Jean-Baptiste",,Preferred Name
 2050,2057,Carrier-Belleuse,"Carrier-Belleuse, Albert-Ernest",,Preferred Name
 2051,2058,Casone,"Casone, Felice Antonio",,Preferred Name
@@ -31982,7 +31983,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59610,51021,Morter,Mesdames Morter,,Preferred Name
 59611,51022,,Ad. Braun & Co.,,Preferred Name
 59612,51023,Ferrill,"Ferrill, Mikki",,Preferred Name
-59613,19948,Quellinus,,,Variant
 59614,43426,Huntington,"Huntington, Charles R.",,Variant
 59616,51024,Santagostino,"Santagostino, Giovanni",,Preferred Name
 59617,917,,,,Variant
@@ -33081,7 +33081,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61464,52439,Pick,"Pick, Grant J.",,Preferred Name
 61469,52444,von Dietel,"Dietel, Albin Woldemar von",,Preferred Name
 61470,52445,,Mariano,,Preferred Name
-61471,52445,,"Rodríguez, Mariano",,Variant Index Name
+61471,52445,,"Rodríguez, Mariano",,Variant
 61472,52446,Rodríguez,"Rodríguez, Freddy",,Preferred Name
 61473,52447,,Fundacion Mariano Rodriguez,,Preferred Name
 61474,52448,,Hutchinson Modern & Contemporary,,Preferred Name
@@ -33490,6 +33490,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62490,33887,Picken,"Picken, George Alexander",,Variant
 62493,51616,Curry,"Curry, Caledonia",,Original Name
 62495,53246,Richter,"Richter, Jean Paul",,Preferred Name
+62497,37,,,,Variant
 62500,53250,Johanson,"Johanson, Cynthia J.",,Preferred Name
 62501,53251,,Mystic Fine Arts,,Preferred Name
 62502,53252,Thrash,"Thrash, Edna McAllister",,Preferred Name
@@ -33504,14 +33505,20 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62526,44043,Higgins,"Higgins, Chester Archer Jr.",,Variant
 62527,53266,Lanier,"Lanier, Nicholas",,Preferred Name
 62534,53271,,Lemercier & Cie,,Preferred Name
+62537,23136,,,,Variant
 62546,53280,Clough,"Clough, George Thomas",,Preferred Name
 62553,53286,Martsen,"Martsen, Jan",,Preferred Name
+62554,53286,Maertsen,,,Variant
+62555,53286,Jonghe,,,Variant
+62556,53286,Marsse,,,Variant
 62557,53287,Roverio,"Roverio, Bartolomeo",,Preferred Name
 62558,53287,,,,Variant
 62559,53288,Hartshorne,"Hartshorne, Richard",,Preferred Name
 62565,44747,,Yancey Richardson Gallery,,Preferred Name
 62566,8492,Boehler,"Boehler, Julius",,Variant
+62571,33253,Buff,"Buff, Conrad II",,Variant
 62572,23566,,,,Variant
+62574,53298,Leigh,"Leigh, Simone",,Preferred Name
 62577,53301,,"Audap-Solanet, Godeau-Veillet",,Preferred Name
 62578,53302,Thomas,"Thomas, Henri-Jean",,Preferred Name
 62582,39604,Johnson,"Johnson, Herbert Raymond",,Variant
@@ -33519,7 +33526,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62584,5168,Passe,,,Full Name
 62585,47260,Barth,"Barth, Karl",,Variant
 62587,46506,Doyle,"Doyle, John Lawrence",,Variant
+62593,3679,Garza,,,Variant
 62595,20021,Brown,"Brown, Andrew The Hon.",,Variant
 62600,53314,Mahoney,"Mahoney, Harold",,Preferred Name
 62605,53319,Marks,"Marks, Saul",,Preferred Name
 62606,53320,,The Friends of Art Association of the Beverly-Fairfax Jewish Community Center,,Preferred Name
+62610,53324,,Dayton's Gallery 12,,Preferred Name
