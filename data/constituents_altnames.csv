@@ -11715,6 +11715,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 19198,19205,,"Kertesz, André, Estate of",,Preferred Name
 19215,19222,Coburn,"Coburn, Alvin Langdon",,Preferred Name
 19260,19267,Schilling,"Schilling, Edmund",,Preferred Name
+19296,19303,Armer,"Armer, Laura Adams",,Preferred Name
 19353,19360,,Bland Galleries,,Preferred Name
 19354,19361,Bac,"Bac, Ferdinand",,Preferred Name
 19356,19363,Rougeron-Vignerot,Rougeron-Vignerot,,Preferred Name
@@ -26005,6 +26006,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45595,38823,,Kunstantiquariat Stephan List,,Preferred Name
 45597,38825,Gilkin,"Gilkin, Iwan",,Preferred Name
 45606,38832,Soriano,"Soriano, Peter",,Preferred Name
+45623,38849,Bennett,"Bennett, Henry Hamilton",,Preferred Name
 45625,38850,Cator,"Cator, Maria Harriet Elizabeth",,Preferred Name
 45626,12914,Andrea di Vanni d'Andrea Salvani,Andrea di Vanni d'Andrea Salvani,,Full Name
 45627,12914,Vanni,"Vanni, Andrea",,Variant
@@ -26068,6 +26070,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45756,38965,Jones,"Jones, Lois Mailou",,Preferred Name
 45760,38969,Davey,"Davey, Randall",,Preferred Name
 45771,38980,Moffett,"Moffett, Ross E.",,Preferred Name
+45778,38987,Delano,"Delano, Jack",,Preferred Name
 45779,38988,Schofield,"Schofield, Walter Elmer",,Preferred Name
 45782,38991,Picknell,"Picknell, William Lamb",,Preferred Name
 45784,38993,Downing,"Downing, Thomas",,Preferred Name
@@ -26146,6 +26149,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 46126,39335,Pratt,"Pratt, Charles",,Preferred Name
 46129,2729,Saint-Mémin,"Saint-Mémin, Charles B. J. Févret de",,Preferred Name
 46133,21637,Wolcott,"Wolcott, Marion Post",,Variant
+46134,39343,Vachon,"Vachon, John",,Preferred Name
 46135,39344,Norfleet,"Norfleet, Barbara",,Preferred Name
 46136,39345,Papageorge,"Papageorge, Tod",,Preferred Name
 46138,39347,Polk,"Polk, Prentice H.",,Preferred Name
@@ -26588,6 +26592,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 48298,41507,Kotis,"Kotis, Paula Horn",,Preferred Name
 48301,41510,Meinel,"Meinel, Javier Silva",,Preferred Name
 48302,41511,Parker,"Parker, Olivia",,Preferred Name
+48305,41514,Salgado,"Salgado, Sebastião",,Preferred Name
 48308,41517,Webb,"Webb, Alex",,Preferred Name
 48328,41537,Khebrehzadeh,"Khebrehzadeh, Avish",,Preferred Name
 48330,41539,Larkey,"Larkey, Molly",,Preferred Name
@@ -27378,6 +27383,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 51700,44909,,"Spanierman Gallery, LLC",,Preferred Name
 51706,44915,,Steven Kasher Gallery,,Preferred Name
 51723,8850,,The Metropolitan Museum of Art,,Variant
+51740,44949,,UBS Art Collection,,Preferred Name
 51749,44958,,William P. Carl Fine Arts,,Preferred Name
 51798,19418,Walker,"Walker, Diana",,Variant
 51802,45011,,"Marine, P. Bruce and Donald Hardy",,Preferred Name
@@ -33487,6 +33493,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62236,52998,Arai,"Arai, Tomie",,Preferred Name
 62237,52999,Bartow,"Bartow, Rick",,Preferred Name
 62383,53145,,Lehrman Fund,,Preferred Name
+62385,53147,Badger,"Badger, Gene",,Preferred Name
 62390,31412,Ditte,"Ditte, Marie Lucie Adèlee",,Birth Name
 62391,53150,Bermudez,"Bermudez, Henry",,Preferred Name
 62392,53151,Billops,"Billops, Camille",,Preferred Name
@@ -33502,9 +33509,20 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62406,53164,Huckaby,"Huckaby, Sedrick E.",,Preferred Name
 62407,53165,Itami,"Itami, Michi",,Preferred Name
 62408,53166,Jarrell,"Jarrell, Wadsworth",,Preferred Name
+62410,53168,Ranney,"Ranney, Edward",,Preferred Name
+62413,53171,Gottscho,"Gottscho, Samuel H.",,Preferred Name
+62414,53172,Taber,"Taber, Isaiah West",,Preferred Name
 62417,53175,Lee,"Lee, Kakyoung",,Preferred Name
 62419,53177,Limón,"Limón, Leo",,Preferred Name
+62422,53180,Harvey,"Harvey, Martha Hale",,Preferred Name
+62424,53182,Irwin,"Irwin, Ed",,Preferred Name
+62425,53182,Irwin,"Irwin, WIlliam E.",,Variant
+62426,53183,Bernard,"Bernard, Jean",,Preferred Name
+62429,53186,James,"James, Geoffrey",,Preferred Name
+62431,53188,,C.H. Shute & Son,,Preferred Name
+62436,53193,Estrada,"Estrada, Agustín",,Preferred Name
 62437,53194,Lindsay,"Lindsay, Arturo",,Preferred Name
+62440,53197,Garnett,"Garnett, William",,Preferred Name
 62442,53199,Malotte,"Malotte, Jack",,Preferred Name
 62443,53200,Montgomery,"Montgomery, E. J.",,Preferred Name
 62444,53201,Montoya,"Montoya, Maceo",,Preferred Name
@@ -33581,3 +33599,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62606,53320,,The Friends of Art Association of the Beverly-Fairfax Jewish Community Center,,Preferred Name
 62610,53324,,Dayton's Gallery 12,,Preferred Name
 62613,53327,,"The Litho Shop, Inc.",,Preferred Name
+62615,11893,,The Städel Museum,,Variant
+62616,34234,Fossum,"Fossum, Sydney Glen",,Variant
