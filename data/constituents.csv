@@ -17852,7 +17852,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 31603,,"Kautsch, Heinrich",Heinrich Kautsch,Kautsch,"Czech, 1859 - 1943",1,1859,1943,1851 to 1875,Czech,Czech,individual,Q1253953
 31606,,Augsburg 15th Century,Augsburg 15th Century,Augsburg 15th Century,,1,1400,1499,1300 to 1400,German,German,anonymous,
 31608,500021089,"Burrows, Robert",Robert Burrows,Burrows,"British, 1810 - 1883",1,1810,1883,1801 to 1825,British,British,individual,
-31609,,"MacGowan, John",John MacGowan,MacGowan,Scottish,0,,,,Scottish,Scottish,individual,
+31609,,"MacGowan, John",John MacGowan,MacGowan,"Scottish, died 1803",0,,,,Scottish,Scottish,individual,
 31610,,"Gobiet, Armand",Armand Gobiet,Gobiet,died 1975,0,1875,1975,1851 to 1875,,Other,individual,
 31611,,"Schaller, Georg",Dr. Georg Schaller,Schaller,,0,,,,,Other,individual,
 31612,,"Rudolph, C.R.",C.R. Rudolph,Rudolph,,0,,,,,Other,individual,
@@ -21258,7 +21258,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 39607,500126929,"Kabotie, Fred",Fred Kabotie,Kabotie,"Hopi Pueblo, 1900 - 1986",1,1900,1986,1876 to 1900,American,American,individual,Q4251041
 39611,500008557,"Kemble, Edward",Edward Kemble,Kemble,"American, 1861 - 1933",1,1861,1933,1851 to 1875,American,American,individual,Q631154
 39616,,"King, Daisy Blanche",Daisy Blanche King,King,"American, 1875 - 1947",1,1875,1947,1851 to 1875,American,American,individual,
-39619,500031994,"Knight, Daniel Ridgway",Daniel Ridgway Knight,Knight,"American, 1839 - 1924",1,1839,1924,1826 to 1850,American,American,individual,
+39619,500031994,"Knight, Daniel Ridgway",Daniel Ridgway Knight,Knight,"American, 1839 - 1924",1,1839,1924,1826 to 1850,American,American,individual,Q481259
 39626,500024182,"Lacroix, Paul",Paul Lacroix,Lacroix,"American, 1827 - 1869",1,1827,1869,1826 to 1850,American,American,individual,
 39628,,"Leisenring, Matilda Mueden",Matilda Mueden Leisenring,Leisenring,"American, 1873 - 1949",1,1873,1949,1851 to 1875,American,American,individual,
 39630,500001484,"Adler, Lee",Lee Adler,Adler,"American, 1934 - 2003",1,1934,2003,1926 to 1950,American,American,individual,Q61965584
@@ -24331,7 +24331,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49355,,"Feuardent, Gaston L.","Gaston L. Feuardent & Co., New York",Feuardent,1870 - 1880,1,1870,1880,1851 to 1875,,Other,corporate,
 49537,,Lawrence Rubin Gallery,Lawrence Rubin Gallery,,,0,,,,,Other,corporate,
 49357,500131951,"Confortini, Jacopo",Jacopo Confortini,Confortini,"Italian, 1602 - 1672",1,1602,1672,1601 to 1650,Italian,Italian,individual,
-49359,500091355,"Brown, John Appleton",John Appleton Brown,Brown,"American, 1844 - 1902",1,1844,1902,1826 to 1850,American,American,individual,
+49359,500091355,"Brown, John Appleton",John Appleton Brown,Brown,"American, 1844 - 1902",1,1844,1902,1826 to 1850,American,American,individual,Q15459383
 49362,,"Hirshhorn, Joseph",Joseph Hirshhorn,Hirshhorn,"American, 1899 - 1981",0,1899,1981,1876 to 1900,American,American,individual,
 49363,,"Drake, Alexander Wilson",Alexander Wilson Drake,Drake,"American, 1843 - 1916",0,1843,1916,1826 to 1850,American,American,individual,
 49364,,"Anselm, Klaus Dr.",Dr. Klaus Anselm,Anselm,,0,,,,,Other,individual,
@@ -26585,3 +26585,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53341,,Dr. C Wolf & Sohn,Dr. C Wolf & Sohn,,,1,,,,,Other,corporate,
 53343,,Knorr & Hirth,Knorr & Hirth,,,1,,,,,Other,corporate,
 53344,,"Ruckenbrod, Alfred",Alfred Ruckenbrod,Ruckenbrod,,1,,,,,Other,individual,
+53351,,Galerie Hanz Goltz,Galerie Hanz Goltz,,,1,,,,,Other,corporate,
