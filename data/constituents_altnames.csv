@@ -31199,6 +31199,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58572,50297,Carignan,"Carignan, Victor Amédée, 3rd prince de",,Preferred Name
 58573,50298,Thibaut,Thibaut,,Preferred Name
 58574,50299,"Bourbon, prince de Conti","Bourbon, prince de Conti, Louis François I de",,Preferred Name
+62593,3679,Garza,,,Variant
 58575,50299,Conti,"Conti, Louis François I de Bourbon, prince de",,Variant
 58576,50300,Poullain,"Poullain, Antoine",,Preferred Name
 58577,50301,Buttery,Buttery,,Preferred Name
@@ -33351,6 +33352,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61937,52788,,Friends and Colleagues in honor of D. Dodge Thompson,,Preferred Name
 61942,52792,Rosenbach,"Rosenbach, A. S. W. Dr.",,Preferred Name
 61943,52793,Frazier,"Frazier, Peter",,Preferred Name
+61945,52795,Fizeau,"Fizeau, Hippolyte Louis",,Preferred Name
+61946,52796,Lerebours,"Lerebours, Noël Marie",,Preferred Name
 61947,52797,Hollingsworth,"Hollingsworth, Alvin",,Preferred Name
 61948,52797,Hollingsworth,"Hollingsworth, Alvin C.",,Variant
 61949,52798,Sampson,"Sampson, Preston",,Preferred Name
@@ -33606,7 +33609,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62584,5168,Passe,,,Full Name
 62585,47260,Barth,"Barth, Karl",,Variant
 62587,46506,Doyle,"Doyle, John Lawrence",,Variant
-62593,3679,Garza,,,Variant
 62595,20021,Brown,"Brown, Andrew The Hon.",,Variant
 62600,53314,Mahoney,"Mahoney, Harold",,Preferred Name
 62605,53319,Marks,"Marks, Saul",,Preferred Name
