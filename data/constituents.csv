@@ -21071,6 +21071,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 38803,,"Gallays, Pierre",Pierre Gallays,Gallays,"French, c. 1677 - 1749",1,1677,1749,1651 to 1700,French,French,individual,Q82800722
 38805,,"Masury, Samuel",Samuel Masury,Masury,"American, 1818 - 1874",1,1818,1874,1801 to 1825,American,American,individual,
 38808,,"Edwards, Jay Dearborn",Jay Dearborn Edwards,Edwards,"American, 1831 - 1900",1,1831,1900,1826 to 1850,American,American,individual,
+38809,,"Rockwood, George Gardner",George Gardner Rockwood,Rockwood,"American, 1832 - 1911",1,1832,1911,1826 to 1850,American,American,individual,
 38810,500030686,"Bottani, Giuseppe",Giuseppe Bottani,Bottani,"Italian, 1717 - 1784",1,1717,1784,1701 to 1725,Italian,Italian,individual,Q3107999
 38811,500004956,"Bottani, Giovanni",Giovanni Bottani,Bottani,"Italian, 1725 - 1804",1,1725,1804,1701 to 1725,Italian,Italian,individual,Q39480344
 38813,500023870,"Tappert, Georg",Georg Tappert,Tappert,"German, 1880 - 1957",1,1880,1957,1876 to 1900,German,German,individual,Q828591
@@ -22421,6 +22422,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 45732,500016363,"Yoshida, Ray",Ray Yoshida,Yoshida,"American, 1930 - 2009",1,1930,2009,1926 to 1950,American,American,individual,
 45764,,Davis,Davis,Davis,American,0,,,,American,American,individual,
 45776,,"Bodine, A. Aubrey",A. Aubrey Bodine,Bodine,"American, 1906 - 1970",1,1906,1970,1901 to 1925,American,American,individual,
+45838,500467997,"Steinmetz, Mark",Mark Steinmetz,Steinmetz,"American, born 1961",1,1961,,1951 to 1975,American,American,individual,
 45841,500125726,"Tolliver, Mose",Mose Tolliver,Tolliver,"American, 1918 - 2006",1,1918,2006,1901 to 1925,American,American,individual,Q4274641
 45888,,"Parr, Martin",Martin Parr,Parr,"British, born 1952",1,1952,,1951 to 1975,British,British,individual,
 45890,,"Davies, John",John Davies,Davies,"British, born 1949",1,1949,,1926 to 1950,British,British,individual,
@@ -26518,22 +26520,28 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53168,500037066,"Ranney, Edward",Edward Ranney,Ranney,"American, born 1942",1,1942,,1926 to 1950,American,American,individual,
 53171,500036893,"Gottscho, Samuel H.",Samuel H. Gottscho,Gottscho,"American, 1875 - 1971",1,1875,1971,1851 to 1875,American,American,individual,
 53172,500002696,"Taber, Isaiah West",Isaiah West Taber,Taber,"American, 1830 - 1912",1,1830,1912,1826 to 1850,American,American,individual,
+53173,500037047,"Gudmundson, Wayne",Wayne Gudmundson,Gudmundson,"American, born 1949",1,1949,,1926 to 1950,American,American,individual,
 53174,,"Hall, I.E.",I.E. Hall,Hall,American,1,1800,1899,1776 to 1800,American,American,individual,
 53175,,"Lee, Kakyoung",Kakyoung Lee,Lee,"South Korean, born 1975",1,1975,,1951 to 1975,South Korean,Other,individual,
 53176,500336527,"Hanna, Forman",Forman Hanna,Hanna,"American, 1882 - 1950",1,1882,1950,1876 to 1900,American,American,individual,
 53177,,"Limón, Leo",Leo Limón,Limón,"American, born 1952",1,1952,,1951 to 1975,American,American,individual,Q110140474
+53178,500348753,"Harvan, George",George Harvan,Harvan,"American, 1921 - 2002",1,1921,2002,1901 to 1925,American,American,individual,
+53179,500074126,"Winningham, Geoff",Geoff Winningham,Winningham,"American, born 1943",1,1943,,1926 to 1950,American,American,individual,Q43140034
 53180,,"Harvey, Martha Hale",Martha Hale Harvey,Harvey,"American, 1862 - 1949",1,1862,1949,1851 to 1875,American,American,individual,Q42319452
 53182,,"Irwin, Ed",Ed Irwin,Irwin,"American, 1871 - 1935",1,1871,1935,1851 to 1875,American,American,individual,
 53183,,"Bernard, Jean",Jean Bernard,Bernard,"Swiss, 1897 - 1937",1,1897,1937,1876 to 1900,Swiss,Swiss,individual,
+53184,,"Bourdeau, Robert",Robert Bourdeau,Bourdeau,"Canadian, born 1931",1,1931,,1926 to 1950,Canadian,Canadian,individual,
 53186,500036868,"James, Geoffrey",Geoffrey James,James,"Canadian, born 1942",1,1942,,1926 to 1950,Canadian,Canadian,individual,Q5534703
 53187,500024443,"Bullock, John G.",John G. Bullock,Bullock,"American, 1854 - 1939",1,1854,1939,1851 to 1875,American,American,individual,Q26252977
 53188,,C.H. Shute & Son,C.H. Shute & Son,,"American, active 1880s",1,,,,American,American,corporate,
 53190,500664101,"Cones, Nancy Ford",Nancy Ford Cones,Cones,"American, 1869 - 1962",1,1869,1962,1851 to 1875,American,American,individual,Q16000202
+53191,,"Cruz, Valdir",Valdir Cruz,Cruz,"Brazilian-American, born 1954",1,1954,,1951 to 1975,Brazilian-American,Other,individual,Q7909422
 53193,500338551,"Estrada, Agustín",Agustín Estrada,Estrada,"Mexican, born 1957",1,1957,,1951 to 1975,Mexican,Mexican,individual,
 53194,500056418,"Lindsay, Arturo",Arturo Lindsay,Lindsay,"American and Panamanian, born 1946",1,1946,,1926 to 1950,American and Panamanian,Other,individual,Q27055887
 53195,,"Fassbender, Adolf",Adolf Fassbender,Fassbender,"American, born Germany, 1884 - 1980",1,1884,1980,1876 to 1900,American,American,individual,
 53196,500271653,"Faust, Chris",Chris Faust,Faust,"American, born 1955",1,1955,,1951 to 1975,American,American,individual,Q5106531
 53197,500003708,"Garnett, William",William Garnett,Garnett,"American, 1916 - 2006",1,1916,2006,1901 to 1925,American,American,individual,Q8009689
+53198,500666375,"Glaha, Ben",Ben Glaha,Glaha,"American, 1899 - 1971",1,1899,1971,1876 to 1900,American,American,individual,Q107965719
 53199,500127075,"Malotte, Jack",Jack Malotte,Malotte,"Western Shoshone and Washoe, born 1953",1,1953,,1951 to 1975,Western Shoshone and Washoe,Other,individual,
 53200,500122196,"Montgomery, E. J.",E. J. Montgomery,Montgomery,"American, born 1930",1,1930,,1926 to 1950,American,American,individual,Q18705960
 53201,,"Montoya, Maceo",Maceo Montoya,Montoya,"American, born 1980",1,1980,,1976 to 2000,American,American,individual,
