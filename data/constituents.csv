@@ -25702,7 +25702,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51297,,Parisian 17th Century,Parisian 17th Century,Parisian 17th Century,"French, 1600 - 1699",1,1600,1699,1551 to 1600,French,French,anonymous,
 51313,,Tanagra 4th Century B.C.,Tanagra 4th Century B.C.,Tanagra 4th Century B.C.,Greek,1,,,,Greek,Other,individual,
 51314,,Tanagra 3rd Century B.C.,Tanagra 3rd Century B.C.,Tanagra 3rd Century B.C.,Greek,1,,,,Greek,Other,individual,
-52447,,Fundacion Mariano Rodriguez,Fundación Mariano Rodríguez,,,0,,,,,Other,corporate,
+51826,,Park Place Gallery,Park Place Gallery,,,0,,,,,Other,corporate,
 51315,,Tanagra 1st Century B.C.,Tanagra 1st Century B.C.,Tanagra 1st Century B.C.,Greek,1,,,,Greek,Other,individual,
 51341,,"Nakata, Satsuo",Satsuo Nakata,Nakata,"Japanese, 1920 - 1994",1,1920,1994,1901 to 1925,Japanese,Japanese,individual,
 51366,,Samsun 2nd Century B.C.,Amisos 2nd Century B.C.,Samsun 2nd Century B.C.,,1,,,,,Other,anonymous,
@@ -25942,13 +25942,12 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51811,,"McCracken, James Jr.",James McCracken Jr.,McCracken,"American, 1942 - 2017",1,1942,2017,1926 to 1950,American,American,individual,
 51812,,"Verburg, JoAnn",JoAnn Verburg,Verburg,"American, born 1950",1,1950,,1926 to 1950,American,American,individual,
 51813,,"Townsend, John Pomeroy",John Pomeroy Townsend,Townsend,"American, 1832 - 1898",0,1832,1898,1826 to 1850,American,American,individual,
-51815,,"Dowdeswell, C. W.",C. W. Dowdeswell,Dowdeswell,British,0,,,,British,British,individual,
+51815,,"Dowdeswell, Charles William",Charles William Dowdeswell,Dowdeswell,"British, 1832-1915",0,,,,British,British,individual,
 51817,,"Adams, Kerstin",Kerstin Adams,Adams,"American, born Sweden, 1937",1,1937,,1926 to 1950,American,American,individual,
 51822,,"De Polo, Claudio",Claudio De Polo,De Polo,"Italian, born 1941",0,1941,,1926 to 1950,Italian,Italian,individual,
 51823,,"Landolt, Robert Dr.",Dr. Robert Landolt,Landolt,"Swiss, 1913 - 2008",0,1913,2008,1901 to 1925,Swiss,Swiss,individual,
 51824,,"Osio, Giulio Litta-Visconti-Arese Umberto Conte",Conte Giulio Litta-Visconti-Arese Umberto Osio,Osio,"Italian, 1891 - 1967",0,1891,1967,1876 to 1900,Italian,Italian,individual,
 51825,,Burnett Miller Gallery,Burnett Miller Gallery,,,0,,,,,Other,corporate,
-51826,,Park Place Gallery,Park Place Gallery,,,0,,,,,Other,corporate,
 51827,,"List, Albert and Vera",Albert and Vera List,List,American,0,,,,American,American,couple,
 51828,,"Minter, Joe",Joe Minter,Minter,"American, born 1943",1,1943,,1926 to 1950,American,American,individual,
 51829,,"van der Marck, Jan and Ingeborg",Jan and Ingeborg van der Marck,van der Marck,,0,,,,,Other,couple,
@@ -26258,6 +26257,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52444,,"Dietel, Albin Woldemar von",Albin Woldemar von Dietel,von Dietel,"German, 1861 - 1928",0,1861,1928,1851 to 1875,German,German,individual,
 52445,500118219,Mariano,Mariano,,"Cuban, 1912 - 1990",1,1912,1990,1901 to 1925,Cuban,Other,individual,Q4396038
 52446,500166918,"Rodríguez, Freddy",Freddy Rodríguez,Rodríguez,"American, born Dominican Republic, 1945 - 2022",1,1945,2022,1926 to 1950,American,American,individual,Q5496902
+52447,,Fundacion Mariano Rodriguez,Fundación Mariano Rodríguez,,,0,,,,,Other,corporate,
 52448,,Hutchinson Modern & Contemporary,Hutchinson Modern & Contemporary,,,0,,,,,Other,corporate,
 52449,500371741,"Frazier, LaToya Ruby",LaToya Ruby Frazier,Frazier,"American, born 1982",1,1982,,1976 to 2000,American,American,individual,Q19667999
 52454,,"Gutierrez, Martine",Martine Gutierrez,Gutierrez,"American, born 1989",1,1989,,1976 to 2000,American,American,individual,Q97609995
@@ -26602,3 +26602,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53344,,"Ruckenbrod, Alfred",Alfred Ruckenbrod,Ruckenbrod,,1,,,,,Other,individual,
 53351,,Galerie Hanz Goltz,Galerie Hanz Goltz,,,1,,,,,Other,corporate,
 53354,,Emil Richter Verlag,Emil Richter Verlag,,,1,,,,,Other,corporate,
+53369,,Pierron,"Pierron, French, active 1849-1866",Pierron,,1,1849,1866,1826 to 1850,,Other,individual,
