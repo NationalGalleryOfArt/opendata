@@ -1011,6 +1011,10 @@ locationid,site,room,publicaccess,description,unitposition
 13287,East Building,EC-029-A,1,"East Bldg, Concourse Gallery 29A",CENTER
 13291,East Building,EM-214-Z,1,"East Bldg, Mezz Gal 214Z (Pod 2)",N
 13292,East Building,EM-214-Z,1,"East Bldg, Mezz Gal 214Z (Pod 2)",W
+13293,East Building,EU-403-B,1,"East Bldg, Upr Lvl Gal 403B (Pod 3)",N
+13294,East Building,EU-403-B,1,"East Bldg, Upr Lvl Gal 403B (Pod 3)",S
+13295,East Building,EU-403-B,1,"East Bldg, Upr Lvl Gal 403B (Pod 3)",E
+13296,East Building,EU-403-B,1,"East Bldg, Upr Lvl Gal 403B (Pod 3)",W
 13300,West Building,G-023,1,West Ground Floor Gallery 23,CASE
 13333,West Building,M-090,1,West Main Floor Gallery 90,FLOOR
 13342,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",CENTER
@@ -1059,4 +1063,5 @@ locationid,site,room,publicaccess,description,unitposition
 14656,West Building,M-049,1,West Main Floor Gallery 49,CENTER
 14659,West Building,M-050,1,West Main Floor Gallery 50,CENTER
 14669,East Building,EM-202,1,"East Bldg, Mezz. Bridge",
+14769,East Building,EU-403-B,1,"East Bldg, Upr Lvl Gal 403B (Pod 3)",CENTER
 14770,East Building,EM-204,1,"East Bldg, Mezz. Elevator Lobby",N
