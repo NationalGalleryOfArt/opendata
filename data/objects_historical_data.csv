@@ -2339,12 +2339,12 @@ previous_attribution,56617,1,after Jean Arp,"Arp, Jean, after","Original accessi
 previous_attribution,56633,1,Lucas Emil Vorsterman after Sir Peter Paul Rubens,"Vorsterman, Lucas Emil after Sir Peter Paul Rubens",,
 previous_attribution,56701,1,Nicolas Lagneau,"Lagneau, Nicolas",,
 previous_attribution,56729,1,Erastus Salisbury Field,"Field, Erastus Salisbury",Attribution at time of gift,
-previous_attribution,56745,1,American 19th Century,American 19th Century,Attribution at time of gift,
 previous_attribution,56737,1,William Matthew Prior,"Prior, William Matthew",Attribution at time of gift,
 previous_attribution,56737,2,Attributed to Sturtevant J. Hamblin,"Hamblin, Sturtevant J., Attributed to",Bd. Tr. approval 9/29/82,
 previous_attribution,56738,1,Attributed to Pieter Vanderlyn,"Vanderlyn, Pieter, Attributed to",Attribution at time of gift,
 previous_attribution,56743,1,American School,American School,Attribution at time of gift,
 previous_attribution,56744,1,American 19th Century,American 19th Century,Attribution at time of gift,
+previous_attribution,56745,1,American 19th Century,American 19th Century,Attribution at time of gift,
 previous_attribution,56746,1,American School,American School,Attribution at time of gift,
 previous_attribution,56746,2,Attributed to Sturtevant J. Hamblin,"Hamblin, Sturtevant J., Attributed to",Bd. Tr. approval 9/29/82,
 previous_attribution,56864,1,Aniello Falcone,"Falcone, Aniello",,
@@ -2360,6 +2360,7 @@ previous_title,57492,2,Young Man Warning a Sorrowful Woman,,,
 previous_attribution,57591,1,Otto Müller,"Müller, Otto",,
 previous_attribution,57705,1,Attributed to French 19th Century,"French 19th Century, Attributed to",,
 previous_title,57861,2,Poplars Along the Seine,,,
+previous_title,57862,1,La Tête et la queue du serpent,,,
 previous_title,57864,2,Black Flower,,,
 previous_attribution,57875,1,Attributed to Philip Galle after Pieter Bruegel the Elder,"Galle, Philip, Attributed to after Pieter Bruegel the Elder",attribution confirmed in Galle New Hollstein (2001),""
 previous_attribution,57878,1,Attributed to Philip Galle after Pieter Bruegel the Elder,"Galle, Philip, Attributed to after Pieter Bruegel the Elder",attribution confirmed in Galle New Hollstein (2001),""
@@ -2620,7 +2621,6 @@ previous_title,74572,2,Number 27,,,
 previous_title,74576,2,Pani Rang 21,,,
 previous_title,74577,2,Pani Rang 17,,,
 previous_title,74578,2,Untitled,,,
-previous_title,140559,2,YOU ARE TRAPPED ON EARTH SO YOU WILL EXPLODE.,,,
 previous_title,74819,2,Hands Holding Empty Gloves,,,
 previous_attribution,74846,1,Roman 15th or 16th Century,Roman 15th or 16th Century,Attribution at time of acquisition,""
 previous_attribution,74847,1,Roman 15th or 16th Century,Roman 15th or 16th Century,Attribution at time of acquisition,""
@@ -2841,6 +2841,7 @@ previous_attribution,134853,1,Unknown Artist (Possibly Austrian 18th Century),Un
 previous_title,135542,2,L'Enterrement,,,
 previous_title,135642,2,Savarin,,,
 previous_title,136122,3,A Stand of Trees along a River Bank,,,
+previous_title,138650,2,Two Women Standing,,,
 previous_attribution,136312,1,Désiré Charnay,"Charnay, Désiré",,
 previous_attribution,136313,1,Claude Joseph Désiré Charnay,"Charnay, Claude Joseph Désiré",,
 previous_attribution,136414,1,Thomas Johnson,"Johnson, Thomas",,
@@ -2854,7 +2855,6 @@ previous_title,136767,2,The Good Samaritan,,,
 previous_attribution,136767,1,Giovanni Benedetto Castiglione,"Castiglione, Giovanni Benedetto",,
 previous_title,136768,2,Shepherd Boy with a Cap,,,
 previous_attribution,137667,1,Sam Taylor-Wood,"Taylor-Wood, Sam",,
-previous_title,138650,2,Two Women Standing,,,
 previous_attribution,137736,1,Oscar Gustav Rejlander,"Rejlander, Oscar Gustav",,
 previous_title,137996,2,WALL OF LIGHT,,"Per email via Kerry Rose, Phila Mus of Art, from Michelle Hoban, Sean Scully studio, dateed 15 October 2019 - the date should be considered part of the title.",
 previous_attribution,138010,1,"and Octave Mirbeau, Pierre Bonnard, Pierre Fulcrand de Rosset, Edouard Vuillard, Paul Cézanne","Mirbeau, Octave, and, Pierre Bonnard, Pierre Fulcrand de Rosset, Edouard Vuillard, Paul Cézanne",,
@@ -2912,16 +2912,17 @@ previous_attribution,140112,1,Augsburg 15tth century (and Hans Burgkmair?),"Burg
 previous_attribution,140123,1,"Dutch 16th Century, after Hendrik Goltzius","Dutch 16th Century, after Hendrik Goltzius",,
 previous_attribution,140125,1,"Dutch 16th Century, Hendrik Goltzius","Dutch 16th Century, Hendrik Goltzius",,
 previous_attribution,140132,1,George Morland,"Morland, George",,
-previous_title,140557,2,HIDING YOUR MOTIVES IS DISPICABLE,,,
 previous_attribution,140352,1,Pierre Joseph Redouté,Pierre Joseph Redouté,"",2008-05-06
 previous_title,140358,2,ABUSE OF POWER COMES AS NO SURPRISE,,,
 previous_attribution,140455,1,Attributed to Giuseppe Cades,"Cades, Giuseppe, Attributed to",,2008-05-09
-previous_title,140558,2,A MAN CAN'T KNOW WHAT IT'S LIKE TO BE A MOTHER,,,
 previous_title,140549,2,IN SOME INSTANCES IT'S BETTER TO DIE THAN TO CONTINUE,,,
 previous_title,140550,2,MONOMANIA IS A PREREQUISITE FOR SUCCESS,,,
 previous_title,140551,2,RAISE BOYS AND GIRLS THE SAME WAY,,,
 previous_title,140552,2,SYMBOLS ARE MORE MEANINGFUL THAN THINGS THEMSELVES,,,
 previous_title,140553,2,TRADING A LIFE FOR A LIFE IS FAIR ENOUGH,,,
+previous_title,140557,2,HIDING YOUR MOTIVES IS DISPICABLE,,,
+previous_title,140558,2,A MAN CAN'T KNOW WHAT IT'S LIKE TO BE A MOTHER,,,
+previous_title,140559,2,YOU ARE TRAPPED ON EARTH SO YOU WILL EXPLODE.,,,
 previous_attribution,141214,1,Lucas Cranach the Elder,"Cranach the Elder, Lucas",,2008-08-14
 previous_title,141378,2,An Allegorical Figure of Nuda Veritas,,,
 previous_attribution,141512,1,Corita Kent,"Kent, Corita",,2008-09-12
@@ -2985,7 +2986,6 @@ previous_attribution,143697,1,Andrea Sacchi,"Sacchi, Andrea",,2009-04-02
 previous_attribution,143699,1,Elisabetta Sirani,"Sirani, Elisabetta",,2009-04-02
 previous_title,143700,2,Marsyas,,,
 previous_attribution,143709,1,Thomas Stothard,"Stothard, Thomas",,2009-04-02
-previous_title,143783,2,A Sleeping Man at a Lectern with a Family Scene Below,,,
 previous_title,143714,3,Jacob Blessing Isaac,,,2012-06-08
 previous_title,143716,2,A Tree and Rocks,,,
 previous_attribution,143717,1,Cornelis Visscher,"Visscher, Cornelis",,2009-04-02
@@ -2998,7 +2998,9 @@ previous_attribution,143751,1,Eric Hebborn,"Hebborn, Eric (Mantegna imitation)",
 previous_title,143762,2,Studies of Saint Joseph and the Adoration (four sketches mounted on one sheet),,,
 previous_title,143765,2,Caricatures of John Everett Millais,,,
 previous_attribution,143765,1,Max Beerbohm,"Beerbohm, Max",,2009-04-02
+previous_attribution,143808,1,Giovanni Benedetto Castiglione,"Castiglione, Giovanni Benedetto",,2009-04-02
 previous_attribution,143782,1,Giuseppe Maria Mitelli,"Mitelli, Giuseppe Maria",,2009-04-02
+previous_title,143783,2,A Sleeping Man at a Lectern with a Family Scene Below,,,
 previous_attribution,143784,1,Joseph Parrocel,"Parrocel, Joseph",,2009-04-02
 previous_title,143789,2,Middle Eastern Man Leaning on a Rail,,,
 previous_title,143790,2,"""Oriental"" Reclining Female",,,
@@ -3006,7 +3008,6 @@ previous_title,143792,2,Shepherds at Rest,,,
 previous_attribution,143800,1,German 18th Century,German 18th Century,,2009-04-02
 previous_attribution,143803,1,Adriaen Frans Boudewyns,"Boudewyns, Adriaen Frans",,2009-04-02
 previous_title,143805,2,Sketchbook Page with Figures,,,
-previous_attribution,143808,1,Giovanni Benedetto Castiglione,"Castiglione, Giovanni Benedetto",,2009-04-02
 previous_attribution,143815,1,Alessandro Maganza,"Maganza, Alessandro",,2009-04-02
 previous_title,143817,2,A Venetian Scene,,,
 previous_attribution,143819,1,Attributed to Parmigianino,"Parmigianino, Attributed to",,2009-04-02
@@ -3025,10 +3026,10 @@ previous_attribution,143853,2,Andrea Pozzo,"Pozzo, Andrea",,2009-04-02
 previous_attribution,143855,1,Bertel Thorvaldsen,"Thorvaldsen, Bertel",,2009-04-02
 previous_title,143856,2,Cows Under Trees,,,
 previous_attribution,143860,1,Carlo Maratta,"Maratta, Carlo",,2009-04-02
-previous_attribution,143870,1,Eric Hebborn,"Hebborn, Eric (Parentino Imitation)",,2009-04-02
-previous_attribution,143870,2,Eric Hebborn (Parentino Imitation),"Hebborn, Eric (Parentino Imitation)",,2009-04-02
 previous_attribution,143861,1,William Pars,"Pars, William",,2009-04-02
 previous_attribution,143869,1,Pier Francesco Mola,"Mola, Pier Francesco",,2009-04-02
+previous_attribution,143870,1,Eric Hebborn,"Hebborn, Eric (Parentino Imitation)",,2009-04-02
+previous_attribution,143870,2,Eric Hebborn (Parentino Imitation),"Hebborn, Eric (Parentino Imitation)",,2009-04-02
 previous_attribution,143871,1,Giulio Romano,"Romano, Giulio",,2009-04-02
 previous_title,143873,2,The Dead Christ,,,
 previous_attribution,143878,1,William Etty,"Etty, William",,2009-04-02
@@ -3166,10 +3167,10 @@ previous_title,153453,2,the puritan,,,
 previous_title,153648,3,Night of the Moon,,,
 previous_attribution,153655,1,Erich Heckel,"Heckel, Erich",,
 previous_title,153676,2,Nächtliche Überfahrt,,,
-previous_attribution,154419,1,Mathias Gabriel Lory Fils,"Lory, Mathias Gabriel Fils",,
 previous_attribution,153794,1,Otto Müller,"Müller, Otto",,
 previous_attribution,153801,1,"Johannes August Nahl, the Younger","Nahl, the Younger, Johannes August",,
 previous_attribution,153960,1,"Hans Collaert, after Philip Galle","Collaert, Hans, after Philip Galle",,
+previous_attribution,154419,1,Mathias Gabriel Lory Fils,"Lory, Mathias Gabriel Fils",,
 previous_attribution,154009,1,Georg Pecham,"Pecham, Georg",,
 previous_attribution,154015,1,Aegidius Sadeler II,"Sadeler II, Aegidius",,
 previous_attribution,154018,1,Jan Pietersz Saenredam,"Saenredam, Jan Pietersz",,
