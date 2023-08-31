@@ -6777,7 +6777,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 7101,,"Darwin, Erasmus",Erasmus Darwin,Darwin,"British, 1731 - 1802",1,1731,1802,1726 to 1750,British,British,individual,Q234050
 7102,,"Gay, John",John Gay,Gay,"English, 1685 - 1732",1,1685,1732,1651 to 1700,English,English,individual,Q321660
 7103,500438722,"Hayley, William",William Hayley,Hayley,"British, 1745 - 1820",1,1745,1820,1726 to 1750,British,British,individual,Q74936
-7104,,"Escher, J.G.",J.G. Escher,Escher,"Dutch, born 1894",1,1894,1994,1876 to 1900,Dutch,Dutch,individual,Q62091668
+7104,,"Escher, J.G.",J.G. Escher,Escher,"Dutch, 1894 - 1969",1,1894,1969,1876 to 1900,Dutch,Dutch,individual,Q62091668
 7105,,"Braunbehrens, Lili von",Lili von Braunbehrens,Braunbehrens,"German, active 20th century",1,1880,1999,1876 to 1900,German,German,individual,Q18221452
 7106,,"Edschmid, Kasimir",Kasimir Edschmid,Edschmid,"German, 1890 - 1966",1,1890,1966,1876 to 1900,German,German,individual,Q69428
 7107,,"Lowell, James Russell",James Russell Lowell,Lowell,"American, 1819 - 1891",1,1819,1891,1801 to 1825,American,American,individual,Q449670
@@ -20982,7 +20982,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 38593,,"Bishop, Cortland Field",Cortland Field Bishop,Bishop,"American, 1870-1935",0,1870,1935,1851 to 1875,,Other,individual,
 38594,,"Gutekunst, Richard",Richard Gutekunst,Gutekunst,,0,,,,,Other,individual,
 38595,,"Hubert, Alfred",Alfred Hubert,Hubert,"French, 1831- c. 1908",0,1831,1908,1826 to 1850,French,French,individual,
-38596,,"Rodenacker, Ernst Theodor",Ernst Theodor Rodenacker,Rodenacker,,0,,,,,Other,individual,
+38596,,"Rodenacker, Ernst Theodor",Ernst Theodor Rodenacker,Rodenacker,"German, c. 1840 - before 1894",0,1840,1894,1826 to 1850,German,German,individual,
 38597,,"La Monte, George M.",George M. La Monte,La Monte,"American, 1863 - 1927",0,1863,1927,1851 to 1875,American,American,individual,
 38598,,"Ten Cate, Hendrikus Egbertus",Hendrikus Egbertus ten Cate,ten Cate,"Dutch, 1868 - 1955",0,1868,1955,1851 to 1875,Dutch,Dutch,individual,
 38599,,"Garford, Francis",Francis Garford,Garford,,0,,,,,Other,individual,
@@ -26607,3 +26607,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53374,,"Leopold I, Prince of Anhalt-Dessau","Leopold I, Prince of Anhalt-Dessau",,"German, 1676 - 1747",0,1676,1747,1651 to 1700,German,German,individual,
 53375,,"Kollmann, Carl Julius",Carl Julius Kollmann,Kollmann,"German, 1820 - 1875",0,1820,1875,1801 to 1825,German,German,individual,
 53376,,"Thompson, Lawson",Lawson Thompson,Thompson,"British, 1837 - 1919",0,1837,1919,1826 to 1850,British,British,individual,
+53381,,"Ackermann, Wilhelm August",Wilhelm August Ackermann,Ackermann,"German, 1793 - 1865",0,1793,1865,1776 to 1800,German,German,individual,
+53382,,"Camesina, Joseph von",Joseph von Camesina,Camesina,"Austrian, died 1827",0,,1827,,Austrian,Austrian,individual,
+53383,,"Escher, George",George Escher,Escher,"Canadian, 1926 - 2018",0,1926,2018,1926 to 1950,Canadian,Canadian,individual,
+53384,,"Eddy, Charles B.",Charles B. Eddy,Eddy,"American, 1872 - 1951",0,1872,1951,1851 to 1875,American,American,individual,
