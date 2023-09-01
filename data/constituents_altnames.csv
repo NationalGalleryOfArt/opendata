@@ -10947,7 +10947,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13954,13961,,"National Gallery of Art Library, Department of Image Collections",,Preferred Name
 13956,13963,Walter,"Walter, Paul F., Mr.",,Preferred Name
 13961,13968,Poel,"Poel, Pieter Dirk van der",,Preferred Name
-19102,19109,Smith,Smith,,Preferred Name
 13962,13969,Huyghe,"Huyghe, René, Professor",,Preferred Name
 13981,13988,Antonio da Sangallo,Antonio da Sangallo,,Preferred Name
 13982,13989,Heymann,"Heymann, H.",,Preferred Name
@@ -11041,7 +11040,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 14541,14548,Giraudoux,"Giraudoux, Jean",,Preferred Name
 14543,14550,Mac Orlan,"Mac Orlan, Pierre",,Preferred Name
 14544,14551,Salmon,"Salmon, André",,Preferred Name
-31792,109,Kainen,"Kainen, Ruth",,Spouse
 14546,14553,Jacob,"Jacob, Max",,Preferred Name
 14547,14554,Lacretelle,"Lacretelle, Jacques de",,Preferred Name
 14548,14555,Kessel,"Kessel, Joseph",,Preferred Name
@@ -11705,6 +11703,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 19099,19106,Pfaff,"Pfaff, Judy",,Preferred Name
 19100,19107,Raetz,"Raetz, Markus",,Preferred Name
 19101,19108,West,"West, Jr., Benjamin",,Preferred Name
+19102,19109,Smith,Smith,,Preferred Name
 19103,19110,"Private Collection, Yorkshire","Private Collection, Yorkshire",,Preferred Name
 19105,19112,George III,"George III, King of England",,Preferred Name
 19106,19113,Beckford,"Beckford, 10th Duchess of Hamilton, Susan Euphemia",,Preferred Name
@@ -15175,6 +15174,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26927,26934,"Hume-Campbell, countess de Grey of Wrest and 2nd baroness Lucas of Crudwell","Hume-Campbell, countess de Grey of Wrest and 2nd baroness Lucas of Crudwell, Annabel Yorke",,Preferred Name
 26928,26935,Robinson,"Robinson, Thomas Philip 2nd earl de Grey of Wrest and 5th baron Lucas of Crudwell",,Preferred Name
 26929,26936,Cowper,"Cowper, Anne Florence de Grey, countess Cowper and 6th baroness Lucas",,Preferred Name
+27207,27214,Fried,"Fried, Nancy",,Preferred Name
 26930,26937,Cowper,"Cowper, Francis Thomas de Grey, 7th earl Cowper and 7th baron Lucas",,Preferred Name
 26931,26938,Herbert,"Herbert, Auberon Thoma,s 9th baron Lucas of Crudwell",,Preferred Name
 26932,26939,Cooper,"Cooper, Nan Ino Herbert, 10th baroness Lucas",,Preferred Name
@@ -15267,7 +15267,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27202,27209,Dennis,"Dennis, Donna",,Preferred Name
 27205,27212,Edwards,"Edwards, Melvin",,Preferred Name
 27206,27213,Fasnacht,"Fasnacht, Heide",,Preferred Name
-27207,27214,Fried,"Fried, Nancy",,Preferred Name
 27208,27215,Grossman,"Grossman, Nancy",,Preferred Name
 27209,27216,Lerman,"Lerman, Leonid",,Preferred Name
 27210,27217,Nam,"Nam, Yoon Mi",,Preferred Name
@@ -15723,6 +15722,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 28178,28185,Exeter,"Exeter, John Cecil, 5th Earl of",,Preferred Name
 28179,28186,Exeter,"Exeter, John Cecil, 6th Earl of",,Preferred Name
 28180,28187,Exeter,"Exeter, John Cecil, 7th Earl of",,Preferred Name
+31792,109,Kainen,"Kainen, Ruth",,Spouse
 28181,28188,Exeter,"Exeter, Brownlow Cecil, 8th Earl of",,Preferred Name
 28182,28189,Exeter,"Exeter, Brownlow Cecil, 9th Earl of",,Preferred Name
 28183,28190,Exeter,"Exeter, Henry Cecil, 1st marquess of",,Preferred Name
@@ -24378,6 +24378,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41529,35398,Harrison,"Harrison, Alexander",,Preferred Name
 41530,35398,Harrison,"Harrison, T. Alexander",,Variant
 41531,35398,Harrison,"Harrison, Thomas Alexander",,Variant
+50272,43481,,"Sage, Kay",,Preferred Name
 41533,35400,Martin,"Martin, George A. Mrs.",,Preferred Name
 41534,35401,Peltzer,"Peltzer, Rudolf",,Preferred Name
 41537,6443,Vanderhoff,"Vanderhoff, Charles A.",,Variant
@@ -24569,6 +24570,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42093,35895,Dalen the Younger,"Dalen the Younger, Cornelis van",,Preferred Name
 42098,35900,Ruischer,"Ruischer, Johannes",,Preferred Name
 42099,35900,Ruyscher,"Ruyscher, Jan",,Variant
+54569,18613,,ACA Gallery,,Variant
 42103,35904,Duplessis-Bertaux,"Duplessis-Bertaux, Jean",,Preferred Name
 42107,35908,Treu,"Treu, Martin",,Preferred Name
 42108,35909,Altomonte,"Altomonte, Andreas",,Preferred Name
@@ -26549,7 +26551,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 48155,41364,Frajndlich,"Frajndlich, Abe",,Preferred Name
 48156,41365,Godwin,"Godwin, Fay",,Preferred Name
 48158,41367,Kales,"Kales, Arthur",,Preferred Name
-48489,41698,Bousseau,"Bousseau, Jacques",,Preferred Name
 48160,41369,Bloom and Ed Hill (MANUAL),"Bloom and Ed Hill (MANUAL), Suzanne",,Preferred Name
 48167,41376,Attie,"Attie, Shimon",,Preferred Name
 48168,41377,Beahan and Laura McPhee,"Beahan and Laura McPhee, Virginia",,Preferred Name
@@ -26645,6 +26646,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 48486,41695,Springweiler,"Springweiler, Erwin F.",,Preferred Name
 48487,41696,Fontana Family Workshop,Fontana Family Workshop,,Preferred Name
 48488,41697,Ulke,"Ulke, Henry",,Preferred Name
+48489,41698,Bousseau,"Bousseau, Jacques",,Preferred Name
 48493,41702,de Marco,"de Marco, Jean",,Preferred Name
 48496,41705,Perkins,"Perkins, Marion",,Preferred Name
 48501,41710,Pull,"Pull, Georges",,Preferred Name
@@ -26740,7 +26742,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 48802,42011,Seton,"Seton, Ernest Thompson",,Preferred Name
 48803,42012,Tavshanjian,"Tavshanjian, Artemis",,Preferred Name
 48806,42015,Wores,"Wores, Theodore",,Preferred Name
-50272,43481,,"Sage, Kay",,Preferred Name
 48810,42019,Schreyer,"Schreyer, Christian Adolf",,Preferred Name
 48812,42021,Renier,"Renier, Jr., Joseph E.",,Preferred Name
 48819,42028,O'Connor,"O'Connor, Andrew Jr.",,Preferred Name
@@ -27053,7 +27054,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 49984,43193,O'Connor,"O'Connor, Jeremiah",,Preferred Name
 49986,43195,Magnuson,"Magnuson, Laura T.",,Preferred Name
 49990,43199,Hill,"Hill, William Hurd Mrs.",,Preferred Name
-49991,43200,,The Ford Foundation,,Preferred Name
 49996,43205,Christie,"Christie, Lansdell K.",,Preferred Name
 50001,43210,Henderson,"Henderson, Joseph W.",,Preferred Name
 50002,43211,Bliss,"Bliss, Lizzie P.",,Preferred Name
@@ -28361,7 +28361,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54566,25545,Vogel,"Vogel, Irving H. Mr. and Mrs.",,Variant
 54567,47406,Spitzer,"Spitzer, A. Lewis, Mrs.",,Preferred Name
 54568,18613,,American Contemporary Art Galleries,,Variant
-54569,18613,,ACA Gallery,,Variant
 54570,1644,Potamkin,"Potamkin, Vivian Orleans",,Spouse
 54571,47407,Boigon,"Boigon, Melvin and Helen W., Drs.",,Preferred Name
 54572,47407,Boigon,"Boigon, Helen Wasserman Dr.",,Variant
@@ -31201,7 +31200,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58572,50297,Carignan,"Carignan, Victor Amédée, 3rd prince de",,Preferred Name
 58573,50298,Thibaut,Thibaut,,Preferred Name
 58574,50299,"Bourbon, prince de Conti","Bourbon, prince de Conti, Louis François I de",,Preferred Name
-62593,3679,Garza,,,Variant
+61885,16229,,,,Variant
 58575,50299,Conti,"Conti, Louis François I de Bourbon, prince de",,Variant
 58576,50300,Poullain,"Poullain, Antoine",,Preferred Name
 58577,50301,Buttery,Buttery,,Preferred Name
@@ -33333,7 +33332,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61881,52740,,Kanthos Press,,Preferred Name
 61882,52741,Ciardi,"Ciardi, John",,Preferred Name
 61883,52742,Custis,"Custis, Eleanor Parke",,Preferred Name
-61885,16229,,,,Variant
 61886,52744,Colbert,"Colbert, Billy",,Preferred Name
 61889,52747,,Frederick & Diana Prince Foundation,,Preferred Name
 61890,52748,,Ryan E. Lee and Lee Group Holdings (LGH),,Preferred Name
@@ -33618,6 +33616,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62584,5168,Passe,,,Full Name
 62585,47260,Barth,"Barth, Karl",,Variant
 62587,46506,Doyle,"Doyle, John Lawrence",,Variant
+62593,3679,Garza,,,Variant
 62595,20021,Brown,"Brown, Andrew The Hon.",,Variant
 62600,53314,Mahoney,"Mahoney, Harold",,Preferred Name
 62605,53319,Marks,"Marks, Saul",,Preferred Name
@@ -33650,3 +33649,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62681,53383,Escher,"Escher, George",,Preferred Name
 62682,53383,Escher,"Escher, Giorgio Arnoldo",,Variant
 62683,53384,Eddy,"Eddy, Charles B.",,Preferred Name
+62684,53383,Escher,"Escher, George A.",,Variant
+62686,6937,,,,Variant Index Name
