@@ -10851,6 +10851,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13493,13500,Langenheim,"Langenheim, Frederick",,Preferred Name
 13496,13503,Vance,"Vance, Robert H.",,Preferred Name
 13497,13504,Brady,"Brady, Mathew B.",,Preferred Name
+13499,13506,Black,"Black, James Wallace",,Preferred Name
 13501,13508,Gardner,"Gardner, Alexander",,Preferred Name
 13502,13509,Russell,"Russell, Andrew Joseph",,Preferred Name
 13503,13510,Kimball,"Kimball, Myron H.",,Preferred Name
@@ -26031,6 +26032,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45650,38867,Morini,"Morini, Cesare",,Preferred Name
 45654,38871,,Bierstadt Brothers,,Preferred Name
 45655,38872,Metthey,"Metthey, Jean",,Preferred Name
+45657,38873,,Bendann Brothers,,Preferred Name
 45660,38876,Thiersch,"Thiersch, Ludwig",,Preferred Name
 45661,38877,Adam the Elder,"Adam, Julius the Elder",,Preferred Name
 45662,2668,Ossorio y Yangco,"Ossorio y Yangco, Alfonso Angel",,Full Name
@@ -27353,6 +27355,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 51022,44231,Healy,"Healy, Claire",,Preferred Name
 51149,44358,Lange,"Lange, Dorothea",,Preferred Name
 51154,44363,Avedon,"Avedon, Richard",,Preferred Name
+51176,44385,Gutekunst,"Gutekunst, Frederick",,Preferred Name
 51221,44430,Feininger,"Feininger, Andreas",,Preferred Name
 51243,44452,,United States Office of War Information,,Preferred Name
 51244,44453,Ut,"Ut, Nick",,Preferred Name
@@ -33462,6 +33465,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62120,6311,Swanenburg,"Swanenburg, Willem",,Variant
 62121,6311,Swanenburg,"Swanenburg, Willem Isaacsz",,Variant
 62122,6311,van Swanenburg,"van Swanenburg, Willem Isaacsz",,Variant
+62123,52903,Vidal,"Vidal, José",,Preferred Name
+62124,52904,Luciano,"Luciano, Miguel",,Preferred Name
 62130,52910,Wood,"Wood, John",,Preferred Name
 62132,42445,Rogers,"Rogers, Gretchen Woodman",,Variant
 62133,42445,Rogers,"Rogers, Gretechen (Margaret) W",,Variant
@@ -33507,14 +33512,21 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62236,52998,Arai,"Arai, Tomie",,Preferred Name
 62237,52999,Bartow,"Bartow, Rick",,Preferred Name
 62238,53000,,Taylor & Huntington,,Preferred Name
+62239,53001,Brokaw,"Brokaw, David",,Preferred Name
 62240,53002,Goodridge,"Goodridge, Glenalvin",,Preferred Name
 62242,53004,,Ball & Thomas,,Preferred Name
 62244,53006,Marsters,"Marsters, Joseph D.",,Preferred Name
+62247,53009,Recher,"Recher, Elias M.",,Preferred Name
 62248,53010,,B.F. Smith & Son,,Preferred Name
+62249,53011,Chapman,"Chapman, W.J.",,Preferred Name
+62250,53012,Clark,"Clark, Charles R.",,Preferred Name
 62252,53014,Gibson,"Gibson, James F.",,Preferred Name
+62253,53015,Moses,"Moses, Bernard",,Preferred Name
+62255,53017,Bowser,"Bowser, David Bustill",,Preferred Name
 62266,53028,Wilcox,Wilcox,,Preferred Name
 62274,53036,Walden,"Walden, J. W.",,Preferred Name
 62281,53043,Brown,"Brown, George O.",,Preferred Name
+62300,53062,Baumgarten,"Baumgarten, Henry",,Preferred Name
 62383,53145,,Lehrman Fund,,Preferred Name
 62385,53147,Badger,"Badger, Gene",,Preferred Name
 62386,53148,Bartscherer,"Bartscherer, Joseph",,Preferred Name
@@ -33674,6 +33686,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62682,53383,Escher,"Escher, Giorgio Arnoldo",,Variant
 62683,53384,Eddy,"Eddy, Charles B.",,Preferred Name
 62684,53383,Escher,"Escher, George A.",,Variant
+62685,53385,Levinson,"Levinson, Lawrence",,Preferred Name
 62686,6937,,,,Variant Index Name
 62688,46723,Showell,"Showell, Kenneth",,Variant
 62689,42521,Morghen,"Morghen, Raffaello Sanzio",,Variant
