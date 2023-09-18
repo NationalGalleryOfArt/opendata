@@ -6213,7 +6213,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 6514,6521,Witkin,"Witkin, Joel-Peter",,Preferred Name
 6515,6522,Bosman,"Bosman, Richard",,Preferred Name
 6516,6523,Rothenberg,"Rothenberg, Susan",,Preferred Name
-62650,53358,,Genthe,,Preferred Name
+62649,53357,,Westphalen,,Preferred Name
 6517,6524,Marchetti,"Marchetti, Augusto",,Preferred Name
 6518,6525,Gmelin,"Gmelin, Wilhelm Friedrich",,Preferred Name
 6519,6526,Rodchenko,"Rodchenko, Aleksandr Mikhailovich",,Variant
@@ -7662,6 +7662,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8052,8059,Silvay,"Silvay, Van",,Preferred Name
 8053,8060,Simon,"Simon, Natalie",,Preferred Name
 8054,8061,Simonet,"Simonet, Sebastian",,Preferred Name
+62650,53358,,Genthe,,Preferred Name
 8055,8062,Simpson,"Simpson, Columbus",,Preferred Name
 8056,8063,Skaren,"Skaren, Orville",,Preferred Name
 8057,8064,Skeen,"Skeen, Jesse W.",,Preferred Name
@@ -33464,6 +33465,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62120,6311,Swanenburg,"Swanenburg, Willem",,Variant
 62121,6311,Swanenburg,"Swanenburg, Willem Isaacsz",,Variant
 62122,6311,van Swanenburg,"van Swanenburg, Willem Isaacsz",,Variant
+62123,52903,Vidal,"Vidal, José",,Preferred Name
+62124,52904,Luciano,"Luciano, Miguel",,Preferred Name
 62130,52910,Wood,"Wood, John",,Preferred Name
 62132,42445,Rogers,"Rogers, Gretchen Woodman",,Variant
 62133,42445,Rogers,"Rogers, Gretechen (Margaret) W",,Variant
@@ -33668,7 +33671,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62643,53351,,Galerie Hanz Goltz,,Preferred Name
 62646,53354,,Emil Richter Verlag,,Preferred Name
 62647,53355,Lafranca,"Lafranca, Francois",,Preferred Name
-62649,53357,,Westphalen,,Preferred Name
 62651,53359,Sabo,"Sabo, Carl",,Preferred Name
 62652,38093,Bickham,"Bickham, George the Younger",,Variant
 62653,34252,Möllhausen,"Möllhausen, Heinrich Balduin",,Variant
@@ -33684,6 +33686,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62682,53383,Escher,"Escher, Giorgio Arnoldo",,Variant
 62683,53384,Eddy,"Eddy, Charles B.",,Preferred Name
 62684,53383,Escher,"Escher, George A.",,Variant
+62685,53385,Levinson,"Levinson, Lawrence",,Preferred Name
 62686,6937,,,,Variant Index Name
 62688,46723,Showell,"Showell, Kenneth",,Variant
 62689,42521,Morghen,"Morghen, Raffaello Sanzio",,Variant
