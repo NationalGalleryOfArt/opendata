@@ -845,6 +845,9 @@ locationid,site,room,publicaccess,description,unitposition
 13113,East Building,EU-407-B,1,"East Bldg, Upr Lvl Gal 407B (North Bridge)",
 13114,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",
 13115,East Building,EU-407-D,1,"East Bldg, Upr Lvl Gal 407D (North Bridge)",
+13116,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",
+13117,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",
+13118,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",
 13120,East Building,EU-415-A,1,"East Bldg, Upr Lvl Gal 415A (Pod 1)",
 13121,East Building,EU-415-C,1,"East Bldg, Upr Lvl Gal 415C (Pod 1)",
 13122,East Building,EU-415-A,1,"East Bldg, Upr Lvl Gal 415A (Pod 1)",N
@@ -919,6 +922,18 @@ locationid,site,room,publicaccess,description,unitposition
 13213,East Building,ET-606,1,"East Bldg, Tower Gallery 606",W
 13214,East Building,EG-105,1,"East Bldg, Vestibule, 105 (Pod 1)",N
 13215,East Building,EG-105,1,"East Bldg, Vestibule, 105 (Pod 1)",S
+13217,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",N
+13218,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",E
+13219,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",S
+13220,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",W
+13221,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",N
+13222,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",E
+13223,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",S
+13224,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",W
+13225,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",N
+13226,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",E
+13227,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",S
+13228,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",W
 13237,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",N
 13238,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",E
 13239,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",S
@@ -932,6 +947,7 @@ locationid,site,room,publicaccess,description,unitposition
 13333,West Building,M-090,1,West Main Floor Gallery 90,FLOOR
 13342,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",CENTER
 13577,West Building,G-021,1,West Ground Floor Gallery 21,S
+13579,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",CENTER
 13584,West Building,M-055,1,West Main Floor Gallery 55,Center
 13686,East Building,EU-407-X,1,"East Bldg, Upr Lvl Stairway 407X (North Bridge)",S
 13700,East Building,EC-029-C,1,"East Bldg, Concourse Gallery 29C",BAFFLE
@@ -965,3 +981,6 @@ locationid,site,room,publicaccess,description,unitposition
 14669,East Building,EM-202,1,"East Bldg, Mezz. Bridge",
 14769,East Building,EU-403-B,1,"East Bldg, Upr Lvl Gal 403B (Pod 3)",CENTER
 14770,East Building,EM-204,1,"East Bldg, Mezz. Elevator Lobby",N
+14773,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",CENTER
+14774,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",CENTER
+14775,East Building,EU-405,1,"East Bldg, West Terrace",CENTER
