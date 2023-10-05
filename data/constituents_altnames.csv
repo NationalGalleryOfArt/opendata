@@ -20698,7 +20698,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34741,10248,Sandback,"Sandback, Frederick Lane",,Full Name
 34743,10258,Frisches,"Frisches, Armand-François-Paul des comte Doria",,Variant Index Name
 34745,10281,,Galerie Georges Bernheim,,Variant Index Name
-40649,2004,L'Antico,L'Antico,,Variant
 34746,10330,J. Kugel Antiquaires,J. Kugel Antiquaires,,Variant Index Name
 34747,10330,Galerie J. Kugel,Galerie J. Kugel,,Variant Index Name
 34749,10338,Jaucourt,Jaucourt Comte de,,Variant Index Name
@@ -22648,6 +22647,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39209,33406,Falkenstein,"Falkenstein, Claire",,Preferred Name
 39212,33409,Fay,"Fay, Clark",,Preferred Name
 39213,33410,Faye,"Faye, Harold Knickerbocker",,Preferred Name
+39214,33411,Fearing,"Fearing, William Kelly",,Preferred Name
 39215,33412,Feher,"Feher, Magda A.",,Preferred Name
 39216,33413,Feldhaus,"Feldhaus, Paul A.",,Preferred Name
 39217,33414,Feldman,"Feldman, Walter",,Preferred Name
@@ -23806,6 +23806,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40646,2223,Petrecino of Florence,Petrecino of Florence,,Variant
 40647,2276,Savelli,"Savelli, Sperandio di Bartolommeo",,Variant
 40648,2258,Ruberti,"Ruberti, Giovanni Francesco",,Variant
+40649,2004,L'Antico,L'Antico,,Variant
 40650,6454,Gambello da San Zaccaria,"Gambello da San Zaccaria, Antonio",,Variant
 40651,2049,Gambello,"Gambello, Vittore",,Variant
 40652,2053,Caradosso,Caradosso,,Variant
@@ -24280,7 +24281,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41384,35272,,Fund in Honor of Marta Horgan,,Preferred Name
 41385,35273,Tytell,"Tytell, Mellon",,Preferred Name
 41386,35274,,Osiris Editions,,Preferred Name
-41532,35399,,Baldwin-Wallace College,,Preferred Name
 41389,35277,Unknown 16th Century Workshop,Unknown 16th Century Workshop,,Preferred Name
 41390,35278,Boni de Castellane,"Boni de Castellane, Comte",,Preferred Name
 41391,35279,,Chris and Roger Taylor Fund,,Preferred Name
@@ -24377,6 +24377,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41529,35398,Harrison,"Harrison, Alexander",,Preferred Name
 41530,35398,Harrison,"Harrison, T. Alexander",,Variant
 41531,35398,Harrison,"Harrison, Thomas Alexander",,Variant
+41532,35399,,Baldwin-Wallace College,,Preferred Name
 41533,35400,Martin,"Martin, George A. Mrs.",,Preferred Name
 41534,35401,Peltzer,"Peltzer, Rudolf",,Preferred Name
 41537,6443,Vanderhoff,"Vanderhoff, Charles A.",,Variant
@@ -33453,7 +33454,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62099,52893,Andrews,"Andrews, Mary Ellen",,Preferred Name
 62100,52893,Smith,,,Maiden Name
 62101,52893,Jones Smith,,,Variant
-62102,33411,Fearing,"Fearing, Kelly",,Preferred Name
+62102,33411,Fearing,"Fearing, Kelly",,Variant
 62105,52895,,The Carroll Gallery,,Preferred Name
 62108,33665,Kuhlman,"Kuhlman, Walter",,Variant
 62109,33665,Kuhlman,"Kuhlman, Walter Egel",,Variant
@@ -33699,6 +33700,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62690,46604,Leif,"Leif, June",,Variant
 62696,53392,Lucas,"Lucas, Thomas",,Preferred Name
 62697,53393,Buguet,"Buguet, Henri",,Preferred Name
+62699,52283,Heap of Birds,"Heap of Birds, Hock E Aye Vi Edgar",,Variant
+62701,5036,,,,Variant
 62702,23752,Ernst,"Ernst, Dorothea Tanning",,Variant
 62704,53396,Liard,Liard,,Preferred Name
 62705,53396,Liard,"Liard, Ferdinand",,Variant
@@ -33710,7 +33713,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62718,53404,Lombard,"Lombard, Warren Plimpton",,Preferred Name
 62719,53405,Lombard,"Lombard, Caroline Cook",,Preferred Name
 62720,53406,Edmands,"Edmands, Ruth W. Emmons",,Preferred Name
+62723,5210,Phélippes-Beaulieux,,,Variant
 62725,53409,Röver,"Röver, Valerius",,Preferred Name
 62726,53410,Goll van Franckenstein,"Goll van Franckenstein, Johann",,Preferred Name
 62729,53412,Heidsieck,"Heidsieck, E. John Mrs.",,Preferred Name
 62734,53416,Venetian 18th/19th Century,Venetian 18th/19th Century,,Preferred Name
+62738,46720,Shaffer,,,Variant
+62740,53418,,Ernst Rowohlt Verlag,,Preferred Name
+62741,53419,,Klinkhardt & Biermann Verlag,,Preferred Name
