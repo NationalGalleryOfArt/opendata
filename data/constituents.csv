@@ -603,7 +603,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 645,,"Zorach, Marguerite, Children of",Children of Marguerite Zorach,,,0,,,,,Other,corporate,
 646,,"Acquavella Contemporary Art, Inc.","Acquavella Contemporary Art, Inc.",,,0,,,,,Other,corporate,
 647,,"Ault & Company, Inc., Lee","Lee Ault & Company, Inc.",,,0,,,,,Other,corporate,
-648,,"Agnew & Sons, Ltd., Thomas","Thomas Agnew & Sons, Ltd.",,,1,,,,,Other,corporate,
+648,,"Agnew & Sons, Ltd., Thomas","Thomas Agnew & Sons, Ltd.",,,0,,,,,Other,corporate,
 649,,Alexander Gallery,Alexander Gallery,,,0,,,,,Other,corporate,
 650,,H. V. Allison & Co.,H. V. Allison & Co.,,,0,,,,,Other,corporate,
 651,,"Angier, Roswell P., Mrs.",Mrs. Roswell P. Angier,Angier,,0,,,,,Other,individual,
@@ -970,7 +970,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1042,,"Havemeyer, Jr., Horace","Horace Havemeyer, Jr.",Havemeyer,"American, 1914 - 1990",0,1914,1990,1901 to 1925,American,American,individual,
 1043,,"Havemeyer, Harry Waldron",Harry Waldron Havemeyer,Havemeyer,"American, born 1929",0,1929,,1926 to 1950,American,American,individual,
 1069,,"Robert Miller Gallery, Inc.","Robert Miller Gallery, Inc.",,,0,,,,,Other,corporate,
-1070,,Spink & Son Ltd.,Spink & Son Ltd.,,,1,,,,,Other,corporate,
+1070,,Spink & Son Ltd.,Spink & Son Ltd.,,,0,,,,,Other,corporate,
 1071,,"Ilin, Ephraim, Mr.",Mr. Ephraim Ilin,Ilin,,0,,,,,Other,individual,
 1072,,Art Advisory SA,Art Advisory SA,,,0,,,,,Other,corporate,
 1073,500011144,"Calcagno, Lawrence",Lawrence Calcagno,Calcagno,"American, 1913 - 1993",1,1913,1993,1901 to 1925,American,American,individual,Q6503905
@@ -26678,3 +26678,5 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53441,,"Aslan, Isabella",Isabella Aslan,Aslan,Italian,0,,,,Italian,Italian,individual,
 53442,,"Liefrinck, Willem",Willem Liefrinck,Liefrinck,"Flemish, died c. 1538-1546",1,,1546,,Flemish,Flemish,individual,
 53443,,Holman's Book Shop,Holman's Book Shop,,,0,,,,,Other,corporate,
+53447,,"Neumann, Rolf",Rolf Neumann,Neumann,,1,,,,,Other,individual,
+53448,,"Scrivani, George",George Scrivani,Scrivani,,1,,,,,Other,individual,
