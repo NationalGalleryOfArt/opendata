@@ -28687,7 +28687,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55060,47732,Breslauer,"Breslauer, Marianne",,Preferred Name
 55061,47733,Ebstel,"Ebstel, Jeanne",,Preferred Name
 55062,42043,Chanler,"Chanler, Robert Winthrop",,Full Name
-55063,42043,Chandler,"Chandler, Robert W.",,Variant
 55064,46924,Trenholm,"Trenholm, Dorothy Chanler",,Full Name
 55065,46924,Chanler,"Chanler, Dorothy",,Maiden Name
 55066,46925,Beach,"Beach, Julia Chanler",,Variant
@@ -29544,7 +29543,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56086,6526,Rodchenko,"Rodchenko, Alexander",,Variant
 56087,8474,Whyte,"Whyte, Maisie Shainwald Dreicer",,Married Name
 56088,8474,Kerchove,"Kerchove, René de Baroness",,Married Name
-56223,48568,Philipp,"Philipp, J. D.",,Preferred Name
 56089,8474,Kerchove d'Exaerde,"Kerchove d'Exaerde, René de Baroness",,Married Name
 56091,48461,Master of the Martelli Mirror,Master of the Martelli Mirror,,Preferred Name
 56092,48462,,Weirdom Publications,,Preferred Name
@@ -29642,6 +29640,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56220,48565,Schleuen,"Schleuen, Johann David",,Preferred Name
 56221,48566,Schlegel,"Schlegel, H. F.",,Preferred Name
 56222,48567,Krüger,"Krüger, Johann Conrad",,Preferred Name
+56223,48568,Philipp,"Philipp, J. D.",,Preferred Name
 56224,48569,Miller,"Miller, Mary Diggs",,Preferred Name
 56225,48569,Miller,"Miller, Joseph Maxwell Mrs.",,Married Name
 56226,48569,Miller,"Miller, Mary Catharine Diggs",,Full Name
@@ -29836,6 +29835,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56520,406,,,,Variant
 56521,42921,Adams,"Adams, Adeline Valentine Pond",,Full Name
 56522,42921,Pond,"Pond, Adeline Valentine",,Maiden Name
+56641,41924,Turnbull,"Turnbull, Grace Hill",,Full Name
 56523,48774,van Gogh-Carbentus,"van Gogh-Carbentus, Anna Cornelia",,Preferred Name
 56524,48775,Couvreur,"Couvreur, J.M.",,Preferred Name
 56525,48776,Couvreur,"Couvreur, J.C.",,Preferred Name
@@ -29935,7 +29935,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56638,42933,Niles,"Niles, Anna Cornelia ""Roma"" Lyman",,Full Name
 56639,786,,Kennedy and Company,,Variant
 56640,43065,May,"May, Henry Jr.",,Variant
-56641,41924,Turnbull,"Turnbull, Grace Hill",,Full Name
 56642,43199,Carlisle,"Carlisle, Emeleen",,Maiden Name
 56643,43199,Hill,"Hill, Emeleen Carlisle",,Full Name
 56644,48814,,Castano Galleries,,Preferred Name
@@ -30033,6 +30032,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56831,48961,Fauché,"Fauché, Léon",,Preferred Name
 56832,48962,Némo,"Némo, Lodovic",,Preferred Name
 56833,48963,Brévière,"Brévière, Louis-Henri",,Preferred Name
+57760,810,,Marlborough A.G.,,Variant
 56834,48964,,Health Professions for McCarthy,,Preferred Name
 56835,48965,,"Lincoln Graphics, New York",,Preferred Name
 56836,48966,,"Plampin Litho Co., INC. NYC",,Preferred Name
@@ -30131,7 +30131,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56976,49090,Stadler,"Stadler, Joseph Constantine",,Preferred Name
 56977,49091,Leers,"Leers, Arnout I",,Preferred Name
 56978,49092,Ramsey,"Ramsey, Milne",,Preferred Name
-57760,810,,Marlborough A.G.,,Variant
+59739,18607,,Kelpra Studios,,Variant
 56979,49093,Ream,"Ream, Carducius Plantagenet",,Preferred Name
 56980,49094,Skeele,"Skeele, Hannah Brown",,Preferred Name
 56981,49095,Wenzler,"Wenzler, Sarah Wilhelmina",,Preferred Name
@@ -30322,7 +30322,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57316,49359,Brown,"Brown, John Appleton",,Preferred Name
 57317,41973,Melcher,"Melcher, Mrs. John",,Married Name
 57319,41002,Edouart,"Edouart, Auguste Amant Constant Fidèle",,Full Name
-59739,18607,,Kelpra Studios,,Variant
+60316,38366,Modotti Mondini,,,Birth Name
 57321,49362,Hirshhorn,"Hirshhorn, Joseph",,Preferred Name
 57322,49362,Hirshhorn,"Hirshhorn, Joseph H.",,Variant
 57323,49363,Drake,"Drake, Alexander Wilson",,Preferred Name
@@ -30717,7 +30717,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57904,49756,Goursau,Goursau,,Preferred Name
 57905,49757,Frazetta,"Frazetta, Frank",,Preferred Name
 57906,49757,Frazzetta,,,Variant
-60316,38366,Modotti Mondini,,,Birth Name
+60318,23909,Johnson,,,Birth Name
 57908,49758,Eisner,"Eisner, Will",,Preferred Name
 57909,49758,Eisner,"Eisner, William",,Full Name
 57910,49759,Beck,"Beck, C.C.",,Preferred Name
@@ -31013,7 +31013,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58288,50080,Loewy,"Loewy, Moritz",,Original Name
 58289,50081,De Biasi,"De Biasi, Mario",,Preferred Name
 58290,50082,Morin-Jean,Morin-Jean,,Preferred Name
-60318,23909,Johnson,,,Birth Name
+61530,52487,Blain,Blain,,Preferred Name
 58291,50083,,Japan Professional Photographers Society / Japan Photo Archive,,Preferred Name
 58297,18765,,,,Variant
 58298,50089,Palmer,"Palmer, Alfred Herbert",,Preferred Name
@@ -31209,7 +31209,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58572,50297,Carignan,"Carignan, Victor Amédée, 3rd prince de",,Preferred Name
 58573,50298,Thibaut,Thibaut,,Preferred Name
 58574,50299,"Bourbon, prince de Conti","Bourbon, prince de Conti, Louis François I de",,Preferred Name
-61530,52487,Blain,Blain,,Preferred Name
 58575,50299,Conti,"Conti, Louis François I de Bourbon, prince de",,Variant
 58576,50300,Poullain,"Poullain, Antoine",,Preferred Name
 58577,50301,Buttery,Buttery,,Preferred Name
@@ -33506,6 +33505,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62202,52966,,Galerie Robert Finck,,Preferred Name
 62203,52967,Brown,"Brown, Philip Bransfield",,Preferred Name
 62207,33715,Limbach,"Limbach, Russell T.",,Variant
+62210,52973,,Ellsworth Kelly Studio,,Preferred Name
 62211,52974,Parker,"Parker, Mr. and Mrs. J.B. Riggs",,Preferred Name
 62222,26867,Richter,,,Spouse
 62227,52989,Kelbaugh,"Kelbaugh, Ross J.",,Preferred Name
@@ -33734,3 +33734,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62769,53443,,Holman's Book Shop,,Preferred Name
 62774,53447,Neumann,"Neumann, Rolf",,Preferred Name
 62775,53448,Scrivani,"Scrivani, George",,Preferred Name
+62778,53450,Orley,"Orley, Jan van",,Preferred Name
+62779,53451,Calando,"Calando, Émile",,Preferred Name
