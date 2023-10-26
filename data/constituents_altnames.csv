@@ -9490,7 +9490,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 10179,10186,,Bernheim-Jeune,,Preferred Name
 10180,10187,Duz,Duz,,Preferred Name
 10181,10188,Eynde,"Eynde, Van den",,Preferred Name
-10182,10189,Calando,"Calando, Émile",,Preferred Name
+10182,10189,Calando,"Calando, Émile Louis Dominique",,Preferred Name
 10183,10190,Winkler,"Winkler, Gottfried",,Preferred Name
 10184,10191,Hauth,"Hauth, W.",,Preferred Name
 10185,10192,Strölin,"Strölin, Jacqueline",,Preferred Name
@@ -33533,8 +33533,16 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62255,53017,Bowser,"Bowser, David Bustill",,Preferred Name
 62266,53028,Wilcox,Wilcox,,Preferred Name
 62274,53036,Walden,"Walden, J. W.",,Preferred Name
+62277,53039,,Strohmeyer & Wyman,,Preferred Name
+62280,53042,Turner,"Turner, A.",,Preferred Name
 62281,53043,Brown,"Brown, George O.",,Preferred Name
+62283,53045,,Horwitz Bros,,Preferred Name
+62298,53060,Pollock,"Pollock, Henry",,Preferred Name
 62300,53062,Baumgarten,"Baumgarten, Henry",,Preferred Name
+62303,53065,Sawyer,"Sawyer, Llewellyn A.",,Preferred Name
+62316,53078,Perkins,"Perkins, Harry Lenfield",,Preferred Name
+62317,53079,Tisdell,"Tisdell, Fred S.",,Preferred Name
+62320,53082,,Hollywood Studio,,Preferred Name
 62383,53145,,Lehrman Fund,,Preferred Name
 62385,53147,Badger,"Badger, Gene",,Preferred Name
 62386,53148,Bartscherer,"Bartscherer, Joseph",,Preferred Name
@@ -33658,6 +33666,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62585,47260,Barth,"Barth, Karl",,Variant
 62587,46506,Doyle,"Doyle, John Lawrence",,Variant
 62593,3679,Garza,,,Variant
+62594,53310,Partridge,"Partridge, William Henry",,Preferred Name
 62595,20021,Brown,"Brown, Andrew The Hon.",,Variant
 62600,53314,Mahoney,"Mahoney, Harold",,Preferred Name
 62605,53319,Marks,"Marks, Saul",,Preferred Name
@@ -33679,6 +33688,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62643,53351,,Galerie Hanz Goltz,,Preferred Name
 62646,53354,,Emil Richter Verlag,,Preferred Name
 62647,53355,Lafranca,"Lafranca, Francois",,Preferred Name
+62648,53356,,Lyons Studio,,Preferred Name
 62649,53357,,Westphalen,,Preferred Name
 62650,53358,,Genthe,,Preferred Name
 62651,53359,Sabo,"Sabo, Carl",,Preferred Name
@@ -33736,5 +33746,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62774,53447,Neumann,"Neumann, Rolf",,Preferred Name
 62775,53448,Scrivani,"Scrivani, George",,Preferred Name
 62778,53450,Orley,"Orley, Jan van",,Preferred Name
-62779,53451,Calando,"Calando, Émile",,Preferred Name
+62779,53451,Calando,"Calando, Émile Victor Pierre",,Preferred Name
 62781,29899,Liu Kelley,"Liu Kelley, Hung",,Variant
