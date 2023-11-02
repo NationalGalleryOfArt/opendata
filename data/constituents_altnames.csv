@@ -30324,7 +30324,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57316,49359,Brown,"Brown, John Appleton",,Preferred Name
 57317,41973,Melcher,"Melcher, Mrs. John",,Married Name
 57319,41002,Edouart,"Edouart, Auguste Amant Constant Fidèle",,Full Name
-60316,38366,Modotti Mondini,,,Birth Name
+62585,47260,Barth,"Barth, Karl",,Variant
 57321,49362,Hirshhorn,"Hirshhorn, Joseph",,Preferred Name
 57322,49362,Hirshhorn,"Hirshhorn, Joseph H.",,Variant
 57323,49363,Drake,"Drake, Alexander Wilson",,Preferred Name
@@ -30719,7 +30719,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57904,49756,Goursau,Goursau,,Preferred Name
 57905,49757,Frazetta,"Frazetta, Frank",,Preferred Name
 57906,49757,Frazzetta,,,Variant
-60318,23909,Johnson,,,Birth Name
 57908,49758,Eisner,"Eisner, Will",,Preferred Name
 57909,49758,Eisner,"Eisner, William",,Full Name
 57910,49759,Beck,"Beck, C.C.",,Preferred Name
@@ -31015,7 +31014,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58288,50080,Loewy,"Loewy, Moritz",,Original Name
 58289,50081,De Biasi,"De Biasi, Mario",,Preferred Name
 58290,50082,Morin-Jean,Morin-Jean,,Preferred Name
-61530,52487,Blain,Blain,,Preferred Name
 58291,50083,,Japan Professional Photographers Society / Japan Photo Archive,,Preferred Name
 58297,18765,,,,Variant
 58298,50089,Palmer,"Palmer, Alfred Herbert",,Preferred Name
@@ -32475,6 +32473,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60310,44358,Nutzhorn,"Nutzhorn, Dorothy",,Variant
 60311,43833,,Ronald Feldman Gallery,,Variant
 60313,49445,McLaughlin,"McLaughlin, Frances",,Birth Name
+60316,38366,Modotti Mondini,,,Birth Name
+60318,23909,Johnson,,,Birth Name
 60321,1689,Fini,"Fini, Tommaso di Cristoforo",,Full Name
 60324,51509,Crosby,"Crosby, Njideka Akunyili",,Preferred Name
 60325,51175,,Private Collection courtesy of Victoria Miro Gallery,,Variant
@@ -33155,6 +33155,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61527,52485,Trevisanus,,,Variant
 61528,52485,Trevisan,,,Variant
 61529,52486,Specklin,"Specklin, Veit",,Preferred Name
+61530,52487,Blain,Blain,,Preferred Name
 61531,52488,,Gonnelli Casa d'Aste,,Preferred Name
 61533,52490,,Cadart & Chevalier,,Preferred Name
 61534,52491,Comiot,"Comiot, Charles",,Preferred Name
@@ -33666,7 +33667,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62582,39604,Johnson,"Johnson, Herbert Raymond",,Variant
 62583,39770,Blum,"Blum, Alex Anthony",,Variant
 62584,5168,Passe,,,Full Name
-62585,47260,Barth,"Barth, Karl",,Variant
 62587,46506,Doyle,"Doyle, John Lawrence",,Variant
 62593,3679,Garza,,,Variant
 62594,53310,Partridge,"Partridge, William Henry",,Preferred Name
