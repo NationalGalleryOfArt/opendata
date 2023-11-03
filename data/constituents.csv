@@ -9941,7 +9941,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 10697,,"Sachs, Carl",Carl Sachs,Sachs,1900 - 1950,0,1900,1950,1876 to 1900,,Other,individual,
 10698,,"Zogbaum, Elisabeth R.",Mrs. Elisabeth R. Zogbaum,Zogbaum,"American, 1912 - 2005",0,1912,2005,1901 to 1925,,Other,individual,
 10699,500209693,"Cleveland Museum of Art, The",The Cleveland Museum of Art,,"",0,,,,,Other,corporate,
-10702,,Unknown,Unknown,Unknown,"",0,,,,,Other,anonymous,
+10702,,Unknown,Unknown,Unknown,"",1,,,,,Other,anonymous,
 10706,,"Campiglia, Giovanni Domenico",Giovanni Domenico Campiglia,Campiglia,"Florentine, 1692 - 1775",1,1692,1775,1651 to 1700,Italian,Italian,individual,Q3767154
 10707,500015910,"Ramberg, Johann Heinrich",Johann Heinrich Ramberg,Ramberg,"German, 1763 - 1840",1,1763,1840,1751 to 1775,German,German,individual,Q882599
 10708,,"Kreutzinger, Josef",Josef Kreutzinger,Kreutzinger,"Austrian, 1757 - 1829",1,1757,1829,1751 to 1775,Austrian,Austrian,individual,Q1705056
@@ -26699,3 +26699,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53460,,"Mang, Christoph",Christoph Mang,Mang,"German, active 1603 - 1624",1,1603,1624,1601 to 1650,German,German,individual,
 53461,,"Orlandi, Giovanni",Giovanni Orlandi,Orlandi,"Italian, active 1590 - 1640",1,1590,1640,1551 to 1600,Italian,Italian,individual,
 53462,,"Liefrinck, Margriet",Margriet Liefrinck,Liefrinck,"Netherlandish, died 1545",1,,1545,,Netherlandish,Netherlandish,individual,
+53466,,"Panpresse, Berlin","Panpresse, Berlin",,,1,,,,,Other,corporate,
