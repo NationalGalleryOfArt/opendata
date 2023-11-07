@@ -8996,7 +8996,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9473,9480,Sattler,"Sattler, Wilhelm",,Preferred Name
 9474,9481,,"Saint-Denis, Abbey Church of",,Preferred Name
 9475,9482,,Cabinet National des Médailles et Antiques,,Preferred Name
-9476,9483,Towneley,"Towneley, Charles",,Preferred Name
+9476,9483,Townley,"Townley, Charles",,Preferred Name
 9477,9484,,Towneley family,,Preferred Name
 9478,9485,,"Harding, Harry",,Preferred Name
 9479,9486,,"Fischer, Théodore",,Preferred Name
@@ -33540,6 +33540,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62281,53043,Brown,"Brown, George O.",,Preferred Name
 62283,53045,,Horwitz Bros,,Preferred Name
 62294,53056,,Avon Studio,,Preferred Name
+62296,53058,Romaguera,"Romaguera, R.J.",,Preferred Name
 62297,53059,McCloud,"McCloud, Burnis",,Preferred Name
 62298,53060,Pollock,"Pollock, Henry",,Preferred Name
 62300,53062,Baumgarten,"Baumgarten, Henry",,Preferred Name
@@ -33749,6 +33750,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62775,53448,Scrivani,"Scrivani, George",,Preferred Name
 62778,53450,Orley,"Orley, Jan van",,Preferred Name
 62779,53451,Calando,"Calando, Émile Victor Pierre",,Preferred Name
+62780,53452,Paul,"Paul, William G.",,Preferred Name
 62781,29899,Liu Kelley,"Liu Kelley, Hung",,Variant
 62789,53460,Mang,"Mang, Christoph",,Preferred Name
 62790,53460,Mang,"Mang, Christoff",,Variant
@@ -33756,3 +33758,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62792,53462,Liefrinck,"Liefrinck, Margriet",,Preferred Name
 62793,53462,Liefrinck,"Liefrinck, Margariete",,Variant
 62797,53466,,"Panpresse, Berlin",,Preferred Name
+62810,9483,Towneley,"Towneley, Charles",,Variant
+62811,53475,Berteaux,"Berteaux, Bryan S.",,Preferred Name
