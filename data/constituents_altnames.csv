@@ -449,7 +449,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 476,483,,Print Council of America,,Preferred Name
 478,485,,Professional Art Group I,,Preferred Name
 479,486,Pucker,"Pucker, B. H., Mr. and Mrs.",,Preferred Name
-50640,18683,,Sylvan Cole Gallery,,Variant
+54064,47044,,Jewel,,Nickname/Pseudonym
 480,487,Putnam,"Putnam, Esther W.",,Preferred Name
 481,488,Pyne,"Pyne, Henry Rogers, Mrs.",,Preferred Name
 483,490,Rea,"Rea, Henry R., Mrs.",,Preferred Name
@@ -15937,7 +15937,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 28514,28521,Raggi,"Raggi, Tomasso, Marchese",,Preferred Name
 28515,28522,Balbi,"Balbi, Francesco Maria",,Preferred Name
 28516,28523,Farquhar,"Farquhar, 3rd Bt., Walter Rockcliffe, Sir",,Preferred Name
-28517,28524,,"Conner Rosenkranz, LLC",,Preferred Name
+28517,28524,,"Conner-Rosenkranz, LLC",,Preferred Name
 28518,28525,Farquhar,"Farquhar, Walter Randolph, Sir",,Preferred Name
 28519,28526,Grimaldi,"Grimaldi, Pier Francesco",,Preferred Name
 28522,28529,Greville,"Greville, 2nd earl of Warwick, George",,Preferred Name
@@ -26347,6 +26347,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 46936,40145,Boutet de Monvel,"Boutet de Monvel, Bernard",,Preferred Name
 46942,40151,Heilbuth,"Heilbuth, Ferdinand",,Preferred Name
 46950,40159,Roome,"Roome, Jan van",,Preferred Name
+46951,40160,Weissenbruch,"Weissenbruch, Jan Hendrik",,Preferred Name
 46954,40163,Sangiamo,"Sangiamo, Albert",,Preferred Name
 46964,40173,King,"King, Rufus",,Preferred Name
 46965,40174,Sills,"Sills, Thomas",,Preferred Name
@@ -26361,6 +26362,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 46992,40201,Sharples Family,Sharples Family,,Preferred Name
 46993,40202,Bache,"Bache, Benjamin Franklin",,Preferred Name
 46996,40205,White,"White, Gilbert",,Preferred Name
+47004,40213,Toft,"Toft, Peter Petersen",,Preferred Name
 47030,40239,Anguiano,"Anguiano, Raúl",,Preferred Name
 47032,40241,Beaumont,"Beaumont, Leonard",,Preferred Name
 47033,40242,Bichebois,"Bichebois, Louis-Pierre-Alphonse",,Preferred Name
@@ -27301,6 +27303,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 50591,43800,,Simon Lowinsky Gallery,,Preferred Name
 50593,43802,,Josh Baer Gallery,,Preferred Name
 50594,43803,,Stephen Wirtz Gallery,,Preferred Name
+50599,43808,Lebwohl,"Lebwohl, Murray Esq.",,Preferred Name
 50603,43812,Constantine,"Constantine, Mildred",,Preferred Name
 50606,43815,Frenzel,"Frenzel, David",,Preferred Name
 50607,43816,Levy,"Levy, Alexander Wolf",,Preferred Name
@@ -27319,6 +27322,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 50637,43846,Sussel,"Sussel, Richard",,Preferred Name
 50638,43847,Goldston,"Goldston, Bill",,Preferred Name
 50639,43848,Edelson,"Edelson, Robert",,Preferred Name
+50640,18683,,Sylvan Cole Gallery,,Variant
 50647,43856,Quiroz,"Quiroz, Roderick S.",,Preferred Name
 50652,43861,Wittrock,"Wittrock, Wolfgang",,Preferred Name
 50654,43863,Clock,"Clock, Cora E.",,Preferred Name
@@ -27990,7 +27994,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54061,47043,Mendes,"Mendes, Barbara",,Preferred Name
 54062,47043,Mendes,"Mendes, Barbara ""Willy""",,Variant
 54063,47044,Wood,"Wood, Julie",,Preferred Name
-54064,47044,,Jewel,,Nickname/Pseudonym
 54065,47044,Goodvibes,"Goodvibes, Julie",,Nickname/Pseudonym
 54068,47043,Mendes,"Mendes, Willie",,Nickname/Pseudonym
 54069,47047,Stack,"Stack, Frank",,Preferred Name
@@ -28469,6 +28472,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54686,47486,Phidias,Phidias,,Preferred Name
 54688,47488,Dorfinant,"Dorfinant, Gaston",,Preferred Name
 54689,3822,Costigan,"Costigan, John Edward",,Full Name
+54690,40160,Weissenbruch,"Weissenbruch, Johannes Hendrik",,Variant
 54691,47489,Wallis,Wallis,,Preferred Name
 54697,29172,Grasselli,"Grasselli, Nicholas Mr. and Mrs.",,Variant
 54698,23537,Scharffenberger,"Scharffenberger, Marion A.",,Married Name
@@ -33536,6 +33540,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62253,53015,Moses,"Moses, Bernard",,Preferred Name
 62255,53017,Bowser,"Bowser, David Bustill",,Preferred Name
 62266,53028,Wilcox,Wilcox,,Preferred Name
+62273,53035,Larimer,"Larimer, Sarah Luse Mrs.",,Preferred Name
 62274,53036,Walden,"Walden, J. W.",,Preferred Name
 62277,53039,,Strohmeyer & Wyman,,Preferred Name
 62280,53042,Turner,"Turner, A.",,Preferred Name
@@ -33763,3 +33768,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62810,9483,Towneley,"Towneley, Charles",,Variant
 62811,53475,Berteaux,"Berteaux, Bryan S.",,Preferred Name
 62812,53476,Humphrey,"Humphrey, William",,Preferred Name
+62817,53481,Vauzelle,Vauzelle,,Preferred Name
+62818,53482,Fuchs,"Fuchs, Eduard",,Preferred Name
