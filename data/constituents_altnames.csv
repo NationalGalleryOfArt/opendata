@@ -32338,8 +32338,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60040,51313,Tanagra 4th Century B.C.,Tanagra 4th Century B.C.,,Preferred Name
 60041,51314,Tanagra 3rd Century B.C.,Tanagra 3rd Century B.C.,,Preferred Name
 60042,51315,Tanagra 1st Century B.C.,Tanagra 1st Century B.C.,,Preferred Name
+60055,51328,Obin,"Obin, Philomé",,Preferred Name
 60058,50070,Jackson,"Jackson, Bob",,Variant
 60071,51341,Nakata,"Nakata, Satsuo",,Preferred Name
+60094,51364,Bigaud,"Bigaud, Wilson",,Preferred Name
 60096,51366,Samsun 2nd Century B.C.,Samsun 2nd Century B.C.,,Preferred Name
 60097,51366,Amisos (now Samsun) 2nd Century B.C.,Amisos (now Samsun) 2nd Century B.C.,,Variant
 60099,51368,Smyrna 3rd Century B.C.,Smyrna 3rd Century B.C.,,Preferred Name
@@ -32350,6 +32352,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60119,51386,Willyams,"Willyams, Humphry",,Preferred Name
 60120,51387,Bryant,Bryant Mr.,,Preferred Name
 60121,51388,Attic 5th Century B.C.,Attic 5th Century B.C.,,Preferred Name
+60136,51403,Bazile,"Bazile, Castera",,Preferred Name
 60137,51404,Pasinelli,"Pasinelli, Lorenzo",,Preferred Name
 60138,51405,Harris,"Harris, Pete",,Preferred Name
 60139,51406,Dutuit,"Dutuit, Eugène",,Preferred Name
@@ -33706,7 +33709,15 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62652,38093,Bickham,"Bickham, George the Younger",,Variant
 62653,34252,Möllhausen,"Möllhausen, Heinrich Balduin",,Variant
 62655,35484,Huber,"Huber, Wilhelm",,Variant
+62660,53363,Heller,"Heller, Kay and Roderick",,Preferred Name
+62661,53364,Benoit,"Benoit, Rigaud",,Preferred Name
+62662,53365,Duval-Carrie,"Duval-Carrie, Edouard",,Preferred Name
+62664,53367,Pierre,"Pierre, Andre",,Preferred Name
+62665,53368,Valcin,"Valcin, Gérard",,Preferred Name
 62666,53369,Pierron,Pierron,,Preferred Name
+62667,53370,Fox Sullivan,"Fox Sullivan, John and Beverly",,Preferred Name
+62668,53371,Constant,"Constant, Myrlande",,Preferred Name
+62669,53372,Saint Fleurant,"Saint Fleurant, Louisiane",,Preferred Name
 62671,53373,Brüsaber,"Brüsaber, Carl Benjamin",,Preferred Name
 62672,53374,,"Leopold I, Prince of Anhalt-Dessau",,Preferred Name
 62673,53375,Kollmann,"Kollmann, Carl Julius",,Preferred Name
