@@ -30209,7 +30209,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57051,25890,Abrahams,"Abrahams, Elizabeth",,Maiden Name
 57052,49150,Aldrich,"Aldrich, Thomas Bailey",,Preferred Name
 57054,49152,Wetterauer,"Wetterauer, J. E.",,Preferred Name
-57055,49153,,Hummingbird Press Edition,,Preferred Name
+57055,49153,,Hummingbird Press Editions,,Preferred Name
 57057,49155,Berruer,"Berruer, Pierre-Francois",,Preferred Name
 57058,49156,Grandi,"Grandi, Giuseppe",,Preferred Name
 57064,31318,Schwab,"Schwab, Charles Michael",,Full Name
@@ -30724,7 +30724,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57904,49756,Goursau,Goursau,,Preferred Name
 57905,49757,Frazetta,"Frazetta, Frank",,Preferred Name
 57906,49757,Frazzetta,,,Variant
-61877,52736,Haw,"Haw, Bill",,Variant
+62585,47260,Barth,"Barth, Karl",,Variant
 57908,49758,Eisner,"Eisner, Will",,Preferred Name
 57909,49758,Eisner,"Eisner, William",,Full Name
 57910,49759,Beck,"Beck, C.C.",,Preferred Name
@@ -31020,7 +31020,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58288,50080,Loewy,"Loewy, Moritz",,Original Name
 58289,50081,De Biasi,"De Biasi, Mario",,Preferred Name
 58290,50082,Morin-Jean,Morin-Jean,,Preferred Name
-62585,47260,Barth,"Barth, Karl",,Variant
 58291,50083,,Japan Professional Photographers Society / Japan Photo Archive,,Preferred Name
 58297,18765,,,,Variant
 58298,50089,Palmer,"Palmer, Alfred Herbert",,Preferred Name
@@ -33208,7 +33207,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61626,52568,Bonenfant,"Bonenfant, Antoine",,Preferred Name
 61627,52569,Lortic,"Lortic, Marcelin",,Preferred Name
 61629,52571,,Petzel,,Preferred Name
-61630,52572,,"Peter Blum Gallery/Blumarts, Inc.",,Preferred Name
 61631,52573,Sidhu,"Sidhu, Zorawar",,Preferred Name
 61632,52574,Swainston,"Swainston, Rob",,Preferred Name
 61633,52575,Arrillaga-Andresseen,"Arrillaga-Andresseen, Lauren",,Preferred Name
@@ -33349,6 +33347,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61864,52728,Theobald,"Theobald, J. P. Esq.",,Preferred Name
 61869,51919,Tubbs,"Tubbs, A. B.",,Variant
 61876,52736,,Haw Contemporary,,Preferred Name
+61877,52736,Haw,"Haw, Bill",,Variant
 61878,52737,,Art Seminar Group,,Preferred Name
 61879,52738,Walker,"Walker, Diana and Mallory",,Preferred Name
 61881,52740,,Kanthos Press,,Preferred Name
@@ -33543,10 +33542,18 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62252,53014,Gibson,"Gibson, James F.",,Preferred Name
 62253,53015,Moses,"Moses, Bernard",,Preferred Name
 62255,53017,Bowser,"Bowser, David Bustill",,Preferred Name
+62256,53018,Urlin,"Urlin, G.C.",,Preferred Name
+62258,53020,Mitchell,"Mitchell, John S.",,Preferred Name
+62262,53024,Cowan,"Cowan, Henry",,Preferred Name
 62266,53028,Wilcox,Wilcox,,Preferred Name
+62267,53029,,Shadle & Busser,,Preferred Name
+62270,53032,Shorey,"Shorey, William F.",,Preferred Name
+62272,53034,Johnson,"Johnson, J. Scott",,Preferred Name
 62273,53035,Larimer,"Larimer, Sarah Luse Mrs.",,Preferred Name
 62274,53036,Walden,"Walden, J. W.",,Preferred Name
 62277,53039,,Strohmeyer & Wyman,,Preferred Name
+62278,53040,Cheong,"Cheong, A.",,Preferred Name
+62279,53041,Price,"Price, William L.",,Preferred Name
 62280,53042,Turner,"Turner, A.",,Preferred Name
 62281,53043,Brown,"Brown, George O.",,Preferred Name
 62283,53045,,Horwitz Bros,,Preferred Name
@@ -33556,6 +33563,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62298,53060,Pollock,"Pollock, Henry",,Preferred Name
 62300,53062,Baumgarten,"Baumgarten, Henry",,Preferred Name
 62303,53065,Sawyer,"Sawyer, Llewellyn A.",,Preferred Name
+62313,53075,Wonders,"Wonders, Newton Mossheim",,Preferred Name
 62316,53078,Perkins,"Perkins, Harry Lenfield",,Preferred Name
 62317,53079,Tisdell,"Tisdell, Fred S.",,Preferred Name
 62320,53082,,Hollywood Studio,,Preferred Name
@@ -33704,7 +33712,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62646,53354,,Emil Richter Verlag,,Preferred Name
 62647,53355,Lafranca,"Lafranca, Francois",,Preferred Name
 62648,53356,,Lyons Studio,,Preferred Name
-62649,53357,,Westphalen,,Preferred Name
 62650,53358,,Genthe,,Preferred Name
 62651,53359,Sabo,"Sabo, Carl",,Preferred Name
 62652,38093,Bickham,"Bickham, George the Younger",,Variant
@@ -33795,3 +33802,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62821,53485,Tegg,"Tegg, Thomas",,Preferred Name
 62822,53486,,Beaumont Philosophical Institute,,Preferred Name
 62823,53487,Ackermann,"Ackermann, Rudolf",,Preferred Name
+62825,53489,,"Peter Blum Edition, New York",,Preferred Name
+62830,53492,,"Poeschel & Trepte, Leipzig",,Preferred Name
