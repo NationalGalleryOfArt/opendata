@@ -20170,7 +20170,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34150,8462,,P.W. French & Company,,Variant
 34151,8468,Chinchón,Chinchón Condesa de,,Variant
 34152,8470,Sueco,"Sueco Conde de Chinchón Adolfo Ruspoli, Duque de",,Variant Index Name
-56083,34127,Seeds,"Seeds, Elise",,Variant
+55969,48380,Lawso,"Lawso, Robbie",,Variant
 34153,8470,Chinchón,"Chinchón Adolfo Ruspoli, Duque de Sueco, Conde de",,Variant Index Name
 34154,8475,Pontejos,Pontejos Marquesa de,,Variant
 34155,8475,Ventosa,Ventosa Condesa de la,,Variant
@@ -20876,7 +20876,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 35047,11680,Augustus II,"Augustus II, Friedrich Elector of Saxony",,Variant
 35048,11680,Augustus II,"Augustus II, Friedrich King of Poland",,Variant
 35051,11683,Palmerston,"Palmerston Henry Temple, 2nd Viscount",,Variant Index Name
-59196,2795,Vos,"Vos, Maerten de",,Variant
+55970,48379,J.,"J., Michael",,Variant
 35052,11684,Beauchamp,"Beauchamp, William Lygon, 1st Earl",,Variant Index Name
 35053,11685,Schiwe,"Schiwe, Else",,Maiden Name
 35054,11685,Dornonville de la Cour,"Dornonville de la Cour, Else",,Variant
@@ -21243,7 +21243,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 35862,21776,Oberwalder,"Oberwalder, Augustus W.",,Full Name
 35863,21778,du Vannes,"du Vannes, Albert",,Variant Index Name
 35865,21781,Katz Gallery,Katz Gallery,,Variant
-62017,34235,Gilbert,,,Variant
+56083,34127,Seeds,"Seeds, Elise",,Variant
 35866,21787,,James Danziger Gallery,,Variant Index Name
 35868,21810,,Stanislaus V. Henkels,,Full Name
 35869,21811,van Oostcapelle,"van Oostcapelle, Johan Steengracht",,Variant Index Name
@@ -21601,6 +21601,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36410,25572,Bridge,"Bridge, Horatio Mrs.",,Married Name
 36411,25575,Brown,"Brown, James Mrs.",,Married Name
 36412,25577,Brown,"Brown, James Clifton Mrs.",,Married Name
+59196,2795,Vos,"Vos, Maerten de",,Variant
 36418,25599,"Guest, 2nd Baron and 1st Viscount Wimborne","Guest, 2nd Baron and 1st Viscount Wimborne, Ivor Churchill",,Variant Index Name
 36419,25599,Guest,"Guest, Ivor Churchill 2nd Baron and 1st Viscount Wimborne",,Variant Index Name
 36420,25601,Younge,"Younge, Elizabeth Cleeve",,Married Name
@@ -22088,6 +22089,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 37231,30565,Baltimore,"Baltimore, Lord",,Variant
 37232,30578,Gervex,"Gervex, Henri Alexandre",,Full Name
 37233,30582,Dorchester,"Dorchester, Dudley Carleton, 1st viscount Sir",,Variant Index Name
+62017,34235,Gilbert,,,Variant
 37234,30587,Cowdray,"Cowdray, Weetman Dickinson Pearson, 1st viscount",,Variant Index Name
 37235,30588,Cowdray,"Cowdray, Weetman Harold Miller Pearson, 2nd viscount",,Variant Index Name
 37236,30589,Pearson,"Pearson, Weetman John Churchill 3rd viscount Cowdray",,Variant Index Name
@@ -27437,6 +27439,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 52414,45623,Waring,"Waring, Laura Wheeler",,Preferred Name
 52429,45638,Capa,"Capa, Cornell",,Preferred Name
 52430,45639,Dutton,"Dutton, Allen",,Preferred Name
+52441,45650,unidentified,unidentified,,Preferred Name
 52474,45683,Baum,"Baum, Don",,Preferred Name
 52481,45690,Wirsum,"Wirsum, Karl",,Preferred Name
 52501,45710,Sharpe,"Sharpe, David",,Preferred Name
@@ -29447,8 +29450,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55966,48378,,Random House,,Variant Index Name
 55967,48379,Becker,"Becker, Michael J.",,Preferred Name
 55968,48380,Landeros,"Landeros, Robbie",,Preferred Name
-55969,48380,Lawso,"Lawso, Robbie",,Variant
-55970,48379,J.,"J., Michael",,Variant
 55971,48381,Murphy,"Murphy, Willy",,Preferred Name
 55972,48382,,Mervinius,,Preferred Name
 55973,48382,Gilbert,"Gilbert, Mervin",,Full Name
@@ -33807,3 +33808,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62830,53492,,"Poeschel & Trepte, Leipzig",,Preferred Name
 62833,53495,Busch,"Busch, Rudolf",,Preferred Name
 62834,13404,Le Secq,"Le Secq, Jean-Louis-Henri des Tournelles",,Variant
+62836,53497,,"Frauenbund zur Förderung neuer deutscher Kunst, Hamburg",,Preferred Name
+62837,53498,,"Verlag Arndt Beyer, Leipzig",,Preferred Name
