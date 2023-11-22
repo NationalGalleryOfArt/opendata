@@ -11618,6 +11618,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 18690,18697,Berman,"Berman, Richard",,Preferred Name
 18691,18698,Sneyd,"Sneyd, John, Rev.",,Preferred Name
 18697,18704,Fossati,"Fossati, Domenico",,Preferred Name
+18714,18721,"Private Collection, France (Vallayer-Coster)","Private Collection, France (Vallayer-Coster)",,Preferred Name
 18722,18729,Scheuren,"Scheuren, Caspar Johann Nepomuk",,Preferred Name
 18753,18760,Kahn,"Kahn, Arthur E., Dr. and Mrs.",,Preferred Name
 18756,18763,Galerie Lelong,Galerie Lelong,,Preferred Name
@@ -15171,10 +15172,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26924,26931,Laporte,"Laporte, Bertrand, Mme",,Preferred Name
 26925,26932,Escher,"Escher, M.",,Preferred Name
 26926,26933,Lucas of Crudwell,"Lucas of Crudwell, Jemima Campbell Yorke, marchioness Grey and baroness",,Preferred Name
+27199,27206,Birch,"Birch, Willie",,Preferred Name
+27200,27207,Chu,"Chu, Anne",,Preferred Name
 26927,26934,"Hume-Campbell, countess de Grey of Wrest and 2nd baroness Lucas of Crudwell","Hume-Campbell, countess de Grey of Wrest and 2nd baroness Lucas of Crudwell, Annabel Yorke",,Preferred Name
 26928,26935,Robinson,"Robinson, Thomas Philip 2nd earl de Grey of Wrest and 5th baron Lucas of Crudwell",,Preferred Name
 26929,26936,Cowper,"Cowper, Anne Florence de Grey, countess Cowper and 6th baroness Lucas",,Preferred Name
-27207,27214,Fried,"Fried, Nancy",,Preferred Name
 26930,26937,Cowper,"Cowper, Francis Thomas de Grey, 7th earl Cowper and 7th baron Lucas",,Preferred Name
 26931,26938,Herbert,"Herbert, Auberon Thoma,s 9th baron Lucas of Crudwell",,Preferred Name
 26932,26939,Cooper,"Cooper, Nan Ino Herbert, 10th baroness Lucas",,Preferred Name
@@ -15261,12 +15263,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27195,27202,Mullen,"Mullen, Brian",,Preferred Name
 27197,27204,Ball,"Ball, Lillian",,Preferred Name
 27198,27205,Keller,"Keller, Albert",,Preferred Name
-27199,27206,Birch,"Birch, Willie",,Preferred Name
-27200,27207,Chu,"Chu, Anne",,Preferred Name
 27201,27208,Coyne,"Coyne, Petah",,Preferred Name
 27202,27209,Dennis,"Dennis, Donna",,Preferred Name
 27205,27212,Edwards,"Edwards, Melvin",,Preferred Name
 27206,27213,Fasnacht,"Fasnacht, Heide",,Preferred Name
+27207,27214,Fried,"Fried, Nancy",,Preferred Name
 27208,27215,Grossman,"Grossman, Nancy",,Preferred Name
 27209,27216,Lerman,"Lerman, Leonid",,Preferred Name
 27210,27217,Nam,"Nam, Yoon Mi",,Preferred Name
@@ -15539,6 +15540,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27926,27933,Vendramin,"Vendramin, Andrea",,Preferred Name
 27927,27934,Niebuhr,"Niebuhr, Barthold Georg",,Preferred Name
 27928,27935,Niebuhr,"Niebuhr, Marcus",,Preferred Name
+30836,30843,Lie,Lie,,Preferred Name
 27929,27936,Tod,"Tod, J.M., Mrs.",,Preferred Name
 27930,27937,,"Leger and Son, J.",,Preferred Name
 27931,27938,Oldham,"Oldham, Frank",,Preferred Name
@@ -16078,6 +16080,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 28713,28720,Rudolph,"Rudolph, Charlotte",,Preferred Name
 28714,28721,Cusset,Cusset,,Preferred Name
 28715,28722,Bachelard,"Bachelard, Gaston",,Preferred Name
+33167,3270,Vasi,"Vasi, Joseph",,Variant
 28719,28726,Burchartz,"Burchartz, Max",,Preferred Name
 28720,28727,Cervantes,"Cervantes, Miguel",,Preferred Name
 28721,28728,,Paulson Press,,Preferred Name
@@ -17378,7 +17381,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 30832,30839,Veronese 16th Century,Veronese 16th Century,,Preferred Name
 30833,30840,Venturi,"Venturi, Lionello",,Preferred Name
 30835,30842,Dilenn,Dilenn,,Preferred Name
-30836,30843,Lie,Lie,,Preferred Name
 30837,30844,Payen,"Payen, Léon",,Preferred Name
 30838,30845,,Prada Gallery,,Preferred Name
 30841,30848,Gómez de la Serna,"Gómez de la Serna, Ramón",,Preferred Name
@@ -19161,7 +19163,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33070,2837,Anonymous German 18th Century,Anonymous German 18th Century,,Variant
 33071,2838,Anonymous German 19th Century,Anonymous German 19th Century,,Variant
 33072,2839,Anonymous German 20th Century,Anonymous German 20th Century,,Variant
-33172,3280,Verkruys,"Verkruys, Theodor",,Variant
 33073,2840,Anonymous South German 16th Century,Anonymous South German 16th Century,,Variant
 33074,2841,Anonymous Isfahan 17th Century,Anonymous Isfahan 17th Century,,Variant
 33078,2845,Anonymous Japanese 13th Century,Anonymous Japanese 13th Century,,Variant
@@ -19251,11 +19252,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33164,3253,Valk,"Valk, Gerard",,Variant
 33165,3256,Vallayer-Coster,"Vallayer-Coster, Dorothee Anne",,Variant
 33166,3257,Valet,"Valet, Guillaume",,Variant
-33167,3270,Vasi,"Vasi, Joseph",,Variant
 33168,3271,van de Velde,"van de Velde, Adriaen",,Variant Index Name
 33169,3273,Vellert,"Vellert, Dirick Jacobsz",,Variant
 33170,3273,Vellert,"Vellert, Dierick Jacobsz",,Variant
 33171,3280,Della Croce,"Della Croce, Theodor",,Variant
+33172,3280,Verkruys,"Verkruys, Theodor",,Variant
 33173,3281,Verkauf,"Verkauf, Willy",,Variant
 33174,3282,Meulen,"Meulen, Cornelis van der",,Variant
 33175,3283,Vernet,"Vernet, Charlot",,Variant
@@ -19825,6 +19826,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33780,5763,Averlino,"Averlino, Antonio di Pietro",,Full Name
 33781,5763,"Averlino, called Filarete","Averlino, called Filarete, Antonio",,Variant Index Name
 33782,5763,Averlino,"Averlino, Antonio",,Variant
+33887,6641,Le Moine,"Le Moine, François",,Variant
 33783,5763,Medalist of the Roman Emperors,Medalist of the Roman Emperors,,Nickname/Pseudonym
 33784,5765,Polidoro da Lanciano,Polidoro da Lanciano,,Variant
 33785,5765,Lanzani,"Lanzani, Polidoro",,Variant Index Name
@@ -19924,7 +19926,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33884,6631,Geeraerts,"Geeraerts, Marcus the Younger",,Variant
 33885,6635,Hague,"Hague, Heukelekian",,Variant
 33886,6640,Schmutzer,"Schmutzer, Jakob Mathias",,Variant
-33887,6641,Le Moine,"Le Moine, François",,Variant
 33888,6643,Herz,"Herz, Johann Daniel the Elder",,Variant Index Name
 33889,6664,Shapiro,"Shapiro, Joel Mr.",,Variant
 33890,6667,Il Prete Savonese,Il Prete Savonese,,Variant
@@ -20095,7 +20096,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34070,8327,Anonymous Tuscan 16th Century,Anonymous Tuscan 16th Century,,Variant
 34071,8328,Anonymous Sienese 16th Century,Anonymous Sienese 16th Century,,Variant
 34072,8329,Anonymous Italian 17th Century,Anonymous Italian 17th Century,,Variant
-34325,8824,Reid,Reid Mrs.,,Variant
 34073,8330,Anonymous Venetian 17th Century,Anonymous Venetian 17th Century,,Variant
 34074,8331,Anonymous North Italian 17th Century,Anonymous North Italian 17th Century,,Variant
 34075,8332,Anonymous Roman 17th Century,Anonymous Roman 17th Century,,Variant
@@ -20165,12 +20165,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34144,8453,,Hospital of Charity,,Variant
 34145,8455,Dalmatia,"Dalmatia Nicolas J. de Dieu Soult, Duke of",,Variant
 34146,8456,Sutherland,"Sutherland, George Granville Sutherland-Leveson-Gower, 2nd duke of",,Variant Index Name
+34319,8787,Lucas,"Lucas, Joan Holdsworth",,Variant
 34148,8457,Sutherland,"Sutherland, George Granville Sutherland-Leveson-Gower, 5th duke of",,Variant Index Name
 34149,8459,Almenas,Almenas Conde de las,,Variant
 34150,8462,,P.W. French & Company,,Variant
 34151,8468,Chinchón,Chinchón Condesa de,,Variant
 34152,8470,Sueco,"Sueco Conde de Chinchón Adolfo Ruspoli, Duque de",,Variant Index Name
-55969,48380,Lawso,"Lawso, Robbie",,Variant
 34153,8470,Chinchón,"Chinchón Adolfo Ruspoli, Duque de Sueco, Conde de",,Variant Index Name
 34154,8475,Pontejos,Pontejos Marquesa de,,Variant
 34155,8475,Ventosa,Ventosa Condesa de la,,Variant
@@ -20250,6 +20250,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34233,8620,San Donato,"San Donato Anatoly Nikolaievich Demidov, prince of",,Variant Index Name
 34234,8624,Gainsborough,"Gainsborough, Margaret Burr",,Variant Index Name
 34235,8624,Burr,"Burr, Margaret",,Maiden Name
+34412,9211,,Frederick Fuessenich,,Variant
 34236,8625,Tabley,"Tabley John Fleming Leicester, Bt.,1st Baron de",,Variant
 34237,8625,Tabley House,Tabley House,,Variant
 34238,8626,Lindsay,"Lindsay Jeanne, Countess of",,Variant Index Name
@@ -20331,12 +20332,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34316,8778,,"Arthur Tooth & Sons, Ltd.",,Variant Index Name
 34317,8778,,Tooth Bros.,,Variant
 34318,8787,Holdsworth,"Holdsworth, Joan",,Maiden Name
-34319,8787,Lucas,"Lucas, Joan Holdsworth",,Variant
 34320,8789,Warwick,"Warwick Frances Evelyn Greville, Countess of",,Variant Index Name
 34321,8789,Maynard,"Maynard, Frances Evelyn",,Maiden Name
 34322,8801,Anderson,"Anderson, David Mr. and Mrs.",,Variant
 34323,8812,Pitman,"Pitman, Anna Sitwell Tait",,Variant
 34324,8812,Tait,"Tait, Anna Sitwell",,Maiden Name
+34325,8824,Reid,Reid Mrs.,,Variant
 34326,8842,Darnley,"Darnley, Ivo Francis Walter Bligh, 8th earl of",,Variant Index Name
 34327,8850,,The Metropolitan Museum of Art,,Variant
 34328,8859,Nieuwenhuys,"Nieuwenhuys, Christianus Johannus",,Full Name
@@ -20419,7 +20420,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34409,9192,Conover,"Conover, Cecil S. Mrs.",,Variant
 34410,9193,Knight,"Knight, H.D. Mrs.",,Married Name
 34411,9193,Albright,"Albright, Emily C.",,Maiden Name
-34412,9211,,Frederick Fuessenich,,Variant
 34413,9218,Cross,"Cross, George Mrs.",,Variant
 34414,9219,Cross,"Cross, Daisy",,Maiden Name
 34415,9225,Moreton,"Moreton, Robert and Anne Capt.",,Variant
@@ -20509,6 +20509,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34504,9470,Haanen,"Haanen, Remi van",,Variant
 34505,9470,Haanan,"Haanan, Reni van",,Variant
 34506,9472,Amherst,"Amherst William Pitt, 1st Earl of",,Variant Index Name
+42473,31420,,Galerie Lebrun,,Variant
 34507,9473,Amherst,"Amherst William Pitt, 2nd Earl of",,Variant Index Name
 34508,9474,Amherst,"Amherst William Archer, 3rd Earl of",,Variant Index Name
 34509,9476,Amherst,"Amherst Hugh Archer, 4th Earl of",,Variant Index Name
@@ -20600,6 +20601,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34612,9812,Klovic,"Klovic, Julije",,Variant
 34613,9812,Glovicic,"Glovicic, Juraj",,Variant
 34614,9814,Anonymous Swabian 15th Century,Anonymous Swabian 15th Century,,Variant
+55969,48380,Lawso,"Lawso, Robbie",,Variant
 34615,9815,Anonymous Nuremberg 15th Century,Anonymous Nuremberg 15th Century,,Variant
 34616,9817,Alma-Tadema,"Alma-Tadema, Lawrence",,Variant
 34617,9820,Sharpe,"Sharpe, Hercules Brabazon",,Variant
@@ -20689,6 +20691,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 34730,10210,,Galerie André Weil,,Variant Index Name
 34731,10218,Shapiro,"Shapiro, Daniel Mrs.",,Married Name
 34732,10221,Larochenoire,"Larochenoire, I. de",,Variant Index Name
+55970,48379,J.,"J., Michael",,Variant
 34733,10223,Paillard,"Paillard, Camille-Cornélie",,Maiden Name
 34734,10238,,Seiferheld and Co.,,Variant
 34735,10238,,R.M. Light and Co. - Seiferheld and Co.,,Variant Index Name
@@ -20876,7 +20879,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 35047,11680,Augustus II,"Augustus II, Friedrich Elector of Saxony",,Variant
 35048,11680,Augustus II,"Augustus II, Friedrich King of Poland",,Variant
 35051,11683,Palmerston,"Palmerston Henry Temple, 2nd Viscount",,Variant Index Name
-55970,48379,J.,"J., Michael",,Variant
 35052,11684,Beauchamp,"Beauchamp, William Lygon, 1st Earl",,Variant Index Name
 35053,11685,Schiwe,"Schiwe, Else",,Maiden Name
 35054,11685,Dornonville de la Cour,"Dornonville de la Cour, Else",,Variant
@@ -21243,7 +21245,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 35862,21776,Oberwalder,"Oberwalder, Augustus W.",,Full Name
 35863,21778,du Vannes,"du Vannes, Albert",,Variant Index Name
 35865,21781,Katz Gallery,Katz Gallery,,Variant
-56083,34127,Seeds,"Seeds, Elise",,Variant
 35866,21787,,James Danziger Gallery,,Variant Index Name
 35868,21810,,Stanislaus V. Henkels,,Full Name
 35869,21811,van Oostcapelle,"van Oostcapelle, Johan Steengracht",,Variant Index Name
@@ -21601,7 +21602,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36410,25572,Bridge,"Bridge, Horatio Mrs.",,Married Name
 36411,25575,Brown,"Brown, James Mrs.",,Married Name
 36412,25577,Brown,"Brown, James Clifton Mrs.",,Married Name
-59196,2795,Vos,"Vos, Maerten de",,Variant
 36418,25599,"Guest, 2nd Baron and 1st Viscount Wimborne","Guest, 2nd Baron and 1st Viscount Wimborne, Ivor Churchill",,Variant Index Name
 36419,25599,Guest,"Guest, Ivor Churchill 2nd Baron and 1st Viscount Wimborne",,Variant Index Name
 36420,25601,Younge,"Younge, Elizabeth Cleeve",,Married Name
@@ -21836,6 +21836,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 36841,28173,Sagan,"Sagan, Jeanne Marguérite Seillière, Princess de",,Variant Index Name
 36842,28173,Talleyrand-Périgord,Talleyrand-Périgord Duchesse de,,Variant Index Name
 36846,28227,Ditte,"Ditte, Lucie Garnier",,Full Name
+56083,34127,Seeds,"Seeds, Elise",,Variant
 36847,28230,Corrigioni d'Orelli,"Corrigioni d'Orelli, Elena",,Married Name
 36848,28230,Orelli,"Orelli, Elena Corrigioni d'",,Variant Index Name
 36849,28231,Abernon,"Abernon, Esher and Stoke d'",,Variant Index Name
@@ -22089,7 +22090,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 37231,30565,Baltimore,"Baltimore, Lord",,Variant
 37232,30578,Gervex,"Gervex, Henri Alexandre",,Full Name
 37233,30582,Dorchester,"Dorchester, Dudley Carleton, 1st viscount Sir",,Variant Index Name
-62017,34235,Gilbert,,,Variant
 37234,30587,Cowdray,"Cowdray, Weetman Dickinson Pearson, 1st viscount",,Variant Index Name
 37235,30588,Cowdray,"Cowdray, Weetman Harold Miller Pearson, 2nd viscount",,Variant Index Name
 37236,30589,Pearson,"Pearson, Weetman John Churchill 3rd viscount Cowdray",,Variant Index Name
@@ -22552,6 +22552,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39103,33300,Cohen,"Cohen, George",,Preferred Name
 39104,33301,Cohn,"Cohn, Max Arthur",,Preferred Name
 39105,33302,Cole,"Cole, Joseph Foxcroft",,Preferred Name
+59196,2795,Vos,"Vos, Maerten de",,Variant
 39106,33303,Coleman,"Coleman, Glenn O.",,Preferred Name
 39107,33304,Collison (Nelms),"Collison (Nelms), Marjory H.",,Preferred Name
 39108,33305,Constant,"Constant, George",,Preferred Name
@@ -22938,6 +22939,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39511,33708,Lewin,"Lewin, Ruth L.",,Preferred Name
 39512,33709,Lewis,"Lewis, Allen",,Preferred Name
 39513,33710,Lewis,"Lewis, Jennie",,Preferred Name
+62017,34235,Gilbert,,,Variant
 39514,33711,Libby,"Libby, William Charles",,Preferred Name
 39515,33712,Lichtner,"Lichtner, Schomer",,Preferred Name
 39516,33712,Lichtner,"Lichtner, Frank Schomer",,Variant
@@ -24659,7 +24661,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42469,36211,Zick,"Zick, Januarius",,Preferred Name
 42471,22040,Lapeyrère,"Lapeyrère, Augustin",,Variant
 42472,22040,Lapeyrière,"Lapeyrière, Augustin de",,Variant
-42473,31420,,Galerie Lebrun,,Variant
 42474,36213,Gottstein,"Gottstein, Karl J.",,Preferred Name
 42475,36214,Delmé-Radcliffe,"Delmé-Radcliffe, Henry Eliot Reverend",,Preferred Name
 42476,36215,Cohen,"Cohen, Joseph M.",,Preferred Name
@@ -33816,3 +33817,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62834,13404,Le Secq,"Le Secq, Jean-Louis-Henri des Tournelles",,Variant
 62836,53497,,"Frauenbund zur Förderung neuer deutscher Kunst, Hamburg",,Preferred Name
 62837,53498,,"Verlag Arndt Beyer, Leipzig",,Preferred Name
+62849,53505,,"Spamersche Buchdruckerei, Leipzig",,Preferred Name
