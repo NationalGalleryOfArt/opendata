@@ -23324,6 +23324,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39908,34091,Tuthill,"Tuthill, William H.",,Preferred Name
 39909,34092,Tyler,"Tyler, Muriel",,Preferred Name
 39910,34093,Ulreich,"Ulreich, Edward Buk",,Preferred Name
+62383,53145,,Lehrman Fund,,Preferred Name
 39911,34094,Underwood,"Underwood, Elizabeth H.",,Preferred Name
 39912,34095,Utpatel,"Utpatel, Frank Albert Bernhardt",,Preferred Name
 39913,34096,Utter,"Utter, Bror",,Preferred Name
@@ -32534,6 +32535,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60390,51556,Stirling-Maxwell,"Stirling-Maxwell, William",,Preferred Name
 60391,51556,Stirling,,,Variant
 60400,51565,Freeman,"Freeman, Barbara W.",,Preferred Name
+60401,51566,Gray,"Gray, Todd",,Preferred Name
 60403,51568,Ball,"Ball, James Presley",,Preferred Name
 60405,51570,Walton,"Walton, Robert",,Preferred Name
 60406,51571,Dey,"Dey, Richard",,Preferred Name
@@ -33399,6 +33401,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61970,4934,González,,,Variant
 61971,33234,Shermer,"Shermer, Frederika",,Variant
 61972,33234,Frederika,"Frederika, Fritzi",,Variant
+61973,52817,Plowden,"Plowden, David",,Preferred Name
 61974,52818,,Mayer & Pierson,,Preferred Name
 61975,52818,,Mayer et Pierson,,Variant
 61976,52819,Storey,"Storey, John",,Preferred Name
@@ -33510,8 +33513,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62179,27628,Simelli,,,Variant
 62180,52948,Petitjean,"Petitjean, Charles M.",,Preferred Name
 62181,38595,Hubert,,,Variant
+62183,52950,Gewirz,"Gewirz, Victoria",,Preferred Name
 62185,45011,,,,Variant
 62186,52952,Calvocoressi,"Calvocoressi, Peter",,Preferred Name
+62188,52954,Cropper,"Cropper, Elizabeth",,Preferred Name
 62190,52956,Robertson,"Robertson, Mariah",,Preferred Name
 62191,52957,,Primrose Press,,Preferred Name
 62193,40072,Mathieson,"Mathieson, John George",,Variant
@@ -33572,7 +33577,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62316,53078,Perkins,"Perkins, Harry Lenfield",,Preferred Name
 62317,53079,Tisdell,"Tisdell, Fred S.",,Preferred Name
 62320,53082,,Hollywood Studio,,Preferred Name
-62383,53145,,Lehrman Fund,,Preferred Name
 62385,53147,Badger,"Badger, Gene",,Preferred Name
 62386,53148,Bartscherer,"Bartscherer, Joseph",,Preferred Name
 62390,31412,Ditte,"Ditte, Marie Lucie Adèlee",,Birth Name
@@ -33712,6 +33716,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62630,53341,,Dr. C Wolf & Sohn,,Preferred Name
 62632,53343,,Knorr & Hirth,,Preferred Name
 62633,53344,Ruckenbrod,"Ruckenbrod, Alfred",,Preferred Name
+62634,44743,,Lehmann Maupin,,Preferred Name
+62635,53345,Poma,"Poma, Cecilia and Ernesto",,Preferred Name
+62636,53346,Soldevilla,"Soldevilla, Loló",,Preferred Name
+62637,53346,Soldevilla Nieto,,,Variant
 62640,39619,Knight,"Knight, Ridgway",,Variant
 62642,53350,Kienpenheuer,"Kienpenheuer, Gustav",,Preferred Name
 62643,53351,,Galerie Hanz Goltz,,Preferred Name
@@ -33822,3 +33830,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62836,53497,,"Frauenbund zur Förderung neuer deutscher Kunst, Hamburg",,Preferred Name
 62837,53498,,"Verlag Arndt Beyer, Leipzig",,Preferred Name
 62849,53505,,"Spamersche Buchdruckerei, Leipzig",,Preferred Name
+62854,53508,,Tresart,,Preferred Name
