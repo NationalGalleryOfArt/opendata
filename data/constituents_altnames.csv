@@ -17301,6 +17301,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 30642,30649,Pourtalès,"Pourtalès, Friedrich von, Count",,Preferred Name
 30652,30659,Wijnants,"Wijnants, Jan",,Preferred Name
 30663,30670,Bober,"Bober, Jonathan",,Preferred Name
+30673,30680,Esteve,"Esteve, Agustín",,Preferred Name
 30676,30683,Mensing,"Mensing, Anton W.M.",,Preferred Name
 30690,30697,,"Stern, Inc., Frederick A.",,Preferred Name
 30696,30703,Hayez,"Hayez, Francesco",,Preferred Name
@@ -33300,6 +33301,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61769,52667,,Photographs Do Not Bend Gallery,,Preferred Name
 61770,52668,,Jules Meynial,,Preferred Name
 61778,52675,,Collection Defer-Dumesnil,,Preferred Name
+61781,52676,Muntaner,"Muntaner, Francisco",,Preferred Name
+61782,52676,Muntaner Moner,,,Variant
+61783,30680,Esteve y Marqués,,,Variant
 61785,38375,Eynhoudts,,,Variant
 61786,52678,Paget,"Paget, George",,Preferred Name
 61787,52678,Paget,,,Variant
@@ -33459,6 +33463,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62082,38035,Dailey,"Dailey, Laura Irene",,Married Name
 62083,52881,,Union Pacific Railroad,,Preferred Name
 62084,52882,Borroni,"Borroni, Paolo",,Preferred Name
+62086,52884,,Compañía para el grabado de los cuadros de los Reales Palacios,,Preferred Name
 62090,48647,,,,Variant Index Name
 62091,52888,,James and Christiane Valone Fund,,Preferred Name
 62093,52889,,Michael Findlay and Victoria Findlay Wolfe Fund,,Preferred Name
@@ -33823,6 +33828,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62823,53487,Ackermann,"Ackermann, Rudolf",,Preferred Name
 62825,53489,,"Peter Blum Edition, New York",,Preferred Name
 62826,31051,,,,Variant
+62828,53490,,unpublished,,Preferred Name
 62829,53491,,"Rikola Verlag, Verlag Neuer Graphik, Vienna",,Preferred Name
 62830,53492,,"Poeschel & Trepte, Leipzig",,Preferred Name
 62833,53495,Busch,"Busch, Rudolf",,Preferred Name

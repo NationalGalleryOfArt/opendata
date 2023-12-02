@@ -4338,7 +4338,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 4545,500003741,"Krug, Ludwig",Ludwig Krug,Krug,"German, c. 1488 - 1532",1,1488,1532,1401 to 1500,German,German,individual,Q18508490
 4546,500021699,"Kruiningen, Harry van",Harry van Kruiningen,Kruiningen,"Dutch, born 1906",1,1906,2006,1901 to 1925,Dutch,Dutch,individual,Q3428703
 4547,500025783,"Kubin, Alfred",Alfred Kubin,Kubin,"Austrian, 1877 - 1959",1,1877,1959,1876 to 1900,Austrian,Austrian,individual,Q558054
-4548,500074261,"Kudryashov, Oleg",Oleg Kudryashov,Kudryashov,"Russian, born 1932",1,1932,,1926 to 1950,Russian,Russian,individual,Q29913277
+4548,500074261,"Kudryashov, Oleg",Oleg Kudryashov,Kudryashov,"Russian, 1932 - 2022",1,1932,2022,1926 to 1950,Russian,Russian,individual,Q29913277
 4549,500465076,"Kügler, Rudolf",Rudolf Kügler,Kügler,"German, born 1921",1,1921,,1901 to 1925,German,German,individual,Q2173280
 4550,,"Kühler, Otto August",Otto August Kühler,Kühler,"American, 1894 - 1977",1,1894,1977,1876 to 1900,American,American,individual,Q101970
 4551,,"Kumagai, Goro",Goro Kumagai,Kumagai,"Japanese, born 1932",1,1932,,1926 to 1950,Japanese,Japanese,individual,
@@ -17315,6 +17315,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 30649,,"Pourtalès, Friedrich von, Count",Count Friedrich von Pourtalès,Pourtalès,"German, died 1928",0,1828,1928,1826 to 1850,German,German,individual,
 30659,,"Wijnants, Jan",Jan Wijnants,Wijnants,"Dutch, 1635 - 1684",1,1635,1684,1601 to 1650,Dutch,Dutch,individual,Q514074
 30670,,"Bober, Jonathan",Jonathan Bober,Bober,,0,,,,,Other,individual,
+30680,,"Esteve, Agustín",Agustín Esteve,Esteve,"Spanish, 1753 - c.1830",1,1753,1830,1751 to 1775,Spanish,Spanish,individual,
 30683,,"Mensing, Anton W.M.",Anton W.M. Mensing,Mensing,"Dutch, 1866 - 1936",0,1866,1936,1851 to 1875,Dutch,Dutch,individual,
 30697,,"Stern, Inc., Frederick A.","Frederick A. Stern, Inc.",,,0,,,,,Other,corporate,
 30703,500019066,"Hayez, Francesco",Francesco Hayez,Hayez,"Italian, 1791 - 1882",1,1791,1882,1776 to 1800,Italian,Italian,individual,
@@ -26394,6 +26395,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52667,,Photographs Do Not Bend Gallery,Photographs Do Not Bend Gallery,,,0,,,,,Other,corporate,
 52668,,Jules Meynial,Jules Meynial,,,1,,,,,Other,corporate,
 52675,,Collection Defer-Dumesnil,Collection Defer-Dumesnil,,"French, 1800 - 1899",0,1800,1899,1776 to 1800,French,French,corporate,
+52676,,"Muntaner, Francisco",Francisco Muntaner,Muntaner,"Spanish, 1743 - 1805",1,1743,1805,1726 to 1750,Spanish,Spanish,individual,
 52678,,"Paget, George",George Paget,Paget,"British, 1818 - 1880",0,1818,1880,1801 to 1825,British,British,individual,
 52679,,"Phillips, Richard",Richard Phillips,Phillips,"British, active 1803 - 1809",1,1803,1809,1801 to 1825,British,British,individual,
 52680,,Cadell & Davies,Cadell & Davies,,,1,,,,,Other,corporate,
@@ -26485,6 +26487,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52867,,"Morse, Sydney",Sydney Morse,Morse,"British, 1854 - 1929",0,1854,1929,1851 to 1875,British,British,individual,
 52881,,Union Pacific Railroad,Union Pacific Railroad,,,1,,,,,Other,corporate,
 52882,,"Borroni, Paolo",Paolo Borroni,Borroni,"Italian, 1749 - 1819",1,1749,1819,1726 to 1750,Italian,Italian,individual,
+52884,,Compañía para el grabado de los cuadros de los Reales Palacios,Compañía para el grabado de los cuadros de los Reales Palacios,,"Spanish, active 1789 - c. 1800",1,1789,1800,1776 to 1800,Spanish,Spanish,corporate,
 52888,,James and Christiane Valone Fund,James and Christiane Valone Fund,,,0,,,,,Other,purchase_fund,
 52889,,Michael Findlay and Victoria Findlay Wolfe Fund,Michael Findlay and Victoria Findlay Wolfe Fund,,,0,,,,,Other,purchase_fund,
 52890,,"Wolf, Clarence",Clarence Wolf,Wolf,,0,,,,American,American,individual,
@@ -26756,6 +26759,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53486,,Beaumont Philosophical Institute,Beaumont Philosophical Institute,,,0,,,,,Other,corporate,
 53487,,"Ackermann, Rudolf",Rudolf Ackermann,Ackermann,"English, active 1794-1832",1,1794,1832,1776 to 1800,English,English,individual,
 53489,,"Peter Blum Edition, New York","Peter Blum Edition, New York",,,1,,,,,Other,corporate,
+53490,,unpublished,unpublished,,,1,,,,,Other,anonymous,
 53491,,"Rikola Verlag, Verlag Neuer Graphik, Vienna","Rikola Verlag, Verlag Neuer Graphik, Vienna",,,1,,,,,Other,corporate,
 53492,,"Poeschel & Trepte, Leipzig","Poeschel & Trepte, Leipzig",,,1,,,,,Other,corporate,
 53495,,"Busch, Rudolf",Rudolf Busch,Busch,"German, c. 1875 - c. 1956",0,1875,1956,1851 to 1875,German,German,individual,
