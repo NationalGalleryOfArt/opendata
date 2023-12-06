@@ -9362,7 +9362,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 9938,9945,Meunier,"Meunier, Laure-Emilie-Félicité, baronne",,Preferred Name
 9939,9946,Meunier,"Meunier, Pauline, baronne",,Preferred Name
 9940,9947,Bianchi,"Bianchi, Mathilde",,Preferred Name
-9942,9949,,Museum of Modern Art,,Preferred Name
 9943,9950,Tribolo,"Tribolo, Niccolò",,Preferred Name
 9944,9951,Murat,"Murat, Caroline-Pauline-Thérèse, Comptess",,Preferred Name
 9946,9953,,"Wertheimer, Otto",,Preferred Name
@@ -27404,7 +27403,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 51618,9966,,The Library of Congress,,Variant
 51621,44830,,Magnum Photos,,Preferred Name
 51636,44845,,Mitchell-Innes and Nash,,Preferred Name
-51639,9949,,"Museum of Modern Art, The",,Variant
+51639,9949,,"Museum of Modern Art, The",,Preferred Name
 51642,44851,,Nailya Alexander Gallery,,Preferred Name
 51671,9965,,Philadelphia Museum of Art,,Variant
 51700,44909,,"Spanierman Gallery, LLC",,Preferred Name
@@ -33842,3 +33841,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62854,53508,,Tresart,,Preferred Name
 62861,53514,,"Blue Moon Gallery, Yorktown Heights, NY",,Preferred Name
 62862,53515,,"George Miller and Son, New York",,Preferred Name
+62864,53161,Harris,"Harris, Michael Dehart",,Variant
+62865,53517,Gachet,"Gachet, Paul Louis Lucien",,Preferred Name
+62866,53517,Gachet,"Gachet, Paul L. L.",,Variant
