@@ -1,4 +1,4 @@
-                Table "preferred_locations"
+                 Table "preferred_locations"
      Column     |          Type           | Modifiers 
 ----------------+-------------------------+-----------
  locationkey    | character varying(32)   | 
