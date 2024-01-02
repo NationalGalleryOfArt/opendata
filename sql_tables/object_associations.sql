@@ -1,4 +1,4 @@
-               Table "object_associations"
+                Table "object_associations"
      Column     |         Type          | Modifiers 
 ----------------+-----------------------+-----------
  parentobjectid | integer               | 
