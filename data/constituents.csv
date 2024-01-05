@@ -6643,7 +6643,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 6947,500011651,"Andre, Carl",Carl Andre,Andre,"American, born 1935",1,1935,,1926 to 1950,American,American,individual,Q315348
 6948,,"Gerhard, Hubert",Hubert Gerhard,Gerhard,"Netherlandish, 1540/1550 - 1620",1,1540,1620,1501 to 1550,Netherlandish,Netherlandish,individual,Q316824
 6949,,Urbino 16th Century,Urbino 16th Century,Urbino 16th Century,"Italian, 16th century",1,1500,1599,1401 to 1500,Italian,Italian,anonymous,
-6951,,Deruta 16th Century,Deruta 16th Century,Deruta 16th Century,"Deruta, 16th century",1,1500,1599,1401 to 1500,Italian,Italian,anonymous,
+6951,,Deruta 16th Century,Deruta 16th Century,Deruta 16th Century,,1,1500,1599,1401 to 1500,Italian,Italian,anonymous,
 6952,,Gubbio 16th Century,Gubbio 16th Century,Gubbio 16th Century,,1,1500,1599,1401 to 1500,Italian,Italian,anonymous,
 6953,500023148,"Diamantini, Giuseppe",Giuseppe Diamantini,Diamantini,"Italian, 1621 - 1705",1,1621,1705,1601 to 1650,Italian,Italian,individual,Q3108030
 6954,500009862,"Amato, Francesco",Francesco Amato,Amato,"Italian, active 1650",1,1570,1710,1551 to 1600,Italian,Italian,individual,Q63302274
@@ -25650,7 +25650,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51206,500066501,"Bull, Clarence Sinclair",Clarence Sinclair Bull,Bull,"American, 1896 - 1979",1,1896,1979,1876 to 1900,American,American,individual,
 51207,,Paramount News,Paramount News,,1927 - 1957,1,1927,1957,1926 to 1950,,Other,corporate,
 51208,,"Sinnock, John",John Sinnock,Sinnock,"American, 1888 - 1947",1,1888,1947,1876 to 1900,American,American,individual,
-51268,,"Libbis, Nell Hilder",Nell Hilder Libbis,Libbis,,0,,,,,Other,individual,
+51269,,"Hauswedell, Ernest Dr.",Dr. Ernest Hauswedell,Hauswedell,,0,,,,,Other,individual,
 51209,,"Thom, Jr., Mrs. Corcoran","Mrs. Corcoran Thom, Jr.",Thom,"American, 1911 - 1991",0,1911,1991,1901 to 1925,American,American,individual,
 51210,,"Thornton, Lawrence",Lawrence Thornton,Thornton,"American, active 1940s",1,1940,1949,1926 to 1950,American,American,individual,
 51211,,"Lovett, George Hampden",George Hampden Lovett,Lovett,"American, 1824 - 1894",1,1824,1894,1801 to 1825,American,American,individual,
@@ -25665,7 +25665,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51222,,"Wall, Herman",Herman V. Wall,Wall,"American, 1905 - 1997",1,1905,1997,1901 to 1925,American,American,individual,
 51225,,"Queenan, Paul",Paul Queenan,Queenan,"American, 1913 - 1999",1,1913,1999,1901 to 1925,American,American,individual,
 51226,,"Campbell, Robert R.",Robert R. Campbell,Campbell,"American, 1910 - 1968",1,1910,1968,1901 to 1925,American,American,individual,
-51227,,Deruta 15th Century,Deruta 15th Century,Deruta 15th Century,"Deruta, 15th century",1,1400,1499,1300 to 1400,Italian,Italian,anonymous,
+51227,,Deruta 15th Century,Deruta 15th Century,Deruta 15th Century,,1,1400,1499,1300 to 1400,Italian,Italian,anonymous,
 51228,,"Zimmerman, Matty",Matty Zimmerman,Zimmerman,"American, 1912 - 1966",1,1912,1966,1901 to 1925,American,American,individual,
 51229,,"Chichersky, Walter",Walter Chichersky,Chichersky,"American, 1924 - 2008",1,1924,2008,1901 to 1925,American,American,individual,
 51230,,"Florea, John",John Florea,Florea,"American, 1916 - 2000",1,1916,2000,1901 to 1925,American,American,individual,
@@ -25700,7 +25700,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51265,,"Haller, Bettina",Bettina Haller,Haller,"German, born 1971",1,1971,,1951 to 1975,German,German,individual,
 51266,,"Nix, Orville",Orville Nix,Nix,"American, 1911 - 1972",1,1911,1972,1901 to 1925,American,American,individual,
 51267,,"Libbis, George Hilder",George Hilder Libbis,Libbis,,0,,,,,Other,individual,
-51269,,"Hauswedell, Ernest Dr.",Dr. Ernest Hauswedell,Hauswedell,,0,,,,,Other,individual,
+51268,,"Libbis, Nell Hilder",Nell Hilder Libbis,Libbis,,0,,,,,Other,individual,
 51270,,"McNamee, Wally",Wally McNamee,McNamee,"American, 1932 - 2017",1,1932,2017,1926 to 1950,American,American,individual,
 51272,,"Allen, William",William Allen,Allen,"American, born 1939",1,1939,,1926 to 1950,American,American,individual,
 51273,,"Winfrey, Bill",Bill Winfrey,Winfrey,"American, 1933 - 2009",1,1933,2009,1926 to 1950,American,American,individual,
@@ -25801,7 +25801,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51486,500476197,"Speller, Georgia",Georgia Speller,Speller,"American, 1931 - 1988",1,1931,1988,1926 to 1950,American,American,individual,
 51487,500476195,"Smith, Mary T.",Mary T. Smith,Smith,"American, 1905 - 1995",1,1905,1995,1901 to 1925,American,American,individual,
 51488,500476157,"Seltzer, Sue Willie",Sue Willie Seltzer,Seltzer,"American, 1922 - 2010",1,1922,2010,1901 to 1925,American,American,individual,
-51633,,"Ehrens, Susan",Susan Ehrens,Ehrens,,0,,,,,Other,individual,
 51489,500125700,"Robertson, Royal",Royal Robertson,Robertson,"American, 1930 - 1997",1,1930,1997,1926 to 1950,American,American,individual,
 51490,500476132,"MIxon, Sally Mae Pettway",Sally Mae Pettway Mixon,Pettway Mixon,"American, born 1965",1,1965,,1951 to 1975,American,American,individual,
 51491,500125762,"Bolden, Hawkins",Hawkins Bolden,Bolden,"American, 1914 - 2005",1,1914,2005,1901 to 1925,American,American,individual,
@@ -25895,6 +25894,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51629,500122995,"De Bruyckere, Berlinde",Berlinde De Bruyckere,De Bruyckere,"Belgian, born 1964",1,1964,,1951 to 1975,Belgian,Belgian,individual,
 51630,500116214,"Zhen, Chen",Chen Zhen,Zhen,"Chinese, 1955 - 2000",1,1955,2000,1951 to 1975,Chinese,Chinese,individual,Q2962610
 51632,,"Goodman, Dane",Dane Goodman,Goodman,,0,,,,American,American,individual,
+51633,,"Ehrens, Susan",Susan Ehrens,Ehrens,,0,,,,,Other,individual,
 51634,,"Martin, Edward Wenman",Edward Wenman Martin,Martin,"British, d. c. 1853",0,,1853,,British,British,individual,
 51636,,"Hess, Johann Franz Adam",Johann Franz Adam Hess,Hess,"Swiss, 1740 - 1814",1,1740,1814,1726 to 1750,Swiss,Swiss,individual,
 51637,,"Tunno, Edward Rose",Edward Rose Tunno,Tunno,"British, 1794 - 1863",0,1794,1863,1776 to 1800,British,British,individual,
