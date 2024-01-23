@@ -3440,7 +3440,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3625,3632,Brustolon,"Brustolon, Giovanni Battista",,Preferred Name
 3626,3633,Bruyn,"Bruyn, Abraham de",,Preferred Name
 3627,3634,Bruyn,"Bruyn, Nicolaes de",,Preferred Name
-3628,3635,Bry,"Bry, Jan Theodor de",,Preferred Name
+3628,3635,Bry,"Bry, Jan Theodor de",,Variant
 3629,3636,Bry,"Bry, Theodor de",,Preferred Name
 3630,3637,Bryen,"Bryen, Camille",,Preferred Name
 3631,3638,Brzozowski,"Brzozowski, Tadeusz Alexander",,Preferred Name
@@ -4672,7 +4672,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4926,4933,Mastro-Valerio,"Mastro-Valerio, Alessandro",,Preferred Name
 4927,4934,Mateos,"Mateos, Francisco",,Preferred Name
 4929,4936,Mathews,"Mathews, Morton",,Preferred Name
-4930,4937,Mathey,"Mathey, Georg Alexander",,Preferred Name
+4930,4937,Mathéy,"Mathéy, Georg Alexander",,Preferred Name
 4931,4938,Mathieu,"Mathieu, Jean",,Preferred Name
 4932,4939,Matinet,Matinet,,Preferred Name
 4933,4940,Matsutani,"Matsutani, Takesada",,Preferred Name
@@ -27844,7 +27844,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53785,39961,Tolman,"Tolman, Ruel Pardee",,Variant
 53786,1941,Twitty,"Twitty, James Watson",,Variant
 53788,5725,Borie,"Borie, Adolphe",,Variant
-53789,3635,Bry,"Bry, Johann Theodor de",,Variant
+53789,3635,Bry,"Bry, Johann Theodor de",,Preferred Name
 53790,2045,Butler,"Butler, Reginald Cotterell",,Full Name
 53791,13536,Day,"Day, Fred",,Variant
 53792,34228,Diederich,"Diederich, William Hunt",,Variant
@@ -33959,3 +33959,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62919,53550,Salley,Salley,,Preferred Name
 62922,53552,Mancino,Mancino,,Preferred Name
 62924,53554,Schwenke Auctioneers,Schwenke Auctioneers,,Preferred Name
+62938,3406,Williams,"Williams, Walter Henry Jr.",,Variant
+62940,24996,Miranda Ramos,"Miranda Ramos, Ibrahim",,Variant
+62941,34268,Smith,"Smith, William E.",,Variant
+62942,34284,Chandler,"Chandler, Houston Ellis",,Variant
+62943,34289,Grigsby,"Grigsby, Eugene Jr.",,Variant
+62944,40902,Ashton,"Ashton, Ken D.",,Variant
+62946,49037,Draper,"Draper, Louis H.",,Variant
+62947,53569,Klever,"Klever, Friedrich Wilhelm",,Preferred Name
+62948,53570,Mascha,"Mascha, Ottokar",,Preferred Name
