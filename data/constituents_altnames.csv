@@ -10598,7 +10598,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 12378,12385,Tolcott,"Tolcott, Renée",,Preferred Name
 12381,12388,Gogol,"Gogol, Nikolai",,Preferred Name
 12382,12389,Benedict,"Benedict, Philip, Mr.",,Preferred Name
-12383,12390,Hennessey,"Hennessey, Robert",,Preferred Name
+12383,12390,Hennessey,"Hennessey, Robert J.",,Preferred Name
 12386,12393,Hunt,"Hunt, Maria Taylor",,Preferred Name
 12387,12394,Hillhouse,"Hillhouse, Caroline Matilda Van Rensselaer",,Preferred Name
 12388,12395,Burke,"Burke, W.S.",,Preferred Name
@@ -23427,6 +23427,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39997,34178,Novak,"Novak, Joseph",,Preferred Name
 39998,26150,Gimpel,"Gimpel, René Albert",,Full Name
 39999,34179,Parrish,"Parrish, John",,Preferred Name
+61470,52445,,Mariano,,Preferred Name
 40000,34179,Parrish,"Parrish, J. D.",,Variant
 40001,34180,Peck,"Peck, Bruce",,Preferred Name
 40002,34181,Peplow,"Peplow, Ralph",,Preferred Name
@@ -23525,6 +23526,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40102,34276,Wolff,"Wolff, Efram",,Preferred Name
 40103,34277,Woodruff,"Woodruff, Hale",,Preferred Name
 40104,34278,Yochim,"Yochim, Maurice",,Preferred Name
+61471,52445,,"Rodríguez, Mariano",,Variant
 40105,34279,Bates,"Bates, David",,Preferred Name
 40107,34281,Biggers,"Biggers, John Thomas",,Preferred Name
 40108,34282,Burnett,"Burnett, Calvin",,Preferred Name
@@ -33159,8 +33161,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61463,52438,,Fairweather-Hardy Gallery,,Preferred Name
 61464,52439,Pick,"Pick, Grant J.",,Preferred Name
 61469,52444,von Dietel,"Dietel, Albin Woldemar von",,Preferred Name
-61470,52445,,Mariano,,Preferred Name
-61471,52445,,"Rodríguez, Mariano",,Variant
 61472,52446,Rodríguez,"Rodríguez, Freddy",,Preferred Name
 61473,52447,,Fundacion Mariano Rodriguez,,Preferred Name
 61474,52448,,Hutchinson Modern & Contemporary,,Preferred Name
@@ -33640,14 +33640,14 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62267,53029,,Shadle & Busser,,Preferred Name
 62270,53032,Shorey,"Shorey, William F.",,Preferred Name
 62272,53034,Johnson,"Johnson, J. Scott",,Preferred Name
-62273,53035,Larimer,"Larimer, Sarah Luse Mrs.",,Preferred Name
+62273,53035,Larimer,"Larimer, Sarah Luse",,Preferred Name
 62274,53036,Walden,"Walden, J. W.",,Preferred Name
 62277,53039,,Strohmeyer & Wyman,,Preferred Name
 62278,53040,Cheong,"Cheong, A.",,Preferred Name
 62279,53041,Price,"Price, William L.",,Preferred Name
 62280,53042,Turner,"Turner, A.",,Preferred Name
 62281,53043,Brown,"Brown, George O.",,Preferred Name
-62283,53045,,Horwitz Bros,,Preferred Name
+62283,53045,,Horwitz Bros.,,Preferred Name
 62293,53055,Edmonston,"Edmonston, David B.",,Preferred Name
 62294,53056,,Avon Studio,,Preferred Name
 62296,53058,Romaguera,"Romaguera, R.J.",,Preferred Name
@@ -33683,7 +33683,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62413,53171,Gottscho,"Gottscho, Samuel H.",,Preferred Name
 62414,53172,Taber,"Taber, Isaiah West",,Preferred Name
 62415,53173,Gudmundson,"Gudmundson, Wayne",,Preferred Name
-62416,53174,Hall,"Hall, I.E.",,Preferred Name
+62416,53174,Hall,"Hall, Ira E.",,Preferred Name
 62417,53175,Lee,"Lee, Kakyoung",,Preferred Name
 62418,53176,Hanna,"Hanna, Forman",,Preferred Name
 62419,53177,Limón,"Limón, Leo",,Preferred Name
@@ -33968,3 +33968,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62946,49037,Draper,"Draper, Louis H.",,Variant
 62947,53569,Klever,"Klever, Friedrich Wilhelm",,Preferred Name
 62948,53570,Mascha,"Mascha, Ottokar",,Preferred Name
+62956,53156,de Guatemala Bush Vourvoulias,"de Guatemala Bush Vourvoulias, Joyce",,Variant
