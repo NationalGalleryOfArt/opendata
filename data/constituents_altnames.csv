@@ -22362,7 +22362,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38866,27870,Hite,"Hite, Lawrence D. Mr. and Mrs.",,Variant Index Name
 38867,22573,Wilson,"Wilson, Michael Mr. and Mrs.",,Variant
 38870,27870,Hite,"Hite, Lawrence D. Mr.",,Preferred Name
-50417,43626,,Lunn Gallery,,Preferred Name
+61470,52445,,Mariano,,Preferred Name
 38871,27870,Hite,"Hite, Sybil Mrs.",,Spouse
 38873,33079,Mailly,Mailly,,Preferred Name
 38874,33080,Merrill,"Merrill, Ross",,Preferred Name
@@ -23330,7 +23330,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39892,34075,Tomberlin,"Tomberlin, Robert Wendell",,Variant
 39893,34076,Topchevsky,"Topchevsky, Morris",,Preferred Name
 39894,34077,Townsend,"Townsend, Lee",,Preferred Name
-53894,46913,,Nino,,Variant
+61471,52445,,"Rodríguez, Mariano",,Variant
 39895,34078,Travis,"Travis, Olin Herman",,Preferred Name
 39896,34079,Traylor,"Traylor, Morton P.",,Preferred Name
 39897,34080,Tromka,"Tromka, Abram",,Preferred Name
@@ -23427,7 +23427,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39997,34178,Novak,"Novak, Joseph",,Preferred Name
 39998,26150,Gimpel,"Gimpel, René Albert",,Full Name
 39999,34179,Parrish,"Parrish, John",,Preferred Name
-61470,52445,,Mariano,,Preferred Name
 40000,34179,Parrish,"Parrish, J. D.",,Variant
 40001,34180,Peck,"Peck, Bruce",,Preferred Name
 40002,34181,Peplow,"Peplow, Ralph",,Preferred Name
@@ -23526,7 +23525,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40102,34276,Wolff,"Wolff, Efram",,Preferred Name
 40103,34277,Woodruff,"Woodruff, Hale",,Preferred Name
 40104,34278,Yochim,"Yochim, Maurice",,Preferred Name
-61471,52445,,"Rodríguez, Mariano",,Variant
 40105,34279,Bates,"Bates, David",,Preferred Name
 40107,34281,Biggers,"Biggers, John Thomas",,Preferred Name
 40108,34282,Burnett,"Burnett, Calvin",,Preferred Name
@@ -26509,7 +26507,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 47607,40816,Benson,"Benson, Robert",,Preferred Name
 47609,40818,Khlebnikova,"Khlebnikova, Vera",,Preferred Name
 47614,40823,Krieger,"Krieger, Andrew",,Preferred Name
-47616,40825,Perugino,"Perugino, School of",,Preferred Name
 47617,40826,Bookatz,"Bookatz, Samuel",,Preferred Name
 47618,40827,Schulz-Dornburg,"Schulz-Dornburg, Ursula",,Preferred Name
 47619,40828,Ackerman,"Ackerman, Michael",,Preferred Name
@@ -27232,6 +27229,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 50411,43620,Davies,"Davies, Arthur B.",,Preferred Name
 50413,43622,Madigan,"Madigan, Richard A.",,Preferred Name
 50416,43625,Eddy,"Eddy, David Brewer",,Preferred Name
+50417,43626,,Lunn Gallery,,Preferred Name
 50418,43627,Robinson,"Robinson, Hamilton",,Preferred Name
 50423,43632,,R. M. Light & Co.,,Preferred Name
 50424,43633,Glackens,"Glackens, Edith Dimock",,Preferred Name
@@ -27691,7 +27689,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53386,46501,Dillon,"Dillon, Mildred Murphy",,Preferred Name
 53387,46502,Di Meo,"Di Meo, Dominick",,Preferred Name
 53388,46503,Donley,"Donley, Robert",,Preferred Name
-53389,46504,Dowhie,"Dowhie, Lenny",,Preferred Name
+53389,46504,Dowhie,"Dowhie, Leonard",,Preferred Name
 53391,46506,Doyle,"Doyle, John L.",,Preferred Name
 53392,46507,Driesbach,"Driesbach, David F.",,Preferred Name
 53395,46510,Edwards,"Edwards, Tom",,Preferred Name
@@ -27901,6 +27899,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53891,46911,Taaffe,"Taaffe, Philip",,Preferred Name
 53892,46912,Ladda,"Ladda, Justen",,Preferred Name
 53893,46913,Costa,"Costa, Giovanni",,Preferred Name
+53894,46913,,Nino,,Variant
 53895,46914,Antonacci,"Antonacci, Paolo",,Preferred Name
 53896,46915,Mendenhall,"Mendenhall, George C., Dr.",,Preferred Name
 53897,46916,Stilwell,"Stilwell, Jr., Mrs. W. E.",,Preferred Name
@@ -33612,6 +33611,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62220,52983,Muafangejo,"Muafangejo, John Ndevasia",,Preferred Name
 62222,26867,Richter,,,Spouse
 62227,52989,Kelbaugh,"Kelbaugh, Ross J.",,Preferred Name
+62228,52990,Grove,"Grove, George",,Preferred Name
 62229,52991,,J. B. Lippincott Company,,Preferred Name
 62230,52992,,The Golden Cockerel Press,,Preferred Name
 62232,52994,Herbert,"Herbert, Alfred",,Preferred Name
