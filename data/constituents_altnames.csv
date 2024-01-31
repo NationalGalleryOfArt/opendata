@@ -11319,7 +11319,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 16836,16843,,Institute of Contemporary Art,,Preferred Name
 16877,16884,Bernstein,"Bernstein, Raphael, Mr.",,Preferred Name
 16878,16885,,"Sotheby's, Amsterdam",,Preferred Name
-26416,26423,,Ugo Pierruci,,Preferred Name
 16900,16907,Villeret,"Villeret, François Etienne",,Preferred Name
 16901,16908,Mathey,"Mathey, Paul",,Preferred Name
 16902,16909,Bocchi,"Bocchi, Achille",,Preferred Name
@@ -11986,7 +11985,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 20489,20496,Taschler,"Taschler, Lori",,Preferred Name
 20490,20497,Kostabi,"Kostabi, Mark",,Preferred Name
 20497,20504,Nickson,"Nickson, Graham",,Preferred Name
-29790,29797,,Dyke Fund,,Preferred Name
 20499,20506,Clarke,"Clarke, John Clem",,Preferred Name
 20508,20515,Bruce,"Bruce, Evangeline B.",,Preferred Name
 20510,20517,Nebehay,"Nebehay, Christian",,Preferred Name
@@ -14679,6 +14677,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 25898,25905,Bomford,"Bomford, H.J.P., Mrs.",,Preferred Name
 25899,25906,Griffith,"Griffith, Scott",,Preferred Name
 25900,25907,McKay,"McKay, Karoline",,Preferred Name
+25909,25916,,Bibliothèque Royale de Belgique,,Preferred Name
 25913,25920,Schuster,"Schuster, Victor, Sir",,Preferred Name
 25918,25925,Hopf,"Hopf, Dr. Ludwig",,Preferred Name
 25922,25929,Girard,"Girard, Charles Auguste",,Preferred Name
@@ -14898,6 +14897,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 26412,26419,Tolentino,"Tolentino, Raoul",,Preferred Name
 26413,26420,Dalziel,"Dalziel, Jr., Ted",,Preferred Name
 26414,26421,Greenberg,"Greenberg, Bernard, Mr. and Mrs.",,Preferred Name
+26416,26423,,Ugo Pierruci,,Preferred Name
 26417,26424,,Capella di San Bartolommeo,,Preferred Name
 26418,26425,Magi,"Magi, Ireneo",,Preferred Name
 26420,26427,Coats,"Coats, Peter",,Preferred Name
@@ -15813,6 +15813,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 28300,28307,Hofmann,"Hofmann, Julius, Dr.",,Preferred Name
 28301,28308,Flick,"Flick, Gert-Rudolf, Dr.",,Preferred Name
 28302,28309,Containi,"Containi, I, Giovanni Battista Costabili, Count",,Preferred Name
+28571,28578,,"Schaus, William",,Preferred Name
 28303,28310,Containi,"Containi, II, Giovanni Battista Costabili, Count",,Preferred Name
 28304,28311,Frizzoni,"Frizzoni, Gustavo, Dr.",,Preferred Name
 28305,28312,Ginoulhiac,"Ginoulhiac, Alberto",,Preferred Name
@@ -15992,7 +15993,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 28568,28575,Bright,"Bright, Miss",,Preferred Name
 28569,28576,Kay,"Kay, Esq., Arthur",,Preferred Name
 28570,28577,Herzog,"Herzog, Jacob",,Preferred Name
-28571,28578,,"Schaus, William",,Preferred Name
 28572,28579,Whitney,"Whitney, William Collins",,Preferred Name
 28573,28580,,"Miethke, H.O.",,Preferred Name
 28576,28583,Newport,"Newport, 4th earl of Bradford, Thomas",,Preferred Name
@@ -16462,6 +16462,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 29280,29287,Reijnders,"Reijnders, Corneille Louis",,Preferred Name
 29281,29288,Taylor,"Taylor, M.P., George Watson",,Preferred Name
 29282,29289,Héris,"Héris, Henri",,Preferred Name
+29790,29797,,Dyke Fund,,Preferred Name
 29283,29290,Leopold I,Leopold I,,Preferred Name
 29284,29291,Leopold II,Leopold II,,Preferred Name
 29285,29292,Ridder,"Ridder, August de",,Preferred Name
@@ -33969,3 +33970,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62947,53569,Klever,"Klever, Friedrich Wilhelm",,Preferred Name
 62948,53570,Mascha,"Mascha, Ottokar",,Preferred Name
 62956,53156,de Guatemala Bush Vourvoulias,"de Guatemala Bush Vourvoulias, Joyce",,Variant
+62965,53575,Rossi,"Rossi, Gian-Carlo",,Preferred Name
+62966,53576,Hasse,"Hasse, Karl Ewald",,Preferred Name
+62968,53578,Wedekind,"Wedekind, Otto",,Preferred Name
+62969,53579,Crakau,"Crakau, Adolf Daniel",,Preferred Name
+62970,53580,Wickert,"Wickert, Charles",,Preferred Name
