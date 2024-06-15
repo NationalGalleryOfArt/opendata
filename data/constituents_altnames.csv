@@ -1026,7 +1026,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1105,1112,Castro-Cid,"Castro-Cid, Enrique",,Preferred Name
 1106,1113,Catlin,"Catlin, George",,Preferred Name
 1107,1114,Cazin,"Cazin, Jean-Charles",,Preferred Name
-1108,1115,Cézanne,"Cézanne, Paul",,Preferred Name
+1108,1115,Cezanne,"Cezanne, Paul",,Preferred Name
 1109,1116,Wunsch,"Wunsch, Eric Martin Mr.",,Preferred Name
 1110,1117,Chagall,"Chagall, Marc",,Preferred Name
 1111,1118,Chambers,"Chambers, Thomas",,Preferred Name
@@ -28006,6 +28006,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54026,614,Webb,"Webb, Electra Havemeyer",,Variant
 54027,109,Kainen,"Kainen, Ruth Cole",,Full Name
 54028,9743,Hauslohner,"Hauslohner, Lorna McAlpin",,Spouse
+62738,46720,Shaffer,,,Variant
 54029,47016,Bartoli,"Bartoli, F.",,Preferred Name
 54031,47018,Collier,"Collier, John Jr.",,Preferred Name
 54032,47019,Birmann,"Birmann, Peter",,Preferred Name
@@ -28197,6 +28198,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54275,47202,,Looker Family Residual Trust,,Variant
 54276,47203,Lang,"Lang, Charles G.",,Preferred Name
 54277,47204,Schijtz,"Schijtz, L.",,Preferred Name
+63117,4564,Laguillermie,,,Variant
 54278,47205,,William Greenbaum Fine Arts,,Preferred Name
 54281,41437,Hogg,"Hogg, Danny",,Variant
 54282,41437,Cool Disco Dan,Cool Disco Dan,,Variant
@@ -33981,6 +33983,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62637,53346,Soldevilla Nieto,,,Variant
 62638,53347,Williams,"Williams, Marsha",,Preferred Name
 62640,39619,Knight,"Knight, Ridgway",,Variant
+62641,53349,Patterson,"Patterson, James Dr.",,Preferred Name
 62642,53350,Kienpenheuer,"Kienpenheuer, Gustav",,Preferred Name
 62643,53351,,Galerie Hanz Goltz,,Preferred Name
 62646,53354,,Emil Richter Verlag,,Preferred Name
@@ -34042,7 +34045,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62726,53410,Goll van Franckenstein,"Goll van Franckenstein, Johann",,Preferred Name
 62729,53412,Heidsieck,"Heidsieck, E. John Mrs.",,Preferred Name
 62734,53416,Venetian 18th/19th Century,Venetian 18th/19th Century,,Preferred Name
-62738,46720,Shaffer,,,Variant
 62739,53417,Gaber,"Gaber, Felix",,Preferred Name
 62741,53419,,Klinkhardt & Biermann Verlag,,Preferred Name
 62742,53420,Levie,"Levie, Eleanor",,Preferred Name
@@ -34156,6 +34158,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62902,52937,Francis,"Francis, James Ray",,Variant
 62904,53540,,"Spectrum Press, Anaheim, CA",,Preferred Name
 62908,52408,Sengstacke,"Sengstacke, Robert Abbott",,Variant
+62911,53544,Crewdson,"Crewdson, Gregory",,Preferred Name
 62916,53547,Sabhnani,"Sabhnani, Rahul M",,Preferred Name
 62917,53548,Bowes,"Bowes, Rosemary",,Preferred Name
 62918,53549,Renouvier,"Renouvier, Jules",,Preferred Name
@@ -34232,7 +34235,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63109,53679,Lauwick,"Lauwick, Iacobus",,Variant
 63110,53680,Santvoort,"Santvoort, Dirck Dircksz.",,Preferred Name
 63111,53681,Segerman,"Segerman, Michiel",,Preferred Name
-63117,4564,Laguillermie,,,Variant
 63118,53685,Fürstenberg,"Fürstenberg, Hans",,Preferred Name
 63119,53685,Furstenberg,,,Variant
 63120,53686,Dietrich,"Dietrich, Albert M.",,Preferred Name

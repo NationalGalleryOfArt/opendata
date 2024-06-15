@@ -1033,7 +1033,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1112,500077157,"Castro-Cid, Enrique",Enrique Castro-Cid,Castro-Cid,"Chilean, 1937 - 1992",1,1937,1992,1926 to 1950,Chilean,Other,individual,Q21497742
 1113,500004854,"Catlin, George",George Catlin,Catlin,"American, 1796 - 1872",1,1796,1872,1776 to 1800,American,American,individual,Q455133
 1114,500002204,"Cazin, Jean-Charles",Jean-Charles Cazin,Cazin,"French, 1841 - 1901",1,1841,1901,1826 to 1850,French,French,individual,Q2778951
-1115,500004793,"Cézanne, Paul",Paul Cézanne,Cézanne,"French, 1839 - 1906",1,1839,1906,1826 to 1850,French,French,individual,Q35548
+1115,500004793,"Cezanne, Paul",Paul Cezanne,Cezanne,"French, 1839 - 1906",1,1839,1906,1826 to 1850,French,French,individual,Q35548
 1116,,"Wunsch, Eric Martin Mr.",Mr. Eric Martin Wunsch,Wunsch,,0,,,,,Other,individual,
 1117,500115354,"Chagall, Marc",Marc Chagall,Chagall,"Russian, 1887 - 1985",1,1887,1985,1876 to 1900,Russian,Russian,individual,Q93284
 1118,500023474,"Chambers, Thomas",Thomas Chambers,Chambers,"American, 1808 - 1866 or after",1,1808,1866,1801 to 1825,American,American,individual,Q18508680
@@ -26933,6 +26933,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53345,,"Poma, Cecilia and Ernesto",Cecilia and Ernesto Poma,Poma,,0,,,,,Other,couple,
 53346,,"Soldevilla, Loló",Loló Soldevilla,Soldevilla,"Cuban, 1901 - 1971",1,1901,1971,1901 to 1925,Cuban,Other,individual,Q28502164
 53347,,"Williams, Marsha",Marsha Williams,Williams,,0,,,,,Other,individual,
+53349,,"Patterson, James Dr.",Dr. James Patterson,Patterson,,0,,,,,Other,individual,
 53350,,"Kienpenheuer, Gustav",Gustav Kiepenheuer,Kienpenheuer,"German, 1880 - 1949",1,1880,1949,1876 to 1900,German,German,individual,
 53351,,Galerie Hanz Goltz,Galerie Hanz Goltz,,,1,,,,,Other,corporate,
 53354,,Emil Richter Verlag,Emil Richter Verlag,,,1,,,,,Other,corporate,
@@ -27056,6 +27057,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53536,500116652,"Mesa-Bains, Amalia",Amalia Mesa-Bains,Mesa-Bains,"American, born 1943",1,1943,,1926 to 1950,American,American,individual,Q4739401
 53537,,Rena Bransten Gallery,Rena Bransten Gallery,,,0,,,,,Other,corporate,
 53540,,"Spectrum Press, Anaheim, CA","Spectrum Press, Anaheim, CA",,,1,,,,,Other,corporate,
+53544,500128025,"Crewdson, Gregory",Gregory Crewdson,Crewdson,"American, born 1962",1,1962,,1951 to 1975,American,American,individual,Q1347062
 53547,,"Sabhnani, Rahul M",Rahul M Sabhnani,Sabhnani,,0,,,,,Other,purchase_fund,
 53548,,"Bowes, Rosemary",Rosemary Bowes,Bowes,,0,,,,,Other,purchase_fund,
 53549,,"Renouvier, Jules",Jules Renouvier,Renouvier,"French, 1804 - 1860",0,1804,1860,1801 to 1825,French,French,individual,
