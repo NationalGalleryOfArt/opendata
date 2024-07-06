@@ -63,6 +63,11 @@ locationid,site,room,publicaccess,description,unitposition
 3959,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",W
 3968,East Building,ENT,1,"East Bldg, North Terrace",
 3971,East Building,EST,1,"East Bldg, South Terrace",
+3981,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",
+3982,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",E
+3983,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",N
+3984,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",S
+3985,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",W
 3986,East Building,ET-502,1,"East Bldg, Tower Elev Lobby 502 (Pod 3)",
 3987,East Building,ET-502,1,"East Bldg, Tower Elev Lobby 502 (Pod 3)",S
 4166,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",
@@ -245,11 +250,6 @@ locationid,site,room,publicaccess,description,unitposition
 6651,West Building,G-039,1,West Ground Floor Gallery 39,N
 6652,West Building,G-039,1,West Ground Floor Gallery 39,S
 6653,West Building,G-039,1,West Ground Floor Gallery 39,W
-6655,West Building,G-041,1,West Ground Floor Gallery 41,
-6656,West Building,G-041,1,West Ground Floor Gallery 41,E
-6657,West Building,G-041,1,West Ground Floor Gallery 41,N
-6658,West Building,G-041,1,West Ground Floor Gallery 41,S
-6659,West Building,G-041,1,West Ground Floor Gallery 41,W
 6661,West Building,G-042-A,1,West Ground Floor Gallery 42A,
 6662,West Building,G-042-A,1,West Ground Floor Gallery 42A,E
 6663,West Building,G-042-A,1,West Ground Floor Gallery 42A,N
@@ -717,7 +717,6 @@ locationid,site,room,publicaccess,description,unitposition
 9010,East Building,EM-203,1,"East Bldg, Mezz. Terrace",W
 9012,West Building,G-036,1,West Ground Floor Gallery 36,CENTER
 9013,West Building,G-039,1,West Ground Floor Gallery 39,CENTER
-9014,West Building,G-041,1,West Ground Floor Gallery 41,CENTER
 9015,West Building,G-042-B,1,West Ground Floor Gallery 42B,CENTER
 9016,West Building,M-001,1,West Main Floor Gallery 1,CENTER
 9017,West Building,M-006,1,West Main Floor Gallery 6,CENTER
@@ -733,6 +732,7 @@ locationid,site,room,publicaccess,description,unitposition
 9035,West Building,G-016,1,West Ground Floor Gallery 16,W
 9036,West Building,G-018,1,West Ground Floor Gallery 18,N
 9037,West Building,G-018,1,West Ground Floor Gallery 18,S
+9239,East Building,ET-501,1,"East Bldg, Tower Gallery 501 (Pod 3)",CENTER
 9249,West Building,G-003,1,West Ground Floor Gallery 3,S
 9255,West Building,G-004,1,West Ground Floor Gallery 4,CENTER
 9258,West Building,G-005,1,West Ground Floor Gallery 5,S
