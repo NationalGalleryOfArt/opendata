@@ -1,7 +1,7 @@
-                Table "object_associations"
-     Column     |         Type          | Modifiers 
-----------------+-----------------------+-----------
- parentobjectid | integer               | 
- childobjectid  | integer               | 
- relationship   | character varying(32) | 
+                          Table "object_associations"
+     Column     |         Type          | Collation | Nullable | Default 
+----------------+-----------------------+-----------+----------+---------
+ parentobjectid | integer               |           |          | 
+ childobjectid  | integer               |           |          | 
+ relationship   | character varying(32) |           |          | 
 
