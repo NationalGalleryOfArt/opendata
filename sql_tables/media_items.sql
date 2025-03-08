@@ -1,4 +1,4 @@
-                             Table "media_items"
+                            Table "media_items"
       Column      |           Type           | Collation | Nullable | Default 
 ------------------+--------------------------+-----------+----------+---------
  mediaid          | bigint                   |           |          | 

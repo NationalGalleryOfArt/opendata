@@ -1,4 +1,4 @@
-                          Table "objects_dimensions"
+                         Table "objects_dimensions"
     Column     |         Type          | Collation | Nullable | Default 
 ---------------+-----------------------+-----------+----------+---------
  objectid      | integer               |           |          | 

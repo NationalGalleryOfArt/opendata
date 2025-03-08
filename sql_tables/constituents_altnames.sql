@@ -1,4 +1,4 @@
-                             Table "constituents_altnames"
+                            Table "constituents_altnames"
        Column       |          Type          | Collation | Nullable | Default 
 --------------------+------------------------+-----------+----------+---------
  altnameid          | integer                |           |          | 

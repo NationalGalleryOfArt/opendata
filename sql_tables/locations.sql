@@ -1,4 +1,4 @@
-                          Table "locations"
+                         Table "locations"
     Column    |          Type          | Collation | Nullable | Default 
 --------------+------------------------+-----------+----------+---------
  locationid   | integer                |           |          | 

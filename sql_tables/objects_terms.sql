@@ -1,4 +1,4 @@
-                             Table "objects_terms"
+                            Table "objects_terms"
        Column       |          Type          | Collation | Nullable | Default 
 --------------------+------------------------+-----------+----------+---------
  termid             | integer                |           |          | 

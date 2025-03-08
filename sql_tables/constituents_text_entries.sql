@@ -1,4 +1,4 @@
-                          Table "constituents_text_entries"
+                         Table "constituents_text_entries"
     Column     |         Type          | Collation | Nullable | Default 
 ---------------+-----------------------+-----------+----------+---------
  constituentid | integer               |           |          | 

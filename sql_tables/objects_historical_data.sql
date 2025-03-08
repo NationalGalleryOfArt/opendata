@@ -1,4 +1,4 @@
-                          Table "objects_historical_data"
+                         Table "objects_historical_data"
     Column     |         Type          | Collation | Nullable | Default 
 ---------------+-----------------------+-----------+----------+---------
  datatype      | character varying(32) |           |          | 

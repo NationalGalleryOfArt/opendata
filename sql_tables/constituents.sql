@@ -1,4 +1,4 @@
-                                Table "constituents"
+                               Table "constituents"
           Column          |          Type          | Collation | Nullable | Default 
 --------------------------+------------------------+-----------+----------+---------
  constituentid            | integer                |           |          | 

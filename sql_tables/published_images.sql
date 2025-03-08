@@ -1,4 +1,4 @@
-                              Table "published_images"
+                             Table "published_images"
        Column       |           Type           | Collation | Nullable | Default 
 --------------------+--------------------------+-----------+----------+---------
  uuid               | character varying(64)    |           |          | 
