@@ -374,9 +374,10 @@ CREATE TABLE published_images Images that have been published to NGA web propert
     sequence            character varying(32),		The order by which to sort images for a given subject, e.g., sequence of images around a sculpture would result in a rotational view around the sculpture.
     width               integer,				The full width of the IIIF source image if it is viewed at the highest zoom level and reassembled into a single image
     height              integer,				The full width of the IIIF source image if it is viewed at the highest zoom level and reassembled into a single image
-    maxpixels           integer,				A limitation used to enforce fair use doctrine.  When the width and height are larger than the max pixels setting, the image server will only permit sourcing of IIIF services from an image resized to fit within a box of this dimension.  A customer might request a larger image to be produced via IIIF, but the resulting image will blur as the size increases since the source image size is restricted.
+    maxpixels           integer,				A limitation used to enforce fair use doctrine.  When the width and height are larger than the max pixels setting (4096 pixels on a side), the image server will only permit sourcing of IIIF services from an image resized to fit within a box of this dimension.  A customer might request a larger image to be produced via IIIF, but the resulting image will blur as the size increases since the source image size is restricted.
     created             timestamp with time zone,	Indicates the creation date of the actual source image uploaded to the NGA’s digital asset management system
     modified            timestamp with time zone,	Indicates the modification date of the image metadata record in the digital asset management system – dates tend to be more recent due to automated updates to metadata
     depictstmsobjectid  integer,				Records the Object ID in cases where the image depicts an art object stored in the CMS
     assistivetext       text,					Records text that would be useful to the visually impaired when used in combination with an assistive device list a screen reader
 );
+
