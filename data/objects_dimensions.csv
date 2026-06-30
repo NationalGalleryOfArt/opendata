@@ -77122,6 +77122,16 @@ objectid,element,dimensiontype,dimension,unitname
 56559,overall,width,29.0500000000,centimeters
 56560,plate,height,23.7000000000,centimeters
 56560,plate,width,33.3000000000,centimeters
+56562,plate,height,19.5000000000,centimeters
+56562,plate,width,16.4000000000,centimeters
+56563,plate,height,19.4000000000,centimeters
+56563,plate,width,16.4000000000,centimeters
+56564,plate,height,19.5000000000,centimeters
+56564,plate,width,16.4000000000,centimeters
+56565,plate,height,19.4000000000,centimeters
+56565,plate,width,16.1000000000,centimeters
+56566,plate,height,19.4000000000,centimeters
+56566,plate,width,16.5000000000,centimeters
 56567,page size,height,49.0000000000,centimeters
 56567,page size,width,35.0000000000,centimeters
 56568,overall,height,28.7000000000,centimeters
@@ -232082,8 +232092,11 @@ objectid,element,dimensiontype,dimension,unitname
 233961,image,width,26.0350520701,centimeters
 233967,image,height,25.1000000000,centimeters
 233967,image,width,20.3000000000,centimeters
+233969,length,width,35.4000000000,inches
 233993,image,height,28.5000000000,centimeters
 233993,image,width,23.5000000000,centimeters
+234137,plate,height,44.7000000000,centimeters
+234137,plate,width,35.0000000000,centimeters
 234145,overall,height,81.9000000000,centimeters
 234145,overall,width,121.9000000000,centimeters
 234295,image,height,62.2301244602,centimeters
