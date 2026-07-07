@@ -7348,8 +7348,8 @@ uuid,idschemelabel,identifier
 093a176d-bf2e-40f0-a402-b2d02cf279f5,Wikidata ID,Q18338474
 093a21f2-e674-41ca-8e27-9eb19a578222,Old Accession Number,B-26893
 093a21f2-e674-41ca-8e27-9eb19a578222,Wikidata ID,Q65574135
-093a5b61-8066-450a-8f0b-fa9efabd4f4d,Old Accession Number,C-112
 093a5b61-8066-450a-8f0b-fa9efabd4f4d,Old Accession Number,A-1500
+093a5b61-8066-450a-8f0b-fa9efabd4f4d,Old Accession Number,C-112
 093a5b61-8066-450a-8f0b-fa9efabd4f4d,Wikidata ID,Q63810195
 093a78e4-7c0d-46c9-91be-ad3cfa67918b,Wikidata ID,Q77258660
 093ab891-849f-444b-9570-b1a7856a4f0d,Old Accession Number,B-3239
@@ -36643,6 +36643,7 @@ uuid,idschemelabel,identifier
 2ce9373e-d791-4aba-b26b-c56271feb4ac,Wikidata ID,Q65026235
 2ce9c101-7a2a-4310-8959-5ce3668d680f,ULAN ID,500015430
 2ce9c101-7a2a-4310-8959-5ce3668d680f,Wikidata ID,Q2094227
+2ce9e615-a72b-43e1-9fd9-be3f151792b6,Wikidata ID,Q5933889
 2ce9e796-cde9-4d9d-a913-2118d8b6e0b6,Wikidata ID,Q64593626
 2cea0b73-d6ce-4b71-8ad2-a74cdf628b15,Old Accession Number,B-1629
 2cea0c05-bf35-43c7-bfee-0b242632fdbb,Old Accession Number,B-31318
@@ -50770,6 +50771,7 @@ uuid,idschemelabel,identifier
 3e0dc6d4-f824-4cdb-98b2-3852ab2090e0,Wikidata ID,Q64578829
 3e0f8a3d-ecf7-47b1-a61f-deeb01e17fa0,Old Accession Number,B-29314
 3e0f8a3d-ecf7-47b1-a61f-deeb01e17fa0,Wikidata ID,Q65508280
+3e0fdff3-9e8b-498e-929d-5e93a12db2d7,Wikidata ID,Q126949261
 3e1070d8-4e9b-421a-85a5-73612db7aceb,Old Accession Number,I-9337
 3e1070d8-4e9b-421a-85a5-73612db7aceb,Wikidata ID,Q64535466
 3e10adad-21c6-481d-b0cf-ea447590027d,Old Accession Number,B-32620
@@ -53608,6 +53610,8 @@ uuid,idschemelabel,identifier
 41a016f0-c252-411f-adf7-27261301c85c,Wikidata ID,Q64035656
 41a17b1d-ba77-4815-a160-3251afffc337,Old Accession Number,I-6725
 41a17b1d-ba77-4815-a160-3251afffc337,Wikidata ID,Q64571115
+41a191b2-aeea-4bd4-b4db-b99a3b96e6ee,ULAN ID,500118212
+41a191b2-aeea-4bd4-b4db-b99a3b96e6ee,Wikidata ID,Q19607180
 41a21f43-b6a9-4c70-a67e-2572365513df,Old Accession Number,B-34810
 41a21f43-b6a9-4c70-a67e-2572365513df,Wikidata ID,Q65507196
 41a2847f-8393-4f46-9b45-b1c8b0ab4854,Wikidata ID,Q77262279
@@ -86679,6 +86683,8 @@ uuid,idschemelabel,identifier
 692da680-7faf-4747-a6ff-4126a653c797,Wikidata ID,Q64074605
 692deb7e-2fb9-4dd5-963e-e40719cd40c6,Wikidata ID,Q74890729
 692e174e-2096-4013-9f3e-dde3affd1497,Wikidata ID,Q76454952
+692e4ca8-aac0-4e3e-aa72-a6ad2ccc0cfa,ULAN ID,500404161
+692e4ca8-aac0-4e3e-aa72-a6ad2ccc0cfa,Wikidata ID,Q29572571
 692e6945-399a-4f40-99e3-5b5833372af8,Old Accession Number,I-4742
 692e6945-399a-4f40-99e3-5b5833372af8,Wikidata ID,Q64534676
 692ed9e2-914e-4848-b239-b4ea8ed0dd83,Wikidata ID,Q74891992
@@ -141775,6 +141781,7 @@ acbbdd30-b18a-4364-81f2-024eeb149718,Wikidata ID,Q65367953
 acbd99db-c141-4c7c-b862-ef115af72415,Old Accession Number,A-252
 acbd99db-c141-4c7c-b862-ef115af72415,Wikidata ID,Q63809686
 acbe04b3-9f6b-45ce-946a-c2cd207358d1,Wikidata ID,Q74071833
+acbe3cb1-ba42-4979-8cfe-760ff97f7688,ULAN ID,500783404
 acbe8cd1-324d-4743-bac3-56bee4b81ca4,Old Accession Number,B-30342
 acbe8cd1-324d-4743-bac3-56bee4b81ca4,Wikidata ID,Q76561709
 acbf4cdb-b91e-45bd-8555-10cf2cffc0a5,ULAN ID,500030155
@@ -158223,6 +158230,8 @@ c0ba00e3-5934-4f86-a9d7-db949d1982da,Wikidata ID,Q3158103
 c0ba109d-01ef-4787-ab1c-cb00ec979f83,Wikidata ID,Q75411232
 c0ba58fc-07be-4bb7-a6a0-32efd6d3051a,ULAN ID,500476186
 c0ba58fc-07be-4bb7-a6a0-32efd6d3051a,Wikidata ID,Q21973714
+c0bad2cc-4df3-419d-85b4-20cb1a477add,ULAN ID,500783584
+c0bad2cc-4df3-419d-85b4-20cb1a477add,Wikidata ID,Q111182256
 c0bb7f5d-1516-4d6f-b139-5b4196e7c2c5,ULAN ID,500115776
 c0bb7f5d-1516-4d6f-b139-5b4196e7c2c5,Wikidata ID,Q203828
 c0bbb422-daa6-447f-abb7-b52c9006eb09,Wikidata ID,Q74066642
@@ -178255,6 +178264,7 @@ d90ebed1-d221-4217-9b25-178df5095742,Wikidata ID,Q74070315
 d90efc1f-c518-4d93-9e08-7c0e3654c105,Old Accession Number,B-4536
 d90efc1f-c518-4d93-9e08-7c0e3654c105,Wikidata ID,Q65026761
 d90f66ce-14e5-40e7-8ddc-9b731b7afb6c,Wikidata ID,Q77258982
+d9103af4-293d-40da-9697-05d2aee369a5,ULAN ID,500024455
 d9103af4-293d-40da-9697-05d2aee369a5,Wikidata ID,Q19595026
 d91127eb-1258-491f-a535-14fe749de856,Old Accession Number,I-14844
 d91127eb-1258-491f-a535-14fe749de856,Wikidata ID,Q64561962

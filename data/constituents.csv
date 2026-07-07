@@ -11050,7 +11050,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 14553,0cd509dc-db71-4a91-957b-a252b3417a70,,"Jacob, Max",Max Jacob,Jacob,"French, 1876 - 1944",1,1876,1944,1876 to 1900,French,French,individual,Q156214
 14554,2e633a65-47ea-4653-aac1-dfcae06e9d88,,"Lacretelle, Jacques de",Jacques de Lacretelle,Lacretelle,"French, 1888 - 1985",1,1888,1985,1876 to 1900,French,French,individual,Q537014
 14555,ad9dbca1-fa1d-4bf8-ad72-f76f3adf2bf9,,"Kessel, Joseph",Joseph Kessel,Kessel,"French, 1898 - 1979",1,1898,1979,1876 to 1900,French,French,individual,Q356537
-14564,9b4139b4-3097-4c72-9e4c-504bf2a12fab,,"Maguy, Alex",Alex Maguy,Maguy,,0,,,,,Other,individual,
+14564,9b4139b4-3097-4c72-9e4c-504bf2a12fab,,"Maguy, Alex",Alex Maguy,Maguy,1906 - 1999,0,1906,1999,1901 to 1925,,Other,individual,
 14571,4611486c-b10c-43df-a853-e8f46e7e78b5,500330914,"Ginsberg, Allen",Allen Ginsberg,Ginsberg,"American, 1926 - 1997",1,1926,1997,1926 to 1950,American,American,individual,Q6711
 14572,5759afd9-a0f7-4df7-b27f-6faadcebc2b6,,"Lunn, Jr., Harry H.","Harry H. Lunn, Jr.",Lunn,"American, 1933 - 1998",1,1933,1998,1926 to 1950,American,American,individual,
 14611,ea0913b1-c628-4a65-b22f-b30fbc3b583b,500007154,"Macdonald-Wright, Stanton",Stanton Macdonald-Wright,Macdonald-Wright,"American, 1890 - 1973",1,1890,1973,1876 to 1900,American,American,individual,Q2348151
@@ -27808,7 +27808,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54658,2f12c62f-7447-4ddf-903e-131dbbe18aa9,,Barbara Thumm Gallery,Barbara Thumm Gallery,,,0,,,,German,German,corporate,
 54659,a4af8d84-0486-430a-8975-06fb91cd6809,,Galerie Chantal Crouse,Galerie Chantal Crousel,,,0,,,,,Other,corporate,
 54660,f81388ea-b1f3-4591-b22b-55eb37e657f6,,Jacobo Karpio Galería,Jacobo Karpio Galería,,,0,,,,,Other,corporate,
-54661,2ce9e615-a72b-43e1-9fd9-be3f151792b6,,"Crosthwaite, Hugo",Hugo Crosthwaite,Crosthwaite,"American, born Mexico, born 1971",1,1971,,1951 to 1975,"American, born Mexico",Other,individual,
+54661,2ce9e615-a72b-43e1-9fd9-be3f151792b6,,"Crosthwaite, Hugo",Hugo Crosthwaite,Crosthwaite,"American, born Mexico, born 1971",1,1971,,1951 to 1975,"American, born Mexico",Other,individual,Q5933889
 54662,81833659-7e5e-4454-9976-1d0cb954929c,,Luis De Jesus,Luis De Jesus,,,0,,,,,Other,corporate,
 54663,7e507508-19be-46a5-ac77-dceb689fc6b4,,Alex Cooper Auctioneers,Alex Cooper Auctioneers,,founded 1924,0,1924,,1901 to 1925,,Other,corporate,
 54670,0848bb22-1542-473f-a1ec-27d163ddabe2,,Michele Beiny Inc.,Michele Beiny Inc.,Beiny,,0,,,,,Other,corporate,
@@ -27822,7 +27822,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54716,7a05c2dd-5e55-47bf-bf5a-c222f222fb07,,Hôtel des Ventes Victor Hugo,Hôtel des Ventes Victor Hugo,,,0,,,,,Other,corporate,
 54718,20f581e7-a1a4-45f7-ac1e-c89e8cf6b89f,,"Keating, Alice",Funds from Alice and Peter Keating,Keating,,0,,,,,Other,individual,
 54719,70c9d72b-9e65-4796-8090-4eb59da84357,,"Bullock, Raymond",Raymond Bullock,Bullock,American,0,,,,American,American,individual,
-54728,d9103af4-293d-40da-9697-05d2aee369a5,,"Le May, Olivier",Olivier Le May,Le May,"French, 1734 - 1797",1,1734,1797,1726 to 1750,French,French,individual,Q19595026
+54728,d9103af4-293d-40da-9697-05d2aee369a5,500024455,"Le May, Olivier",Olivier Le May,Le May,"French, 1734 - 1797",1,1734,1797,1726 to 1750,French,French,individual,Q19595026
 54729,656a69d6-9d81-488e-a8be-e830e7540b31,,"Báez, Myrna",Myrna Báez,Báez,"Puerto Rican, 1931 - 2018",1,1931,2018,1926 to 1950,Puerto Rican,Other,individual,Q19478939
 54730,9a888d93-5741-4fed-9b69-d0ede9cc915f,,Myrna Báez Estate,Myrna Báez Estate,,,0,,,,,Other,corporate,
 54746,0d979fa4-b76a-4a6b-b341-88089fa01db8,,Atlantic Richfield Company,Atlantic Richfield Company,Atlantic Richfield Company,,0,,,,,Other,corporate,Q304769
@@ -27836,7 +27836,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54775,516afbab-01df-48eb-b905-a51abe061e8b,,"Freedberg, Catherine",Catherine Freedberg,Freedberg,,0,,,,,Other,individual,
 54777,a439cbcc-e87b-45ae-961d-0a6c8ea09ca6,,"Prince, Diana",Diana Prince,Prince,,0,,,,,Other,individual,
 54778,8a716f76-f14c-4723-b0f0-9310af3841b4,,"Rea, Robert",Robert Rea,Rea,,0,,,,,Other,individual,
-54786,2a1d744d-7d32-4101-bb4f-27b0ebbfacbb,,West & Waddell,West & Waddell,West & Waddell,"American, active 1880s",1,,,,"American, 19th Century",Other,individual,
+54786,2a1d744d-7d32-4101-bb4f-27b0ebbfacbb,,West & Waddell,West & Waddell,West & Waddell,"American, active 1880s",1,,,,"American, 19th Century",Other,corporate,
 54791,47475aaa-97ca-4290-a895-8506b949eb4d,,Spanish (?) 17th Century,Spanish (?) 17th Century,Spanish (?) 17th Century,"Spanish (?), 1600 - 1699",1,1600,1699,1551 to 1600,Spanish (?),Spanish,anonymous,
 54796,8208aff0-4546-43bf-88a8-12a814176df2,,"Chigi, Agostino",Agostino Chigi,Chigi,"Sienese, 1563 - 1639",0,1563,1639,1551 to 1600,Sienese,Other,individual,
 54801,de7774b3-c9c7-429a-ba92-b222e6ec6878,,"Tyszkiewiczowa, Maria Teresa",Maria Teresa Tyszkiewiczowa,Tyszkiewiczowa,,0,1760,1834,1751 to 1775,,Other,individual,
