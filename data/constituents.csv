@@ -14077,7 +14077,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 25003,4ed55891-5a11-46ff-88c9-d33d5b7f85d4,500488027,"Asher, Lila Oliver",Lila Oliver Asher,Asher,"American, 1921 - 2021",1,1921,2021,1901 to 1925,American,American,individual,
 25004,c5d2522d-2a98-40ca-9485-f2654b2f9910,,"Penrhyn, Edward Sholto, 3rd Baron","Edward Sholto, 3rd Baron Penrhyn",Penrhyn,1864 - 1927,0,1864,1927,1851 to 1875,,Other,individual,
 25005,f4ddd619-a89a-478f-9358-fb3567f73fa3,,"Clemenceau, Georges",Georges Clemenceau,Clemenceau,"French, 1841 - 1929",1,1841,1929,1826 to 1850,French,French,individual,Q171730
-25006,e2d3da16-4301-4488-b9a5-a5b6565c56de,,"Gijsbrechts, Cornelis Norbertus",Cornelis Norbertus Gijsbrechts,Gijsbrechts,"Flemish (?), active c.1659 - c.1675",1,1610,1675,1601 to 1650,Flemish (?),Flemish,individual,
+25006,e2d3da16-4301-4488-b9a5-a5b6565c56de,,"Gijsbrechts, Cornelis Norbertus",Cornelis Norbertus Gijsbrechts,Gijsbrechts,"Flemish (?),  1625/1629 - after 1677",1,1625,1677,1601 to 1650,Flemish (?),Flemish,individual,
 25026,1e32a069-a099-4078-b35e-fba9817b5e39,,"Dupan, Jules",Jules Dupan,Dupan,,0,,,,,Other,individual,
 25027,9385baf3-324b-4882-bd98-639b484e211b,,Flury-Hérard,Flury-Hérard,Flury-Hérard,,0,,,,,Other,individual,
 25029,416f3c4b-4689-4877-88df-b3df73ecd8c1,,"Gerbeau, Jules",Jules Gerbeau,Gerbeau,"French, 1833 - 1906",0,1833,1906,1826 to 1850,French,French,individual,
@@ -20422,6 +20422,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 37463,1566bc47-c93e-41e5-89ae-7d4a21c2de6f,,"Mariette, Pierre I",Pierre Mariette I,Mariette,"French, 1596 - 1657",1,1596,1657,1551 to 1600,French,French,individual,Q37884391
 37476,24a9100b-5aaa-4464-a04b-bb5c97ca6f68,500240112,"Morelli, Domenico",Domenico Morelli,Morelli,"Neapolitan, 1823 - 1901",1,1823,1901,1801 to 1825,Italian,Italian,individual,Q1237218
 37484,04327aff-7a9c-467f-bea5-1e5d4f97d3a7,500081627,"Fiskin, Judy",Judy Fiskin,Fiskin,"American, born 1945",1,1945,,1926 to 1950,American,American,individual,Q6304431
+37485,bb419087-9507-4222-8b24-be55eac1818e,,"Spencer-Churchill, George Charles",George Charles Spencer-Churchill 8th Duke of Marlborough,Spencer-Churchill,"British, 1844 - 1892",0,1844,1892,1826 to 1850,British,British,individual,
 37487,e5086a47-26a3-46aa-b239-311dab0d0d42,,"Gates, Mary",Mary Gates,Gates,American,1,,,,American,American,individual,
 37489,22f9d034-275c-4833-8779-6a676ffac530,,"Gasparri, Pietro Cardinal",Cardinal Pietro Gasparri,Gasparri,"Italian, 1852 - 1934",0,1852,1934,1851 to 1875,Italian,Italian,individual,
 37498,2f733fbc-5370-44c2-9c32-604332d63aa3,500000893,"Hendricks Verboom, Adriaen",Adriaen Hendricks Verboom,Hendricks Verboom,"Dutch, 1628 - 1670",1,1628,1670,1601 to 1650,Dutch,Dutch,individual,Q12072053
@@ -27849,3 +27850,4 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54872,4b3e5880-65ff-4e08-ae43-32541caf4330,,Anouk Dey and Cameron Tudhope,Anouk Dey and Cameron Tudhope,,,0,,,,,Other,couple,
 54904,0cd25195-3bc4-4b7d-b9ad-8a6c5501f30a,,"Henzi, Rudolph Samuel",Rudolph Samuel Henzi,Henzi,"Swiss, 1732 - 1803",1,1732,1803,1726 to 1750,Swiss,Swiss,individual,
 54927,7192ac69-ab1a-43ed-910c-c5fcac6f25c4,,"Hefner Alteneck, Jacob Heinrich von",Jacob Heinrich von Hefner Alteneck,Hefner Alteneck,"German, 1811 - 1903",0,1811,1903,1801 to 1825,German,German,individual,
+54935,ce9190df-4935-473d-959b-7d6aa2c2653e,,Imperial Galleries,Imperial Galleries,,1960,0,,,,,Other,corporate,
