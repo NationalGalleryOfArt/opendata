@@ -1097,6 +1097,7 @@ objectid,element,dimensiontype,dimension,unitname
 1003,overall,width,35.0000000000,centimeters
 1004,overall,depth,26.5000000000,centimeters
 1004,overall,height,85.1000000000,centimeters
+1004,overall,weight,26.7622244398,pounds
 1004,overall,width,59.8000000000,centimeters
 1005,overall,depth,59.5000000000,centimeters
 1005,overall,height,71.5000000000,centimeters
@@ -192743,6 +192744,7 @@ objectid,element,dimensiontype,dimension,unitname
 176526,overall,diameter,7.3025146050,centimeters
 176527,overall,depth,48.2600965202,centimeters
 176527,overall,height,177.1653543307,centimeters
+176527,overall,weight,255.3751247392,pounds
 176527,overall,width,185.4203708407,centimeters
 176528,overall,depth,0.3175006350,centimeters
 176528,overall,height,8.8900177800,centimeters
