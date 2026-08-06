@@ -13176,6 +13176,12 @@ objectid,element,dimensiontype,dimension,unitname
 11526,overall,width,28.0000000000,centimeters
 11527,overall,height,19.0000000000,centimeters
 11527,overall,width,14.8000000000,centimeters
+11532,plate,height,16.7000000000,centimeters
+11532,plate,width,22.5000000000,centimeters
+11540,sheet,height,59.8000000000,centimeters
+11540,sheet,width,43.7000000000,centimeters
+11541,sheet,height,42.8000000000,centimeters
+11541,sheet,width,58.7000000000,centimeters
 11546,sheet,height,48.3000000000,centimeters
 11546,sheet,width,38.8000000000,centimeters
 11547,overall,height,15.8000000000,centimeters
@@ -51586,6 +51592,8 @@ objectid,element,dimensiontype,dimension,unitname
 34002,image,width,25.4000000000,centimeters
 34003,image,height,85.0901701803,centimeters
 34003,image,width,58.4201168402,centimeters
+34006,sheet/image,height,28.0000000000,inches
+34006,sheet/image,width,38.0000000000,inches
 34007,image,height,51.5000000000,centimeters
 34007,image,width,29.7000000000,centimeters
 34013,image,height,36.6700000000,centimeters
@@ -152093,6 +152101,8 @@ objectid,element,dimensiontype,dimension,unitname
 123749,image,width,4.7600000000,centimeters
 123750,image,height,6.0300000000,centimeters
 123750,image,width,4.7600000000,centimeters
+123751,sheet,height,64.0000000000,centimeters
+123751,sheet,width,43.0000000000,centimeters
 123752,plate,height,64.3000000000,centimeters
 123752,plate,width,44.5000000000,centimeters
 123757,image,height,10.1600000000,centimeters
