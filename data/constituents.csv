@@ -27102,7 +27102,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 53356,834a9840-11f5-4d6c-88bb-0b9add5e19ee,,Lyons Studio,Lyons Studio,,"American, active c. 1910s",1,,,,American,American,corporate,
 53357,289134cb-e437-48f5-adb7-e7e16de64284,,Westphalen,Westphalen,,,1,,,,,Other,corporate,
 53358,6f552090-ee2a-43f8-9453-3ca1327ee6d5,,Genthe,Genthe,,,1,,,,,Other,individual,
-53359,9fbeb974-ea9d-418b-b8e6-e857f401e69a,,"Sabo, Carl",Carl Sabo,Sabo,,1,,,,,Other,individual,
+53359,9fbeb974-ea9d-418b-b8e6-e857f401e69a,,"Sabo, Carl",Carl Sabo,Sabo,German,1,,,,German,German,individual,
 53360,bc546985-5a0c-41e8-9277-7198c9a6adef,,"Davis, James M.",James M. Davis,Davis,"American, born 1853",1,1853,,1851 to 1875,American,American,individual,
 53363,12de47c2-306d-4031-9253-88392a7d5565,,"Heller, Kay and Roderick",Kay and Roderick Heller,Heller,,0,,,,,Other,couple,
 53364,ac777b33-cbfd-4fdb-b37e-681b50907abc,500050206,"Benoit, Rigaud",Rigaud Benoit,Benoit,"Haitian, 1911 - 1986",1,1911,1986,1901 to 1925,Haitian,Other,individual,Q3057680
@@ -27404,6 +27404,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 53755,956163aa-7719-4cc0-a6e7-0398089e1991,,The Laura Aguilar Trust,The Laura Aguilar Trust,,,0,,,,,Other,corporate,
 53756,1d332d71-aeab-4045-9e2b-f7abbffa90fb,,"Sherman, Chloe",Chloe Sherman,Sherman,"American, born 1969",1,1969,,1951 to 1975,American,American,individual,
 53760,74286d24-8368-4707-994a-0bd1175f7751,500114746,"Shambroom, Paul",Paul Shambroom,Shambroom,"American, born 1956",1,1956,,1951 to 1975,American,American,individual,Q7153537
+53771,08966dbd-e76b-4061-9ce1-499360d0b44e,,"Kranitz, Stacy",Stacy Kranitz,Kranitz,"American, born 1976",1,1976,,1976 to 2000,American,American,individual,Stacy Kranitz
 53772,01b72371-a3a9-47e6-99fc-4337a355c75d,,"Mortenson, Ray",Ray Mortenson,Mortenson,"American, born 1944",1,1944,,1926 to 1950,American,American,individual,Q7297867
 53773,e2a85dfb-87c7-40ec-b4f0-5668fea850f9,,Catherine Fosnot Gallery,Catherine Fosnot Gallery,,,0,,,,,Other,corporate,
 53774,98ff137e-95b0-4834-9737-e32d35e6fff6,,Black Art Auction,Black Art Auction,,,0,,,,,Other,corporate,
@@ -27829,11 +27830,12 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54714,afed1219-d431-4e9a-b466-8c64de17ffc1,,Mirabaud-Mercier,Mirabaud-Mercier,,founded 2010,0,2010,,2001 to present,,Other,corporate,
 54715,9135a84a-3294-48a0-b95b-0ab130400191,,Boisseau-Pomez,Boisseau-Pomez,,,0,,,,,Other,corporate,
 54716,7a05c2dd-5e55-47bf-bf5a-c222f222fb07,,Hôtel des Ventes Victor Hugo,Hôtel des Ventes Victor Hugo,,,0,,,,,Other,corporate,
-54718,20f581e7-a1a4-45f7-ac1e-c89e8cf6b89f,,"Keating, Alice",Funds from Alice and Peter Keating,Keating,,0,,,,,Other,individual,
+54718,20f581e7-a1a4-45f7-ac1e-c89e8cf6b89f,,"Keating, Alice",Funds from Alice and Peter Keating,Keating,,0,,,,,Other,purchase_fund,
 54719,70c9d72b-9e65-4796-8090-4eb59da84357,,"Bullock, Raymond",Raymond Bullock,Bullock,American,0,,,,American,American,individual,
 54728,d9103af4-293d-40da-9697-05d2aee369a5,500024455,"Le May, Olivier",Olivier Le May,Le May,"French, 1734 - 1797",1,1734,1797,1726 to 1750,French,French,individual,Q19595026
 54729,656a69d6-9d81-488e-a8be-e830e7540b31,,"Báez, Myrna",Myrna Báez,Báez,"Puerto Rican, 1931 - 2018",1,1931,2018,1926 to 1950,Puerto Rican,Other,individual,Q19478939
 54730,9a888d93-5741-4fed-9b69-d0ede9cc915f,,Myrna Báez Estate,Myrna Báez Estate,,,0,,,,,Other,corporate,
+54732,34799440-82f5-456a-a285-8b092a6c681b,,Center for Contemporary Documentation,Center for Contemporary Documentation,,,0,,,,,Other,corporate,
 54737,970363d9-7cc1-4e43-87ca-64f27c732ffb,,Davila-Villa & Stothart,Davila-Villa & Stothart,,,0,,,,,Other,corporate,
 54746,0d979fa4-b76a-4a6b-b341-88089fa01db8,,Atlantic Richfield Company,Atlantic Richfield Company,Atlantic Richfield Company,,0,,,,,Other,corporate,Q304769
 54759,42d329a1-81c5-427e-84ff-21bafca600a9,,"Odieuvre, Michel",Michel Odieuvre,Odieuvre,"French, 1687 - 1756",1,1687,1756,1651 to 1700,French,French,individual,
@@ -27873,3 +27875,10 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54957,df17e84c-5f92-4830-9bf4-ea1cc6e72f42,,"Howard, Frank and Patricia Mr. and Mrs.",Mr. and Mrs. Frank and Patricia Howard,Howard,he: 1912-1982; she: 1919-2000,0,,,,American,American,couple,
 54958,0e3d008c-7394-420c-95a5-9b8702ef9931,,"Salzer, Oscar and Maria Mr. and Mrs.",Mr. and Mrs. Oscar and Maria Salzer,Salzer,he: 1898-1987; her: 1897-1991,0,,,,,Other,couple,
 54961,d7c45831-3a51-4997-b5ae-56e7806002d4,,"Kuester, H. A.",H. A. Kuester,Kuester,German,0,,,,German,German,individual,
+54965,903b3e69-9ae5-486b-ac98-83293cd5d7be,,"Angerer, L.",L. Angerer,Angerer,German,1,,,,German,German,individual,
+54966,1cd156c3-dcbc-4aaa-b46c-a75559e205b3,,"Kildeborg, Anton Peder Nielsen",Anton Peder Nielsen Kildeborg,Kildeborg,,1,,,,,Other,individual,
+54967,b92d717e-c6c3-421f-a9c7-f95074ce9f52,,A. Liebmann Buch u. Steindruckerei Graviranstalt,A. Liebmann Buch u. Steindruckerei Graviranstalt,,,1,,,,,Other,corporate,
+54968,0ca3ff03-353d-48dd-8df4-c54931aeff92,,A. Clot Imprimerie d'Arts,A. Clot Imprimerie d'Arts,,,1,,,,,Other,corporate,
+54969,c5d17ca3-92d4-40c6-94b7-1ba66fcc83d9,,M. W. Lassally Graphische Kunst-Anstalt,M. W. Lassally Graphische Kunst-Anstalt,,,1,,,,,Other,corporate,
+54970,17deb976-d3ac-4b40-87fb-6b43eba7d63c,,Norges Geografiske Oppmåling,Norges Geografiske Oppmåling,,,1,,,,,Other,corporate,
+54971,fd7a3d8b-ea34-494c-bab0-4a2757dc7981,,Petersen and Waitz,Petersen and Waitz,,,1,,,,,Other,individual,
