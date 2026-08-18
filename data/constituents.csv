@@ -13021,7 +13021,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 22919,63dab110-b3e8-435c-93fc-d09c764cbba5,,"Uzanne, Octave",Octave Uzanne,Uzanne,"French, 1852 - 1931",1,1852,1931,1851 to 1875,French,French,individual,Q960277
 22920,210a5b1f-480a-493b-a265-87e8fdeb13c3,,"Ancourt, Edouard",Edouard Ancourt,Ancourt,"French, active 1860s/1890s",1,1860,1900,1851 to 1875,French,French,individual,
 22926,7fe8858c-7e7f-4feb-b1a1-2a02799e2c86,,Galerie Abels,Galerie Abels,,,0,,,,,Other,corporate,
-22928,e60e154c-0c1d-4b35-a5b5-16ee57e830ed,,"Abreu, Angel",Angel Abreu,Abreu,,1,,,,,Other,individual,
+22928,e60e154c-0c1d-4b35-a5b5-16ee57e830ed,500461156,"Abreu, Angel",Angel Abreu,Abreu,born 1974,1,1974,,1951 to 1975,American,American,individual,
 22929,365306e2-5829-409e-a47c-3e0d07191e5c,,"Garces, George",George Garces,Garces,American,1,,,,American,American,individual,
 22930,fd172eee-8256-405e-b09b-5ac3a398f8d9,500461152,"Rosado, Annette",Annette Rosado,Rosado,American,1,,,,American,American,individual,
 22931,011c681b-6c95-4d3d-9cbb-64ef4e6a8100,,"Savinon, Nelson",Nelson Savinon,Savinon,American,1,,,,American,American,individual,
@@ -14871,7 +14871,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 26319,8b5a4aad-2451-42f6-8148-a4077a1744e5,500013588,"Jonson van Ceulen, Cornelis",Cornelis Jonson van Ceulen,Jonson van Ceulen,"English, 1593 - 1661",1,1593,1661,1551 to 1600,English,English,individual,Q636113
 26320,be61ee24-1241-4e86-8f2c-ca8800cded67,,"Appleby, Anne",Anne Appleby,Appleby,"American, born 1954",1,1954,,1951 to 1975,American,American,individual,Q4768122
 26321,2fa5acda-f80d-4e8f-a528-595758816c17,500471939,"Brown, Brad",Brad Brown,Brown,"American, born 1964",1,1964,,1951 to 1975,American,American,individual,
-26322,43580895-48ff-4c3c-a8e6-bdedaf188d6a,500118772,"Heilmann, Mary",Mary Heilmann,Heilmann,"American, born 1940",1,1940,,1926 to 1950,American,American,individual,Q1906281
+26322,43580895-48ff-4c3c-a8e6-bdedaf188d6a,500118772,"Heilmann, Mary",Mary Heilmann,Heilmann,"American,  1940 - 2026",1,1940,2026,1926 to 1950,American,American,individual,Q1906281
 26323,52ee823f-cc32-4936-aab9-f2060aa6423b,500009343,"Nash, David",David Nash,Nash,"British, born 1945",1,1945,,1926 to 1950,British,British,individual,
 26324,bfbbda13-0270-4642-91bd-92dcc368db5e,500352228,"Reich, Steve",Steve Reich,Reich,"American, born 1936",1,1936,,1926 to 1950,American,American,individual,Q262791
 26325,752990ba-8eb4-4268-b742-638b281611f7,500595197,"Yoshinaga, Yutaka",Yutaka Yoshinaga,Yoshinaga,"Japanese, born 1948",1,1948,,1926 to 1950,Japanese,Japanese,individual,Q48765167
@@ -20218,7 +20218,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 36625,b208910e-ac3e-434c-84f3-3224edb9b265,500012864,"Procaccini, Ercole il Giovane",Ercole Procaccini il Giovane,Procaccini,"Italian, 1596 - 1676",1,1596,1676,1551 to 1600,Italian,Italian,individual,Q1995074
 36626,9e0b3168-d9a1-4c9c-8ccb-8af6ebc0e8c3,500112887,"Lugardon, Jean Leonard",Jean Leonard Lugardon,Lugardon,"Swiss, 1801 - 1884",1,1801,1884,1801 to 1825,Swiss,Swiss,individual,Q19839229
 36627,82941342-6de5-457f-8de8-d73b52aa6e13,500015926,"Marot, Daniel the Younger",Daniel Marot the Younger,Marot,"Dutch, 1695 - 1769",1,1695,1769,1651 to 1700,Dutch,Dutch,individual,Q55802715
-36628,66638b45-99b4-4ea8-ae2e-4325ebf6e758,,"Gallagher, Ellen",Ellen Gallagher,Gallagher,"American, born 1965",1,1965,,1951 to 1975,American,American,individual,
+36628,66638b45-99b4-4ea8-ae2e-4325ebf6e758,500126100,"Gallagher, Ellen",Ellen Gallagher,Gallagher,"American, born 1965",1,1965,,1951 to 1975,American,American,individual,
 36633,0e5aed93-10fb-453b-9ece-ea4ccaf004c0,,Atelier Desjobert,Atelier Desjobert,,,1,,,,French,French,corporate,
 36634,c436168c-1c28-4fc7-b2de-e8606653c4f3,,"Biberacensis, Burchardus",Burchardus Biberacensis,Biberacensis,"German, died 1230",1,1130,1230,before 1300,German,German,individual,
 36641,39fe3765-c78b-4b0e-bafa-616165e172ee,,"Noorian, Daniel K.",Daniel K. Noorian,Noorian,"American, born Armenia, died 1929",0,1829,1929,1826 to 1850,American,American,individual,
@@ -23629,7 +23629,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 48064,78d2e42c-143c-4824-bb33-798b749e9902,,"Griffin, Kenneth",Kenneth Griffin,Griffin,,0,,,,,Other,individual,
 48066,8420c872-ead8-48b4-ad5c-a67f5dc4186b,,"Creative Time, Inc.","Creative Time, Inc.",,"American, founded 1973",1,1973,,1951 to 1975,American,American,corporate,
 48067,9e2b405e-2987-45e3-92f1-b49a25b19e62,,Saint-Gois,Saint-Gois,Saint-Gois,"French, active 1760s/1770s",1,1760,1779,1751 to 1775,French,French,individual,
-48068,cb3c8ab7-d437-403f-98db-6383716901ed,,"Crodel, Charles",Charles Crodel,Crodel,"German, 1894 - 1973",1,1894,1973,1876 to 1900,German,German,individual,
+48068,cb3c8ab7-d437-403f-98db-6383716901ed,500046141,"Crodel, Charles",Charles Crodel,Crodel,"German, 1894 - 1973",1,1894,1973,1876 to 1900,German,German,individual,
 48069,c17d77d3-553e-4856-ba32-a7210ccf5f4c,,"Kirchner, Erna",Erna Kirchner,Kirchner,German,0,,,,German,German,individual,
 48070,bd2af038-170e-4185-82a6-e9ddb1e80e3a,,"Russell, Philip",Philip Russell,Russell,"American, active 1950s",1,1950,1959,1926 to 1950,American,American,individual,
 48071,a122a457-0785-4863-8bfb-7881bcfc3286,,"Ross, Benjamin",Benjamin Ross,Ross,"American, active 1940s",1,1940,1949,1926 to 1950,American,American,individual,
@@ -26473,7 +26473,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 52454,5db381b0-b58b-4937-b445-efde8e1427a9,,"Gutierrez, Martine",Martine Gutierrez,Gutierrez,"American, born 1989",1,1989,,1976 to 2000,American,American,individual,Q97609995
 52455,76805bc7-b65f-4944-984f-2ed62bc6f692,,"Ford, Walton",Walton Ford,Ford,"American, born 1960",1,1960,,1951 to 1975,American,American,individual,
 52456,484a0ac0-249d-4ff7-b786-51d104780399,,"Schoonhoven, Jan",Jan Schoonhoven,Schoonhoven,"Dutch, 1914 - 1994",1,1914,1994,1901 to 1925,Dutch,Dutch,individual,
-52457,1f9c65fa-f100-48aa-82b4-8801478d0951,,"Therrien, Robert",Robert Therrien,Therrien,"American, 1947 - 2019",1,1947,2019,1926 to 1950,American,American,individual,
+52457,1f9c65fa-f100-48aa-82b4-8801478d0951,500093298,"Therrien, Robert",Robert Therrien,Therrien,"American, 1947 - 2019",1,1947,2019,1926 to 1950,American,American,individual,
 52458,fe2ec6ea-766f-4510-a981-200858a15a96,500125586,"Ai, Weiwei",Ai Weiwei,Ai,"Chinese, born 1957",1,1957,,1951 to 1975,Chinese,Chinese,individual,Q160115
 52461,bb1055ea-2ad2-4fa5-80d7-c9eeb020c334,,"Moulton, John S.",John S. Moulton,Moulton,"American, active 1860s - 1880s",1,1860,1880,1851 to 1875,American,American,individual,
 52462,a86c24af-ac87-448a-9161-b637bc7387b5,500009604,"Austen, Alice",Alice Austen,Austen,"American, 1866 - 1952",1,1866,1952,1851 to 1875,American,American,individual,Q538225
@@ -27206,7 +27206,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 53484,91c475ff-1589-43fe-9f48-ccc51c76bced,,"Harris, J.",J. Harris,Harris,"English, active 1787-1800",1,1787,1800,1776 to 1800,English,English,individual,
 53485,545bcc0e-45f7-4d6a-819d-44d2e6c35276,,"Tegg, Thomas",Thomas Tegg,Tegg,"English, 1776 - 1846",1,1776,1846,1776 to 1800,English,English,individual,
 53486,05b15d42-3478-4b1d-80ea-63eea9935e4a,,Beaumont Philosophical Institute,Beaumont Philosophical Institute,,,0,,,,,Other,corporate,
-53487,5bcec2d3-62a1-4766-9a2a-ce7d5f67d299,,"Ackermann, Rudolf",Rudolf Ackermann,Ackermann,"English, active 1794-1832",1,1794,1832,1776 to 1800,English,English,individual,
+53487,5bcec2d3-62a1-4766-9a2a-ce7d5f67d299,500083656,"Ackermann, Rudolf",Rudolf Ackermann,Ackermann,"English, active 1794-1832",1,1794,1832,1776 to 1800,English,English,individual,
 53489,9ec5ce93-5d79-4ad8-b9e4-445dc0d8f98c,,"Peter Blum Edition, New York","Peter Blum Edition, New York",,,1,,,,,Other,corporate,
 53490,2823e018-b324-443f-aa3b-7197b9663486,,unpublished,unpublished,,,1,,,,,Other,anonymous,
 53491,55fd06b7-94f5-452c-b8d5-f919d8ecbae1,,"Rikola Verlag, Verlag Neuer Graphik, Vienna","Rikola Verlag, Verlag Neuer Graphik, Vienna",,,1,,,,,Other,corporate,
@@ -27837,6 +27837,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54730,9a888d93-5741-4fed-9b69-d0ede9cc915f,,Myrna Báez Estate,Myrna Báez Estate,,,0,,,,,Other,corporate,
 54732,34799440-82f5-456a-a285-8b092a6c681b,,Center for Contemporary Documentation,Center for Contemporary Documentation,,,0,,,,,Other,corporate,
 54737,970363d9-7cc1-4e43-87ca-64f27c732ffb,,Davila-Villa & Stothart,Davila-Villa & Stothart,,,0,,,,,Other,corporate,
+54739,b9c018a2-da4a-4c87-835c-ba4e65ca2a47,,Mexican 17th century,Mexican 17th century,Mexican 17th century,"Mexican, 1600 - 1699",1,1600,1699,1551 to 1600,Mexican,Mexican,anonymous,
 54746,0d979fa4-b76a-4a6b-b341-88089fa01db8,,Atlantic Richfield Company,Atlantic Richfield Company,Atlantic Richfield Company,,0,,,,,Other,corporate,Q304769
 54759,42d329a1-81c5-427e-84ff-21bafca600a9,,"Odieuvre, Michel",Michel Odieuvre,Odieuvre,"French, 1687 - 1756",1,1687,1756,1651 to 1700,French,French,individual,
 54768,f042fd11-bcb8-421c-a917-ffc198292e9f,,"Lincoln, Evelyn",Evelyn Lincoln,Lincoln,"American, born 1952",1,1952,,1951 to 1975,American,American,individual,
@@ -27882,3 +27883,5 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54969,c5d17ca3-92d4-40c6-94b7-1ba66fcc83d9,,M. W. Lassally Graphische Kunst-Anstalt,M. W. Lassally Graphische Kunst-Anstalt,,,1,,,,,Other,corporate,
 54970,17deb976-d3ac-4b40-87fb-6b43eba7d63c,,Norges Geografiske Oppmåling,Norges Geografiske Oppmåling,,,1,,,,,Other,corporate,
 54971,fd7a3d8b-ea34-494c-bab0-4a2757dc7981,,Petersen and Waitz,Petersen and Waitz,,,1,,,,,Other,individual,
+54972,8e10c91c-695c-4e3f-8727-3e184346d932,,Wilh. Scheels Klisjéanstalt,Wilh. Scheels Klisjéanstalt,,,1,,,,,Other,corporate,
+54973,9b38fcea-9686-44a8-b243-bfc278951fda,,Dansk Reproduktionsanstalt,Dansk Reproduktionsanstalt,,,1,,,,,Other,corporate,
