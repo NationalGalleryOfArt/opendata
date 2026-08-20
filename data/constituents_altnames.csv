@@ -34816,6 +34816,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63686,54150,Evermon,"Evermon, Robert",Robert Evermon,Preferred Name
 63687,54151,Wong,"Wong, Martin, Estate of","Wong, Martin, Estate of",Preferred Name
 63688,54152,,The Martin Wong Foundation,The Martin Wong Foundation,Preferred Name
+63701,54165,González,"González, María Elena",María Elena González,Preferred Name
 63702,54166,,"KPM Royal Porcelain Factory, Berlin","KPM Royal Porcelain Factory, Berlin",Preferred Name
 63703,54166,,,,Variant
 63706,54169,,Galería Ángel Romero,Galería Ángel Romero,Preferred Name
@@ -35073,6 +35074,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64202,54574,,Pilar Corrias,Pilar Corrias,Preferred Name
 64210,54580,Bonazza,"Bonazza, Giovanni",Giovanni Bonazza,Preferred Name
 64212,54582,Sosnoff,"Sosnoff, Toni and Martin",Toni and Martin Sosnoff,Preferred Name
+64214,54584,,Estate of Paul Himmel,Estate of Paul Himmel,Preferred Name
+64215,54585,,Estate of Lillian Bassman,Estate of Lillian Bassman,Preferred Name
 64216,54586,Jarvis,"Jarvis, Shaniqwa",Shaniqwa Jarvis,Preferred Name
 64217,54587,,Carlos de Villa-Amil and Nir Polonsky,Carlos de Villa-Amil and Nir Polonsky,Preferred Name
 64223,54593,Abend,"Abend, Carol",Carol Abend,Preferred Name
@@ -35113,6 +35116,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64290,54651,,Greitzer and Locks Law Firm,Greitzer and Locks Law Firm,Preferred Name
 64291,54652,Cohen,"Cohen, Nina",Nina Cohen,Preferred Name
 64292,50175,,Bassman/Himmel Studio,Bassman/Himmel Studio,Variant
+64293,54653,,Mariita Srebnick and George Feldenkreis,Mariita Srebnick and George Feldenkreis,Preferred Name
 64294,54654,,Galeria Ramis Barquet,Galeria Ramis Barquet,Preferred Name
 64295,54655,Huth,"Huth, Johannes",Johannes Huth,Preferred Name
 64296,54656,,Marian Locks Gallery,Marian Locks Gallery,Preferred Name
@@ -35123,10 +35127,19 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64302,54661,Crosthwaite,"Crosthwaite, Hugo",Hugo Crosthwaite,Preferred Name
 64303,54662,,Luis De Jesus,Luis De Jesus,Preferred Name
 64304,54663,,Alex Cooper Auctioneers,Alex Cooper Auctioneers,Preferred Name
+64309,54666,,Lehuauakea,Lehuauakea,Preferred Name
+64310,54667,Craig,"Craig, Jordan Ann",Jordan Ann Craig,Preferred Name
 64313,54670,Beiny,Michele Beiny Inc.,Michele Beiny Inc.,Preferred Name
 64314,54671,Acevedo,"Acevedo, Manuel",Manuel Acevedo,Preferred Name
 64335,34349,,,Studio Thomas Demand,Variant
 64336,54692,Prager,"Prager, Joanne",Joanne Prager,Preferred Name
+64339,54695,Vega,"Vega, Simón",Simón Vega,Preferred Name
+64340,54696,Cader-Frech,"Cader-Frech, Mario",Mario Cader-Frech,Preferred Name
+64342,54698,Cortez,"Cortez, Beatriz",Beatriz Cortez,Preferred Name
+64344,54700,Iraheta,"Iraheta, Walterio",Walterio Iraheta,Preferred Name
+64345,54701,Vides,"Vides, Veronica",Verónica Vides,Preferred Name
+64348,54704,Cruz,"Cruz, David Antonio",David Antonio Cruz,Preferred Name
+64349,54705,Martinez,"Martinez, Eliud",Eliud Martinez,Preferred Name
 64350,54706,,Craven Allen Gallery,Craven Allen Gallery,Preferred Name
 64355,54711,,Mackinnon & Strachey,Mackinnon & Strachey,Preferred Name
 64356,54712,Delessert,"Delessert, Edouard",Edouard Delessert,Preferred Name
@@ -35149,13 +35162,17 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64384,7992,Williams,"Williams, Maybelle",Maybelle Williams,Variant
 64385,54729,Báez,"Báez, Myrna",Myrna Báez,Preferred Name
 64386,54730,,Myrna Báez Estate,Myrna Báez Estate,Preferred Name
+64387,54731,,Cernuda Arte,Cernuda Arte,Preferred Name
 64388,6880,Pevsner,"Pevsner, Naum",Naum Pevsner,Variant
 64389,54732,,Center for Contemporary Documentation,Center for Contemporary Documentation,Preferred Name
+64392,54735,Chartrand,"Chartrand, Esteban",Esteban Chartrand,Preferred Name
+64393,54735,Chartrand y Dubois,"Chartrand y Dubois, Esteban Sebastian",Esteban Sebastian Chartrand y Dubois,Variant
 64395,54737,,Davila-Villa & Stothart,Davila-Villa & Stothart,Preferred Name
 64397,54739,Mexican 17th century,Mexican 17th century,Mexican 17th century,Preferred Name
 64404,54746,Atlantic Richfield Company,Atlantic Richfield Company,Atlantic Richfield Company,Preferred Name
 64405,54746,,,ARCO,Variant
 64418,54759,Odieuvre,"Odieuvre, Michel",Michel Odieuvre,Preferred Name
+64425,54766,,Jonathan Boos,Jonathan Boos,Preferred Name
 64429,54768,Lincoln,"Lincoln, Evelyn",Evelyn Lincoln,Preferred Name
 64430,54769,Solomon,"Solomon, Marvin",Marvin Solomon,Preferred Name
 64431,24327,,,Galerie Kleinmann,Variant
@@ -35167,6 +35184,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64439,54777,Prince,"Prince, Diana",Diana Prince,Preferred Name
 64440,54778,Rea,"Rea, Robert",Robert Rea,Preferred Name
 64441,54779,,Sheet Cake Gallery,Sheet Cake Gallery,Preferred Name
+64443,54780,Sánchez,"Sánchez, María Josefa",María Josefa Sánchez,Preferred Name
+64447,54784,Merlo,"Merlo, Tomás de",Tomás de Merlo,Preferred Name
+64448,54785,,Jaime Eguiguren Art & Antiques,Jaime Eguiguren Art & Antiques,Preferred Name
 64449,54786,West & Waddell,West & Waddell,West & Waddell,Preferred Name
 64454,54791,Spanish (?) 17th Century,Spanish (?) 17th Century,Spanish (?) 17th Century,Preferred Name
 64460,28164,Rodenbach,"Rodenbach, Constantin Jules Alexandre",Constantin Jules Alexandre Rodenbach,Full Name
@@ -35185,12 +35205,19 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64487,54810,,LSP Family Foundation,LSP Family Foundation,Variant
 64491,54814,Ali,"Ali, Salimah",Salimah Ali,Preferred Name
 64502,23566,Nagel,"Nagel, Fritz Dr.",Dr. Fritz Nagel,Variant
+64507,54826,,Commonwealth and Council Art Gallery,Commonwealth and Council Art Gallery,Preferred Name
+64520,54839,,Leonard Lauder Fund,Leonard Lauder Fund,Preferred Name
 64550,54865,Sutton,"Sutton, Michele and Glenn",Michele and Glenn Sutton,Preferred Name
 64551,54866,Gilchrist,"Gilchrist, Michael",Michael Gilchrist,Preferred Name
 64557,54872,,Anouk Dey and Cameron Tudhope,Anouk Dey and Cameron Tudhope,Preferred Name
+64566,54881,Urvater,Baron Berthold-Joseph (Berthie) and Gaëtane-Gilberte Consiglio (Gigi) Urvater,Baron Berthold-Joseph (Berthie) and Gaëtane-Gilberte Consiglio (Gigi) Urvater,Preferred Name
+64567,54882,,Betty and Isaac Rudman,Betty and Isaac Rudman,Preferred Name
 64574,54888,Shanus,"Shanus, Michele",Michele Shanus,Preferred Name
+64585,54896,,Carmen S. Yamada Revocable Trust,Carmen S. Yamada Revocable Trust,Preferred Name
+64586,54897,,Saul (AWMF 75th),Saul (AWMF 75th),Preferred Name
 64595,54904,Henzi,"Henzi, Rudolph Samuel",Rudolph Samuel Henzi,Preferred Name
 64605,505,Rosenberg,"Rosenberg, Paul","Paul Rosenberg, 1881-1959",Variant
+64606,54909,,Monique Meloche Gallery,Monique Meloche Gallery,Preferred Name
 64626,38485,Kngwarreye,"Kngwarreye, Emily Kame",Emily Kame Kngwarreye,Variant
 64633,54927,Hefner Alteneck,"Hefner Alteneck, Jacob Heinrich von",Jacob Heinrich von Hefner Alteneck,Preferred Name
 64635,9548,Seillière,"Seillière, François Florentin Achille Baron",Baron François Florentin Achille Seillière,Full Name
@@ -35222,3 +35249,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64698,54975,,Imprimerie Lemercier,Imprimerie Lemercier,Preferred Name
 64699,54976,,La Critique,La Critique,Preferred Name
 64700,54977,Wittmann,"Wittmann, Charles",Charles Wittmann,Preferred Name
+64701,54978,Porcabeuf,"Porcabeuf, Alfred Louis",Alfred Louis Porcabeuf,Preferred Name

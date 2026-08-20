@@ -27577,6 +27577,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54150,d87de961-68e8-4d91-9dad-da28752106f9,,"Evermon, Robert",Robert Evermon,Evermon,"American, born 1941",1,1941,,1926 to 1950,American,American,individual,
 54151,22fdc48a-0093-41ed-ba25-36eaa5a33da3,,"Wong, Martin, Estate of","Wong, Martin, Estate of",Wong,1999 - 1999,0,1999,1999,1976 to 2000,,Other,corporate,
 54152,633c64ff-9341-4332-9cec-6683e2fa2729,,The Martin Wong Foundation,The Martin Wong Foundation,,,0,2003,,2001 to present,,Other,corporate,
+54165,d033ae56-e01e-4df7-8888-efc392f67cf0,,"González, María Elena",María Elena González,González,"Cuban-American, born 1957",1,1957,,1951 to 1975,Cuban-American,Other,individual,
 54166,0cb9743e-9bc6-47c7-9ba8-d67e8234b73d,,"KPM Royal Porcelain Factory, Berlin","KPM Royal Porcelain Factory, Berlin",,,1,,,,,Other,corporate,
 54169,6dd6d940-39ee-4f61-a9e8-2e67b6197350,,Galería Ángel Romero,Galería Ángel Romero,,"Spanish, founded 1985",0,1985,,1976 to 2000,Spanish,Spanish,corporate,
 54171,a7c96c63-981c-4568-a8f2-187b3fca4523,,"Steiner, Paul",Paul Steiner,Steiner,"American, 20th century",1,,,,American,American,individual,
@@ -27777,6 +27778,8 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54574,4421a679-9ba3-4118-8384-bf5598781fba,,Pilar Corrias,Pilar Corrias,,,0,,,,,Other,corporate,
 54580,49b92ecb-35f6-4b11-9ca7-cc97c381b432,500026952,"Bonazza, Giovanni",Giovanni Bonazza,Bonazza,"Venetian, active Venice and Padua, 1654 - 1736",1,1654,1736,1651 to 1700,Italian,Italian,individual,Q3766865
 54582,a20006f7-f777-4914-b7e4-1fecee9de8b3,,"Sosnoff, Toni and Martin",Toni and Martin Sosnoff,Sosnoff,,0,,,,,Other,couple,
+54584,d74315cd-1f14-4506-9ebc-b7cea1846fd0,,Estate of Paul Himmel,Estate of Paul Himmel,,,0,,,,,Other,corporate,
+54585,bd754c95-5c1d-4639-9c89-f1b4a5750a00,,Estate of Lillian Bassman,Estate of Lillian Bassman,,,0,,,,,Other,corporate,
 54586,e8b9d05c-1ec9-456e-b4d9-8bdda98228c7,,"Jarvis, Shaniqwa",Shaniqwa Jarvis,Jarvis,American,1,,,,American,American,individual,Q138541957
 54587,3632b9e6-e8ef-4efa-8922-13e2fa089d59,,Carlos de Villa-Amil and Nir Polonsky,Carlos de Villa-Amil and Nir Polonsky,,,0,,,,,Other,couple,
 54593,ebaedd27-3ecb-4053-bc81-c23d761a5be3,,"Abend, Carol",Carol Abend,Abend,,0,,,,,Other,individual,
@@ -27810,6 +27813,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54649,5e098772-9d03-45a2-ae52-ecf1063e0621,,"Crowell, Alison Bryan",Alison Bryan Crowell,Crowell,,0,,,,,Other,individual,
 54651,661b75fa-4dcc-4599-a91e-130e59fb3fa4,,Greitzer and Locks Law Firm,Greitzer and Locks Law Firm,,American,0,,,,American,American,corporate,
 54652,4b162f06-f932-480c-ade3-3ed196b27fd6,,"Cohen, Nina",Nina Cohen,Cohen,,0,,,,,Other,individual,
+54653,8f70d452-b850-4108-ad9b-dbce4e29af94,,Mariita Srebnick and George Feldenkreis,Mariita Srebnick and George Feldenkreis,,,0,,,,,Other,couple,
 54654,5449b495-a284-463d-a5fa-32316e34cc1f,,Galeria Ramis Barquet,Galeria Ramis Barquet,,,0,,,,Mexican,Mexican,corporate,
 54655,ffb62cd2-771b-4d5c-bed6-5081d68d9c8d,,"Huth, Johannes",Johannes Huth,Huth,British,0,,,,British,British,individual,
 54656,f47aab7f-14e3-4f62-983d-711244fc27b8,,Marian Locks Gallery,Marian Locks Gallery,,,0,1968,1990,1951 to 1975,,Other,corporate,
@@ -27820,9 +27824,18 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54661,2ce9e615-a72b-43e1-9fd9-be3f151792b6,,"Crosthwaite, Hugo",Hugo Crosthwaite,Crosthwaite,"American, born Mexico, born 1971",1,1971,,1951 to 1975,American,American,individual,Q5933889
 54662,81833659-7e5e-4454-9976-1d0cb954929c,,Luis De Jesus,Luis De Jesus,,,0,,,,,Other,corporate,
 54663,7e507508-19be-46a5-ac77-dceb689fc6b4,,Alex Cooper Auctioneers,Alex Cooper Auctioneers,,founded 1924,0,1924,,1901 to 1925,,Other,corporate,
+54666,c0bad2cc-4df3-419d-85b4-20cb1a477add,500783584,Lehuauakea,Lehuauakea,,"Native Hawaiian, born 1996",1,1996,,1976 to 2000,Native Hawaiian,Other,individual,Q111182256
+54667,acbe3cb1-ba42-4979-8cfe-760ff97f7688,500783404,"Craig, Jordan Ann",Jordan Ann Craig,Craig,"Northern Cheyenne, born 1992",1,1992,,1976 to 2000,Northern Cheyenne,Other,individual,
 54670,0848bb22-1542-473f-a1ec-27d163ddabe2,,Michele Beiny Inc.,Michele Beiny Inc.,Beiny,,0,,,,,Other,corporate,
 54671,7695d59b-182f-4aa4-ad53-47a58fa2cd32,,"Acevedo, Manuel",Manuel Acevedo,Acevedo,"American, born 1964",1,1964,,1951 to 1975,American,American,individual,Q26904106
 54692,cc016903-caeb-473c-821a-b27d5b254b8b,,"Prager, Joanne",Joanne Prager,Prager,,0,,,,,Other,individual,
+54695,7540e2a2-218a-4a7d-a88d-cd6c3ef4f0d7,,"Vega, Simón",Simón Vega,Vega,"Salvadoran, born 1972",1,1972,,1951 to 1975,Salvadoran,Other,individual,
+54696,718e667b-1de9-4c3e-9bcf-94276fc56348,,"Cader-Frech, Mario",Mario Cader-Frech,Cader-Frech,,0,,,,,Other,individual,
+54698,2a7aad58-7a63-48da-96a0-0a1a992c6b0f,500781959,"Cortez, Beatriz",Beatriz Cortez,Cortez,"American, born El Salvador, born 1970",1,1970,,1951 to 1975,American,American,individual,
+54700,0fd66cf3-e179-4b28-9348-38c01c05f705,,"Iraheta, Walterio",Walterio Iraheta,Iraheta,"Salvadoran, born 1968",1,1968,,1951 to 1975,Salvadoran,Other,individual,
+54701,427f91b5-6c46-40ab-b4ec-699b9922847f,,"Vides, Veronica",Verónica Vides,Vides,"Salvadoran, born 1970",1,1970,,1951 to 1975,Salvadoran,Other,individual,
+54704,8f50452a-f185-42d3-8cb7-1b0ef4056465,,"Cruz, David Antonio",David Antonio Cruz,Cruz,"American, born 1974",1,1974,,1951 to 1975,American,American,individual,
+54705,904b425c-1b60-4cf5-bae3-2dd3d6a6c88e,,"Martinez, Eliud",Eliud Martinez,Martinez,,0,,,,,Other,individual,
 54706,126a49b4-5184-4a31-864f-ae62f425b5c6,,Craven Allen Gallery,Craven Allen Gallery,,,0,,,,,Other,corporate,
 54711,34bdfdfd-a8b7-4f12-83b6-ad8a2c7c3898,,Mackinnon & Strachey,Mackinnon & Strachey,,,0,,,,,Other,corporate,
 54712,87c97162-6b73-4e91-8c6b-225ce12d27b9,,"Delessert, Edouard",Edouard Delessert,Delessert,"French, 1828 - 1898",0,1828,1898,1826 to 1850,French,French,individual,
@@ -27835,11 +27848,14 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54728,d9103af4-293d-40da-9697-05d2aee369a5,500024455,"Le May, Olivier",Olivier Le May,Le May,"French, 1734 - 1797",1,1734,1797,1726 to 1750,French,French,individual,Q19595026
 54729,656a69d6-9d81-488e-a8be-e830e7540b31,,"Báez, Myrna",Myrna Báez,Báez,"Puerto Rican, 1931 - 2018",1,1931,2018,1926 to 1950,Puerto Rican,Other,individual,Q19478939
 54730,9a888d93-5741-4fed-9b69-d0ede9cc915f,,Myrna Báez Estate,Myrna Báez Estate,,,0,,,,,Other,corporate,
+54731,7f858d59-7cc0-4a28-831c-7bab061b7e77,,Cernuda Arte,Cernuda Arte,,,0,,,,,Other,corporate,
 54732,34799440-82f5-456a-a285-8b092a6c681b,,Center for Contemporary Documentation,Center for Contemporary Documentation,,,0,,,,,Other,corporate,
+54735,41a191b2-aeea-4bd4-b4db-b99a3b96e6ee,500118212,"Chartrand, Esteban",Esteban Chartrand,Chartrand,"Cuban, 1840 - 1884",1,1840,1884,1826 to 1850,Cuban,Other,individual,Q19607180
 54737,970363d9-7cc1-4e43-87ca-64f27c732ffb,,Davila-Villa & Stothart,Davila-Villa & Stothart,,,0,,,,,Other,corporate,
 54739,b9c018a2-da4a-4c87-835c-ba4e65ca2a47,,Mexican 17th century,Mexican 17th century,Mexican 17th century,"Mexican, 1600 - 1699",1,1600,1699,1551 to 1600,Mexican,Mexican,anonymous,
 54746,0d979fa4-b76a-4a6b-b341-88089fa01db8,,Atlantic Richfield Company,Atlantic Richfield Company,Atlantic Richfield Company,,0,,,,,Other,corporate,Q304769
 54759,42d329a1-81c5-427e-84ff-21bafca600a9,,"Odieuvre, Michel",Michel Odieuvre,Odieuvre,"French, 1687 - 1756",1,1687,1756,1651 to 1700,French,French,individual,
+54766,277a96ff-0128-4bfc-b37a-7bbb4fbebea2,,Jonathan Boos,Jonathan Boos,,,0,,,,,Other,corporate,
 54768,f042fd11-bcb8-421c-a917-ffc198292e9f,,"Lincoln, Evelyn",Evelyn Lincoln,Lincoln,"American, born 1952",1,1952,,1951 to 1975,American,American,individual,
 54769,f95773a1-c3a7-460e-9d13-90a6a68a95f7,,"Solomon, Marvin",Marvin Solomon,Solomon,"American, 1930 - 2000",1,1930,2000,1926 to 1950,American,American,individual,
 54770,9ceea4f9-e3f5-4679-8b79-e9dc2f8f17a9,,"Lassally, M.W.",M.W. Lassally,Lassally,German,1,,,,,Other,individual,
@@ -27850,6 +27866,9 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54777,a439cbcc-e87b-45ae-961d-0a6c8ea09ca6,,"Prince, Diana",Diana Prince,Prince,,0,,,,,Other,individual,
 54778,8a716f76-f14c-4723-b0f0-9310af3841b4,,"Rea, Robert",Robert Rea,Rea,,0,,,,,Other,individual,
 54779,f80291c0-4571-4697-b279-baf892e222e0,,Sheet Cake Gallery,Sheet Cake Gallery,,,0,,,,,Other,corporate,
+54780,3e0fdff3-9e8b-498e-929d-5e93a12db2d7,,"Sánchez, María Josefa",María Josefa Sánchez,Sánchez,,1,,,,Spanish,Spanish,individual,Q126949261
+54784,05c00b63-df4f-4e04-b44e-b5ba10055b5f,500118411,"Merlo, Tomás de",Tomás de Merlo,Merlo,"Guatemalan, 1694 - 1739",1,1694,1739,1651 to 1700,Guatemalan,Other,individual,Q6148705
+54785,7b85d6d7-12eb-42c5-be96-ec3493d97583,,Jaime Eguiguren Art & Antiques,Jaime Eguiguren Art & Antiques,,,0,,,,,Other,corporate,
 54786,2a1d744d-7d32-4101-bb4f-27b0ebbfacbb,,West & Waddell,West & Waddell,West & Waddell,"American, active 1880s",1,1880,1890,1876 to 1900,American,American,corporate,
 54791,47475aaa-97ca-4290-a895-8506b949eb4d,,Spanish (?) 17th Century,Spanish (?) 17th Century,Spanish (?) 17th Century,"Spanish (?), 1600 - 1699",1,1600,1699,1551 to 1600,Spanish (?),Spanish,anonymous,
 54796,8208aff0-4546-43bf-88a8-12a814176df2,,"Chigi, Agostino",Agostino Chigi,Chigi,"Sienese, 1563 - 1639",0,1563,1639,1551 to 1600,Sienese,Other,individual,
@@ -27858,11 +27877,18 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54804,5f9262d8-d184-4548-91fd-c64f66b06faa,,"Perlman, Ezra and Lauren",Ezra and Lauren Perlman,Perlman,,0,,,,,Other,couple,
 54810,c6ad7be7-9839-45fa-8252-f636143ec778,,"Pritzker, Lisa",Lisa Pritzker,Pritzker,,0,,,,,Other,individual,
 54814,485b7d13-70e6-499d-bac7-09269e9d4c9c,,"Ali, Salimah",Salimah Ali,Ali,"American, born 1954",1,1954,,1951 to 1975,American,American,individual,
+54826,e9cccc73-2c06-4faa-9f3a-f1c502f2e4cc,,Commonwealth and Council Art Gallery,Commonwealth and Council Art Gallery,,"American, founded 2010",0,2010,,2001 to present,American,American,corporate,
+54839,2b934dda-cf38-419a-8fe7-d879508db2dc,,Leonard Lauder Fund,Leonard Lauder Fund,,,0,,,,,Other,purchase_fund,
 54865,dd0cb489-9a64-49b7-aa96-ac7468d78a3a,,"Sutton, Michele and Glenn",Michele and Glenn Sutton,Sutton,,0,,,,,Other,couple,
 54866,fb83fe43-b2fd-4c7a-a8b2-ff76575bc10d,,"Gilchrist, Michael",Michael Gilchrist,Gilchrist,,0,,,,,Other,individual,
 54872,4b3e5880-65ff-4e08-ae43-32541caf4330,,Anouk Dey and Cameron Tudhope,Anouk Dey and Cameron Tudhope,,,0,,,,,Other,couple,
+54881,9dbea8a4-a64a-4061-b222-94564a4908f6,,Baron Berthold-Joseph (Berthie) and Gaëtane-Gilberte Consiglio (Gigi) Urvater,Baron Berthold-Joseph (Berthie) and Gaëtane-Gilberte Consiglio (Gigi) Urvater,Urvater,,0,,,,Belgian,Belgian,couple,
+54882,5db628b8-efd9-480a-a40d-04d562029953,,Betty and Isaac Rudman,Betty and Isaac Rudman,,,0,,,,,Other,couple,
 54888,b971527b-1241-4bbf-8ccb-3288b66005a8,,"Shanus, Michele",Michele Shanus,Shanus,,0,,,,,Other,individual,
+54896,6b21b016-ece7-4864-811b-19bc421ca8b1,,Carmen S. Yamada Revocable Trust,Carmen S. Yamada Revocable Trust,,,0,,,,,Other,purchase_fund,
+54897,b85c14a7-6bec-4aaf-996f-18c8a2d3f469,,Saul (AWMF 75th),Saul (AWMF 75th),,,0,,,,,Other,purchase_fund,
 54904,0cd25195-3bc4-4b7d-b9ad-8a6c5501f30a,,"Henzi, Rudolph Samuel",Rudolph Samuel Henzi,Henzi,"Swiss, 1732 - 1803",1,1732,1803,1726 to 1750,Swiss,Swiss,individual,
+54909,ac2ff113-e03d-472f-805f-a99fee861199,,Monique Meloche Gallery,Monique Meloche Gallery,,,0,,,,,Other,corporate,
 54927,7192ac69-ab1a-43ed-910c-c5fcac6f25c4,,"Hefner Alteneck, Jacob Heinrich von",Jacob Heinrich von Hefner Alteneck,Hefner Alteneck,"German, 1811 - 1903",0,1811,1903,1801 to 1825,German,German,individual,
 54935,ce9190df-4935-473d-959b-7d6aa2c2653e,,Imperial Galleries,Imperial Galleries,,1960,0,,,,,Other,corporate,
 54948,32d6debf-4bad-4f4f-865f-532b513dbd5e,,"Lobanoff-Rostovsky, Alexandre Borisovitch",Alexandre Borisovitch Lobanoff-Rostovsky,Lobanoff-Rostovsky,"Russian, died c. 1880",0,,1880,,Russian,Russian,individual,
@@ -27886,6 +27912,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54972,8e10c91c-695c-4e3f-8727-3e184346d932,,Wilh. Scheels Klisjéanstalt,Wilh. Scheels Klisjéanstalt,,,1,,,,,Other,corporate,
 54973,9b38fcea-9686-44a8-b243-bfc278951fda,,Dansk Reproduktionsanstalt,Dansk Reproduktionsanstalt,,Copenhagen,1,,,,,Other,corporate,
 54974,90bc351d-23d5-48dc-af85-a6496cead0e1,,Petersen & Waitz,Petersen & Waitz,,,1,,,,,Other,corporate,
-54975,d9022037-3884-4b98-a1cb-66f08214acb4,,Imprimerie Lemercier,Imprimerie Lemercier,,,1,,,,,Other,corporate,
+54975,d9022037-3884-4b98-a1cb-66f08214acb4,,Imprimerie Lemercier,Imprimerie Lemercier,,Paris,1,,,,,Other,corporate,
 54976,366adb60-c078-4f26-8476-473886a3e04a,,La Critique,La Critique,,,1,,,,,Other,corporate,
 54977,fb6c48b3-dec6-4731-a42e-299518bb6849,,"Wittmann, Charles",Charles Wittmann,Wittmann,"French, 1876 - 1953",1,1876,1953,1876 to 1900,French,French,individual,
+54978,ff552e7f-39d0-4644-ab87-8ecf5e9dcb4a,,"Porcabeuf, Alfred Louis",Alfred Louis Porcabeuf,Porcabeuf,"French, 1867 - 1952",1,1867,1952,1851 to 1875,French,French,individual,
