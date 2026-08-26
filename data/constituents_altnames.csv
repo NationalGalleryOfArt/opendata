@@ -34673,8 +34673,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63476,54001,Roche-Rabell,"Roche-Rabell, Arnaldo",Arnaldo Roche-Rabell,Preferred Name
 63477,54002,Morales,"Morales, José",José Morales,Preferred Name
 63479,54004,,Los Carpinteros,Los Carpinteros,Preferred Name
-63480,54005,Bedia Valdés,"Bedia Valdes, Jose",José Bedia Valdés,Preferred Name
-63481,54005,Bedia,"Bedia, José",José Bedia,Variant
+63480,54005,Bedia,"Bedia, Jose",José Bedia,Preferred Name
+63481,54005,Bedia,"Bedia, José",José Bedia Valdés,Variant
 63482,54006,Ramos,"Ramos, Sandra",Sandra Ramos,Preferred Name
 63483,54007,Bryce,"Bryce, Fernando",Fernando Bryce,Preferred Name
 63484,54008,Monge,"Monge, Priscilla",Priscilla Monge,Preferred Name
@@ -35127,7 +35127,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64300,54659,,Galerie Chantal Crouse,Galerie Chantal Crousel,Preferred Name
 64301,54660,,Jacobo Karpio Galería,Jacobo Karpio Galería,Preferred Name
 64302,54661,Crosthwaite,"Crosthwaite, Hugo",Hugo Crosthwaite,Preferred Name
-64303,54662,,Luis De Jesus,Luis De Jesus,Preferred Name
+64303,54662,,Luis De Jesus Los Angeles,Luis De Jesus Los Angeles,Preferred Name
 64304,54663,,Alex Cooper Auctioneers,Alex Cooper Auctioneers,Preferred Name
 64309,54666,,Lehuauakea,Lehuauakea,Preferred Name
 64310,54667,Craig,"Craig, Jordan Ann",Jordan Ann Craig,Preferred Name
@@ -35255,3 +35255,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64703,54980,,L. Fehr Lith. Officin,L. Fehr Lith. Officin,Preferred Name
 64704,54981,,L. Hagen & Co,L. Hagen & Co,Preferred Name
 64705,54982,,Halvorsen & Larsen,Halvorsen & Larsen,Preferred Name
+64707,54984,Gu,"Gu, Zhi Jin",Zhi Jin Gu,Preferred Name
+64708,54985,Wang,"Wang, Zhu Di",Zhu Di Wang,Preferred Name
