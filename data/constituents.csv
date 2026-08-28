@@ -14943,7 +14943,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 26450,fb3531a9-d64b-4345-af3a-eaa4e1dda418,500000034,"Paeschke, Paul",Paul Paeschke,Paeschke,"German, 1875 - 1943",1,1875,1943,1851 to 1875,German,German,individual,Q21289616
 26452,682a972b-967f-468a-b136-76ca47629378,500029672,"Schrimpf, Georg",Georg Schrimpf,Schrimpf,"German, 1889 - 1938",1,1889,1938,1876 to 1900,German,German,individual,Q743633
 26454,723515d5-91a9-499b-922c-59fe04493d52,,"Zotto, dal",dal Zotto,Zotto,Italian,0,,,,Italian,Italian,individual,
-26455,09afccde-c642-4d76-934d-0ffe4fde6353,,"Pettengill, Peter",Peter Pettengill,Pettengill,American,1,,,,American,American,individual,
+26455,09afccde-c642-4d76-934d-0ffe4fde6353,,"Pettengill, Peter",Peter Pettengill,Pettengill,"American, active 20th century",1,,,,American,American,individual,
 26456,9095ad50-ccb0-4cf1-957e-4e9687343add,,Santa Maria della Consolazione,Santa Maria della Consolazione,,Italian,0,,,,Italian,Italian,corporate,
 26457,f0e27964-596d-49fe-b3c8-08eeae984ea6,,"George, M.",M. George,George,active 1845,0,,,,,Other,individual,
 26458,a526ad53-e3b8-4f59-b30c-6ef6b6498725,,"Toland, Lilah",Lilah Toland,Toland,"American, active 20th century",1,,,,American,American,individual,
@@ -14976,7 +14976,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 26512,1732e1fa-33a5-43dd-b06b-32b7596af38c,,Ascoli,Ascoli,Ascoli,,0,,,,,Other,individual,
 26513,efaf7de5-63e5-47df-80f2-541245e7353f,,"Paech, Walter",Walter Paech,Paech,German,0,,,,German,German,individual,
 26514,46097941-20f1-4393-a114-e7400b8a2890,,"Posse, Hans",Hans Posse,Posse,German,0,,,,German,German,individual,
-26515,5649b498-dd1e-4801-8143-84606508dc28,500122518,"Kusama, Yayoi",Kusama Yayoi,Kusama,"Japanese, born 1929",1,1929,,1926 to 1950,Japanese,Japanese,individual,Q231121
+26515,5649b498-dd1e-4801-8143-84606508dc28,500122518,"Kusama, Yayoi",Kusama Yayoi,Kusama,"Japanese, Japanese, 1929 - 2026",1,1929,2026,1926 to 1950,Japanese,Japanese,individual,Q231121
 26516,efba08ae-aacc-443e-bc53-cb902a575021,,"Rosenberg, S. & R.",S. & R. Rosenberg,,,0,,,,,Other,corporate,
 26517,3ecbd38f-2adc-48f8-a782-d8077985a54a,,"Meier Fine Arts, Anthony",Anthony Meier Fine Arts,,,0,,,,,Other,corporate,
 26519,12a85af7-753d-4b64-8072-536f42e172e2,,"Rothschild, Nathaniel Mayer von, Baron",Baron Nathaniel Mayer von Rothschild,Rothschild,"Austrian, 1836 - 1905",0,1836,1905,1826 to 1850,Austrian,Austrian,individual,
@@ -15100,7 +15100,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 26721,963eabbc-9a62-4edd-a7c2-40f0bf822269,,"Nancy, Anello",Anello Nancy,Nancy,American,1,,,,American,American,individual,
 26724,0a5f9755-02a6-4cea-86af-014e24a1ab0b,500027406,"Adams, Herbert",Herbert Adams,Adams,"American, 1858 - 1945",1,1858,1945,1851 to 1875,American,American,individual,Q5733455
 26725,ab2dedc5-43ad-4eae-b4c4-e6f159e8a438,,"Graham & Sons, James",James Graham & Sons,,est. 1857,0,1857,,1851 to 1875,,Other,corporate,
-26733,f1aa59db-31a9-4449-b9ef-1fc77d724d0c,,"Shumei, Sun",Sun Shumei,Shumei,Chinese,1,,,,Chinese,Chinese,individual,
+26733,f1aa59db-31a9-4449-b9ef-1fc77d724d0c,,"Shumei, Sun",Sun Shumei,Shumei,"Chinese, active 20th century",1,,,,Chinese,Chinese,individual,
 26735,9b3e6027-b782-46d7-9151-808bb2677b00,,"Bartholme, Marcia",Marcia Bartholme,Bartholme,"American, active 20th century",1,,,,American,American,individual,
 26736,75667966-8c95-4063-ad3b-981ea5d2ebdd,,"Seeburg, Lucy Van Sands",Lucy Van Sands Seeburg,Seeburg,American,1,,,,American,American,individual,
 26743,25647a20-d86b-4593-845a-de4d6c5e00e4,,Museum of Science,Museum of Science,,,0,,,,,Other,corporate,
@@ -25858,7 +25858,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 51329,359a1f45-86ce-4573-adba-2e1574e19395,,ZQ Art,ZQ Art,,,0,,,,,Other,corporate,
 51341,4b971437-25cb-4f41-a484-a14bbbe2a60d,,"Nakata, Satsuo",Satsuo Nakata,Nakata,"Japanese, 1920 - 1994",1,1920,1994,1901 to 1925,Japanese,Japanese,individual,
 51364,21f53d34-0d17-4b9b-af21-936a4773fdd7,500077121,"Bigaud, Wilson",Wilson Bigaud,Bigaud,"Haitian, 1913 - 2010",1,1913,2010,1901 to 1925,Haitian,Other,individual,Q3057700
-51366,4c977c19-1b7e-4d61-b057-24f750270fd9,,Samsun 2nd Century B.C.,Amisos 2nd Century B.C.,Samsun 2nd Century B.C.,,1,,,,,Other,anonymous,
+51366,4c977c19-1b7e-4d61-b057-24f750270fd9,,Amisos 2nd Century B.C.,Amisos 2nd Century B.C.,,,1,,,,,Other,anonymous,
 51368,2b5a9236-82de-487d-8781-18d02de1b46e,,Smyrna 3rd Century B.C.,Smyrna 3rd Century B.C.,Smyrna 3rd Century B.C.,,1,,,,,Other,anonymous,
 51381,561955b4-3c81-484a-8597-e3f90266dd87,500488509,"McCannon, Dindga",Dindga McCannon,McCannon,"American, born 1947",1,1947,,1926 to 1950,American,American,individual,Q13560695
 51385,2f67f9fa-1115-4849-834d-bd1d143a8386,,"Carter, Joseph H.",Joseph H. Carter,Carter,"British, 1862 - 1937",0,1862,1937,1851 to 1875,British,British,individual,
