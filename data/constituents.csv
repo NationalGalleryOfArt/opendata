@@ -21468,7 +21468,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 40122,83aa7dd7-48d6-4104-afc9-7bad7c17e8af,,"Stanley, Jane C.",Jane C. Stanley,Stanley,"American, 1863 - 1940",1,1863,1940,1851 to 1875,American,American,individual,Q52155747
 40128,3c97ba7b-822b-4f94-9d6b-0891e77e3d33,,"Weisz, Eugen",Eugen Weisz,Weisz,"American, born Hungary, 1890 - 1954",1,1890,1954,1876 to 1900,American,American,individual,Q46646456
 40135,01fc200c-e186-440b-b5fe-ada4cbfc2f51,500089775,"Tress, Arthur",Arthur Tress,Tress,"American, born 1940",1,1940,,1926 to 1950,American,American,individual,Q2865358
-40145,bc3e8f07-52aa-4463-9720-918e7f9adc43,,"Boutet de Monvel, Bernard",Bernard Boutet de Monvel,Boutet de Monvel,"French, 1881 - 1913",1,1881,1913,1876 to 1900,French,French,individual,
+40145,bc3e8f07-52aa-4463-9720-918e7f9adc43,,"Boutet de Monvel, Bernard",Bernard Boutet de Monvel,Boutet de Monvel,"French, 1881 - 1949",1,1881,1949,1876 to 1900,French,French,individual,
 40151,eff17a43-6223-4606-a61d-357435cc1bf0,,"Heilbuth, Ferdinand",Ferdinand Heilbuth,Heilbuth,"French, 1826 - 1889",1,1826,1889,1826 to 1850,French,French,individual,
 40159,8263da2d-f3f2-44e7-b422-b66d664cf350,500026387,"Roome, Jan van",Jan van Roome,Roome,"Netherlandish, active 1498 - 1521",1,1498,1521,1401 to 1500,Netherlandish,Netherlandish,individual,
 40160,38ddbd57-4fb8-43e7-82b4-a9bb2f626e0c,,"Weissenbruch, Jan Hendrik",Jan Hendrik Weissenbruch,Weissenbruch,"Dutch, 1824 - 1903",1,1824,1903,1801 to 1825,Dutch,Dutch,individual,
@@ -22522,6 +22522,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 45623,43629a3a-c876-46de-b406-b737e955f8b6,500022940,"Waring, Laura Wheeler",Laura Wheeler Waring,Waring,"American, 1887 - 1948",1,1887,1948,1876 to 1900,American,American,individual,Q13560759
 45638,7796e87c-443a-4e38-aa81-9fc712e5adfb,,"Capa, Cornell",Cornell Capa,Capa,"American, born Hungary, 1918 - 2008",1,1918,2008,1901 to 1925,American,American,individual,
 45639,7dabf7fa-2f65-4952-899c-fd11c32529de,500464952,"Dutton, Allen",Allen Dutton,Dutton,"American, 1922 - 2017",1,1922,2017,1901 to 1925,American,American,individual,
+45645,a75b10f7-8b6b-4820-861f-2f554ad5a3f5,,"Nash, John Henry",John Henry Nash,Nash,"Canadian, 1871 - 1947",1,1871,1947,1851 to 1875,Canadian,Canadian,individual,
 45650,640ae16b-f508-4238-b7c8-6840e8df6297,,unidentified,unidentified,unidentified,,1,,,,,Other,individual,
 45683,645be5ed-1878-486f-86ce-f69c21a2ab4a,500101521,"Baum, Don",Don Baum,Baum,"American, 1922 - 2008",1,1922,2008,1901 to 1925,American,American,individual,
 45690,0007bd32-fd30-4ba4-ba31-f2e9b831d1ff,500015267,"Wirsum, Karl",Karl Wirsum,Wirsum,"American, 1939 - 2021",1,1939,2021,1926 to 1950,American,American,individual,
@@ -26371,6 +26372,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 52221,7b45dec9-373f-4d43-8eec-de20bb854f76,,"Luger, Cannupa Hanska",Cannupa Hanska Luger,Luger,"Mandan/Hidatsa/Arikara/Lakota, born 1979",1,1979,,1976 to 2000,American,American,individual,
 52222,29fc0131-076f-4b08-bb7a-2f0e4dc301f7,,Janus Press,Janus Press,,,1,,,,,Other,corporate,
 52225,418accc2-84e4-4909-affe-10de198dc8c2,,"Miller-Brown, Andrew",Andrew Miller-Brown,Miller-Brown,American,1,,,,American,American,individual,
+52227,5b025fb8-bacc-4476-9a0d-73eb34078ca6,,"Bernhard, William John",William John Bernhard,Bernhard,,1,,,,,Other,individual,
 52229,4fff07ed-9df1-4a91-b45c-94673f430ceb,,"Renard, Jean Augustin",Jean Augustin Renard,Renard,,1,1744,1807,1726 to 1750,French,French,individual,
 52230,b72c4bde-86f9-4677-b007-472d684a111d,,"Ballester, Mariano",Mariano Ballester,Ballester,"Spanish, 1916 - 1981",0,1916,1981,1901 to 1925,Spanish,Spanish,individual,
 52231,52fff4ae-8347-4225-8c5c-1d913cad4ebe,,"Patterson, Margaret",Margaret Patterson,Patterson,"American (born in Java), 1867 - 1950",1,1867,1950,1851 to 1875,American,American,individual,
@@ -26757,7 +26759,9 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 52933,885fb230-6b2f-4aec-9ad2-6d814cd5a197,,Elliott Fine Art,Elliott Fine Art,,,0,,,,,Other,corporate,
 52934,9d276c3c-0715-441b-be6d-cfee3e4f1faf,,"Espada, Jason",Jason Espada,Espada,,0,,,,,Other,individual,
 52935,fd715ab5-befd-439d-8102-ede9447c8cff,,"Soren, Tabitha",Tabitha Soren,Soren,"American, born 1967",1,1967,,1951 to 1975,American,American,individual,Q3979974
+52936,0f4d128d-cd8a-4691-a0d8-a400ec5e7070,,"Sterling, George",George Sterling,Sterling,"American, 1869 - 1926",1,1869,1926,1851 to 1875,American,American,individual,
 52937,3ea0a08f-efb8-498e-a1a9-0bbe39fdbdf0,500393770,"Francis, Ray",Ray Francis,Francis,"American, 1937 - 2006",1,1937,2006,1926 to 1950,American,American,individual,Q118274127
+52938,f3619e63-159e-41b0-b231-7fd8d274aad1,,"Coyle, Ray Frederick",Ray Frederick Coyle,Coyle,"American, 1885 - 1924",1,1885,1924,1876 to 1900,American,American,individual,
 52939,795ca627-1516-48d9-b29c-c9baee08f67b,,"Lieberg, Friedrich Andreas",Friedrich Andreas Lieberg,Lieberg,"German, born 1898",0,1898,,1876 to 1900,German,German,individual,
 52940,daf0d079-d1c1-44c1-9d16-4ab04a5fa848,,"Monti, Cesare Cardinal",Cardinal Cesare Monti,Monti,"Italian, 1594 - 1650",0,1594,1650,1551 to 1600,Italian,Italian,individual,
 52941,57f94022-201f-4438-ac7f-7935af5d12b0,,"Monti Melzi, Cesare Count",Count Cesare Monti Melzi,Monti Melzi,"Italian, d. 1741",0,,1741,,Italian,Italian,individual,
