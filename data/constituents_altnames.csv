@@ -27544,6 +27544,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 52567,45776,Bodine,"Bodine, A. Aubrey",A. Aubrey Bodine,Preferred Name
 52577,45786,Eagle,"Eagle, Arnold",Arnold Eagle,Preferred Name
 52595,45804,Jones,"Jones, Tom",Tom Jones,Preferred Name
+52626,45835,Smith,"Smith, Andy",Andy Smith,Preferred Name
 52629,45838,Steinmetz,"Steinmetz, Mark",Mark Steinmetz,Preferred Name
 52632,45841,Tolliver,"Tolliver, Mose",Mose Tolliver,Preferred Name
 52679,45888,Parr,"Parr, Martin",Martin Parr,Preferred Name
@@ -34425,6 +34426,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62985,53590,von Diergardt,"von Diergardt, Baron",Baron von Diergardt,Preferred Name
 62986,53591,Treuberg,"Treuberg, Ernst Countess",Countess Ernst Treuberg,Preferred Name
 62991,26273,Driskell,,Mr. Darius Driskell c/o DC Moore Gallery,Variant
+62996,53599,Nagatani,"Nagatani, Patrick",Patrick Nagatani,Preferred Name
+63007,53609,Jackson,"Jackson, Zig","Zig Jackson, Rising Buffalo",Preferred Name
 63018,13352,Miller,"Miller, Wayne Forest",Wayne Forest Miller,Variant
 63019,24709,Siegel,"Siegel, Arthur S.",Arthur S. Siegel,Variant
 63020,24709,Siegel,"Siegel, Arthur Sidney",Arthur Sidney Siegel,Variant
@@ -35137,6 +35140,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64310,54667,Craig,"Craig, Jordan Ann",Jordan Ann Craig,Preferred Name
 64313,54670,Beiny,Michele Beiny Inc.,Michele Beiny Inc.,Preferred Name
 64314,54671,Acevedo,"Acevedo, Manuel",Manuel Acevedo,Preferred Name
+64317,54674,Gandert,"Gandert, Miguel",Miguel Gandert,Preferred Name
+64318,54675,Marmon,"Marmon, Lee",Lee Marmon,Preferred Name
 64335,34349,,,Studio Thomas Demand,Variant
 64336,54692,Prager,"Prager, Joanne",Joanne Prager,Preferred Name
 64339,54695,Vega,"Vega, Simón",Simón Vega,Preferred Name
@@ -35261,3 +35266,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64705,54982,,Halvorsen & Larsen,Halvorsen & Larsen,Preferred Name
 64707,54984,Gu,"Gu, Zhi Jin",Zhi Jin Gu,Preferred Name
 64708,54985,Wang,"Wang, Zhu Di",Zhu Di Wang,Preferred Name
+64711,54988,,Akemi Nishida and S. Paul Selavko,Akemi Nishida and S. Paul Selavko,Preferred Name
