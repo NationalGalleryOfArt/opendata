@@ -5116,7 +5116,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 5394,e6802102-d7e4-4e9d-9ff7-2aed69963c11,500477384,"Rothman, Aryeh",Aryeh Rothman,Rothman,"Israeli, active 20th century",1,1880,1999,1876 to 1900,Israeli,Other,individual,Q28339557
 5396,3ec88033-ff6b-41a4-bedb-c614ed476f0a,,"Rousseau, Jean Francois",Jean Francois Rousseau,Rousseau,"French, born c. 1740",1,1740,1820,1726 to 1750,French,French,individual,Q38098266
 5397,6a2c3a5c-db50-49a0-8552-fce6e8c4fe55,500025651,"Roussel, Ker Xavier",Ker Xavier Roussel,Roussel,"French, 1867 - 1944",1,1867,1944,1851 to 1875,French,French,individual,Q533859
-5398,9a9d684a-010e-455f-82dd-2ecafce61c1b,500018326,"Roussel, Théodore",Théodore Roussel,Roussel,"British, 1847 - 1926",1,1847,1926,1826 to 1850,British,British,individual,Q2430573
+5398,9a9d684a-010e-455f-82dd-2ecafce61c1b,500018326,"Roussel, Theodore",Theodore Roussel,Roussel,"British, 1847 - 1926",1,1847,1926,1826 to 1850,British,British,individual,Q2430573
 5399,ee55a14e-7a3c-4429-bab3-034210661ab7,500027369,"Rousselet, Gilles",Gilles Rousselet,Rousselet,"French, 1610 - 1686",1,1610,1686,1601 to 1650,French,French,individual,Q4400395
 5400,8523656f-c427-4fb4-b5aa-30d251f68d56,,"Rousset, P.",P. Rousset,Rousset,"French, active 19th century",1,1780,1899,1776 to 1800,French,French,individual,
 5401,dadf181a-ceb2-4d38-94e3-496864fdb100,500006930,"Rowlandson, Thomas",Thomas Rowlandson,Rowlandson,"British, 1756 - 1827",1,1756,1827,1751 to 1775,British,British,individual,Q318584
@@ -27710,6 +27710,8 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54420,e00397bf-deee-4969-a827-3fc868840822,,"Palumbo, Dan",Dan Palumbo,Palumbo,American,1,,,,American,American,individual,Q117120702
 54422,22a394c9-6706-4687-9aeb-b86dbbe5b75c,,"Soifer, Howard",Howard Soifer,Soifer,"American, active 20th century",1,,,,American,American,individual,
 54426,94261616-7147-4f8d-82ea-ed0f4839ed2e,,and Workshop of Donatello,and Workshop of Donatello,,Florentine,1,,,,Florentine,Other,corporate,
+54431,ce6c836b-2028-4b83-923c-1879a6a284e0,500341763,"del Valle, Eduardo",Eduardo del Valle,del Valle,"American, born Cuba, born 1951",1,1951,,1951 to 1975,American,American,individual,Q60367347
+54432,e9f08746-e25a-4b55-92a6-51a0e27605fc,,"Gómez, Mirta",Mirta Gómez,Gómez,"American, born Cuba, born 1953",1,1953,,1951 to 1975,American,American,individual,
 54437,332ff857-5658-49fd-93a8-a4f66aa5b448,,Espacio 1414,Espacio 1414,,"Santurce, Puerto Rico",0,,,,,Other,corporate,
 54447,0a22ec5d-1a79-4960-bf71-6bea0227823a,,"Rollins, Michelle",Michelle Rollins,Rollins,,0,,,,,Other,purchase_fund,
 54452,504e9861-0d93-4a0f-b973-6d270d7331dc,,Marshall Productions Inc.,Marshall Productions Inc.,,,0,,,,,Other,corporate,
@@ -27791,6 +27793,8 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54585,bd754c95-5c1d-4639-9c89-f1b4a5750a00,,Estate of Lillian Bassman,Estate of Lillian Bassman,,,0,,,,,Other,corporate,
 54586,e8b9d05c-1ec9-456e-b4d9-8bdda98228c7,,"Jarvis, Shaniqwa",Shaniqwa Jarvis,Jarvis,American,1,,,,American,American,individual,Q138541957
 54587,3632b9e6-e8ef-4efa-8922-13e2fa089d59,,Carlos de Villa-Amil and Nir Polonsky,Carlos de Villa-Amil and Nir Polonsky,,,0,,,,,Other,couple,
+54590,2220d38a-8ce8-4e11-bbcd-238c0cf6cc3f,,"Berman, Zeke",Zeke Berman,Berman,"American, born 1951",1,1951,,1951 to 1975,American,American,individual,
+54591,c8cfc3dd-dcd0-4919-ae69-b94ab8c42add,,"Birch, Tom",Tom Birch,Birch,,0,,,,,Other,individual,
 54593,ebaedd27-3ecb-4053-bc81-c23d761a5be3,,"Abend, Carol",Carol Abend,Abend,,0,,,,,Other,individual,
 54594,7407eeeb-cc02-4244-ad2b-5d8de3b02c57,,"Toda, Tadashi",Tadashi Toda,Toda,"Japanese, active 20th century",1,1936,2000,1926 to 1950,Japanese,Japanese,individual,
 54595,f81c990c-d970-466d-820b-f414127874d9,,LewAllen Galleries,LewAllen Galleries,,,0,,,,,Other,corporate,
@@ -27837,8 +27841,11 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54667,acbe3cb1-ba42-4979-8cfe-760ff97f7688,500783404,"Craig, Jordan Ann",Jordan Ann Craig,Craig,"Northern Cheyenne, born 1992",1,1992,,1976 to 2000,Northern Cheyenne,Other,individual,
 54670,0848bb22-1542-473f-a1ec-27d163ddabe2,,Michele Beiny Inc.,Michele Beiny Inc.,Beiny,,0,,,,,Other,corporate,
 54671,7695d59b-182f-4aa4-ad53-47a58fa2cd32,,"Acevedo, Manuel",Manuel Acevedo,Acevedo,"American, born 1964",1,1964,,1951 to 1975,American,American,individual,Q26904106
+54672,8d13e858-b0b3-414c-b18d-2ee5daa5063a,500076205,"Boughton, Alice",Alice Boughton,Boughton,"American, 1866 - 1943",1,1866,1943,1851 to 1875,American,American,individual,Q440673
 54674,d67d6e2f-12c9-41a6-bfd7-6d3026b7b33c,,"Gandert, Miguel",Miguel Gandert,Gandert,"American, born 1956",1,1956,,1951 to 1975,American,American,individual,
 54675,0040797a-36ef-4e3c-b93b-ce7751ae3c3d,,"Marmon, Lee",Lee Marmon,Marmon,"Laguna Pueblo, 1925 - 2021",1,1925,2021,1901 to 1925,Laguna Pueblo,Other,individual,Q5504461
+54678,67fd4231-6a01-4477-abd6-4e86f3231c04,,Gibson Studio,Gibson Studio,,"American, active 1910s - 1930s",1,1910,1930,1901 to 1925,American,American,corporate,
+54679,bd6f7351-103c-4536-a254-51f31b5b4b00,,"Brasseur, Scott and Beth",Scott and Beth Brasseur,Brasseur,,0,,,,,Other,couple,
 54692,cc016903-caeb-473c-821a-b27d5b254b8b,,"Prager, Joanne",Joanne Prager,Prager,,0,,,,,Other,individual,
 54695,7540e2a2-218a-4a7d-a88d-cd6c3ef4f0d7,,"Vega, Simón",Simón Vega,Vega,"Salvadoran, born 1972",1,1972,,1951 to 1975,Salvadoran,Other,individual,
 54696,718e667b-1de9-4c3e-9bcf-94276fc56348,,"Cader-Frech, Mario",Mario Cader-Frech,Cader-Frech,,0,,,,,Other,individual,
@@ -27861,11 +27868,13 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54730,9a888d93-5741-4fed-9b69-d0ede9cc915f,,Myrna Báez Estate,Myrna Báez Estate,,,0,,,,,Other,corporate,
 54731,7f858d59-7cc0-4a28-831c-7bab061b7e77,,Cernuda Arte,Cernuda Arte,,,0,,,,,Other,corporate,
 54732,34799440-82f5-456a-a285-8b092a6c681b,,Center for Contemporary Documentation,Center for Contemporary Documentation,,,0,,,,,Other,corporate,
+54734,cec918fe-7354-4217-8c85-2cc4aeca8d1d,,"Chan, Sewell",Sewell Chan,Chan,,0,,,,,Other,individual,
 54735,41a191b2-aeea-4bd4-b4db-b99a3b96e6ee,500118212,"Chartrand, Esteban",Esteban Chartrand,Chartrand,"Cuban, 1840 - 1884",1,1840,1884,1826 to 1850,Cuban,Other,individual,Q19607180
 54737,970363d9-7cc1-4e43-87ca-64f27c732ffb,,Davila-Villa & Stothart,Davila-Villa & Stothart,,,0,,,,,Other,corporate,
 54739,b9c018a2-da4a-4c87-835c-ba4e65ca2a47,,Mexican 17th century,Mexican 17th century,Mexican 17th century,"Mexican, 1600 - 1699",1,1600,1699,1551 to 1600,Mexican,Mexican,anonymous,
 54746,0d979fa4-b76a-4a6b-b341-88089fa01db8,,Atlantic Richfield Company,Atlantic Richfield Company,Atlantic Richfield Company,,0,,,,,Other,corporate,Q304769
 54759,42d329a1-81c5-427e-84ff-21bafca600a9,,"Odieuvre, Michel",Michel Odieuvre,Odieuvre,"French, 1687 - 1756",1,1687,1756,1651 to 1700,French,French,individual,
+54764,692e4ca8-aac0-4e3e-aa72-a6ad2ccc0cfa,500404161,"Jaramillo, Virginia",Virginia Jaramillo,Jaramillo,"American, born 1939",1,1939,,1926 to 1950,American,American,individual,Q29572571
 54766,277a96ff-0128-4bfc-b37a-7bbb4fbebea2,,Jonathan Boos,Jonathan Boos,,,0,,,,,Other,corporate,
 54768,f042fd11-bcb8-421c-a917-ffc198292e9f,,"Lincoln, Evelyn",Evelyn Lincoln,Lincoln,"American, born 1952",1,1952,,1951 to 1975,American,American,individual,
 54769,f95773a1-c3a7-460e-9d13-90a6a68a95f7,,"Solomon, Marvin",Marvin Solomon,Solomon,"American, 1930 - 2000",1,1930,2000,1926 to 1950,American,American,individual,

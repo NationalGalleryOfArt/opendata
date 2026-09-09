@@ -5115,7 +5115,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 5387,5394,Rothman,"Rothman, Aryeh",Aryeh Rothman,Preferred Name
 5389,5396,Rousseau,"Rousseau, Jean Francois",Jean Francois Rousseau,Preferred Name
 5390,5397,Roussel,"Roussel, Ker Xavier",Ker Xavier Roussel,Preferred Name
-5391,5398,Roussel,"Roussel, Théodore",Théodore Roussel,Preferred Name
+5391,5398,Roussel,"Roussel, Theodore",Theodore Roussel,Preferred Name
 5392,5399,Rousselet,"Rousselet, Gilles",Gilles Rousselet,Preferred Name
 5393,5400,Rousset,"Rousset, P.",P. Rousset,Preferred Name
 5394,5401,Rowlandson,"Rowlandson, Thomas",Thomas Rowlandson,Preferred Name
@@ -34971,6 +34971,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63991,54422,Soifer,"Soifer, Howard",Howard Soifer,Preferred Name
 63995,54426,,and Workshop of Donatello,and Workshop of Donatello,Preferred Name
 64000,26870,Levis,"Levis, Joseph de",Joseph de Levis,Variant
+64001,54431,del Valle,"del Valle, Eduardo",Eduardo del Valle,Preferred Name
+64002,54432,Gómez,"Gómez, Mirta",Mirta Gómez,Preferred Name
 64009,8968,Paterson,"Paterson, W.B.",W.B. Paterson,Variant
 64010,54437,,Espacio 1414,Espacio 1414,Preferred Name
 64015,48450,Shear,,Jack Shear,Original Name
@@ -35087,6 +35089,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64215,54585,,Estate of Lillian Bassman,Estate of Lillian Bassman,Preferred Name
 64216,54586,Jarvis,"Jarvis, Shaniqwa",Shaniqwa Jarvis,Preferred Name
 64217,54587,,Carlos de Villa-Amil and Nir Polonsky,Carlos de Villa-Amil and Nir Polonsky,Preferred Name
+64220,54590,Berman,"Berman, Zeke",Zeke Berman,Preferred Name
+64221,54591,Birch,"Birch, Tom",Tom Birch,Preferred Name
 64223,54593,Abend,"Abend, Carol",Carol Abend,Preferred Name
 64224,54594,Toda,"Toda, Tadashi",Tadashi Toda,Preferred Name
 64225,54595,,LewAllen Galleries,LewAllen Galleries,Preferred Name
@@ -35140,8 +35144,11 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64310,54667,Craig,"Craig, Jordan Ann",Jordan Ann Craig,Preferred Name
 64313,54670,Beiny,Michele Beiny Inc.,Michele Beiny Inc.,Preferred Name
 64314,54671,Acevedo,"Acevedo, Manuel",Manuel Acevedo,Preferred Name
+64315,54672,Boughton,"Boughton, Alice",Alice Boughton,Preferred Name
 64317,54674,Gandert,"Gandert, Miguel",Miguel Gandert,Preferred Name
 64318,54675,Marmon,"Marmon, Lee",Lee Marmon,Preferred Name
+64321,54678,,Gibson Studio,Gibson Studio,Preferred Name
+64322,54679,Brasseur,"Brasseur, Scott and Beth",Scott and Beth Brasseur,Preferred Name
 64335,34349,,,Studio Thomas Demand,Variant
 64336,54692,Prager,"Prager, Joanne",Joanne Prager,Preferred Name
 64339,54695,Vega,"Vega, Simón",Simón Vega,Preferred Name
@@ -35176,6 +35183,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64387,54731,,Cernuda Arte,Cernuda Arte,Preferred Name
 64388,6880,Pevsner,"Pevsner, Naum",Naum Pevsner,Variant
 64389,54732,,Center for Contemporary Documentation,Center for Contemporary Documentation,Preferred Name
+64391,54734,Chan,"Chan, Sewell",Sewell Chan,Preferred Name
 64392,54735,Chartrand,"Chartrand, Esteban",Esteban Chartrand,Preferred Name
 64393,54735,Chartrand y Dubois,"Chartrand y Dubois, Esteban Sebastian",Esteban Sebastian Chartrand y Dubois,Variant
 64395,54737,,Davila-Villa & Stothart,Davila-Villa & Stothart,Preferred Name
@@ -35183,6 +35191,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64404,54746,Atlantic Richfield Company,Atlantic Richfield Company,Atlantic Richfield Company,Preferred Name
 64405,54746,,,ARCO,Variant
 64418,54759,Odieuvre,"Odieuvre, Michel",Michel Odieuvre,Preferred Name
+64423,54764,Jaramillo,"Jaramillo, Virginia",Virginia Jaramillo,Preferred Name
 64425,54766,,Jonathan Boos,Jonathan Boos,Preferred Name
 64429,54768,Lincoln,"Lincoln, Evelyn",Evelyn Lincoln,Preferred Name
 64430,54769,Solomon,"Solomon, Marvin",Marvin Solomon,Preferred Name
@@ -35268,5 +35277,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64707,54984,Gu,"Gu, Zhi Jin",Zhi Jin Gu,Preferred Name
 64708,54985,Wang,"Wang, Zhu Di",Zhu Di Wang,Preferred Name
 64711,54988,,Akemi Nishida and S. Paul Selavko,Akemi Nishida and S. Paul Selavko,Preferred Name
+64712,54591,Birch,"Birch, Thomas L.",Thomas L. Birch,Variant
 64714,18412,Benard,"Benard, Jacques Renaud",Jacques Renaud Benard,Variant
 64717,54990,Tyler,"Tyler, Quinn",Quinn Tyler,Preferred Name
