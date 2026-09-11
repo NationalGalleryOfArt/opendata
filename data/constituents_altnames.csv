@@ -15264,6 +15264,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27085,27092,Dietrich,"Dietrich, Adelheid",Adelheid Dietrich,Preferred Name
 27086,27093,Fisher,"Fisher, Alvan",Alvan Fisher,Preferred Name
 27087,27094,McEntee,"McEntee, Jervis",Jervis McEntee,Preferred Name
+27088,27095,Seager,"Seager, Edward",Edward Seager,Preferred Name
 27104,27111,Marochetti,"Marochetti, Carlo, Baron",Baron Carlo Marochetti,Preferred Name
 27109,27116,Richter,"Richter, Hans",Hans Richter,Preferred Name
 27110,27117,Schad,"Schad, Christian",Christian Schad,Preferred Name
@@ -23453,7 +23454,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 39992,34173,Mutii,"Mutii, Gregorio da Montalcino  Fra",Fra Gregorio Mutii da Montalcino,Preferred Name
 39993,34174,Pelzer,"Pelzer, Rudolf",Rudolf Pelzer,Preferred Name
 39995,34176,Mead,"Mead, Ruth Appleldoorn",Ruth Appleldoorn Mead,Preferred Name
-39996,34177,Newman,"Newman, Robert",Robert Newman,Preferred Name
 39997,34178,Novak,"Novak, Joseph",Joseph Novak,Preferred Name
 39998,26150,Gimpel,"Gimpel, René Albert",René Albert Gimpel,Full Name
 39999,34179,Parrish,"Parrish, John",John Parrish,Preferred Name
@@ -27682,7 +27682,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53135,46323,,McNeil Americana Collection,McNeil Americana Collection,Preferred Name
 53136,46324,Walpole,"Walpole, Thomas",Thomas Walpole,Preferred Name
 53137,46325,Garneray,"Garneray, Louis",Louis Garneray,Preferred Name
-53142,34177,Newman,"Newman, Robert Loftin",Robert Loftin Newman,Variant
 53143,19949,Ritchie,"Ritchie, Charlie",Charlie Ritchie,Variant
 53145,46331,Lucchese,"Lucchese, Michele",Michele Lucchese,Preferred Name
 53147,46333,Robinson,"Robinson, Robert",Robert Robinson,Preferred Name
@@ -34371,6 +34370,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62902,52937,Francis,"Francis, James Ray",James Ray Francis,Variant
 62903,53539,,"Between the Covers Rare Books, Inc.","Between the Covers Rare Books, Inc.",Preferred Name
 62904,53540,,"Spectrum Press, Anaheim, CA","Spectrum Press, Anaheim, CA",Preferred Name
+62906,53542,,Ateliers Laage a Ramatuelle France,Ateliers Laage a Ramatuelle France,Preferred Name
 62908,52408,Sengstacke,"Sengstacke, Robert Abbott",Robert Abbott Sengstacke,Variant
 62911,53544,Crewdson,"Crewdson, Gregory",Gregory Crewdson,Preferred Name
 62912,53523,Hück,"Hück, Tom",Tom Hück,Variant
@@ -34762,6 +34762,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63586,54061,Walker,"Walker, Reid",Reid Walker,Preferred Name
 63590,54065,Chachoin,"Chachoin, Henri",Henri Chachoin,Preferred Name
 63592,54067,Malone,"Malone, James Hiram",James Hiram Malone,Preferred Name
+63593,54068,Jackson,"Jackson, Stefanie",Stefanie Jackson,Preferred Name
 63594,54069,McIver,"McIver, Beverly",Beverly McIver,Preferred Name
 63596,54071,Ahearn,"Ahearn, John",John Ahearn,Preferred Name
 63597,54072,Torres,"Torres, Rigoberto",Rigoberto Torres,Preferred Name
@@ -34942,6 +34943,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63902,54342,,Forbes Magazine,Forbes Magazine,Preferred Name
 63903,54343,Rosensaft,"Rosensaft, Josef and Hadassah",Josef and Hadassah Rosensaft,Preferred Name
 63905,47114,Estate of Eliezer and Miriam Benbassat,,Estate of Eliezer and Miriam Benbassat,Variant
+63906,54345,Hilger,"Hilger, Charles",Charles Hilger,Preferred Name
 63908,54347,Hill,"Hill, John C.",John C. Hill,Preferred Name
 63910,54349,Matcha,"Matcha, Mary",Mary Matcha,Preferred Name
 63911,54350,Schaeffer,"Schaeffer, Glenn",Glenn Schaeffer,Preferred Name
@@ -35019,6 +35021,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64058,54467,Jacques,"Jacques, Joseph Hugue Emile and Marie Lim Pee-Chin",Joseph Hugue Emile and Marie Lim Pee-Chin Jacques,Preferred Name
 64059,54467,Pee-Chin,"Pee-Chin, Marie Lim",Marie Lim Pee-Chin,Maiden Name
 64060,54468,,Planthouse Gallery,Planthouse Gallery,Preferred Name
+64061,54469,,Dominican York Proyecto Grafica,Dominican York Proyecto Grafica,Preferred Name
 64062,54470,William,"William, Didier",Didier William,Preferred Name
 64063,54471,Steinert,"Steinert, Otto",Otto Steinert,Preferred Name
 64064,54472,Schürmann,"Schürmann, Wilhelm",Wilhelm Schürmann,Preferred Name
@@ -35066,6 +35069,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64134,54519,Churchill,"Churchill, Sarah Duchess of Marlborough","Sarah Churchill, Duchess of Marlborough",Preferred Name
 64135,54519,Jennings,"Jennings, Sarah",Sarah Jennings,Maiden Name
 64136,54519,Jenyns,"Jenyns, Sarah",Sarah Jenyns,Maiden Name
+64137,54520,,Island Press,Island Press,Preferred Name
 64138,54521,Spencer,"Spencer, John 1st Earl Spencer","John Spencer, 1st Earl Spencer",Preferred Name
 64139,54522,Oppermann,"Oppermann, Ernst",Ernst Oppermann,Preferred Name
 64140,54523,,Galerie Jan de Maere,Galerie Jan de Maere,Preferred Name
@@ -35114,6 +35118,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64223,54593,Abend,"Abend, Carol",Carol Abend,Preferred Name
 64224,54594,Toda,"Toda, Tadashi",Tadashi Toda,Preferred Name
 64225,54595,,LewAllen Galleries,LewAllen Galleries,Preferred Name
+64226,54596,Cannon,"Cannon, T.C.",T.C. Cannon,Preferred Name
 64228,54598,Moncornet,"Moncornet, Veuve",Veuve Moncornet,Preferred Name
 64229,54598,Van der Mael,,Marguerite Van der Mael,Maiden Name
 64231,54600,,Librairie de l'eau-forte,Librairie de l'eau-forte,Preferred Name
@@ -35185,6 +35190,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64358,54714,,Mirabaud-Mercier,Mirabaud-Mercier,Preferred Name
 64359,54715,,Boisseau-Pomez,Boisseau-Pomez,Preferred Name
 64360,54716,,Hôtel des Ventes Victor Hugo,Hôtel des Ventes Victor Hugo,Preferred Name
+64361,54717,Peterson,"Peterson, Holly",Holly Peterson,Preferred Name
 64362,54718,Keating,"Keating, Alice",Funds from Alice and Peter Keating,Preferred Name
 64363,54719,Bullock,"Bullock, Raymond",Raymond Bullock,Preferred Name
 64372,54728,Le May,"Le May, Olivier",Olivier Le May,Preferred Name
@@ -35203,6 +35209,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64387,54731,,Cernuda Arte,Cernuda Arte,Preferred Name
 64388,6880,Pevsner,"Pevsner, Naum",Naum Pevsner,Variant
 64389,54732,,Center for Contemporary Documentation,Center for Contemporary Documentation,Preferred Name
+64390,54733,Sanders,"Sanders, Phil",PS Marlowe Printmaking Workshop,Preferred Name
 64391,54734,Chan,"Chan, Sewell",Sewell Chan,Preferred Name
 64392,54735,Chartrand,"Chartrand, Esteban",Esteban Chartrand,Preferred Name
 64393,54735,Chartrand y Dubois,"Chartrand y Dubois, Esteban Sebastian",Esteban Sebastian Chartrand y Dubois,Variant
@@ -35257,6 +35264,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64566,54881,Urvater,Baron Berthold-Joseph (Berthie) and Gaëtane-Gilberte Consiglio (Gigi) Urvater,Baron Berthold-Joseph (Berthie) and Gaëtane-Gilberte Consiglio (Gigi) Urvater,Preferred Name
 64567,54882,,Betty and Isaac Rudman,Betty and Isaac Rudman,Preferred Name
 64574,54888,Shanus,"Shanus, Michele",Michele Shanus,Preferred Name
+64575,54889,Leon,"Leon, Francisco",Francisco Leon,Variant
+64576,54890,,Unrestricted Bequests -  Art Acquisition,Unrestricted Bequests -  Art Acquisition,Preferred Name
+64577,54889,,The He Leon Foundation,The He Leon Foundation,Preferred Name
 64585,54896,,Carmen S. Yamada Revocable Trust,Carmen S. Yamada Revocable Trust,Preferred Name
 64586,54897,,Saul (AWMF 75th),Saul (AWMF 75th),Preferred Name
 64589,54900,van der Meulen,"van der Meulen, Sabine C.",Sabine C. van der Meulen,Preferred Name
@@ -35305,3 +35315,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64712,54591,Birch,"Birch, Thomas L.",Thomas L. Birch,Variant
 64714,18412,Benard,"Benard, Jacques Renaud",Jacques Renaud Benard,Variant
 64717,54990,Tyler,"Tyler, Quinn",Quinn Tyler,Preferred Name
+64721,54993,Neuman,"Neuman, Robert S.",Robert S. Neuman,Preferred Name

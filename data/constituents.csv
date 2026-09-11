@@ -15273,6 +15273,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 27092,6078cedd-4d8a-4d5c-a3fa-d75c33ee8b28,,"Dietrich, Adelheid",Adelheid Dietrich,Dietrich,"German, 1827 - 1891",1,1827,1891,1826 to 1850,German,German,individual,
 27093,39f941cd-0f6b-4f1b-926b-dfdffbed4701,500012834,"Fisher, Alvan",Alvan Fisher,Fisher,"American, 1792 - 1863",1,1792,1863,1776 to 1800,American,American,individual,Q3063754
 27094,0ac40213-ac09-4566-8cbd-02787fea6339,500024287,"McEntee, Jervis",Jervis McEntee,McEntee,"American, 1828 - 1891",1,1828,1891,1826 to 1850,American,American,individual,Q2580100
+27095,fdfeb84c-0035-46f7-9151-5381c658df0f,,"Seager, Edward",Edward Seager,Seager,"American, 1809 - 1886",1,1809,1886,1801 to 1825,American,American,individual,
 27111,da5727fd-8f88-43dc-8aff-f27043731b9e,,"Marochetti, Carlo, Baron",Baron Carlo Marochetti,Marochetti,"Italian, 1805 - 1867",0,1805,1867,1801 to 1825,Italian,Italian,individual,
 27116,c8343151-ef93-4bc1-8fe1-670449dbccad,500027806,"Richter, Hans",Hans Richter,Richter,"German, 1888 - 1976",1,1888,1976,1876 to 1900,German,German,individual,Q213597
 27117,b942baab-6b9a-4a2f-bf69-f4e0b614c9da,500030368,"Schad, Christian",Christian Schad,Schad,"German, 1894 - 1982",1,1894,1982,1876 to 1900,German,German,individual,Q703331
@@ -19106,7 +19107,6 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 34173,f34953a0-cdcc-41ae-bb8a-a6e5aaf58dcc,,"Mutii, Gregorio da Montalcino  Fra",Fra Gregorio Mutii da Montalcino,Mutii,"Sienese, died 1395",1,1300,1395,1300 to 1400,Italian,Italian,individual,
 34174,1f03618f-77ff-4a2f-bf23-c71bd23e500b,,"Pelzer, Rudolf",Rudolf Pelzer,Pelzer,"German, 1825 - 1910",0,1825,1910,1801 to 1825,German,German,individual,
 34176,4be41491-6312-4ea2-b78a-66ef3ab50092,,"Mead, Ruth Appleldoorn",Ruth Appleldoorn Mead,Mead,"American, 1894 - 1994",1,1894,1994,1876 to 1900,American,American,individual,
-34177,4de21e41-b98a-4764-8e6e-fd0ae3d7aa14,,"Newman, Robert",Robert Newman,Newman,"American, 1827 - 1912",1,1827,1912,1826 to 1850,American,American,individual,Q7346973
 34178,38df8cae-438c-4631-bdc7-570206c89a88,,"Novak, Joseph",Joseph Novak,Novak,"Czech, born 1888",1,1888,1988,1876 to 1900,Czech,Czech,individual,
 34179,e0f357b2-f737-4317-ac38-8fb664b8ff50,,"Parrish, John",John Parrish,Parrish,"American, born 1956",1,1956,,1951 to 1975,American,American,individual,
 34180,629a66e4-8c74-48b2-8d4d-12ac876eb8a6,,"Peck, Bruce",Bruce Peck,Peck,American,1,,,,American,American,individual,
@@ -27260,6 +27260,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 53538,10bdd029-93b2-4e4c-a040-b7f96d40464d,,"Sepúlveda, Mariano González de",Mariano González de Sepúlveda,Sepúlveda,"Spanish, 1774 - 1842",0,1774,1842,1751 to 1775,Spanish,Spanish,individual,
 53539,e2578904-527d-434c-8808-ecb774bd9919,,"Between the Covers Rare Books, Inc.","Between the Covers Rare Books, Inc.",,,0,,,,,Other,corporate,
 53540,93fea0a8-2916-4f05-a183-a5eb439afb3b,,"Spectrum Press, Anaheim, CA","Spectrum Press, Anaheim, CA",,,1,,,,,Other,corporate,
+53542,08b223a9-19df-45ac-a676-9a1469e9f7b8,,Ateliers Laage a Ramatuelle France,Ateliers Laage a Ramatuelle France,,,1,,,,,Other,corporate,
 53544,6049da05-0a30-44b6-8428-98a953bf477e,500128025,"Crewdson, Gregory",Gregory Crewdson,Crewdson,"American, born 1962",1,1962,,1951 to 1975,American,American,individual,Q1347062
 53547,3997bd15-191f-47fb-bc56-e25baad49004,,"Sabhnani, Rahul M",Rahul M Sabhnani,Sabhnani,,0,,,,,Other,purchase_fund,
 53548,286c92de-3d67-468b-a659-977394693cc0,,"Bowes, Rosemary",Rosemary Bowes,Bowes,,0,,,,,Other,purchase_fund,
@@ -27529,6 +27530,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54061,7cf72b28-4660-4c3c-9eea-8000fed87367,,"Walker, Reid",Reid Walker,Walker,,0,,,,,Other,purchase_fund,
 54065,04fa4f55-286a-4a1b-a374-622c9c6394d1,,"Chachoin, Henri",Henri Chachoin,Chachoin,"French, active late 19th century",1,,,,French,French,individual,
 54067,9de5a94e-fd98-4ed3-9f18-e1bdbdf5f33d,,"Malone, James Hiram",James Hiram Malone,Malone,,1,1930,2011,1926 to 1950,American,American,individual,
+54068,ab59fd01-be75-4715-965c-293855a2cc9a,,"Jackson, Stefanie",Stefanie Jackson,Jackson,,1,1958,,1951 to 1975,American,American,individual,
 54069,6c7e01a2-5fe7-442e-8349-c81b701ff8b6,,"McIver, Beverly",Beverly McIver,McIver,"American, born 1962",1,1962,,1951 to 1975,American,American,individual,
 54071,27befdd4-1159-4a2a-9948-05beaa607e09,,"Ahearn, John",John Ahearn,Ahearn,"American, born 1951",1,1951,,1951 to 1975,American,American,individual,
 54072,1a276c45-0533-4457-85e8-a672c928e8f2,,"Torres, Rigoberto",Rigoberto Torres,Torres,born 1960,1,1960,,1951 to 1975,,Other,individual,
@@ -27685,6 +27687,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54341,70e2acb7-c72d-41ac-8e8c-96db778b5a98,,"Von Derwies, Serge",Serge von Derwies,Von Derwies,"Russian, 1863-1943",0,1863,1943,1851 to 1875,,Other,individual,
 54342,572dbdbe-3715-413e-9a1d-7a808375a3ae,,Forbes Magazine,Forbes Magazine,,,0,,,,,Other,corporate,
 54343,c64b508b-d944-4db1-a894-bf10b3c01ac8,,"Rosensaft, Josef and Hadassah",Josef and Hadassah Rosensaft,Rosensaft,,0,1911,1997,1901 to 1925,,Other,couple,
+54345,7ed7b198-7a66-409b-9936-71856d28a0bf,500106712,"Hilger, Charles",Charles Hilger,Hilger,"American, 1938 - 2020",1,1938,2020,1926 to 1950,American,American,individual,
 54347,b0a6a31d-9d32-4808-82fc-a4ee38ed8e48,,"Hill, John C.",John C. Hill,Hill,,0,,,,,Other,individual,
 54349,4f920cdf-8f39-41ef-89bc-0c5211e67f3d,,"Matcha, Mary",Mary Matcha,Matcha,,0,1923,2017,1901 to 1925,Australian,Other,individual,
 54350,6e9843e3-3375-44a4-8e95-466edee8e3c2,,"Schaeffer, Glenn",Glenn Schaeffer,Schaeffer,,0,,,,American,American,individual,
@@ -27742,6 +27745,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54466,2fdd7794-413b-4aaa-99f1-e0e7d7cd1a36,,Anderson Ranch Editions,Anderson Ranch Editions,,,0,,,,,Other,corporate,
 54467,b96c6234-e441-4a78-a86b-b0cf8b79c198,,"Jacques, Joseph Hugue Emile and Marie Lim Pee-Chin",Joseph Hugue Emile and Marie Lim Pee-Chin Jacques,Jacques,,0,1923,1996,1901 to 1925,American,American,couple,
 54468,97028c25-1b1f-4c5a-8f8c-d89a12a45648,,Planthouse Gallery,Planthouse Gallery,,,0,,,,,Other,corporate,
+54469,93402e13-3b56-470a-82bf-76edd5e14370,,Dominican York Proyecto Grafica,Dominican York Proyecto Grafica,,,0,,,,,Other,corporate,
 54470,d57af56e-da7c-4245-b0bf-f6ba32814129,,"William, Didier",Didier William,William,"Haitian, born 1983",1,1983,,1976 to 2000,Haitian,Other,individual,
 54471,5310250b-1b17-4f01-a853-46e7749f617e,,"Steinert, Otto",Otto Steinert,Steinert,"German, 1915 - 1978",1,1915,1978,1901 to 1925,German,German,individual,
 54472,4c3f73e7-a925-40e4-b480-96d6ab0a51bd,,"Schürmann, Wilhelm",Wilhelm Schürmann,Schürmann,"German, born 1946",1,1946,,1926 to 1950,German,German,individual,
@@ -27772,6 +27776,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54517,024524c7-625b-4019-9f7f-a508d37ee656,,"Huot, François",François Huot,Huot,"French, 1842 - 1915",0,1842,1915,1826 to 1850,French,French,individual,
 54518,497987ba-aba3-4c66-bfa0-ba6bda987280,,"Houbraken, Arnold",Arnold Houbraken,Houbraken,"Dutch, 1660 - 1719",0,1660,1719,1651 to 1700,Dutch,Dutch,individual,
 54519,4512012e-0ba0-4de6-ae52-a4f9e804e0b2,,"Churchill, Sarah Duchess of Marlborough","Sarah Churchill, Duchess of Marlborough",Churchill,"British, 1660 - 1744",0,1660,1744,1651 to 1700,British,British,individual,
+54520,fd88c2ce-782f-4d42-9e63-fc1a7ada02be,,Island Press,Island Press,,,1,,,,,Other,corporate,
 54521,aeb2c629-1930-44ad-a2be-9e72e3597363,,"Spencer, John 1st Earl Spencer","John Spencer, 1st Earl Spencer",Spencer,"British, 1734 - 1783",0,1734,1783,1726 to 1750,British,British,individual,
 54522,5228d1e0-7735-482e-80a0-0e226ea70f90,,"Oppermann, Ernst",Ernst Oppermann,Oppermann,"German, c. 1827 - 1888",0,1827,1888,1826 to 1850,German,German,individual,
 54523,1f741879-2e54-4a3f-bcf1-8d7913c0aaf7,,Galerie Jan de Maere,Galerie Jan de Maere,,founded 1973,0,1973,,1951 to 1975,Belgian,Belgian,corporate,
@@ -27816,6 +27821,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54593,ebaedd27-3ecb-4053-bc81-c23d761a5be3,,"Abend, Carol",Carol Abend,Abend,,0,,,,,Other,individual,
 54594,7407eeeb-cc02-4244-ad2b-5d8de3b02c57,,"Toda, Tadashi",Tadashi Toda,Toda,"Japanese, active 20th century",1,1936,2000,1926 to 1950,Japanese,Japanese,individual,
 54595,f81c990c-d970-466d-820b-f414127874d9,,LewAllen Galleries,LewAllen Galleries,,,0,,,,,Other,corporate,
+54596,546860a1-dd77-4bd6-a108-e560d9371f85,,"Cannon, T.C.",T.C. Cannon,Cannon,"Kiowa/Caddo, 1946 - 1978",1,1946,1978,1926 to 1950,Kiowa/Caddo,Other,individual,Q7668165
 54598,a2d0a352-3fab-4249-9f56-cd712fc1a866,,"Moncornet, Veuve",Veuve Moncornet,Moncornet,"French, died 1691",1,,1691,,French,French,individual,
 54600,195351e6-de2b-45a6-be31-d201e5daf752,,Librairie de l'eau-forte,Librairie de l'eau-forte,,,1,,,,,Other,corporate,
 54601,e8e1d758-8cda-4d7d-9bcd-8bdb8055c2aa,,Imprimerie A. Cochet,Imprimerie A. Cochet,,,1,,,,,Other,corporate,
@@ -27879,6 +27885,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54714,afed1219-d431-4e9a-b466-8c64de17ffc1,,Mirabaud-Mercier,Mirabaud-Mercier,,founded 2010,0,2010,,2001 to present,,Other,corporate,
 54715,9135a84a-3294-48a0-b95b-0ab130400191,,Boisseau-Pomez,Boisseau-Pomez,,,0,,,,,Other,corporate,
 54716,7a05c2dd-5e55-47bf-bf5a-c222f222fb07,,Hôtel des Ventes Victor Hugo,Hôtel des Ventes Victor Hugo,,,0,,,,,Other,corporate,
+54717,37f5078c-4a1a-4a90-8238-a5acafcec0b6,,"Peterson, Holly",Holly Peterson,Peterson,,0,,,,,Other,individual,
 54718,20f581e7-a1a4-45f7-ac1e-c89e8cf6b89f,,"Keating, Alice",Funds from Alice and Peter Keating,Keating,,0,,,,,Other,purchase_fund,
 54719,70c9d72b-9e65-4796-8090-4eb59da84357,,"Bullock, Raymond",Raymond Bullock,Bullock,American,0,,,,American,American,individual,
 54728,d9103af4-293d-40da-9697-05d2aee369a5,500024455,"Le May, Olivier",Olivier Le May,Le May,"French, 1734 - 1797",1,1734,1797,1726 to 1750,French,French,individual,Q19595026
@@ -27886,6 +27893,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54730,9a888d93-5741-4fed-9b69-d0ede9cc915f,,Myrna Báez Estate,Myrna Báez Estate,,,0,,,,,Other,corporate,
 54731,7f858d59-7cc0-4a28-831c-7bab061b7e77,,Cernuda Arte,Cernuda Arte,,,0,,,,,Other,corporate,
 54732,34799440-82f5-456a-a285-8b092a6c681b,,Center for Contemporary Documentation,Center for Contemporary Documentation,,,0,,,,,Other,corporate,
+54733,0726c45c-11b9-403f-b946-25c13c3343e7,,"Sanders, Phil",PS Marlowe Printmaking Workshop,Sanders,,0,,,,,Other,corporate,
 54734,cec918fe-7354-4217-8c85-2cc4aeca8d1d,,"Chan, Sewell",Sewell Chan,Chan,,0,,,,,Other,individual,
 54735,41a191b2-aeea-4bd4-b4db-b99a3b96e6ee,500118212,"Chartrand, Esteban",Esteban Chartrand,Chartrand,"Cuban, 1840 - 1884",1,1840,1884,1826 to 1850,Cuban,Other,individual,Q19607180
 54736,1775f757-0b1a-4425-ad49-e8213574941e,,"van der Meulen, Marjorie",Marjorie van der Meulen,van der Meulen,,0,,,,,Other,individual,
@@ -27926,6 +27934,8 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54881,9dbea8a4-a64a-4061-b222-94564a4908f6,,Baron Berthold-Joseph (Berthie) and Gaëtane-Gilberte Consiglio (Gigi) Urvater,Baron Berthold-Joseph (Berthie) and Gaëtane-Gilberte Consiglio (Gigi) Urvater,Urvater,,0,,,,Belgian,Belgian,couple,
 54882,5db628b8-efd9-480a-a40d-04d562029953,,Betty and Isaac Rudman,Betty and Isaac Rudman,,,0,,,,,Other,couple,
 54888,b971527b-1241-4bbf-8ccb-3288b66005a8,,"Shanus, Michele",Michele Shanus,Shanus,,0,,,,,Other,individual,
+54889,52c5117e-8ee5-4309-990b-2023cb6d53bf,,The He Leon Foundation,The He Leon Foundation,,,0,,,,,Other,individual,
+54890,44891855-9ba1-45fe-9d3a-dc5ded3005b7,,Unrestricted Bequests -  Art Acquisition,Unrestricted Bequests -  Art Acquisition,,,0,,,,,Other,purchase_fund,
 54896,6b21b016-ece7-4864-811b-19bc421ca8b1,,Carmen S. Yamada Revocable Trust,Carmen S. Yamada Revocable Trust,,,0,,,,,Other,purchase_fund,
 54897,b85c14a7-6bec-4aaf-996f-18c8a2d3f469,,Saul (AWMF 75th),Saul (AWMF 75th),,,0,,,,,Other,purchase_fund,
 54900,aea089c4-4a85-4534-9b7c-948f96374b7c,,"van der Meulen, Sabine C.",Sabine C. van der Meulen,van der Meulen,,0,,,,,Other,individual,
@@ -27965,3 +27975,4 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54985,f6b7e32f-ff55-4ca5-ac78-eb59f34fff12,,"Wang, Zhu Di",Zhu Di Wang,Wang,"Chinese, active 20th century",1,,,,Chinese,Chinese,individual,
 54988,3adc356c-e96b-4cff-bb75-4acaf766cd4e,,Akemi Nishida and S. Paul Selavko,Akemi Nishida and S. Paul Selavko,,,0,,,,,Other,purchase_fund,
 54990,ed065321-1ff1-4478-97fa-b392112c35f2,,"Tyler, Quinn",Quinn Tyler,Tyler,,1,,,,,Other,individual,
+54993,48e5c383-cbf4-4e82-a2a6-2441337a91c9,,"Neuman, Robert S.",Robert S. Neuman,Neuman,"American, 1926 - 2015",1,1926,2015,1926 to 1950,American,American,individual,
