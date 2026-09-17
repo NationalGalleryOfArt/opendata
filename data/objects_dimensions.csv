@@ -69134,6 +69134,33 @@ objectid,element,dimensiontype,dimension,unitname
 48703,image,width,30.0000000000,centimeters
 48704,image,height,49.0000000000,centimeters
 48704,image,width,49.5000000000,centimeters
+48707,closed,depth,0.8000000000,centimeters
+48707,closed,height,25.0000000000,centimeters
+48707,closed,width,34.2000000000,centimeters
+48708,page size,height,24.5000000000,centimeters
+48708,page size,width,33.0000000000,centimeters
+48709,page size,height,24.5000000000,centimeters
+48709,page size,width,33.0000000000,centimeters
+48710,page size,height,24.5000000000,centimeters
+48710,page size,width,33.0000000000,centimeters
+48711,page size,height,24.5000000000,centimeters
+48711,page size,width,33.0000000000,centimeters
+48712,page size,height,24.5000000000,centimeters
+48712,page size,width,33.0000000000,centimeters
+48713,page size,height,24.5000000000,centimeters
+48713,page size,width,33.0000000000,centimeters
+48714,page size,height,24.5000000000,centimeters
+48714,page size,width,33.0000000000,centimeters
+48715,page size,height,24.5000000000,centimeters
+48715,page size,width,33.0000000000,centimeters
+48716,page size,height,24.5000000000,centimeters
+48716,page size,width,33.0000000000,centimeters
+48717,page size,height,24.5000000000,centimeters
+48717,page size,width,33.0000000000,centimeters
+48718,page size,height,24.5000000000,centimeters
+48718,page size,width,33.0000000000,centimeters
+48719,page size,height,24.5000000000,centimeters
+48719,page size,width,33.0000000000,centimeters
 48720,plate,height,59.9000000000,centimeters
 48720,plate,width,84.5000000000,centimeters
 48721,plate,height,60.3000000000,centimeters
@@ -69289,6 +69316,35 @@ objectid,element,dimensiontype,dimension,unitname
 48982,overall,width,28.0000000000,centimeters
 48992,image,height,20.6000000000,centimeters
 48992,image,width,32.7000000000,centimeters
+48995,closed,depth,1.8000000000,centimeters
+48995,closed,height,26.0000000000,centimeters
+48995,closed,width,29.5000000000,centimeters
+48996,page size,height,24.3000000000,centimeters
+48996,page size,width,27.5000000000,centimeters
+48997,page size,height,24.3000000000,centimeters
+48997,page size,width,27.5000000000,centimeters
+48998,page size,height,24.3000000000,centimeters
+48998,page size,width,27.5000000000,centimeters
+48999,page size,height,24.3000000000,centimeters
+48999,page size,width,27.5000000000,centimeters
+49000,page size,height,24.3000000000,centimeters
+49000,page size,width,27.5000000000,centimeters
+49001,page size,height,24.3000000000,centimeters
+49001,page size,width,27.5000000000,centimeters
+49002,page size,height,24.3000000000,centimeters
+49002,page size,width,27.5000000000,centimeters
+49003,page size,height,24.3000000000,centimeters
+49003,page size,width,27.5000000000,centimeters
+49004,page size,height,24.3000000000,centimeters
+49004,page size,width,27.5000000000,centimeters
+49005,page size,height,24.3000000000,centimeters
+49005,page size,width,27.5000000000,centimeters
+49006,page size,height,24.3000000000,centimeters
+49006,page size,width,27.5000000000,centimeters
+49007,page size,height,24.3000000000,centimeters
+49007,page size,width,27.5000000000,centimeters
+49008,page size,height,24.3000000000,centimeters
+49008,page size,width,27.5000000000,centimeters
 49009,image,height,23.1775463551,centimeters
 49009,image,width,40.4813309627,centimeters
 49010,image,height,25.7175514351,centimeters
@@ -96463,6 +96519,12 @@ objectid,element,dimensiontype,dimension,unitname
 69262,sheet,width,21.5900431801,centimeters
 69263,overall,height,23.0200000000,centimeters
 69263,overall,width,17.7800000000,centimeters
+69264,closed,depth,1.2000000000,centimeters
+69264,closed,height,12.6000000000,centimeters
+69264,closed,width,18.5000000000,centimeters
+69265,closed,depth,1.2000000000,centimeters
+69265,closed,height,12.6000000000,centimeters
+69265,closed,width,18.5000000000,centimeters
 69267,overall,height,11.9100000000,centimeters
 69267,overall,width,50.9600000000,centimeters
 69268,overall,height,12.0700000000,centimeters
@@ -218242,6 +218304,168 @@ objectid,element,dimensiontype,dimension,unitname
 218822,image,width,19.0000000000,centimeters
 218826,image,height,20.7000000000,centimeters
 218826,image,width,15.2000000000,centimeters
+218827,page size,height,12.1000000000,centimeters
+218827,page size,width,17.8000000000,centimeters
+218828,page size,height,12.1000000000,centimeters
+218828,page size,width,17.8000000000,centimeters
+218829,page size,height,12.1000000000,centimeters
+218829,page size,width,17.8000000000,centimeters
+218830,page size,height,12.1000000000,centimeters
+218830,page size,width,17.8000000000,centimeters
+218831,page size,height,12.1000000000,centimeters
+218831,page size,width,17.8000000000,centimeters
+218832,page size,height,12.1000000000,centimeters
+218832,page size,width,17.8000000000,centimeters
+218833,page size,height,12.1000000000,centimeters
+218833,page size,width,17.8000000000,centimeters
+218834,page size,height,12.1000000000,centimeters
+218834,page size,width,17.8000000000,centimeters
+218835,page size,height,12.1000000000,centimeters
+218835,page size,width,17.8000000000,centimeters
+218836,page size,height,12.1000000000,centimeters
+218836,page size,width,17.8000000000,centimeters
+218837,page size,height,12.1000000000,centimeters
+218837,page size,width,17.8000000000,centimeters
+218838,page size,height,12.1000000000,centimeters
+218838,page size,width,17.8000000000,centimeters
+218839,page size,height,12.1000000000,centimeters
+218839,page size,width,17.8000000000,centimeters
+218840,page size,height,12.1000000000,centimeters
+218840,page size,width,17.8000000000,centimeters
+218841,page size,height,12.1000000000,centimeters
+218841,page size,width,17.8000000000,centimeters
+218842,page size,height,12.1000000000,centimeters
+218842,page size,width,17.8000000000,centimeters
+218843,page size,height,12.1000000000,centimeters
+218843,page size,width,17.8000000000,centimeters
+218844,page size,height,12.1000000000,centimeters
+218844,page size,width,17.8000000000,centimeters
+218845,page size,height,12.1000000000,centimeters
+218845,page size,width,17.8000000000,centimeters
+218846,page size,height,12.1000000000,centimeters
+218846,page size,width,17.8000000000,centimeters
+218847,page size,height,12.1000000000,centimeters
+218847,page size,width,17.8000000000,centimeters
+218848,page size,height,12.1000000000,centimeters
+218848,page size,width,17.8000000000,centimeters
+218849,page size,height,12.1000000000,centimeters
+218849,page size,width,17.8000000000,centimeters
+218850,page size,height,12.1000000000,centimeters
+218850,page size,width,17.8000000000,centimeters
+218851,page size,height,12.1000000000,centimeters
+218851,page size,width,17.8000000000,centimeters
+218852,page size,height,12.1000000000,centimeters
+218852,page size,width,17.8000000000,centimeters
+218853,page size,height,12.1000000000,centimeters
+218853,page size,width,17.8000000000,centimeters
+218854,page size,height,12.1000000000,centimeters
+218854,page size,width,17.8000000000,centimeters
+218855,page size,height,12.1000000000,centimeters
+218855,page size,width,17.8000000000,centimeters
+218856,page size,height,12.1000000000,centimeters
+218856,page size,width,17.8000000000,centimeters
+218857,page size,height,12.1000000000,centimeters
+218857,page size,width,17.8000000000,centimeters
+218858,page size,height,12.1000000000,centimeters
+218858,page size,width,17.8000000000,centimeters
+218859,page size,height,12.1000000000,centimeters
+218859,page size,width,17.8000000000,centimeters
+218860,page size,height,12.1000000000,centimeters
+218860,page size,width,17.8000000000,centimeters
+218861,page size,height,12.1000000000,centimeters
+218861,page size,width,17.8000000000,centimeters
+218862,page size,height,12.1000000000,centimeters
+218862,page size,width,17.8000000000,centimeters
+218863,page size,height,12.1000000000,centimeters
+218863,page size,width,17.8000000000,centimeters
+218864,page size,height,12.1000000000,centimeters
+218864,page size,width,17.8000000000,centimeters
+218865,page size,height,12.1000000000,centimeters
+218865,page size,width,17.8000000000,centimeters
+218866,page size,height,12.1000000000,centimeters
+218866,page size,width,17.8000000000,centimeters
+218867,page size,height,12.1000000000,centimeters
+218867,page size,width,17.8000000000,centimeters
+218868,page size,height,12.1000000000,centimeters
+218868,page size,width,17.8000000000,centimeters
+218869,page size,height,12.1000000000,centimeters
+218869,page size,width,17.8000000000,centimeters
+218870,page size,height,12.1000000000,centimeters
+218870,page size,width,17.8000000000,centimeters
+218871,page size,height,12.1000000000,centimeters
+218871,page size,width,17.8000000000,centimeters
+218872,page size,height,12.1000000000,centimeters
+218872,page size,width,17.8000000000,centimeters
+218873,page size,height,12.1000000000,centimeters
+218873,page size,width,17.8000000000,centimeters
+218874,page size,height,12.1000000000,centimeters
+218874,page size,width,17.8000000000,centimeters
+218875,page size,height,12.1000000000,centimeters
+218875,page size,width,17.8000000000,centimeters
+218876,page size,height,12.1000000000,centimeters
+218876,page size,width,17.8000000000,centimeters
+218877,page size,height,12.1000000000,centimeters
+218877,page size,width,17.8000000000,centimeters
+218878,page size,height,12.1000000000,centimeters
+218878,page size,width,17.8000000000,centimeters
+218879,page size,height,12.1000000000,centimeters
+218879,page size,width,17.8000000000,centimeters
+218880,page size,height,12.1000000000,centimeters
+218880,page size,width,17.8000000000,centimeters
+218882,page size,height,12.1000000000,centimeters
+218882,page size,width,17.8000000000,centimeters
+218883,page size,height,12.1000000000,centimeters
+218883,page size,width,17.8000000000,centimeters
+218884,page size,height,12.1000000000,centimeters
+218884,page size,width,17.8000000000,centimeters
+218885,page size,height,12.1000000000,centimeters
+218885,page size,width,17.8000000000,centimeters
+218886,page size,height,12.1000000000,centimeters
+218886,page size,width,17.8000000000,centimeters
+218887,page size,height,12.1000000000,centimeters
+218887,page size,width,17.8000000000,centimeters
+218888,page size,height,12.1000000000,centimeters
+218888,page size,width,17.8000000000,centimeters
+218889,page size,height,12.1000000000,centimeters
+218889,page size,width,17.8000000000,centimeters
+218890,page size,height,12.1000000000,centimeters
+218890,page size,width,17.8000000000,centimeters
+218891,page size,height,12.1000000000,centimeters
+218891,page size,width,17.8000000000,centimeters
+218892,page size,height,12.1000000000,centimeters
+218892,page size,width,17.8000000000,centimeters
+218893,page size,height,12.1000000000,centimeters
+218893,page size,width,17.8000000000,centimeters
+218894,page size,height,12.1000000000,centimeters
+218894,page size,width,17.8000000000,centimeters
+218895,page size,height,12.1000000000,centimeters
+218895,page size,width,17.8000000000,centimeters
+218896,page size,height,12.1000000000,centimeters
+218896,page size,width,17.8000000000,centimeters
+218897,page size,height,12.1000000000,centimeters
+218897,page size,width,17.8000000000,centimeters
+218898,page size,height,12.1000000000,centimeters
+218898,page size,width,17.8000000000,centimeters
+218899,page size,height,12.1000000000,centimeters
+218899,page size,width,17.8000000000,centimeters
+218900,page size,height,12.1000000000,centimeters
+218900,page size,width,17.8000000000,centimeters
+218901,page size,height,12.1000000000,centimeters
+218901,page size,width,17.8000000000,centimeters
+218902,page size,height,12.1000000000,centimeters
+218902,page size,width,17.8000000000,centimeters
+218903,page size,height,12.1000000000,centimeters
+218903,page size,width,17.8000000000,centimeters
+218904,page size,height,12.1000000000,centimeters
+218904,page size,width,17.8000000000,centimeters
+218905,page size,height,21.1000000000,centimeters
+218905,page size,width,17.8000000000,centimeters
+218906,page size,height,12.1000000000,centimeters
+218906,page size,width,17.8000000000,centimeters
+218907,page size,height,12.1000000000,centimeters
+218907,page size,width,17.8000000000,centimeters
+218908,page size,height,12.1000000000,centimeters
+218908,page size,width,17.8000000000,centimeters
 218909,image,height,22.2250444501,centimeters
 218909,image,width,28.2575565151,centimeters
 218911,sheet,height,25.0825501651,centimeters
@@ -232063,10 +232287,10 @@ objectid,element,dimensiontype,dimension,unitname
 231360,image,width,4.0000000000,centimeters
 231361,image,height,7.0000000000,centimeters
 231361,image,width,5.7000000000,centimeters
-231362,sheet,height,27.3050546101,centimeters
-231362,sheet,width,35.5600711201,centimeters
-231363,sheet,height,28.5000000000,centimeters
-231363,sheet,width,19.0000000000,centimeters
+231362,block,height,27.9000000000,centimeters
+231362,block,width,38.1000000000,centimeters
+231363,image,height,19.0000000000,centimeters
+231363,image,width,28.5000000000,centimeters
 231364,overall,height,27.9400558801,centimeters
 231364,overall,width,35.5600711201,centimeters
 231368,sheet,height,22.8600457201,centimeters
@@ -232930,8 +233154,8 @@ objectid,element,dimensiontype,dimension,unitname
 232160,framed,width,55.8801117602,centimeters
 232161,framed,height,33.0200660401,centimeters
 232161,framed,width,25.4000508001,centimeters
-232162,framed,height,44.4500889002,centimeters
-232162,framed,width,59.6901193802,centimeters
+232162,sheet,height,35.1000000000,centimeters
+232162,sheet,width,49.9000000000,centimeters
 232163,framed,height,45.7200914402,centimeters
 232163,framed,width,35.5600711201,centimeters
 232164,framed,height,45.7200914402,centimeters
@@ -233612,3 +233836,16 @@ objectid,element,dimensiontype,dimension,unitname
 234733,sheet,width,17.7800355601,centimeters
 234734,sheet,height,12.7000254001,centimeters
 234734,sheet,width,17.7800355601,centimeters
+234757,overall,depth,2.5000000000,centimeters
+234757,overall,height,28.0000000000,centimeters
+234757,overall,width,37.0000000000,centimeters
+234758,book,height,25.4000000000,centimeters
+234758,book,width,20.3000000000,centimeters
+234759,image,height,26.0000000000,centimeters
+234759,image,width,20.9000000000,centimeters
+234760,image,height,26.0000000000,centimeters
+234760,image,width,20.8000000000,centimeters
+234761,image,height,25.7000000000,centimeters
+234761,image,width,20.9000000000,centimeters
+234762,image,height,26.0000000000,centimeters
+234762,image,width,20.8000000000,centimeters
