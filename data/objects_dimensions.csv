@@ -160315,7 +160315,7 @@ objectid,element,dimensiontype,dimension,unitname
 135585,plate,width,8.2000000000,centimeters
 135587,plate,height,12.0000000000,centimeters
 135587,plate,width,21.8000000000,centimeters
-135588,height,height,114.3002286005,centimeters
+135588,height,height,116.6814833630,centimeters
 135589,image,height,17.6000000000,centimeters
 135589,image,width,28.6000000000,centimeters
 135591,plate,height,19.0000000000,centimeters
@@ -232146,8 +232146,8 @@ objectid,element,dimensiontype,dimension,unitname
 231157,overall,width,41.2750825502,centimeters
 231158,overall,height,37.1475742951,centimeters
 231158,overall,width,31.7500635001,centimeters
-231159,overall,height,21.9075438151,centimeters
-231159,overall,width,27.3050546101,centimeters
+231159,plate,height,21.9000000000,centimeters
+231159,plate,width,27.7000000000,centimeters
 231160,overall,height,37.1475742951,centimeters
 231160,overall,width,29.2100584201,centimeters
 231161,overall,height,34.9250698501,centimeters
@@ -232819,10 +232819,10 @@ objectid,element,dimensiontype,dimension,unitname
 231802,image,width,30.1625603251,centimeters
 231803,sheet,height,16.0000000000,centimeters
 231803,sheet,width,21.0000000000,centimeters
-231818,sheet,height,19.0000000000,centimeters
-231818,sheet,width,16.0000000000,centimeters
-231820,sheet,height,24.0000000000,centimeters
-231820,sheet,width,17.0000000000,centimeters
+231818,sheet,height,19.1000000000,centimeters
+231818,sheet,width,16.5000000000,centimeters
+231820,sheet,height,25.6000000000,centimeters
+231820,sheet,width,18.7000000000,centimeters
 231821,board,height,15.6000000000,centimeters
 231821,board,width,10.6000000000,centimeters
 231822,plate,height,22.7000000000,centimeters
@@ -233733,6 +233733,8 @@ objectid,element,dimensiontype,dimension,unitname
 234109,overall,width,88.9001778004,centimeters
 234137,plate,height,44.7000000000,centimeters
 234137,plate,width,35.0000000000,centimeters
+234139,overall,height,198.1203962408,centimeters
+234139,overall,width,142.2402844806,centimeters
 234145,overall,height,81.9000000000,centimeters
 234145,overall,width,121.9000000000,centimeters
 234147,overall,height,116.8402336805,centimeters
