@@ -3816,7 +3816,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 4031,c79e1ff8-038a-48da-9ee4-152bb3e77364,500334026,"Ellis, Sharon",Sharon Ellis,Ellis,"American, active 20th century",1,1880,1999,1876 to 1900,American,American,individual,Q63120669
 4032,90ea0d7c-9e48-4748-99d6-afd27fe67fc1,500115443,"Elsheimer, Adam",Adam Elsheimer,Elsheimer,"German, 1578 - 1610",1,1578,1610,1551 to 1600,German,German,individual,Q310285
 4033,03b152c7-75e8-4867-992e-ee7509a5ff9c,500427547,"Emaus de Micault, Gerhardus",Gerhardus Emaus de Micault,Emaus de Micault,"Dutch, 1789 - 1863",1,1789,1863,1776 to 1800,Dutch,Dutch,individual,
-4034,f7395785-2f72-4b23-a36a-270ce419b516,500098132,"Engel, Jules",Jules Engel,Engel,"American, born 1915",1,1915,2015,1901 to 1925,American,American,individual,Q540866
+4034,f7395785-2f72-4b23-a36a-270ce419b516,500098132,"Engel, Jules",Jules Engel,Engel,"American, American, 1909 - 2003",1,1909,2003,1901 to 1925,American,American,individual,Q540866
 4035,1a718058-aca9-4bcb-abac-2800b5dab59e,,"Engelke, Gerda",Gerda Engelke,Engelke,"German, active 20th century",1,1880,1999,1876 to 1900,German,German,individual,
 4036,499aba24-5e87-4453-8e9b-fa85163f6eed,500021903,"Engelmann, Gottfried",Gottfried Engelmann,Engelmann,"French, 1788 - 1839",1,1788,1839,1776 to 1800,French,French,individual,Q943172
 4037,c9763a6d-5ad1-4518-bb41-5746ae8d7ca2,500087299,"Engstrom, Albert",Albert Engstrom,Engstrom,"Swedish, 1869 - 1940",1,1869,1940,1851 to 1875,Swedish,Swedish,individual,Q2642427
@@ -27976,3 +27976,5 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54988,3adc356c-e96b-4cff-bb75-4acaf766cd4e,,Akemi Nishida and S. Paul Selavko,Akemi Nishida and S. Paul Selavko,,,0,,,,,Other,purchase_fund,
 54990,ed065321-1ff1-4478-97fa-b392112c35f2,,"Tyler, Quinn",Quinn Tyler,Tyler,,1,,,,,Other,individual,
 54993,48e5c383-cbf4-4e82-a2a6-2441337a91c9,,"Neuman, Robert S.",Robert S. Neuman,Neuman,"American, 1926 - 2015",1,1926,2015,1926 to 1950,American,American,individual,
+54997,46d37901-b08a-4652-873c-fa7827f0348d,,"Pruche, Clément",Clément Pruche,Pruche,"French, 1811 - 1890",1,1811,1890,1801 to 1825,French,French,individual,
+54998,ffb228f5-80fe-48b3-acdb-72c3291415dd,,Bauger et Cie,Bauger et Cie,,,1,,,,,Other,corporate,
