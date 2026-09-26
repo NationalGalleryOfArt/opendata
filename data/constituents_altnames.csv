@@ -310,7 +310,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 335,342,,"International Art Foundation, Inc.","International Art Foundation, Inc.",Preferred Name
 336,343,Ipcar,"Ipcar, Dahlov Zorach, Mrs.",Mrs. Dahlov Zorach Ipcar,Preferred Name
 337,344,Iselin,"Iselin, Ernest",Ernest Iselin,Preferred Name
-338,345,,Istituto Nazionale per la Grafica,Istituto Nazionale per la Grafica,Preferred Name
+338,345,,Istituto Nazionale per la Grafica,Istituto Nazionale per la Grafica,Original Name
 339,346,Jackson,"Jackson, Patrick T., Mr.",Mr. Patrick T. Jackson,Preferred Name
 340,347,Jaffe,"Jaffe, William B.",William B. Jaffe,Preferred Name
 341,348,Davies,"Davies, T.",T. Davies,Preferred Name
@@ -17358,7 +17358,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 30714,30721,Olivieri,"Olivieri, Augusto Caccialupi, Count",Count Augusto Caccialupi Olivieri,Preferred Name
 30715,30722,Nevin,"Nevin, Robert Jenkins",Robert Jenkins Nevin,Preferred Name
 30719,30726,Fielding,"Fielding, 2nd Earl of Denbigh, Basil","Basil Fielding, 2nd Earl of Denbigh",Preferred Name
-30741,30748,Taylor-Wood,"Taylor-Wood, Sam",Sam Taylor-Wood,Preferred Name
+30741,30748,Taylor-Wood,"Taylor-Wood, Sam",Sam Taylor-Wood,Original Name
 30742,30749,Manfrin-Plattis,"Manfrin-Plattis, Guilia-Giovanna",Guilia-Giovanna Manfrin-Plattis,Preferred Name
 30743,30750,Plattis,"Plattis, Bortolina",Bortolina Plattis,Preferred Name
 30744,30751,Calnan,"Calnan, Ronald, Mrs.",Mrs. Ronald Calnan,Preferred Name
@@ -28673,7 +28673,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54837,47594,Moitte,"Moitte, Rose Angélique",Rose Angélique Moitte,Preferred Name
 54842,36151,MacDonald,"MacDonald, Kevin John",Kevin John MacDonald,Full Name
 54843,47598,Ronchi,"Ronchi, Luigi",Luigi Ronchi,Preferred Name
-54844,30748,Taylor-Johnson,"Taylor-Johnson, Sam",Sam Taylor-Johnson,Variant
+54844,30748,Taylor-Johnson,"Taylor-Johnson, Sam",Sam Taylor-Johnson,Preferred Name
 54846,975,,Louis Léopold Boilly,Louis Léopold Boilly,Variant
 54847,1212,David,"David, Jacques Louis",Jacques Louis David,Variant
 54848,1242,Drouais,"Drouais, François Hubert",François Hubert Drouais,Variant
@@ -35321,3 +35321,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64727,54998,,Bauger et Cie,Bauger et Cie,Preferred Name
 64728,7651,Hobart,"Hobart, Helen F",Helen F Hobart,Variant
 64729,7651,Hobart,"Hobart, Ella Felding",Ella Felding Hobart,Variant
+64730,345,,Istituto Centrale per la Grafica,Istituto Centrale per la Grafica,Preferred Name
