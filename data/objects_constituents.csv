@@ -7742,8 +7742,9 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 1254,631,1,donor,donor,,,,,,United States,19101
 1254,631,2,donor,source,,,,,,United States,19101
 1254,631,6,owner,previous owner,,,1916 - 1942,1916,1942,,
-1254,2256,2,artist,sculptor,or,,,,,,
-1254,5770,1,artist,sculptor,,,,,,,
+1254,2088,1,artist,sculptor,,and followers,,,,,
+1254,2256,2,artist,sculptor,possibly including,,,,,,
+1254,5770,3,artist,sculptor,or,,,,,,
 1254,8462,5,owner,previous owner,,", New York, NY",1916 - 1916,1916,1916,,
 1254,29114,3,owner,previous owner,,", Florence, ITA",1580 - 1916,1580,1916,,
 1254,29115,4,owner,previous owner,,", Florence, ITA",1916 - 1916,1916,1916,,
