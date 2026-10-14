@@ -372675,18 +372675,6 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 66798,549,2,donor,source,,,,,,United States,33620
 66798,6510,1,artist,artist,,,,,,,
 66798,6779,2,artist,publisher,,,,,,,
-66799,12,2,owner,current owner,,,1986 -,1986,,United States,20565
-66799,549,1,donor,donor,,,,,,United States,33620
-66799,549,1,owner,previous owner,,,- 1986,,1986,,
-66799,549,2,donor,source,,,,,,United States,33620
-66799,6510,1,artist,artist,,,,,,,
-66799,6779,2,artist,publisher,,,,,,,
-66800,12,2,owner,current owner,,,1986 -,1986,,United States,20565
-66800,549,1,donor,donor,,,,,,United States,33620
-66800,549,1,owner,previous owner,,,- 1986,,1986,,
-66800,549,2,donor,source,,,,,,United States,33620
-66800,6510,1,artist,artist,,,,,,,
-66800,6779,2,artist,publisher,,,,,,,
 66801,12,2,owner,current owner,,,1986 -,1986,,United States,20565
 66801,549,1,donor,donor,,,,,,United States,33620
 66801,549,1,owner,previous owner,,,- 1986,,1986,,
@@ -481408,13 +481396,6 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 95749,19598,1,owner,previous owner,,,- 1997,,1997,United States,94105
 95749,19598,2,donor,source,,,,,,United States,94105
 95749,20140,2,artist,printer,,,,,,,
-95750,12,2,owner,current owner,,,1997 -,1997,,United States,20565
-95750,1674,3,artist,publisher,,,,,,,
-95750,19102,1,artist,artist,,,,,,,
-95750,19598,1,donor,donor,,,,,,United States,94105
-95750,19598,1,owner,previous owner,,,- 1997,,1997,United States,94105
-95750,19598,2,donor,source,,,,,,United States,94105
-95750,23495,2,artist,printer,,,,,,,
 95751,12,2,owner,current owner,,,1997 -,1997,,United States,20565
 95751,1674,3,artist,publisher,,,,,,,
 95751,17021,2,artist,printer,,,,,,,
@@ -491582,27 +491563,6 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 101575,19598,1,donor,donor,,,,,,United States,94105
 101575,19598,1,owner,previous owner,,,- 1997,,1997,United States,94105
 101575,19598,2,donor,source,,,,,,United States,94105
-101576,12,2,owner,current owner,,,1997 -,1997,,United States,20565
-101576,1674,3,artist,publisher,,,,,,,
-101576,19102,1,artist,artist,,,,,,,
-101576,19598,1,donor,donor,,,,,,United States,94105
-101576,19598,1,owner,previous owner,,,- 1997,,1997,United States,94105
-101576,19598,2,donor,source,,,,,,United States,94105
-101576,23495,2,artist,printer,,,,,,,
-101577,12,2,owner,current owner,,,1997 -,1997,,United States,20565
-101577,1674,3,artist,publisher,,,,,,,
-101577,19102,1,artist,artist,,,,,,,
-101577,19598,1,donor,donor,,,,,,United States,94105
-101577,19598,1,owner,previous owner,,,- 1997,,1997,United States,94105
-101577,19598,2,donor,source,,,,,,United States,94105
-101577,23495,2,artist,printer,,,,,,,
-101578,12,2,owner,current owner,,,1997 -,1997,,United States,20565
-101578,1674,3,artist,publisher,,,,,,,
-101578,19102,1,artist,artist,,,,,,,
-101578,19598,1,donor,donor,,,,,,United States,94105
-101578,19598,1,owner,previous owner,,,- 1997,,1997,United States,94105
-101578,19598,2,donor,source,,,,,,United States,94105
-101578,23495,2,artist,printer,,,,,,,
 101579,12,2,owner,current owner,,,1997 -,1997,,United States,20565
 101579,1674,3,artist,publisher,,,,,,,
 101579,19598,1,donor,donor,,,,,,United States,94105
@@ -573668,11 +573628,11 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 133645,713,1,donor,donor,,,,,,United States,10022
 133645,713,2,donor,source,,,,,,United States,10022
 133645,713,5,owner,previous owner,,,1972 - 2005,1972,2005,United States,10022
-133645,6507,1,artist,artist,,,,,,,
 133645,9357,2,owner,previous owner,,", Berlin, GER",1932 - 1932,1932,1932,,
 133645,29959,3,owner,previous owner,,", New York, NY",1959 - 1959,1959,1959,,
 133645,29963,1,owner,previous owner,,", Berlin, GER",1932 - 1932,1932,1932,,
 133645,31069,4,owner,previous owner,,", New York, NY",1959 - 1972,1959,1972,,
+133645,55027,1,artist,artist,attributed to,,,,,,
 133646,12,4,owner,current owner,,,2005 -,2005,,United States,20565
 133646,713,1,donor,donor,,,,,,United States,10022
 133646,713,2,donor,source,,,,,,United States,10022
@@ -672335,36 +672295,16 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 164130,2474,1,donor,source,,,,,,,
 164130,2474,1,owner,previous owner,,,,,,,
 164130,2474,2,donor,donor,,,,,,,
-164131,12,2,owner,current owner,,,,,,,
-164131,2474,1,artist,artist,,,,,,,
-164131,2474,1,donor,source,,,,,,,
-164131,2474,1,owner,previous owner,,,,,,,
-164131,2474,2,donor,donor,,,,,,,
 164132,12,2,owner,current owner,,,,,,,
 164132,2474,1,artist,artist,,,,,,,
 164132,2474,1,donor,source,,,,,,,
 164132,2474,1,owner,previous owner,,,,,,,
 164132,2474,2,donor,donor,,,,,,,
-164133,12,2,owner,current owner,,,,,,,
-164133,2474,1,artist,artist,,,,,,,
-164133,2474,1,donor,source,,,,,,,
-164133,2474,1,owner,previous owner,,,,,,,
-164133,2474,2,donor,donor,,,,,,,
 164134,12,2,owner,current owner,,,,,,,
 164134,2474,1,artist,artist,,,,,,,
 164134,2474,1,donor,source,,,,,,,
 164134,2474,1,owner,previous owner,,,,,,,
 164134,2474,2,donor,donor,,,,,,,
-164135,12,2,owner,current owner,,,,,,,
-164135,2474,1,artist,artist,,,,,,,
-164135,2474,1,donor,source,,,,,,,
-164135,2474,1,owner,previous owner,,,,,,,
-164135,2474,2,donor,donor,,,,,,,
-164136,12,2,owner,current owner,,,,,,,
-164136,2474,1,artist,artist,,,,,,,
-164136,2474,1,donor,source,,,,,,,
-164136,2474,1,owner,previous owner,,,,,,,
-164136,2474,2,donor,donor,,,,,,,
 164137,12,2,owner,current owner,,,,,,,
 164137,2474,1,artist,artist,,,,,,,
 164137,2474,1,donor,source,,,,,,,
@@ -672390,11 +672330,6 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 164141,2474,1,donor,source,,,,,,,
 164141,2474,1,owner,previous owner,,,,,,,
 164141,2474,2,donor,donor,,,,,,,
-164142,12,2,owner,current owner,,,,,,,
-164142,2474,1,artist,artist,,,,,,,
-164142,2474,1,donor,source,,,,,,,
-164142,2474,1,owner,previous owner,,,,,,,
-164142,2474,2,donor,donor,,,,,,,
 164145,12,2,owner,current owner,,,,,,,
 164145,2474,1,artist,artist,,,,,,,
 164145,2474,1,donor,source,,,,,,,
@@ -672868,21 +672803,6 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 164353,14182,1,artist,artist,,,,,,,
 164353,17940,1,donor,source,,,,,,,
 164353,17940,1,owner,previous owner,,,,,,Germany,20148
-164354,12,2,owner,current owner,,,,,,,
-164354,2474,1,artist,artist,,,,,,,
-164354,2474,1,donor,source,,,,,,,
-164354,2474,1,owner,previous owner,,,,,,,
-164354,2474,2,donor,donor,,,,,,,
-164355,12,2,owner,current owner,,,,,,,
-164355,2474,1,artist,artist,,,,,,,
-164355,2474,1,donor,source,,,,,,,
-164355,2474,1,owner,previous owner,,,,,,,
-164355,2474,2,donor,donor,,,,,,,
-164356,12,2,owner,current owner,,,,,,,
-164356,2474,1,artist,artist,,,,,,,
-164356,2474,1,donor,source,,,,,,,
-164356,2474,1,owner,previous owner,,,,,,,
-164356,2474,2,donor,donor,,,,,,,
 164357,12,2,owner,current owner,,,,,,,
 164357,2474,1,artist,artist,,,,,,,
 164357,2474,1,donor,source,,,,,,,
@@ -672898,16 +672818,6 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 164359,2474,1,donor,source,,,,,,,
 164359,2474,1,owner,previous owner,,,,,,,
 164359,2474,2,donor,donor,,,,,,,
-164360,12,2,owner,current owner,,,,,,,
-164360,2474,1,artist,artist,,,,,,,
-164360,2474,1,donor,source,,,,,,,
-164360,2474,1,owner,previous owner,,,,,,,
-164360,2474,2,donor,donor,,,,,,,
-164361,12,2,owner,current owner,,,,,,,
-164361,2474,1,artist,artist,,,,,,,
-164361,2474,1,donor,source,,,,,,,
-164361,2474,1,owner,previous owner,,,,,,,
-164361,2474,2,donor,donor,,,,,,,
 164365,12,3,owner,current owner,,,,,,,
 164365,193,2,donor,donor,,,,,,,
 164365,851,1,donor,source,,,,,,,
@@ -686283,11 +686193,6 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 167426,14182,1,artist,artist,,,,,,,
 167426,17940,1,donor,source,,,,,,,
 167426,17940,1,owner,previous owner,,,,,,Germany,20148
-167456,12,2,owner,current owner,,,,,,,
-167456,2474,1,artist,artist,,,,,,,
-167456,2474,1,donor,source,,,,,,,
-167456,2474,1,owner,previous owner,,,,,,,
-167456,2474,2,donor,donor,,,,,,,
 167457,12,2,owner,current owner,,,,,,,
 167457,2474,1,artist,artist,,,,,,,
 167457,2474,1,donor,source,,,,,,,
@@ -686298,11 +686203,6 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 167458,2474,1,donor,source,,,,,,,
 167458,2474,1,owner,previous owner,,,,,,,
 167458,2474,2,donor,donor,,,,,,,
-167459,12,2,owner,current owner,,,,,,,
-167459,2474,1,artist,artist,,,,,,,
-167459,2474,1,donor,source,,,,,,,
-167459,2474,1,owner,previous owner,,,,,,,
-167459,2474,2,donor,donor,,,,,,,
 167460,12,2,owner,current owner,,,,,,,
 167460,2474,1,artist,artist,,,,,,,
 167460,2474,1,donor,source,,,,,,,

@@ -92719,10 +92719,6 @@ objectid,element,dimensiontype,dimension,unitname
 66797,sheet,width,55.9000000000,centimeters
 66798,sheet,height,76.2000000000,centimeters
 66798,sheet,width,57.2000000000,centimeters
-66799,sheet,height,76.2000000000,centimeters
-66799,sheet,width,57.2000000000,centimeters
-66800,sheet,height,76.2000000000,centimeters
-66800,sheet,width,57.2000000000,centimeters
 66801,sheet,height,72.4000000000,centimeters
 66801,sheet,width,98.4000000000,centimeters
 66802,sheet,height,73.7000000000,centimeters
@@ -128161,8 +128157,6 @@ objectid,element,dimensiontype,dimension,unitname
 95748,plate,width,105.9000000000,centimeters
 95749,plate,height,114.1000000000,centimeters
 95749,plate,width,46.9000000000,centimeters
-95750,image,height,172.7200000000,centimeters
-95750,image,width,123.8200000000,centimeters
 95751,plate,height,92.2000000000,centimeters
 95751,plate,width,80.4000000000,centimeters
 95752,image,height,49.7000000000,centimeters
@@ -131309,12 +131303,6 @@ objectid,element,dimensiontype,dimension,unitname
 101574,image,width,78.7400000000,centimeters
 101575,plate,height,17.7800000000,centimeters
 101575,plate,width,103.5100000000,centimeters
-101576,image,height,172.7200000000,centimeters
-101576,image,width,123.8200000000,centimeters
-101577,image,height,172.7200000000,centimeters
-101577,image,width,123.8200000000,centimeters
-101578,image,height,172.7200000000,centimeters
-101578,image,width,123.8200000000,centimeters
 101579,overall size,height,236.8600000000,centimeters
 101579,overall size,width,57.7900000000,centimeters
 101581,overall size,height,236.8600000000,centimeters
@@ -183008,18 +182996,10 @@ objectid,element,dimensiontype,dimension,unitname
 164129,image,width,66.3576327153,centimeters
 164130,sheet,height,91.7576835154,centimeters
 164130,sheet,width,152.7178054356,centimeters
-164131,left panel,height,80.6451612903,centimeters
-164131,left panel,width,118.4277368555,centimeters
 164132,left panel,height,118.1102362205,centimeters
 164132,left panel,width,93.3451866904,centimeters
-164133,left panel,height,78.7401574803,centimeters
-164133,left panel,width,113.9827279655,centimeters
 164134,sheet,height,76.3589027178,centimeters
 164134,sheet,width,57.1501143002,centimeters
-164135,sheet,height,118.1102362205,centimeters
-164135,sheet,width,80.9626619253,centimeters
-164136,sheet,height,76.2001524003,centimeters
-164136,sheet,width,52.7051054102,centimeters
 164137,sheet,height,76.8351536703,centimeters
 164137,sheet,width,112.0777241554,centimeters
 164138,plate,height,86.3601727203,centimeters
@@ -183030,8 +183010,6 @@ objectid,element,dimensiontype,dimension,unitname
 164140,plate,width,65.4051308103,centimeters
 164141,sheet,height,45.0850901702,centimeters
 164141,sheet,width,35.2425704851,centimeters
-164142,left panel,height,115.5702311405,centimeters
-164142,left panel,width,91.4401828804,centimeters
 164145,plate,height,54.6101092202,centimeters
 164145,plate,width,45.0850901702,centimeters
 164146,overall,height,96.5201930404,centimeters
@@ -183208,22 +183186,12 @@ objectid,element,dimensiontype,dimension,unitname
 164343,image,width,204.4704089408,centimeters
 164353,sheet,height,41.9000000000,centimeters
 164353,sheet,width,28.5000000000,centimeters
-164354,sheet,height,117.1577343155,centimeters
-164354,sheet,width,80.9626619253,centimeters
-164355,sheet,height,117.7927355855,centimeters
-164355,sheet,width,81.2801625603,centimeters
-164356,sheet,height,76.2001524003,centimeters
-164356,sheet,width,52.7051054102,centimeters
 164357,sheet,height,45.0850901702,centimeters
 164357,sheet,width,35.2425704851,centimeters
 164358,sheet,height,45.0850901702,centimeters
 164358,sheet,width,35.2425704851,centimeters
 164359,sheet,height,45.0850901702,centimeters
 164359,sheet,width,35.2425704851,centimeters
-164360,center panel,height,115.5702311405,centimeters
-164360,center panel,width,91.4401828804,centimeters
-164361,right panel,height,115.5702311405,centimeters
-164361,right panel,width,91.4401828804,centimeters
 164365,plate,height,11.6000000000,centimeters
 164365,plate,width,15.9000000000,centimeters
 164369,sheet,height,53.3000000000,centimeters
@@ -187325,14 +187293,10 @@ objectid,element,dimensiontype,dimension,unitname
 167298,plate,width,23.0000000000,centimeters
 167426,sheet,height,41.9000000000,centimeters
 167426,sheet,width,28.5000000000,centimeters
-167456,right panel,height,80.6451612903,centimeters
-167456,right panel,width,118.7452374905,centimeters
 167457,center panel,height,118.7452374905,inches
 167457,center panel,width,80.3276606553,inches
 167458,right panel,height,118.7452374905,centimeters
 167458,right panel,width,80.3276606553,centimeters
-167459,right panel,height,113.6652273305,centimeters
-167459,right panel,width,78.7401574803,centimeters
 167460,book,depth,2.5400050800,centimeters
 167460,book,height,44.7675895352,centimeters
 167460,book,width,31.7500635001,centimeters
