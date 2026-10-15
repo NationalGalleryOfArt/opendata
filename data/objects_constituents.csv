@@ -176792,11 +176792,12 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 33345,2718,1,donor,donor,,,,,,,
 33345,2718,1,owner,previous owner,,", Philadelphia, PA",- 1946,,1946,,
 33345,2718,2,donor,source,,,,,,,
-33346,12,2,owner,current owner,,,1946 -,1946,,United States,20565
+33346,12,3,owner,current owner,,,1946 -,1946,,United States,20565
 33346,1107,1,artist,artist,,,,,,,
 33346,2718,1,donor,donor,,,,,,,
-33346,2718,1,owner,previous owner,,", Philadelphia, PA",- 1946,,1946,,
 33346,2718,2,donor,source,,,,,,,
+33346,2718,2,owner,previous owner,,", Philadelphia, PA",- 1946,,1946,,
+33346,52717,1,owner,previous owner,,,,,,,
 33347,12,2,owner,current owner,,,1946 -,1946,,United States,20565
 33347,1107,1,artist,artist,,,,,,,
 33347,2718,1,donor,donor,,,,,,,
@@ -849933,3 +849934,428 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 234762,54203,1,artist,artist,,,,,,,
 234762,54354,2,artist,publisher,,,,,,,
 234762,54354,3,artist,printer,,,,,,,
+234859,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234859,2465,1,artist,artist,,,,,,,
+234859,2500,1,donor,donor,,,,,,United States,20565
+234859,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234859,2500,2,donor,source,,,,,,United States,20565
+234860,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234860,2465,1,artist,artist,,,,,,,
+234860,2500,1,donor,donor,,,,,,United States,20565
+234860,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234860,2500,2,donor,source,,,,,,United States,20565
+234861,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234861,2465,1,artist,artist,,,,,,,
+234861,2500,1,donor,donor,,,,,,United States,20565
+234861,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234861,2500,2,donor,source,,,,,,United States,20565
+234862,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234862,2465,1,artist,artist,,,,,,,
+234862,2500,1,donor,donor,,,,,,United States,20565
+234862,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234862,2500,2,donor,source,,,,,,United States,20565
+234863,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234863,2465,1,artist,artist,,,,,,,
+234863,2500,1,donor,donor,,,,,,United States,20565
+234863,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234863,2500,2,donor,source,,,,,,United States,20565
+234864,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234864,2465,1,artist,artist,,,,,,,
+234864,2500,1,donor,donor,,,,,,United States,20565
+234864,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234864,2500,2,donor,source,,,,,,United States,20565
+234865,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234865,2465,1,artist,artist,,,,,,,
+234865,2500,1,donor,donor,,,,,,United States,20565
+234865,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234865,2500,2,donor,source,,,,,,United States,20565
+234866,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234866,2465,1,artist,artist,,,,,,,
+234866,2500,1,donor,donor,,,,,,United States,20565
+234866,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234866,2500,2,donor,source,,,,,,United States,20565
+234867,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234867,2465,1,artist,artist,,,,,,,
+234867,2500,1,donor,donor,,,,,,United States,20565
+234867,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234867,2500,2,donor,source,,,,,,United States,20565
+234868,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234868,2465,1,artist,artist,,,,,,,
+234868,2500,1,donor,donor,,,,,,United States,20565
+234868,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234868,2500,2,donor,source,,,,,,United States,20565
+234869,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234869,2465,1,artist,artist,,,,,,,
+234869,2500,1,donor,donor,,,,,,United States,20565
+234869,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234869,2500,2,donor,source,,,,,,United States,20565
+234870,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234870,2465,1,artist,artist,,,,,,,
+234870,2500,1,donor,donor,,,,,,United States,20565
+234870,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234870,2500,2,donor,source,,,,,,United States,20565
+234871,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234871,2465,1,artist,artist,,,,,,,
+234871,2500,1,donor,donor,,,,,,United States,20565
+234871,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234871,2500,2,donor,source,,,,,,United States,20565
+234872,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234872,2465,1,artist,artist,,,,,,,
+234872,2500,1,donor,donor,,,,,,United States,20565
+234872,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234872,2500,2,donor,source,,,,,,United States,20565
+234873,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234873,2465,1,artist,artist,,,,,,,
+234873,2500,1,donor,donor,,,,,,United States,20565
+234873,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234873,2500,2,donor,source,,,,,,United States,20565
+234874,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234874,2465,1,artist,artist,,,,,,,
+234874,2500,1,donor,donor,,,,,,United States,20565
+234874,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234874,2500,2,donor,source,,,,,,United States,20565
+234875,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234875,2465,1,artist,artist,,,,,,,
+234875,2500,1,donor,donor,,,,,,United States,20565
+234875,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234875,2500,2,donor,source,,,,,,United States,20565
+234876,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234876,2465,1,artist,artist,,,,,,,
+234876,2500,1,donor,donor,,,,,,United States,20565
+234876,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234876,2500,2,donor,source,,,,,,United States,20565
+234877,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234877,2465,1,artist,artist,,,,,,,
+234877,2500,1,donor,donor,,,,,,United States,20565
+234877,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234877,2500,2,donor,source,,,,,,United States,20565
+234878,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234878,2465,1,artist,artist,,,,,,,
+234878,2500,1,donor,donor,,,,,,United States,20565
+234878,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234878,2500,2,donor,source,,,,,,United States,20565
+234879,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234879,2465,1,artist,artist,,,,,,,
+234879,2500,1,donor,donor,,,,,,United States,20565
+234879,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234879,2500,2,donor,source,,,,,,United States,20565
+234880,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234880,2465,1,artist,artist,,,,,,,
+234880,2500,1,donor,donor,,,,,,United States,20565
+234880,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234880,2500,2,donor,source,,,,,,United States,20565
+234881,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234881,2465,1,artist,artist,,,,,,,
+234881,2500,1,donor,donor,,,,,,United States,20565
+234881,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234881,2500,2,donor,source,,,,,,United States,20565
+234882,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234882,2465,1,artist,artist,,,,,,,
+234882,2500,1,donor,donor,,,,,,United States,20565
+234882,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234882,2500,2,donor,source,,,,,,United States,20565
+234883,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234883,2465,1,artist,artist,,,,,,,
+234883,2500,1,donor,donor,,,,,,United States,20565
+234883,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234883,2500,2,donor,source,,,,,,United States,20565
+234884,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234884,2465,1,artist,artist,,,,,,,
+234884,2500,1,donor,donor,,,,,,United States,20565
+234884,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234884,2500,2,donor,source,,,,,,United States,20565
+234885,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234885,2465,1,artist,artist,,,,,,,
+234885,2500,1,donor,donor,,,,,,United States,20565
+234885,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234885,2500,2,donor,source,,,,,,United States,20565
+234886,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234886,2465,1,artist,artist,,,,,,,
+234886,2500,1,donor,donor,,,,,,United States,20565
+234886,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234886,2500,2,donor,source,,,,,,United States,20565
+234887,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234887,2465,1,artist,artist,,,,,,,
+234887,2500,1,donor,donor,,,,,,United States,20565
+234887,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234887,2500,2,donor,source,,,,,,United States,20565
+234888,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234888,2465,1,artist,artist,,,,,,,
+234888,2500,1,donor,donor,,,,,,United States,20565
+234888,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234888,2500,2,donor,source,,,,,,United States,20565
+234889,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234889,2465,1,artist,artist,,,,,,,
+234889,2500,1,donor,donor,,,,,,United States,20565
+234889,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234889,2500,2,donor,source,,,,,,United States,20565
+234890,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234890,2465,1,artist,artist,,,,,,,
+234890,2500,1,donor,donor,,,,,,United States,20565
+234890,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234890,2500,2,donor,source,,,,,,United States,20565
+234891,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234891,2465,1,artist,artist,,,,,,,
+234891,2500,1,donor,donor,,,,,,United States,20565
+234891,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234891,2500,2,donor,source,,,,,,United States,20565
+234892,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234892,2465,1,artist,artist,,,,,,,
+234892,2500,1,donor,donor,,,,,,United States,20565
+234892,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234892,2500,2,donor,source,,,,,,United States,20565
+234893,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234893,2465,1,artist,artist,,,,,,,
+234893,2500,1,donor,donor,,,,,,United States,20565
+234893,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234893,2500,2,donor,source,,,,,,United States,20565
+234894,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234894,2465,1,artist,artist,,,,,,,
+234894,2500,1,donor,donor,,,,,,United States,20565
+234894,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234894,2500,2,donor,source,,,,,,United States,20565
+234895,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234895,2465,1,artist,artist,,,,,,,
+234895,2500,1,donor,donor,,,,,,United States,20565
+234895,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234895,2500,2,donor,source,,,,,,United States,20565
+234896,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234896,2465,1,artist,artist,,,,,,,
+234896,2500,1,donor,donor,,,,,,United States,20565
+234896,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234896,2500,2,donor,source,,,,,,United States,20565
+234897,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234897,2465,1,artist,artist,,,,,,,
+234897,2500,1,donor,donor,,,,,,United States,20565
+234897,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234897,2500,2,donor,source,,,,,,United States,20565
+234898,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234898,2465,1,artist,artist,,,,,,,
+234898,2500,1,donor,donor,,,,,,United States,20565
+234898,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234898,2500,2,donor,source,,,,,,United States,20565
+234899,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234899,2465,1,artist,artist,,,,,,,
+234899,2500,1,donor,donor,,,,,,United States,20565
+234899,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234899,2500,2,donor,source,,,,,,United States,20565
+234900,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234900,2465,1,artist,artist,,,,,,,
+234900,2500,1,donor,donor,,,,,,United States,20565
+234900,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234900,2500,2,donor,source,,,,,,United States,20565
+234901,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234901,2465,1,artist,artist,,,,,,,
+234901,2500,1,donor,donor,,,,,,United States,20565
+234901,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234901,2500,2,donor,source,,,,,,United States,20565
+234902,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234902,2465,1,artist,artist,,,,,,,
+234902,2500,1,donor,donor,,,,,,United States,20565
+234902,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234902,2500,2,donor,source,,,,,,United States,20565
+234903,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234903,2465,1,artist,artist,,,,,,,
+234903,2500,1,donor,donor,,,,,,United States,20565
+234903,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234903,2500,2,donor,source,,,,,,United States,20565
+234904,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234904,2465,1,artist,artist,,,,,,,
+234904,2500,1,donor,donor,,,,,,United States,20565
+234904,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234904,2500,2,donor,source,,,,,,United States,20565
+234905,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234905,2465,1,artist,artist,,,,,,,
+234905,2500,1,donor,donor,,,,,,United States,20565
+234905,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234905,2500,2,donor,source,,,,,,United States,20565
+234906,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234906,2465,1,artist,artist,,,,,,,
+234906,2500,1,donor,donor,,,,,,United States,20565
+234906,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234906,2500,2,donor,source,,,,,,United States,20565
+234907,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234907,2465,1,artist,artist,,,,,,,
+234907,2500,1,donor,donor,,,,,,United States,20565
+234907,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234907,2500,2,donor,source,,,,,,United States,20565
+234908,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234908,2465,1,artist,artist,,,,,,,
+234908,2500,1,donor,donor,,,,,,United States,20565
+234908,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234908,2500,2,donor,source,,,,,,United States,20565
+234909,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234909,2465,1,artist,artist,,,,,,,
+234909,2500,1,donor,donor,,,,,,United States,20565
+234909,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234909,2500,2,donor,source,,,,,,United States,20565
+234910,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234910,2465,1,artist,artist,,,,,,,
+234910,2500,1,donor,donor,,,,,,United States,20565
+234910,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234910,2500,2,donor,source,,,,,,United States,20565
+234911,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234911,2465,1,artist,artist,,,,,,,
+234911,2500,1,donor,donor,,,,,,United States,20565
+234911,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234911,2500,2,donor,source,,,,,,United States,20565
+234912,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234912,2465,1,artist,artist,,,,,,,
+234912,2500,1,donor,donor,,,,,,United States,20565
+234912,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234912,2500,2,donor,source,,,,,,United States,20565
+234913,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234913,2465,1,artist,artist,,,,,,,
+234913,2500,1,donor,donor,,,,,,United States,20565
+234913,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234913,2500,2,donor,source,,,,,,United States,20565
+234914,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234914,2465,1,artist,artist,,,,,,,
+234914,2500,1,donor,donor,,,,,,United States,20565
+234914,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234914,2500,2,donor,source,,,,,,United States,20565
+234915,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234915,2465,1,artist,artist,,,,,,,
+234915,2500,1,donor,donor,,,,,,United States,20565
+234915,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234915,2500,2,donor,source,,,,,,United States,20565
+234916,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234916,2465,1,artist,artist,,,,,,,
+234916,2500,1,donor,donor,,,,,,United States,20565
+234916,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234916,2500,2,donor,source,,,,,,United States,20565
+234917,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234917,2465,1,artist,artist,,,,,,,
+234917,2500,1,donor,donor,,,,,,United States,20565
+234917,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234917,2500,2,donor,source,,,,,,United States,20565
+234918,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234918,2465,1,artist,artist,,,,,,,
+234918,2500,1,donor,donor,,,,,,United States,20565
+234918,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234918,2500,2,donor,source,,,,,,United States,20565
+234919,12,2,owner,current owner,,,2004 -,2004,,United States,20565
+234919,2465,1,artist,artist,,,,,,,
+234919,2500,1,donor,donor,,,,,,United States,20565
+234919,2500,1,owner,previous owner,,,- 2004,,2004,United States,20565
+234919,2500,2,donor,source,,,,,,United States,20565
+234925,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234925,992,1,donor,donor,,,,,,United States,10028
+234925,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234925,992,2,donor,source,,,,,,United States,10028
+234925,20431,1,artist,artist,,,,,,,
+234926,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234926,992,1,donor,donor,,,,,,United States,10028
+234926,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234926,992,2,donor,source,,,,,,United States,10028
+234926,20431,1,artist,artist,,,,,,,
+234927,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234927,992,1,donor,donor,,,,,,United States,10028
+234927,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234927,992,2,donor,source,,,,,,United States,10028
+234927,20431,1,artist,artist,,,,,,,
+234928,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234928,992,1,donor,donor,,,,,,United States,10028
+234928,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234928,992,2,donor,source,,,,,,United States,10028
+234928,20431,1,artist,artist,,,,,,,
+234929,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234929,992,1,donor,donor,,,,,,United States,10028
+234929,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234929,992,2,donor,source,,,,,,United States,10028
+234929,20431,1,artist,artist,,,,,,,
+234930,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234930,992,1,donor,donor,,,,,,United States,10028
+234930,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234930,992,2,donor,source,,,,,,United States,10028
+234930,20431,1,artist,artist,,,,,,,
+234931,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234931,992,1,donor,donor,,,,,,United States,10028
+234931,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234931,992,2,donor,source,,,,,,United States,10028
+234931,20431,1,artist,artist,,,,,,,
+234932,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234932,992,1,donor,donor,,,,,,United States,10028
+234932,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234932,992,2,donor,source,,,,,,United States,10028
+234932,20431,1,artist,artist,,,,,,,
+234933,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234933,992,1,donor,donor,,,,,,United States,10028
+234933,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234933,992,2,donor,source,,,,,,United States,10028
+234933,20431,1,artist,artist,,,,,,,
+234934,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234934,992,1,donor,donor,,,,,,United States,10028
+234934,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234934,992,2,donor,source,,,,,,United States,10028
+234934,20431,1,artist,artist,,,,,,,
+234935,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234935,992,1,donor,donor,,,,,,United States,10028
+234935,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234935,992,2,donor,source,,,,,,United States,10028
+234935,20431,1,artist,artist,,,,,,,
+234936,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234936,992,1,donor,donor,,,,,,United States,10028
+234936,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234936,992,2,donor,source,,,,,,United States,10028
+234936,20431,1,artist,artist,,,,,,,
+234937,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234937,992,1,donor,donor,,,,,,United States,10028
+234937,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234937,992,2,donor,source,,,,,,United States,10028
+234937,20431,1,artist,artist,,,,,,,
+234938,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234938,992,1,donor,donor,,,,,,United States,10028
+234938,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234938,992,2,donor,source,,,,,,United States,10028
+234938,20431,1,artist,artist,,,,,,,
+234939,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234939,992,1,donor,donor,,,,,,United States,10028
+234939,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234939,992,2,donor,source,,,,,,United States,10028
+234939,20431,1,artist,artist,,,,,,,
+234940,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234940,992,1,donor,donor,,,,,,United States,10028
+234940,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234940,992,2,donor,source,,,,,,United States,10028
+234940,20431,1,artist,artist,,,,,,,
+234941,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234941,992,1,donor,donor,,,,,,United States,10028
+234941,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234941,992,2,donor,source,,,,,,United States,10028
+234941,20431,1,artist,artist,,,,,,,
+234942,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234942,992,1,donor,donor,,,,,,United States,10028
+234942,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234942,992,2,donor,source,,,,,,United States,10028
+234942,20431,1,artist,artist,,,,,,,
+234943,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234943,992,1,donor,donor,,,,,,United States,10028
+234943,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234943,992,2,donor,source,,,,,,United States,10028
+234943,20431,1,artist,artist,,,,,,,
+234944,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234944,992,1,donor,donor,,,,,,United States,10028
+234944,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234944,992,2,donor,source,,,,,,United States,10028
+234944,20431,1,artist,artist,,,,,,,
+234945,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234945,992,1,donor,donor,,,,,,United States,10028
+234945,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234945,992,2,donor,source,,,,,,United States,10028
+234945,20431,1,artist,artist,,,,,,,
+234946,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234946,992,1,donor,donor,,,,,,United States,10028
+234946,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234946,992,2,donor,source,,,,,,United States,10028
+234946,20431,1,artist,artist,,,,,,,
+234947,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234947,992,1,donor,donor,,,,,,United States,10028
+234947,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234947,992,2,donor,source,,,,,,United States,10028
+234947,20431,1,artist,artist,,,,,,,
+234948,12,2,owner,current owner,,,2007 -,2007,,United States,20565
+234948,992,1,donor,donor,,,,,,United States,10028
+234948,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
+234948,992,2,donor,source,,,,,,United States,10028
+234948,20431,1,artist,artist,,,,,,,
