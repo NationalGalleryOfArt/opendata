@@ -35755,6 +35755,7 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 5942,2718,1,donor,donor,,,,,,,
 5942,2718,1,owner,previous owner,,", Philadelphia, PA",- 1943,,1943,,
 5942,2718,2,donor,source,,,,,,,
+5942,55029,2,artist,publisher,,,,,,,
 5943,12,3,owner,current owner,,,1943 -,1943,,United States,20565
 5943,1107,1,artist,artist,,,,,,,
 5943,2718,1,donor,donor,,,,,,,
@@ -253207,6 +253208,7 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 45970,199,1,owner,previous owner,,,- 1959,,1959,,
 45970,199,2,donor,source,,,,,,United States,10017
 45970,1107,1,artist,artist,,,,,,,
+45970,55029,2,artist,publisher,,,,,,,
 45971,12,3,owner,current owner,,,1959 -,1959,,United States,20565
 45971,199,1,donor,donor,,,,,,United States,10017
 45971,199,2,donor,source,,,,,,United States,10017
@@ -850359,3 +850361,1438 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 234948,992,1,owner,previous owner,,", New York, NY",- 2007,,2007,United States,10028
 234948,992,2,donor,source,,,,,,United States,10028
 234948,20431,1,artist,artist,,,,,,,
+234950,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234950,24921,1,artist,artist,,,,,,,
+234950,24922,1,donor,donor,,,,,,United States,19146
+234950,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234950,24922,2,donor,source,,,,,,United States,19146
+234951,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234951,24921,1,artist,artist,,,,,,,
+234951,24922,1,donor,donor,,,,,,United States,19146
+234951,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234951,24922,2,donor,source,,,,,,United States,19146
+234952,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234952,24921,1,artist,artist,,,,,,,
+234952,24922,1,donor,donor,,,,,,United States,19146
+234952,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234952,24922,2,donor,source,,,,,,United States,19146
+234953,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234953,24921,1,artist,artist,,,,,,,
+234953,24922,1,donor,donor,,,,,,United States,19146
+234953,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234953,24922,2,donor,source,,,,,,United States,19146
+234954,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234954,24921,1,artist,artist,,,,,,,
+234954,24922,1,donor,donor,,,,,,United States,19146
+234954,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234954,24922,2,donor,source,,,,,,United States,19146
+234955,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234955,24921,1,artist,artist,,,,,,,
+234955,24922,1,donor,donor,,,,,,United States,19146
+234955,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234955,24922,2,donor,source,,,,,,United States,19146
+234956,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234956,24921,1,artist,artist,,,,,,,
+234956,24922,1,donor,donor,,,,,,United States,19146
+234956,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234956,24922,2,donor,source,,,,,,United States,19146
+234957,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234957,24921,1,artist,artist,,,,,,,
+234957,24922,1,donor,donor,,,,,,United States,19146
+234957,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234957,24922,2,donor,source,,,,,,United States,19146
+234958,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234958,24921,1,artist,artist,,,,,,,
+234958,24922,1,donor,donor,,,,,,United States,19146
+234958,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234958,24922,2,donor,source,,,,,,United States,19146
+234959,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234959,24921,1,artist,artist,,,,,,,
+234959,24922,1,donor,donor,,,,,,United States,19146
+234959,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234959,24922,2,donor,source,,,,,,United States,19146
+234960,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234960,24921,1,artist,artist,,,,,,,
+234960,24922,1,donor,donor,,,,,,United States,19146
+234960,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234960,24922,2,donor,source,,,,,,United States,19146
+234961,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234961,24921,1,artist,artist,,,,,,,
+234961,24922,1,donor,donor,,,,,,United States,19146
+234961,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234961,24922,2,donor,source,,,,,,United States,19146
+234962,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234962,24921,1,artist,artist,,,,,,,
+234962,24922,1,donor,donor,,,,,,United States,19146
+234962,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234962,24922,2,donor,source,,,,,,United States,19146
+234963,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234963,24921,1,artist,artist,,,,,,,
+234963,24922,1,donor,donor,,,,,,United States,19146
+234963,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234963,24922,2,donor,source,,,,,,United States,19146
+234964,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234964,24921,1,artist,artist,,,,,,,
+234964,24922,1,donor,donor,,,,,,United States,19146
+234964,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234964,24922,2,donor,source,,,,,,United States,19146
+234965,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234965,24921,1,artist,artist,,,,,,,
+234965,24922,1,donor,donor,,,,,,United States,19146
+234965,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234965,24922,2,donor,source,,,,,,United States,19146
+234966,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234966,24921,1,artist,artist,,,,,,,
+234966,24922,1,donor,donor,,,,,,United States,19146
+234966,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234966,24922,2,donor,source,,,,,,United States,19146
+234967,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234967,24921,1,artist,artist,,,,,,,
+234967,24922,1,donor,donor,,,,,,United States,19146
+234967,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234967,24922,2,donor,source,,,,,,United States,19146
+234968,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234968,24921,1,artist,artist,,,,,,,
+234968,24922,1,donor,donor,,,,,,United States,19146
+234968,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234968,24922,2,donor,source,,,,,,United States,19146
+234969,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234969,24921,1,artist,artist,,,,,,,
+234969,24922,1,donor,donor,,,,,,United States,19146
+234969,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234969,24922,2,donor,source,,,,,,United States,19146
+234970,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234970,24921,1,artist,artist,,,,,,,
+234970,24922,1,donor,donor,,,,,,United States,19146
+234970,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234970,24922,2,donor,source,,,,,,United States,19146
+234971,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234971,24921,1,artist,artist,,,,,,,
+234971,24922,1,donor,donor,,,,,,United States,19146
+234971,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234971,24922,2,donor,source,,,,,,United States,19146
+234972,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234972,24921,1,artist,artist,,,,,,,
+234972,24922,1,donor,donor,,,,,,United States,19146
+234972,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234972,24922,2,donor,source,,,,,,United States,19146
+234973,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234973,24921,1,artist,artist,,,,,,,
+234973,24922,1,donor,donor,,,,,,United States,19146
+234973,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234973,24922,2,donor,source,,,,,,United States,19146
+234974,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234974,24921,1,artist,artist,,,,,,,
+234974,24922,1,donor,donor,,,,,,United States,19146
+234974,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234974,24922,2,donor,source,,,,,,United States,19146
+234975,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234975,24921,1,artist,artist,,,,,,,
+234975,24922,1,donor,donor,,,,,,United States,19146
+234975,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234975,24922,2,donor,source,,,,,,United States,19146
+234976,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234976,24921,1,artist,artist,,,,,,,
+234976,24922,1,donor,donor,,,,,,United States,19146
+234976,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234976,24922,2,donor,source,,,,,,United States,19146
+234977,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234977,24921,1,artist,artist,,,,,,,
+234977,24922,1,donor,donor,,,,,,United States,19146
+234977,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234977,24922,2,donor,source,,,,,,United States,19146
+234978,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234978,24921,1,artist,artist,,,,,,,
+234978,24922,1,donor,donor,,,,,,United States,19146
+234978,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234978,24922,2,donor,source,,,,,,United States,19146
+234979,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234979,24921,1,artist,artist,,,,,,,
+234979,24922,1,donor,donor,,,,,,United States,19146
+234979,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234979,24922,2,donor,source,,,,,,United States,19146
+234980,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234980,24921,1,artist,artist,,,,,,,
+234980,24922,1,donor,donor,,,,,,United States,19146
+234980,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234980,24922,2,donor,source,,,,,,United States,19146
+234981,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234981,24921,1,artist,artist,,,,,,,
+234981,24922,1,donor,donor,,,,,,United States,19146
+234981,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234981,24922,2,donor,source,,,,,,United States,19146
+234982,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234982,24921,1,artist,artist,,,,,,,
+234982,24922,1,donor,donor,,,,,,United States,19146
+234982,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234982,24922,2,donor,source,,,,,,United States,19146
+234983,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234983,24921,1,artist,artist,,,,,,,
+234983,24922,1,donor,donor,,,,,,United States,19146
+234983,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234983,24922,2,donor,source,,,,,,United States,19146
+234984,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234984,24921,1,artist,artist,,,,,,,
+234984,24922,1,donor,donor,,,,,,United States,19146
+234984,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234984,24922,2,donor,source,,,,,,United States,19146
+234985,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234985,24921,1,artist,artist,,,,,,,
+234985,24922,1,donor,donor,,,,,,United States,19146
+234985,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234985,24922,2,donor,source,,,,,,United States,19146
+234986,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234986,24921,1,artist,artist,,,,,,,
+234986,24922,1,donor,donor,,,,,,United States,19146
+234986,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234986,24922,2,donor,source,,,,,,United States,19146
+234987,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234987,24921,1,artist,artist,,,,,,,
+234987,24922,1,donor,donor,,,,,,United States,19146
+234987,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234987,24922,2,donor,source,,,,,,United States,19146
+234988,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234988,24921,1,artist,artist,,,,,,,
+234988,24922,1,donor,donor,,,,,,United States,19146
+234988,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234988,24922,2,donor,source,,,,,,United States,19146
+234989,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234989,24921,1,artist,artist,,,,,,,
+234989,24922,1,donor,donor,,,,,,United States,19146
+234989,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234989,24922,2,donor,source,,,,,,United States,19146
+234990,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234990,24921,1,artist,artist,,,,,,,
+234990,24922,1,donor,donor,,,,,,United States,19146
+234990,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234990,24922,2,donor,source,,,,,,United States,19146
+234991,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234991,24921,1,artist,artist,,,,,,,
+234991,24922,1,donor,donor,,,,,,United States,19146
+234991,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234991,24922,2,donor,source,,,,,,United States,19146
+234992,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234992,24921,1,artist,artist,,,,,,,
+234992,24922,1,donor,donor,,,,,,United States,19146
+234992,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234992,24922,2,donor,source,,,,,,United States,19146
+234993,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234993,24921,1,artist,artist,,,,,,,
+234993,24922,1,donor,donor,,,,,,United States,19146
+234993,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234993,24922,2,donor,source,,,,,,United States,19146
+234994,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234994,24921,1,artist,artist,,,,,,,
+234994,24922,1,donor,donor,,,,,,United States,19146
+234994,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234994,24922,2,donor,source,,,,,,United States,19146
+234995,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234995,24921,1,artist,artist,,,,,,,
+234995,24922,1,donor,donor,,,,,,United States,19146
+234995,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234995,24922,2,donor,source,,,,,,United States,19146
+234996,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234996,24921,1,artist,artist,,,,,,,
+234996,24922,1,donor,donor,,,,,,United States,19146
+234996,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234996,24922,2,donor,source,,,,,,United States,19146
+234997,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234997,24921,1,artist,artist,,,,,,,
+234997,24922,1,donor,donor,,,,,,United States,19146
+234997,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234997,24922,2,donor,source,,,,,,United States,19146
+234998,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234998,24921,1,artist,artist,,,,,,,
+234998,24922,1,donor,donor,,,,,,United States,19146
+234998,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234998,24922,2,donor,source,,,,,,United States,19146
+234999,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+234999,24921,1,artist,artist,,,,,,,
+234999,24922,1,donor,donor,,,,,,United States,19146
+234999,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+234999,24922,2,donor,source,,,,,,United States,19146
+235000,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235000,24921,1,artist,artist,,,,,,,
+235000,24922,1,donor,donor,,,,,,United States,19146
+235000,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235000,24922,2,donor,source,,,,,,United States,19146
+235001,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235001,24921,1,artist,artist,,,,,,,
+235001,24922,1,donor,donor,,,,,,United States,19146
+235001,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235001,24922,2,donor,source,,,,,,United States,19146
+235002,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235002,24921,1,artist,artist,,,,,,,
+235002,24922,1,donor,donor,,,,,,United States,19146
+235002,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235002,24922,2,donor,source,,,,,,United States,19146
+235003,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235003,24921,1,artist,artist,,,,,,,
+235003,24922,1,donor,donor,,,,,,United States,19146
+235003,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235003,24922,2,donor,source,,,,,,United States,19146
+235004,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235004,24921,1,artist,artist,,,,,,,
+235004,24922,1,donor,donor,,,,,,United States,19146
+235004,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235004,24922,2,donor,source,,,,,,United States,19146
+235005,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235005,24921,1,artist,artist,,,,,,,
+235005,24922,1,donor,donor,,,,,,United States,19146
+235005,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235005,24922,2,donor,source,,,,,,United States,19146
+235006,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235006,24921,1,artist,artist,,,,,,,
+235006,24922,1,donor,donor,,,,,,United States,19146
+235006,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235006,24922,2,donor,source,,,,,,United States,19146
+235007,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235007,24921,1,artist,artist,,,,,,,
+235007,24922,1,donor,donor,,,,,,United States,19146
+235007,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235007,24922,2,donor,source,,,,,,United States,19146
+235008,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235008,24921,1,artist,artist,,,,,,,
+235008,24922,1,donor,donor,,,,,,United States,19146
+235008,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235008,24922,2,donor,source,,,,,,United States,19146
+235009,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235009,24921,1,artist,artist,,,,,,,
+235009,24922,1,donor,donor,,,,,,United States,19146
+235009,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235009,24922,2,donor,source,,,,,,United States,19146
+235010,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235010,24921,1,artist,artist,,,,,,,
+235010,24922,1,donor,donor,,,,,,United States,19146
+235010,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235010,24922,2,donor,source,,,,,,United States,19146
+235011,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235011,24921,1,artist,artist,,,,,,,
+235011,24922,1,donor,donor,,,,,,United States,19146
+235011,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235011,24922,2,donor,source,,,,,,United States,19146
+235012,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235012,24921,1,artist,artist,,,,,,,
+235012,24922,1,donor,donor,,,,,,United States,19146
+235012,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235012,24922,2,donor,source,,,,,,United States,19146
+235013,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235013,24921,1,artist,artist,,,,,,,
+235013,24922,1,donor,donor,,,,,,United States,19146
+235013,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235013,24922,2,donor,source,,,,,,United States,19146
+235014,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235014,24921,1,artist,artist,,,,,,,
+235014,24922,1,donor,donor,,,,,,United States,19146
+235014,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235014,24922,2,donor,source,,,,,,United States,19146
+235015,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235015,24921,1,artist,artist,,,,,,,
+235015,24922,1,donor,donor,,,,,,United States,19146
+235015,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235015,24922,2,donor,source,,,,,,United States,19146
+235016,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235016,24921,1,artist,artist,,,,,,,
+235016,24922,1,donor,donor,,,,,,United States,19146
+235016,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235016,24922,2,donor,source,,,,,,United States,19146
+235017,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235017,24921,1,artist,artist,,,,,,,
+235017,24922,1,donor,donor,,,,,,United States,19146
+235017,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235017,24922,2,donor,source,,,,,,United States,19146
+235018,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235018,24921,1,artist,artist,,,,,,,
+235018,24922,1,donor,donor,,,,,,United States,19146
+235018,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235018,24922,2,donor,source,,,,,,United States,19146
+235019,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235019,24921,1,artist,artist,,,,,,,
+235019,24922,1,donor,donor,,,,,,United States,19146
+235019,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235019,24922,2,donor,source,,,,,,United States,19146
+235020,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235020,24921,1,artist,artist,,,,,,,
+235020,24922,1,donor,donor,,,,,,United States,19146
+235020,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235020,24922,2,donor,source,,,,,,United States,19146
+235021,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235021,24921,1,artist,artist,,,,,,,
+235021,24922,1,donor,donor,,,,,,United States,19146
+235021,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235021,24922,2,donor,source,,,,,,United States,19146
+235022,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235022,24921,1,artist,artist,,,,,,,
+235022,24922,1,donor,donor,,,,,,United States,19146
+235022,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235022,24922,2,donor,source,,,,,,United States,19146
+235023,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235023,24921,1,artist,artist,,,,,,,
+235023,24922,1,donor,donor,,,,,,United States,19146
+235023,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235023,24922,2,donor,source,,,,,,United States,19146
+235024,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235024,24921,1,artist,artist,,,,,,,
+235024,24922,1,donor,donor,,,,,,United States,19146
+235024,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235024,24922,2,donor,source,,,,,,United States,19146
+235025,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235025,24921,1,artist,artist,,,,,,,
+235025,24922,1,donor,donor,,,,,,United States,19146
+235025,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235025,24922,2,donor,source,,,,,,United States,19146
+235026,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235026,24921,1,artist,artist,,,,,,,
+235026,24922,1,donor,donor,,,,,,United States,19146
+235026,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235026,24922,2,donor,source,,,,,,United States,19146
+235027,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235027,24921,1,artist,artist,,,,,,,
+235027,24922,1,donor,donor,,,,,,United States,19146
+235027,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235027,24922,2,donor,source,,,,,,United States,19146
+235028,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235028,24921,1,artist,artist,,,,,,,
+235028,24922,1,donor,donor,,,,,,United States,19146
+235028,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235028,24922,2,donor,source,,,,,,United States,19146
+235029,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235029,24921,1,artist,artist,,,,,,,
+235029,24922,1,donor,donor,,,,,,United States,19146
+235029,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235029,24922,2,donor,source,,,,,,United States,19146
+235030,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235030,24921,1,artist,artist,,,,,,,
+235030,24922,1,donor,donor,,,,,,United States,19146
+235030,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235030,24922,2,donor,source,,,,,,United States,19146
+235031,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235031,24921,1,artist,artist,,,,,,,
+235031,24922,1,donor,donor,,,,,,United States,19146
+235031,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235031,24922,2,donor,source,,,,,,United States,19146
+235032,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235032,24921,1,artist,artist,,,,,,,
+235032,24922,1,donor,donor,,,,,,United States,19146
+235032,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235032,24922,2,donor,source,,,,,,United States,19146
+235033,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235033,24921,1,artist,artist,,,,,,,
+235033,24922,1,donor,donor,,,,,,United States,19146
+235033,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235033,24922,2,donor,source,,,,,,United States,19146
+235034,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235034,24921,1,artist,artist,,,,,,,
+235034,24922,1,donor,donor,,,,,,United States,19146
+235034,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235034,24922,2,donor,source,,,,,,United States,19146
+235035,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235035,24921,1,artist,artist,,,,,,,
+235035,24922,1,donor,donor,,,,,,United States,19146
+235035,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235035,24922,2,donor,source,,,,,,United States,19146
+235036,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235036,24921,1,artist,artist,,,,,,,
+235036,24922,1,donor,donor,,,,,,United States,19146
+235036,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235036,24922,2,donor,source,,,,,,United States,19146
+235037,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235037,24921,1,artist,artist,,,,,,,
+235037,24922,1,donor,donor,,,,,,United States,19146
+235037,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235037,24922,2,donor,source,,,,,,United States,19146
+235038,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235038,24921,1,artist,artist,,,,,,,
+235038,24922,1,donor,donor,,,,,,United States,19146
+235038,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235038,24922,2,donor,source,,,,,,United States,19146
+235039,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235039,24921,1,artist,artist,,,,,,,
+235039,24922,1,donor,donor,,,,,,United States,19146
+235039,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235039,24922,2,donor,source,,,,,,United States,19146
+235040,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235040,24921,1,artist,artist,,,,,,,
+235040,24922,1,donor,donor,,,,,,United States,19146
+235040,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235040,24922,2,donor,source,,,,,,United States,19146
+235041,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235041,24921,1,artist,artist,,,,,,,
+235041,24922,1,donor,donor,,,,,,United States,19146
+235041,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235041,24922,2,donor,source,,,,,,United States,19146
+235042,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235042,24921,1,artist,artist,,,,,,,
+235042,24922,1,donor,donor,,,,,,United States,19146
+235042,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235042,24922,2,donor,source,,,,,,United States,19146
+235043,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235043,24921,1,artist,artist,,,,,,,
+235043,24922,1,donor,donor,,,,,,United States,19146
+235043,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235043,24922,2,donor,source,,,,,,United States,19146
+235044,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235044,24921,1,artist,artist,,,,,,,
+235044,24922,1,donor,donor,,,,,,United States,19146
+235044,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235044,24922,2,donor,source,,,,,,United States,19146
+235045,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235045,24921,1,artist,artist,,,,,,,
+235045,24922,1,donor,donor,,,,,,United States,19146
+235045,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235045,24922,2,donor,source,,,,,,United States,19146
+235046,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235046,24921,1,artist,artist,,,,,,,
+235046,24922,1,donor,donor,,,,,,United States,19146
+235046,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235046,24922,2,donor,source,,,,,,United States,19146
+235047,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235047,24921,1,artist,artist,,,,,,,
+235047,24922,1,donor,donor,,,,,,United States,19146
+235047,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235047,24922,2,donor,source,,,,,,United States,19146
+235048,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235048,24921,1,artist,artist,,,,,,,
+235048,24922,1,donor,donor,,,,,,United States,19146
+235048,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235048,24922,2,donor,source,,,,,,United States,19146
+235049,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235049,24921,1,artist,artist,,,,,,,
+235049,24922,1,donor,donor,,,,,,United States,19146
+235049,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235049,24922,2,donor,source,,,,,,United States,19146
+235050,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235050,24921,1,artist,artist,,,,,,,
+235050,24922,1,donor,donor,,,,,,United States,19146
+235050,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235050,24922,2,donor,source,,,,,,United States,19146
+235051,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235051,24921,1,artist,artist,,,,,,,
+235051,24922,1,donor,donor,,,,,,United States,19146
+235051,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235051,24922,2,donor,source,,,,,,United States,19146
+235052,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235052,24921,1,artist,artist,,,,,,,
+235052,24922,1,donor,donor,,,,,,United States,19146
+235052,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235052,24922,2,donor,source,,,,,,United States,19146
+235053,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235053,24921,1,artist,artist,,,,,,,
+235053,24922,1,donor,donor,,,,,,United States,19146
+235053,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235053,24922,2,donor,source,,,,,,United States,19146
+235054,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235054,24921,1,artist,artist,,,,,,,
+235054,24922,1,donor,donor,,,,,,United States,19146
+235054,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235054,24922,2,donor,source,,,,,,United States,19146
+235055,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235055,24921,1,artist,artist,,,,,,,
+235055,24922,1,donor,donor,,,,,,United States,19146
+235055,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235055,24922,2,donor,source,,,,,,United States,19146
+235056,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235056,24921,1,artist,artist,,,,,,,
+235056,24922,1,donor,donor,,,,,,United States,19146
+235056,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235056,24922,2,donor,source,,,,,,United States,19146
+235057,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235057,24921,1,artist,artist,,,,,,,
+235057,24922,1,donor,donor,,,,,,United States,19146
+235057,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235057,24922,2,donor,source,,,,,,United States,19146
+235058,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235058,24921,1,artist,artist,,,,,,,
+235058,24922,1,donor,donor,,,,,,United States,19146
+235058,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235058,24922,2,donor,source,,,,,,United States,19146
+235059,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235059,24921,1,artist,artist,,,,,,,
+235059,24922,1,donor,donor,,,,,,United States,19146
+235059,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235059,24922,2,donor,source,,,,,,United States,19146
+235060,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235060,24921,1,artist,artist,,,,,,,
+235060,24922,1,donor,donor,,,,,,United States,19146
+235060,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235060,24922,2,donor,source,,,,,,United States,19146
+235061,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235061,24921,1,artist,artist,,,,,,,
+235061,24922,1,donor,donor,,,,,,United States,19146
+235061,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235061,24922,2,donor,source,,,,,,United States,19146
+235062,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235062,24921,1,artist,artist,,,,,,,
+235062,24922,1,donor,donor,,,,,,United States,19146
+235062,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235062,24922,2,donor,source,,,,,,United States,19146
+235063,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235063,24921,1,artist,artist,,,,,,,
+235063,24922,1,donor,donor,,,,,,United States,19146
+235063,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235063,24922,2,donor,source,,,,,,United States,19146
+235064,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235064,24921,1,artist,artist,,,,,,,
+235064,24922,1,donor,donor,,,,,,United States,19146
+235064,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235064,24922,2,donor,source,,,,,,United States,19146
+235065,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235065,24921,1,artist,artist,,,,,,,
+235065,24922,1,donor,donor,,,,,,United States,19146
+235065,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235065,24922,2,donor,source,,,,,,United States,19146
+235066,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235066,24921,1,artist,artist,,,,,,,
+235066,24922,1,donor,donor,,,,,,United States,19146
+235066,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235066,24922,2,donor,source,,,,,,United States,19146
+235067,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235067,24921,1,artist,artist,,,,,,,
+235067,24922,1,donor,donor,,,,,,United States,19146
+235067,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235067,24922,2,donor,source,,,,,,United States,19146
+235068,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235068,24921,1,artist,artist,,,,,,,
+235068,24922,1,donor,donor,,,,,,United States,19146
+235068,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235068,24922,2,donor,source,,,,,,United States,19146
+235069,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235069,24921,1,artist,artist,,,,,,,
+235069,24922,1,donor,donor,,,,,,United States,19146
+235069,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235069,24922,2,donor,source,,,,,,United States,19146
+235070,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235070,24921,1,artist,artist,,,,,,,
+235070,24922,1,donor,donor,,,,,,United States,19146
+235070,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235070,24922,2,donor,source,,,,,,United States,19146
+235071,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235071,24921,1,artist,artist,,,,,,,
+235071,24922,1,donor,donor,,,,,,United States,19146
+235071,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235071,24922,2,donor,source,,,,,,United States,19146
+235072,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235072,24921,1,artist,artist,,,,,,,
+235072,24922,1,donor,donor,,,,,,United States,19146
+235072,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235072,24922,2,donor,source,,,,,,United States,19146
+235073,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235073,24921,1,artist,artist,,,,,,,
+235073,24922,1,donor,donor,,,,,,United States,19146
+235073,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235073,24922,2,donor,source,,,,,,United States,19146
+235074,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235074,24921,1,artist,artist,,,,,,,
+235074,24922,1,donor,donor,,,,,,United States,19146
+235074,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235074,24922,2,donor,source,,,,,,United States,19146
+235075,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235075,24921,1,artist,artist,,,,,,,
+235075,24922,1,donor,donor,,,,,,United States,19146
+235075,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235075,24922,2,donor,source,,,,,,United States,19146
+235076,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235076,24921,1,artist,artist,,,,,,,
+235076,24922,1,donor,donor,,,,,,United States,19146
+235076,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235076,24922,2,donor,source,,,,,,United States,19146
+235077,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235077,24921,1,artist,artist,,,,,,,
+235077,24922,1,donor,donor,,,,,,United States,19146
+235077,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235077,24922,2,donor,source,,,,,,United States,19146
+235078,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235078,24921,1,artist,artist,,,,,,,
+235078,24922,1,donor,donor,,,,,,United States,19146
+235078,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235078,24922,2,donor,source,,,,,,United States,19146
+235079,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235079,24921,1,artist,artist,,,,,,,
+235079,24922,1,donor,donor,,,,,,United States,19146
+235079,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235079,24922,2,donor,source,,,,,,United States,19146
+235080,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235080,24921,1,artist,artist,,,,,,,
+235080,24922,1,donor,donor,,,,,,United States,19146
+235080,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235080,24922,2,donor,source,,,,,,United States,19146
+235081,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235081,24921,1,artist,artist,,,,,,,
+235081,24922,1,donor,donor,,,,,,United States,19146
+235081,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235081,24922,2,donor,source,,,,,,United States,19146
+235082,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235082,24921,1,artist,artist,,,,,,,
+235082,24922,1,donor,donor,,,,,,United States,19146
+235082,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235082,24922,2,donor,source,,,,,,United States,19146
+235083,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235083,24921,1,artist,artist,,,,,,,
+235083,24922,1,donor,donor,,,,,,United States,19146
+235083,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235083,24922,2,donor,source,,,,,,United States,19146
+235084,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235084,24921,1,artist,artist,,,,,,,
+235084,24922,1,donor,donor,,,,,,United States,19146
+235084,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235084,24922,2,donor,source,,,,,,United States,19146
+235085,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235085,24921,1,artist,artist,,,,,,,
+235085,24922,1,donor,donor,,,,,,United States,19146
+235085,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235085,24922,2,donor,source,,,,,,United States,19146
+235086,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235086,24921,1,artist,artist,,,,,,,
+235086,24922,1,donor,donor,,,,,,United States,19146
+235086,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235086,24922,2,donor,source,,,,,,United States,19146
+235087,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235087,24921,1,artist,artist,,,,,,,
+235087,24922,1,donor,donor,,,,,,United States,19146
+235087,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235087,24922,2,donor,source,,,,,,United States,19146
+235088,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235088,24921,1,artist,artist,,,,,,,
+235088,24922,1,donor,donor,,,,,,United States,19146
+235088,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235088,24922,2,donor,source,,,,,,United States,19146
+235089,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235089,24921,1,artist,artist,,,,,,,
+235089,24922,1,donor,donor,,,,,,United States,19146
+235089,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235089,24922,2,donor,source,,,,,,United States,19146
+235090,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235090,24921,1,artist,artist,,,,,,,
+235090,24922,1,donor,donor,,,,,,United States,19146
+235090,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235090,24922,2,donor,source,,,,,,United States,19146
+235091,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235091,24921,1,artist,artist,,,,,,,
+235091,24922,1,donor,donor,,,,,,United States,19146
+235091,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235091,24922,2,donor,source,,,,,,United States,19146
+235092,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235092,24921,1,artist,artist,,,,,,,
+235092,24922,1,donor,donor,,,,,,United States,19146
+235092,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235092,24922,2,donor,source,,,,,,United States,19146
+235093,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235093,24921,1,artist,artist,,,,,,,
+235093,24922,1,donor,donor,,,,,,United States,19146
+235093,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235093,24922,2,donor,source,,,,,,United States,19146
+235094,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235094,24921,1,artist,artist,,,,,,,
+235094,24922,1,donor,donor,,,,,,United States,19146
+235094,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235094,24922,2,donor,source,,,,,,United States,19146
+235095,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235095,24921,1,artist,artist,,,,,,,
+235095,24922,1,donor,donor,,,,,,United States,19146
+235095,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235095,24922,2,donor,source,,,,,,United States,19146
+235096,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235096,24921,1,artist,artist,,,,,,,
+235096,24922,1,donor,donor,,,,,,United States,19146
+235096,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235096,24922,2,donor,source,,,,,,United States,19146
+235097,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235097,24921,1,artist,artist,,,,,,,
+235097,24922,1,donor,donor,,,,,,United States,19146
+235097,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235097,24922,2,donor,source,,,,,,United States,19146
+235098,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235098,24921,1,artist,artist,,,,,,,
+235098,24922,1,donor,donor,,,,,,United States,19146
+235098,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235098,24922,2,donor,source,,,,,,United States,19146
+235099,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235099,24921,1,artist,artist,,,,,,,
+235099,24922,1,donor,donor,,,,,,United States,19146
+235099,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235099,24922,2,donor,source,,,,,,United States,19146
+235100,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235100,24921,1,artist,artist,,,,,,,
+235100,24922,1,donor,donor,,,,,,United States,19146
+235100,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235100,24922,2,donor,source,,,,,,United States,19146
+235101,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235101,24921,1,artist,artist,,,,,,,
+235101,24922,1,donor,donor,,,,,,United States,19146
+235101,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235101,24922,2,donor,source,,,,,,United States,19146
+235102,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235102,24921,1,artist,artist,,,,,,,
+235102,24922,1,donor,donor,,,,,,United States,19146
+235102,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235102,24922,2,donor,source,,,,,,United States,19146
+235103,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235103,24921,1,artist,artist,,,,,,,
+235103,24922,1,donor,donor,,,,,,United States,19146
+235103,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235103,24922,2,donor,source,,,,,,United States,19146
+235104,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235104,24921,1,artist,artist,,,,,,,
+235104,24922,1,donor,donor,,,,,,United States,19146
+235104,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235104,24922,2,donor,source,,,,,,United States,19146
+235105,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235105,24921,1,artist,artist,,,,,,,
+235105,24922,1,donor,donor,,,,,,United States,19146
+235105,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235105,24922,2,donor,source,,,,,,United States,19146
+235106,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235106,24921,1,artist,artist,,,,,,,
+235106,24922,1,donor,donor,,,,,,United States,19146
+235106,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235106,24922,2,donor,source,,,,,,United States,19146
+235107,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235107,24921,1,artist,artist,,,,,,,
+235107,24922,1,donor,donor,,,,,,United States,19146
+235107,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235107,24922,2,donor,source,,,,,,United States,19146
+235108,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235108,24921,1,artist,artist,,,,,,,
+235108,24922,1,donor,donor,,,,,,United States,19146
+235108,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235108,24922,2,donor,source,,,,,,United States,19146
+235109,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235109,24921,1,artist,artist,,,,,,,
+235109,24922,1,donor,donor,,,,,,United States,19146
+235109,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235109,24922,2,donor,source,,,,,,United States,19146
+235110,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235110,24921,1,artist,artist,,,,,,,
+235110,24922,1,donor,donor,,,,,,United States,19146
+235110,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235110,24922,2,donor,source,,,,,,United States,19146
+235111,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235111,24921,1,artist,artist,,,,,,,
+235111,24922,1,donor,donor,,,,,,United States,19146
+235111,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235111,24922,2,donor,source,,,,,,United States,19146
+235112,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235112,24921,1,artist,artist,,,,,,,
+235112,24922,1,donor,donor,,,,,,United States,19146
+235112,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235112,24922,2,donor,source,,,,,,United States,19146
+235113,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235113,24921,1,artist,artist,,,,,,,
+235113,24922,1,donor,donor,,,,,,United States,19146
+235113,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235113,24922,2,donor,source,,,,,,United States,19146
+235114,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235114,24921,1,artist,artist,,,,,,,
+235114,24922,1,donor,donor,,,,,,United States,19146
+235114,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235114,24922,2,donor,source,,,,,,United States,19146
+235115,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235115,24921,1,artist,artist,,,,,,,
+235115,24922,1,donor,donor,,,,,,United States,19146
+235115,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235115,24922,2,donor,source,,,,,,United States,19146
+235116,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235116,24921,1,artist,artist,,,,,,,
+235116,24922,1,donor,donor,,,,,,United States,19146
+235116,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235116,24922,2,donor,source,,,,,,United States,19146
+235117,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235117,24921,1,artist,artist,,,,,,,
+235117,24922,1,donor,donor,,,,,,United States,19146
+235117,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235117,24922,2,donor,source,,,,,,United States,19146
+235118,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235118,24921,1,artist,artist,,,,,,,
+235118,24922,1,donor,donor,,,,,,United States,19146
+235118,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235118,24922,2,donor,source,,,,,,United States,19146
+235119,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235119,24921,1,artist,artist,,,,,,,
+235119,24922,1,donor,donor,,,,,,United States,19146
+235119,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235119,24922,2,donor,source,,,,,,United States,19146
+235120,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235120,24921,1,artist,artist,,,,,,,
+235120,24922,1,donor,donor,,,,,,United States,19146
+235120,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235120,24922,2,donor,source,,,,,,United States,19146
+235121,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235121,24921,1,artist,artist,,,,,,,
+235121,24922,1,donor,donor,,,,,,United States,19146
+235121,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235121,24922,2,donor,source,,,,,,United States,19146
+235122,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235122,24921,1,artist,artist,,,,,,,
+235122,24922,1,donor,donor,,,,,,United States,19146
+235122,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235122,24922,2,donor,source,,,,,,United States,19146
+235123,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235123,24921,1,artist,artist,,,,,,,
+235123,24922,1,donor,donor,,,,,,United States,19146
+235123,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235123,24922,2,donor,source,,,,,,United States,19146
+235124,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235124,24921,1,artist,artist,,,,,,,
+235124,24922,1,donor,donor,,,,,,United States,19146
+235124,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235124,24922,2,donor,source,,,,,,United States,19146
+235125,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235125,24921,1,artist,artist,,,,,,,
+235125,24922,1,donor,donor,,,,,,United States,19146
+235125,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235125,24922,2,donor,source,,,,,,United States,19146
+235126,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235126,24921,1,artist,artist,,,,,,,
+235126,24922,1,donor,donor,,,,,,United States,19146
+235126,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235126,24922,2,donor,source,,,,,,United States,19146
+235127,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235127,24921,1,artist,artist,,,,,,,
+235127,24922,1,donor,donor,,,,,,United States,19146
+235127,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235127,24922,2,donor,source,,,,,,United States,19146
+235128,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235128,24921,1,artist,artist,,,,,,,
+235128,24922,1,donor,donor,,,,,,United States,19146
+235128,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235128,24922,2,donor,source,,,,,,United States,19146
+235129,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235129,24921,1,artist,artist,,,,,,,
+235129,24922,1,donor,donor,,,,,,United States,19146
+235129,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235129,24922,2,donor,source,,,,,,United States,19146
+235130,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235130,24921,1,artist,artist,,,,,,,
+235130,24922,1,donor,donor,,,,,,United States,19146
+235130,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235130,24922,2,donor,source,,,,,,United States,19146
+235131,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235131,24921,1,artist,artist,,,,,,,
+235131,24922,1,donor,donor,,,,,,United States,19146
+235131,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235131,24922,2,donor,source,,,,,,United States,19146
+235132,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235132,24921,1,artist,artist,,,,,,,
+235132,24922,1,donor,donor,,,,,,United States,19146
+235132,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235132,24922,2,donor,source,,,,,,United States,19146
+235133,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235133,24921,1,artist,artist,,,,,,,
+235133,24922,1,donor,donor,,,,,,United States,19146
+235133,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235133,24922,2,donor,source,,,,,,United States,19146
+235134,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235134,24921,1,artist,artist,,,,,,,
+235134,24922,1,donor,donor,,,,,,United States,19146
+235134,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235134,24922,2,donor,source,,,,,,United States,19146
+235135,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235135,24921,1,artist,artist,,,,,,,
+235135,24922,1,donor,donor,,,,,,United States,19146
+235135,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235135,24922,2,donor,source,,,,,,United States,19146
+235136,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235136,24921,1,artist,artist,,,,,,,
+235136,24922,1,donor,donor,,,,,,United States,19146
+235136,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235136,24922,2,donor,source,,,,,,United States,19146
+235137,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235137,24921,1,artist,artist,,,,,,,
+235137,24922,1,donor,donor,,,,,,United States,19146
+235137,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235137,24922,2,donor,source,,,,,,United States,19146
+235138,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235138,24921,1,artist,artist,,,,,,,
+235138,24922,1,donor,donor,,,,,,United States,19146
+235138,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235138,24922,2,donor,source,,,,,,United States,19146
+235139,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235139,24921,1,artist,artist,,,,,,,
+235139,24922,1,donor,donor,,,,,,United States,19146
+235139,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235139,24922,2,donor,source,,,,,,United States,19146
+235140,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235140,24921,1,artist,artist,,,,,,,
+235140,24922,1,donor,donor,,,,,,United States,19146
+235140,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235140,24922,2,donor,source,,,,,,United States,19146
+235141,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235141,24921,1,artist,artist,,,,,,,
+235141,24922,1,donor,donor,,,,,,United States,19146
+235141,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235141,24922,2,donor,source,,,,,,United States,19146
+235142,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235142,24921,1,artist,artist,,,,,,,
+235142,24922,1,donor,donor,,,,,,United States,19146
+235142,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235142,24922,2,donor,source,,,,,,United States,19146
+235143,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235143,24921,1,artist,artist,,,,,,,
+235143,24922,1,donor,donor,,,,,,United States,19146
+235143,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235143,24922,2,donor,source,,,,,,United States,19146
+235144,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235144,24921,1,artist,artist,,,,,,,
+235144,24922,1,donor,donor,,,,,,United States,19146
+235144,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235144,24922,2,donor,source,,,,,,United States,19146
+235145,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235145,24921,1,artist,artist,,,,,,,
+235145,24922,1,donor,donor,,,,,,United States,19146
+235145,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235145,24922,2,donor,source,,,,,,United States,19146
+235146,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235146,24921,1,artist,artist,,,,,,,
+235146,24922,1,donor,donor,,,,,,United States,19146
+235146,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235146,24922,2,donor,source,,,,,,United States,19146
+235147,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235147,24921,1,artist,artist,,,,,,,
+235147,24922,1,donor,donor,,,,,,United States,19146
+235147,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235147,24922,2,donor,source,,,,,,United States,19146
+235148,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235148,24921,1,artist,artist,,,,,,,
+235148,24922,1,donor,donor,,,,,,United States,19146
+235148,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235148,24922,2,donor,source,,,,,,United States,19146
+235149,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235149,24921,1,artist,artist,,,,,,,
+235149,24922,1,donor,donor,,,,,,United States,19146
+235149,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235149,24922,2,donor,source,,,,,,United States,19146
+235150,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235150,24921,1,artist,artist,,,,,,,
+235150,24922,1,donor,donor,,,,,,United States,19146
+235150,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235150,24922,2,donor,source,,,,,,United States,19146
+235151,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235151,24921,1,artist,artist,,,,,,,
+235151,24922,1,donor,donor,,,,,,United States,19146
+235151,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235151,24922,2,donor,source,,,,,,United States,19146
+235152,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235152,24921,1,artist,artist,,,,,,,
+235152,24922,1,donor,donor,,,,,,United States,19146
+235152,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235152,24922,2,donor,source,,,,,,United States,19146
+235153,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235153,24921,1,artist,artist,,,,,,,
+235153,24922,1,donor,donor,,,,,,United States,19146
+235153,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235153,24922,2,donor,source,,,,,,United States,19146
+235154,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235154,24921,1,artist,artist,,,,,,,
+235154,24922,1,donor,donor,,,,,,United States,19146
+235154,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235154,24922,2,donor,source,,,,,,United States,19146
+235155,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235155,24921,1,artist,artist,,,,,,,
+235155,24922,1,donor,donor,,,,,,United States,19146
+235155,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235155,24922,2,donor,source,,,,,,United States,19146
+235156,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235156,24921,1,artist,artist,,,,,,,
+235156,24922,1,donor,donor,,,,,,United States,19146
+235156,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235156,24922,2,donor,source,,,,,,United States,19146
+235157,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235157,24921,1,artist,artist,,,,,,,
+235157,24922,1,donor,donor,,,,,,United States,19146
+235157,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235157,24922,2,donor,source,,,,,,United States,19146
+235158,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235158,24921,1,artist,artist,,,,,,,
+235158,24922,1,donor,donor,,,,,,United States,19146
+235158,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235158,24922,2,donor,source,,,,,,United States,19146
+235159,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235159,24921,1,artist,artist,,,,,,,
+235159,24922,1,donor,donor,,,,,,United States,19146
+235159,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235159,24922,2,donor,source,,,,,,United States,19146
+235160,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235160,24921,1,artist,artist,,,,,,,
+235160,24922,1,donor,donor,,,,,,United States,19146
+235160,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235160,24922,2,donor,source,,,,,,United States,19146
+235161,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235161,24921,1,artist,artist,,,,,,,
+235161,24922,1,donor,donor,,,,,,United States,19146
+235161,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235161,24922,2,donor,source,,,,,,United States,19146
+235162,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235162,24921,1,artist,artist,,,,,,,
+235162,24922,1,donor,donor,,,,,,United States,19146
+235162,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235162,24922,2,donor,source,,,,,,United States,19146
+235163,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235163,24921,1,artist,artist,,,,,,,
+235163,24922,1,donor,donor,,,,,,United States,19146
+235163,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235163,24922,2,donor,source,,,,,,United States,19146
+235164,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235164,24921,1,artist,artist,,,,,,,
+235164,24922,1,donor,donor,,,,,,United States,19146
+235164,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235164,24922,2,donor,source,,,,,,United States,19146
+235165,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235165,24921,1,artist,artist,,,,,,,
+235165,24922,1,donor,donor,,,,,,United States,19146
+235165,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235165,24922,2,donor,source,,,,,,United States,19146
+235166,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235166,24921,1,artist,artist,,,,,,,
+235166,24922,1,donor,donor,,,,,,United States,19146
+235166,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235166,24922,2,donor,source,,,,,,United States,19146
+235167,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235167,24921,1,artist,artist,,,,,,,
+235167,24922,1,donor,donor,,,,,,United States,19146
+235167,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235167,24922,2,donor,source,,,,,,United States,19146
+235168,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235168,24921,1,artist,artist,,,,,,,
+235168,24922,1,donor,donor,,,,,,United States,19146
+235168,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235168,24922,2,donor,source,,,,,,United States,19146
+235169,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235169,24921,1,artist,artist,,,,,,,
+235169,24922,1,donor,donor,,,,,,United States,19146
+235169,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235169,24922,2,donor,source,,,,,,United States,19146
+235170,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235170,24921,1,artist,artist,,,,,,,
+235170,24922,1,donor,donor,,,,,,United States,19146
+235170,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235170,24922,2,donor,source,,,,,,United States,19146
+235171,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235171,24921,1,artist,artist,,,,,,,
+235171,24922,1,donor,donor,,,,,,United States,19146
+235171,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235171,24922,2,donor,source,,,,,,United States,19146
+235172,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235172,24921,1,artist,artist,,,,,,,
+235172,24922,1,donor,donor,,,,,,United States,19146
+235172,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235172,24922,2,donor,source,,,,,,United States,19146
+235173,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235173,24921,1,artist,artist,,,,,,,
+235173,24922,1,donor,donor,,,,,,United States,19146
+235173,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235173,24922,2,donor,source,,,,,,United States,19146
+235174,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235174,24921,1,artist,artist,,,,,,,
+235174,24922,1,donor,donor,,,,,,United States,19146
+235174,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235174,24922,2,donor,source,,,,,,United States,19146
+235175,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235175,24921,1,artist,artist,,,,,,,
+235175,24922,1,donor,donor,,,,,,United States,19146
+235175,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235175,24922,2,donor,source,,,,,,United States,19146
+235176,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235176,24921,1,artist,artist,,,,,,,
+235176,24922,1,donor,donor,,,,,,United States,19146
+235176,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235176,24922,2,donor,source,,,,,,United States,19146
+235177,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235177,24921,1,artist,artist,,,,,,,
+235177,24922,1,donor,donor,,,,,,United States,19146
+235177,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235177,24922,2,donor,source,,,,,,United States,19146
+235178,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235178,24921,1,artist,artist,,,,,,,
+235178,24922,1,donor,donor,,,,,,United States,19146
+235178,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235178,24922,2,donor,source,,,,,,United States,19146
+235179,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235179,24921,1,artist,artist,,,,,,,
+235179,24922,1,donor,donor,,,,,,United States,19146
+235179,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235179,24922,2,donor,source,,,,,,United States,19146
+235180,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235180,24921,1,artist,artist,,,,,,,
+235180,24922,1,donor,donor,,,,,,United States,19146
+235180,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235180,24922,2,donor,source,,,,,,United States,19146
+235181,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235181,24921,1,artist,artist,,,,,,,
+235181,24922,1,donor,donor,,,,,,United States,19146
+235181,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235181,24922,2,donor,source,,,,,,United States,19146
+235182,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235182,24921,1,artist,artist,,,,,,,
+235182,24922,1,donor,donor,,,,,,United States,19146
+235182,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235182,24922,2,donor,source,,,,,,United States,19146
+235183,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235183,24921,1,artist,artist,,,,,,,
+235183,24922,1,donor,donor,,,,,,United States,19146
+235183,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235183,24922,2,donor,source,,,,,,United States,19146
+235184,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235184,24921,1,artist,artist,,,,,,,
+235184,24922,1,donor,donor,,,,,,United States,19146
+235184,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235184,24922,2,donor,source,,,,,,United States,19146
+235185,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235185,24921,1,artist,artist,,,,,,,
+235185,24922,1,donor,donor,,,,,,United States,19146
+235185,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235185,24922,2,donor,source,,,,,,United States,19146
+235186,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235186,24921,1,artist,artist,,,,,,,
+235186,24922,1,donor,donor,,,,,,United States,19146
+235186,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235186,24922,2,donor,source,,,,,,United States,19146
+235187,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235187,24921,1,artist,artist,,,,,,,
+235187,24922,1,donor,donor,,,,,,United States,19146
+235187,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235187,24922,2,donor,source,,,,,,United States,19146
+235188,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235188,24921,1,artist,artist,,,,,,,
+235188,24922,1,donor,donor,,,,,,United States,19146
+235188,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235188,24922,2,donor,source,,,,,,United States,19146
+235189,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235189,24921,1,artist,artist,,,,,,,
+235189,24922,1,donor,donor,,,,,,United States,19146
+235189,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235189,24922,2,donor,source,,,,,,United States,19146
+235190,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235190,24921,1,artist,artist,,,,,,,
+235190,24922,1,donor,donor,,,,,,United States,19146
+235190,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235190,24922,2,donor,source,,,,,,United States,19146
+235191,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235191,24921,1,artist,artist,,,,,,,
+235191,24922,1,donor,donor,,,,,,United States,19146
+235191,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235191,24922,2,donor,source,,,,,,United States,19146
+235192,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235192,24921,1,artist,artist,,,,,,,
+235192,24922,1,donor,donor,,,,,,United States,19146
+235192,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235192,24922,2,donor,source,,,,,,United States,19146
+235193,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235193,24921,1,artist,artist,,,,,,,
+235193,24922,1,donor,donor,,,,,,United States,19146
+235193,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235193,24922,2,donor,source,,,,,,United States,19146
+235194,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235194,24921,1,artist,artist,,,,,,,
+235194,24922,1,donor,donor,,,,,,United States,19146
+235194,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235194,24922,2,donor,source,,,,,,United States,19146
+235195,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235195,24921,1,artist,artist,,,,,,,
+235195,24922,1,donor,donor,,,,,,United States,19146
+235195,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235195,24922,2,donor,source,,,,,,United States,19146
+235196,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235196,24921,1,artist,artist,,,,,,,
+235196,24922,1,donor,donor,,,,,,United States,19146
+235196,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235196,24922,2,donor,source,,,,,,United States,19146
+235197,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235197,24921,1,artist,artist,,,,,,,
+235197,24922,1,donor,donor,,,,,,United States,19146
+235197,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235197,24922,2,donor,source,,,,,,United States,19146
+235198,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235198,24921,1,artist,artist,,,,,,,
+235198,24922,1,donor,donor,,,,,,United States,19146
+235198,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235198,24922,2,donor,source,,,,,,United States,19146
+235199,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235199,24921,1,artist,artist,,,,,,,
+235199,24922,1,donor,donor,,,,,,United States,19146
+235199,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235199,24922,2,donor,source,,,,,,United States,19146
+235200,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235200,24921,1,artist,artist,,,,,,,
+235200,24922,1,donor,donor,,,,,,United States,19146
+235200,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235200,24922,2,donor,source,,,,,,United States,19146
+235201,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235201,24921,1,artist,artist,,,,,,,
+235201,24922,1,donor,donor,,,,,,United States,19146
+235201,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235201,24922,2,donor,source,,,,,,United States,19146
+235202,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235202,24921,1,artist,artist,,,,,,,
+235202,24922,1,donor,donor,,,,,,United States,19146
+235202,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235202,24922,2,donor,source,,,,,,United States,19146
+235203,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235203,24921,1,artist,artist,,,,,,,
+235203,24922,1,donor,donor,,,,,,United States,19146
+235203,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235203,24922,2,donor,source,,,,,,United States,19146
+235204,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235204,24921,1,artist,artist,,,,,,,
+235204,24922,1,donor,donor,,,,,,United States,19146
+235204,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235204,24922,2,donor,source,,,,,,United States,19146
+235205,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235205,24921,1,artist,artist,,,,,,,
+235205,24922,1,donor,donor,,,,,,United States,19146
+235205,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235205,24922,2,donor,source,,,,,,United States,19146
+235206,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235206,24921,1,artist,artist,,,,,,,
+235206,24922,1,donor,donor,,,,,,United States,19146
+235206,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235206,24922,2,donor,source,,,,,,United States,19146
+235207,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235207,24921,1,artist,artist,,,,,,,
+235207,24922,1,donor,donor,,,,,,United States,19146
+235207,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235207,24922,2,donor,source,,,,,,United States,19146
+235208,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235208,24921,1,artist,artist,,,,,,,
+235208,24922,1,donor,donor,,,,,,United States,19146
+235208,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235208,24922,2,donor,source,,,,,,United States,19146
+235209,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235209,24921,1,artist,artist,,,,,,,
+235209,24922,1,donor,donor,,,,,,United States,19146
+235209,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235209,24922,2,donor,source,,,,,,United States,19146
+235210,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235210,24921,1,artist,artist,,,,,,,
+235210,24922,1,donor,donor,,,,,,United States,19146
+235210,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235210,24922,2,donor,source,,,,,,United States,19146
+235211,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235211,24921,1,artist,artist,,,,,,,
+235211,24922,1,donor,donor,,,,,,United States,19146
+235211,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235211,24922,2,donor,source,,,,,,United States,19146
+235212,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235212,24921,1,artist,artist,,,,,,,
+235212,24922,1,donor,donor,,,,,,United States,19146
+235212,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235212,24922,2,donor,source,,,,,,United States,19146
+235213,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235213,24921,1,artist,artist,,,,,,,
+235213,24922,1,donor,donor,,,,,,United States,19146
+235213,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235213,24922,2,donor,source,,,,,,United States,19146
+235214,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235214,24921,1,artist,artist,,,,,,,
+235214,24922,1,donor,donor,,,,,,United States,19146
+235214,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235214,24922,2,donor,source,,,,,,United States,19146
+235215,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235215,24921,1,artist,artist,,,,,,,
+235215,24922,1,donor,donor,,,,,,United States,19146
+235215,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235215,24922,2,donor,source,,,,,,United States,19146
+235216,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235216,24921,1,artist,artist,,,,,,,
+235216,24922,1,donor,donor,,,,,,United States,19146
+235216,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235216,24922,2,donor,source,,,,,,United States,19146
+235217,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235217,24921,1,artist,artist,,,,,,,
+235217,24922,1,donor,donor,,,,,,United States,19146
+235217,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235217,24922,2,donor,source,,,,,,United States,19146
+235218,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235218,24921,1,artist,artist,,,,,,,
+235218,24922,1,donor,donor,,,,,,United States,19146
+235218,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235218,24922,2,donor,source,,,,,,United States,19146
+235219,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235219,24921,1,artist,artist,,,,,,,
+235219,24922,1,donor,donor,,,,,,United States,19146
+235219,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235219,24922,2,donor,source,,,,,,United States,19146
+235220,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235220,24921,1,artist,artist,,,,,,,
+235220,24922,1,donor,donor,,,,,,United States,19146
+235220,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235220,24922,2,donor,source,,,,,,United States,19146
+235221,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235221,24921,1,artist,artist,,,,,,,
+235221,24922,1,donor,donor,,,,,,United States,19146
+235221,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235221,24922,2,donor,source,,,,,,United States,19146
+235222,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235222,24921,1,artist,artist,,,,,,,
+235222,24922,1,donor,donor,,,,,,United States,19146
+235222,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235222,24922,2,donor,source,,,,,,United States,19146
+235223,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235223,24921,1,artist,artist,,,,,,,
+235223,24922,1,donor,donor,,,,,,United States,19146
+235223,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235223,24922,2,donor,source,,,,,,United States,19146
+235224,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235224,24921,1,artist,artist,,,,,,,
+235224,24922,1,donor,donor,,,,,,United States,19146
+235224,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235224,24922,2,donor,source,,,,,,United States,19146
+235225,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235225,24921,1,artist,artist,,,,,,,
+235225,24922,1,donor,donor,,,,,,United States,19146
+235225,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235225,24922,2,donor,source,,,,,,United States,19146
+235226,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235226,24921,1,artist,artist,,,,,,,
+235226,24922,1,donor,donor,,,,,,United States,19146
+235226,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235226,24922,2,donor,source,,,,,,United States,19146
+235227,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235227,24921,1,artist,artist,,,,,,,
+235227,24922,1,donor,donor,,,,,,United States,19146
+235227,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235227,24922,2,donor,source,,,,,,United States,19146
+235228,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235228,24921,1,artist,artist,,,,,,,
+235228,24922,1,donor,donor,,,,,,United States,19146
+235228,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235228,24922,2,donor,source,,,,,,United States,19146
+235229,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235229,24921,1,artist,artist,,,,,,,
+235229,24922,1,donor,donor,,,,,,United States,19146
+235229,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235229,24922,2,donor,source,,,,,,United States,19146
+235230,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235230,24921,1,artist,artist,,,,,,,
+235230,24922,1,donor,donor,,,,,,United States,19146
+235230,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235230,24922,2,donor,source,,,,,,United States,19146
+235231,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235231,24921,1,artist,artist,,,,,,,
+235231,24922,1,donor,donor,,,,,,United States,19146
+235231,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235231,24922,2,donor,source,,,,,,United States,19146
+235232,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235232,24921,1,artist,artist,,,,,,,
+235232,24922,1,donor,donor,,,,,,United States,19146
+235232,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235232,24922,2,donor,source,,,,,,United States,19146
+235233,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235233,24921,1,artist,artist,,,,,,,
+235233,24922,1,donor,donor,,,,,,United States,19146
+235233,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235233,24922,2,donor,source,,,,,,United States,19146
+235234,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235234,24921,1,artist,artist,,,,,,,
+235234,24922,1,donor,donor,,,,,,United States,19146
+235234,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235234,24922,2,donor,source,,,,,,United States,19146
+235235,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235235,24921,1,artist,artist,,,,,,,
+235235,24922,1,donor,donor,,,,,,United States,19146
+235235,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235235,24922,2,donor,source,,,,,,United States,19146
+235236,12,2,owner,current owner,,,2000 -,2000,,United States,20565
+235236,24921,1,artist,artist,,,,,,,
+235236,24922,1,donor,donor,,,,,,United States,19146
+235236,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
+235236,24922,2,donor,source,,,,,,United States,19146
