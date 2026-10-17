@@ -50170,6 +50170,8 @@ objectid,element,dimensiontype,dimension,unitname
 32184,plate,width,31.1200000000,centimeters
 32185,plate,height,49.5300000000,centimeters
 32185,plate,width,31.1200000000,centimeters
+32187,plate,height,97.0000000000,centimeters
+32187,plate,width,65.0000000000,centimeters
 32188,plate,height,66.0000000000,centimeters
 32188,plate,width,52.5000000000,centimeters
 32194,plate,height,49.5300000000,centimeters
@@ -94684,6 +94686,9 @@ objectid,element,dimensiontype,dimension,unitname
 68076,plate,width,14.9225298451,centimeters
 68077,overall,height,69.6000000000,centimeters
 68077,overall,width,112.2000000000,centimeters
+68078,overall,depth,1.0000000000,centimeters
+68078,overall,height,15.6000000000,centimeters
+68078,overall,width,22.7000000000,centimeters
 68079,overall,height,15.2000000000,centimeters
 68079,overall,width,23.0000000000,centimeters
 68080,overall,height,15.2000000000,centimeters
@@ -94783,6 +94788,9 @@ objectid,element,dimensiontype,dimension,unitname
 68127,overall,width,19.3000000000,centimeters
 68128,overall,height,25.6000000000,centimeters
 68128,overall,width,19.3000000000,centimeters
+68129,overall,depth,0.5000000000,centimeters
+68129,overall,height,14.5000000000,centimeters
+68129,overall,width,22.6000000000,centimeters
 68130,overall,height,14.5000000000,centimeters
 68130,overall,width,22.8000000000,centimeters
 68131,overall,height,14.5000000000,centimeters
@@ -94827,6 +94835,9 @@ objectid,element,dimensiontype,dimension,unitname
 68150,overall,width,22.8000000000,centimeters
 68151,overall,height,14.5000000000,centimeters
 68151,overall,width,22.8000000000,centimeters
+68152,overall,depth,1.0000000000,centimeters
+68152,overall,height,30.8000000000,centimeters
+68152,overall,width,22.5000000000,centimeters
 68153,overall,height,22.6000000000,centimeters
 68153,overall,width,30.1000000000,centimeters
 68154,overall,height,22.6000000000,centimeters
@@ -94865,6 +94876,9 @@ objectid,element,dimensiontype,dimension,unitname
 68170,overall,width,30.1000000000,centimeters
 68171,overall,height,22.6000000000,centimeters
 68171,overall,width,30.1000000000,centimeters
+68172,overall,depth,1.2000000000,centimeters
+68172,overall,height,13.5000000000,centimeters
+68172,overall,width,17.8000000000,centimeters
 68173,overall,height,11.3000000000,centimeters
 68173,overall,width,17.4000000000,centimeters
 68174,overall,height,12.9000000000,centimeters
@@ -94893,6 +94907,9 @@ objectid,element,dimensiontype,dimension,unitname
 68185,overall,width,17.9000000000,centimeters
 68186,overall,height,12.9000000000,centimeters
 68186,overall,width,17.9000000000,centimeters
+68187,overall,depth,1.0000000000,centimeters
+68187,overall,height,22.5000000000,centimeters
+68187,overall,width,21.0000000000,centimeters
 68188,overall,height,20.6000000000,centimeters
 68188,overall,width,25.0000000000,centimeters
 68189,overall,height,25.0000000000,centimeters
@@ -94965,6 +94982,9 @@ objectid,element,dimensiontype,dimension,unitname
 68222,overall,width,19.6000000000,centimeters
 68223,overall,height,25.0000000000,centimeters
 68223,overall,width,19.6000000000,centimeters
+68224,overall,depth,1.0000000000,centimeters
+68224,overall,height,26.0000000000,centimeters
+68224,overall,width,20.5000000000,centimeters
 68225,overall,height,19.3000000000,centimeters
 68225,overall,width,25.4000000000,centimeters
 68226,overall,height,19.3000000000,centimeters
@@ -94995,6 +95015,9 @@ objectid,element,dimensiontype,dimension,unitname
 68238,overall,width,25.4000000000,centimeters
 68239,overall,height,19.3000000000,centimeters
 68239,overall,width,25.4000000000,centimeters
+68240,overall,depth,1.0000000000,centimeters
+68240,overall,height,26.0000000000,centimeters
+68240,overall,width,20.5000000000,centimeters
 68241,overall,height,25.4000000000,centimeters
 68241,overall,width,19.3000000000,centimeters
 68242,overall,height,25.4000000000,centimeters
@@ -95007,6 +95030,9 @@ objectid,element,dimensiontype,dimension,unitname
 68245,overall,width,25.4000000000,centimeters
 68246,overall,height,19.3000000000,centimeters
 68246,overall,width,25.4000000000,centimeters
+68247,overall,depth,1.0000000000,centimeters
+68247,overall,height,30.3000000000,centimeters
+68247,overall,width,22.6000000000,centimeters
 68248,overall,height,22.7000000000,centimeters
 68248,overall,width,30.2000000000,centimeters
 68249,overall,height,22.7000000000,centimeters
@@ -95035,6 +95061,9 @@ objectid,element,dimensiontype,dimension,unitname
 68260,overall,width,30.2000000000,centimeters
 68261,overall,height,22.7000000000,centimeters
 68261,overall,width,30.2000000000,centimeters
+68262,overall,depth,1.0000000000,centimeters
+68262,overall,height,30.5000000000,centimeters
+68262,overall,width,22.5000000000,centimeters
 68263,overall,height,22.8000000000,centimeters
 68263,overall,width,30.3000000000,centimeters
 68264,overall,height,21.7000000000,centimeters
@@ -95071,6 +95100,9 @@ objectid,element,dimensiontype,dimension,unitname
 68279,overall,width,30.3000000000,centimeters
 68280,overall,height,20.2000000000,centimeters
 68280,overall,width,27.6000000000,centimeters
+68281,overall,depth,1.5000000000,centimeters
+68281,overall,height,30.8000000000,centimeters
+68281,overall,width,22.5000000000,centimeters
 68282,overall,height,22.8000000000,centimeters
 68282,overall,width,30.6000000000,centimeters
 68283,overall,height,22.7000000000,centimeters
@@ -95127,6 +95159,9 @@ objectid,element,dimensiontype,dimension,unitname
 68308,overall,width,29.9000000000,centimeters
 68309,overall,height,22.7000000000,centimeters
 68309,overall,width,29.9000000000,centimeters
+68310,overall,depth,1.2000000000,centimeters
+68310,overall,height,25.5000000000,centimeters
+68310,overall,width,35.8000000000,centimeters
 68311,overall,height,25.0000000000,centimeters
 68311,overall,width,35.3000000000,centimeters
 68312,overall,height,25.0000000000,centimeters
@@ -95285,6 +95320,9 @@ objectid,element,dimensiontype,dimension,unitname
 68388,overall,width,25.4000000000,centimeters
 68389,overall,height,19.4000000000,centimeters
 68389,overall,width,25.4000000000,centimeters
+68390,overall,depth,0.5000000000,centimeters
+68390,overall,height,14.5000000000,centimeters
+68390,overall,width,22.5000000000,centimeters
 68391,overall,height,14.7000000000,centimeters
 68391,overall,width,22.6000000000,centimeters
 68392,overall,height,14.7000000000,centimeters
@@ -95329,6 +95367,9 @@ objectid,element,dimensiontype,dimension,unitname
 68411,overall,width,22.6000000000,centimeters
 68412,overall,height,14.7000000000,centimeters
 68412,overall,width,22.6000000000,centimeters
+68413,overall,depth,2.0000000000,centimeters
+68413,overall,height,18.0000000000,centimeters
+68413,overall,width,26.5000000000,centimeters
 68414,overall,height,17.9000000000,centimeters
 68414,overall,width,25.9000000000,centimeters
 68415,overall,height,17.9000000000,centimeters
@@ -95517,6 +95558,9 @@ objectid,element,dimensiontype,dimension,unitname
 68506,overall,width,25.9000000000,centimeters
 68507,overall,height,17.9000000000,centimeters
 68507,overall,width,25.9000000000,centimeters
+68508,overall,depth,0.5000000000,centimeters
+68508,overall,height,17.2000000000,centimeters
+68508,overall,width,12.5000000000,centimeters
 68509,overall,height,12.7000000000,centimeters
 68509,overall,width,17.0000000000,centimeters
 68510,overall,height,12.7000000000,centimeters
@@ -102196,6 +102240,9 @@ objectid,element,dimensiontype,dimension,unitname
 72209,sheet,width,35.2425704851,centimeters
 72210,sheet,height,27.9400558801,centimeters
 72210,sheet,width,35.2425704851,centimeters
+72211,overall,depth,1.0000000000,centimeters
+72211,overall,height,30.5000000000,centimeters
+72211,overall,width,22.5000000000,centimeters
 72212,overall,height,22.5000000000,centimeters
 72212,overall,width,30.0000000000,centimeters
 72213,overall,height,22.5000000000,centimeters
@@ -227184,6 +227231,8 @@ objectid,element,dimensiontype,dimension,unitname
 226970,image,width,45.5000000000,centimeters
 226971,image,height,41.8000000000,centimeters
 226971,image,width,63.8000000000,centimeters
+226972,sheet,height,55.0000000000,centimeters
+226972,sheet,width,76.2000000000,centimeters
 226973,image,height,63.8000000000,centimeters
 226973,image,width,41.8000000000,centimeters
 226974,image,height,54.6000000000,centimeters
