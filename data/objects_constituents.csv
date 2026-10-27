@@ -207870,7 +207870,9 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 38777,2718,1,donor,donor,,,,,,,
 38777,2718,2,donor,source,,,,,,,
 38777,2718,3,owner,previous owner,,", Philadelphia, PA",- 1950,,1950,,
+38777,2758,2,artist,artist after,,,,,,,
 38777,5422,1,artist,artist,,,,,,,
+38777,37328,3,artist,publisher,,,,,,,
 38777,47983,2,owner,previous owner,,,,,,,
 38777,50426,1,owner,previous owner,,,,,,,
 38778,12,4,owner,current owner,,,1950 -,1950,,United States,20565
@@ -849853,6 +849855,11 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 234295,45804,1,artist,artist,,,,,,,
 234295,45804,1,donor,source,,,,,,,
 234295,45804,1,owner,previous owner,,,,,,,
+234548,12,2,owner,current owner,,,,,,,
+234548,13609,2,donor,donor,,,,,,,
+234548,54666,1,artist,artist,,,,,,,
+234548,54666,1,donor,source,,,,,,,
+234548,54666,1,owner,previous owner,,,,,,,
 234646,12,3,owner,current owner,,,2001 -,2001,,United States,20565
 234646,465,2,donor,donor,,,2001-02-01,2001,2001,,
 234646,896,1,donor,source,,,,,,United States,10021
