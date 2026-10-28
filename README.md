@@ -8,6 +8,33 @@ The dataset provides data records relating to the 130,000+ artworks in our colle
 
 The dataset is published in CSV format and uses UTF-8 encoding.  A [data dictionary](https://github.com/NationalGalleryOfArt/opendata/blob/master/documentation) fully describes the dataset.
 
+# National Gallery of Art Open Dataset - Image Downloader
+
+This script allows you to **easily download all images** from the National Gallery of Art Open Data dataset.
+
+## Installation & Usage
+
+### **Prerequisites**
+- Ensure you have **Python 3+** installed.
+- Download the dataset CSV file: [`published_images.csv`](https://github.com/NationalGalleryOfArt/opendata/blob/main/data/published_images.csv).
+
+### **Automatic Download (Recommended)**
+#### **Windows**
+1. Double-click `download_dataset.bat`
+2. Enter the path to `published_images.csv`
+3. The script will download all images!
+
+#### **Linux/macOS**
+```sh
+chmod +x download_dataset.sh
+./download_dataset.sh
+```
+### **Manual Download**
+```sh
+pip install pandas requests tqdm
+python download_dataset.py
+```
+
 ## Additional usage guidelines
 
 ### Images and media files are not included in the dataset.
