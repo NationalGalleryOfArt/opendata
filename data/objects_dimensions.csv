@@ -125957,9 +125957,9 @@ objectid,element,dimensiontype,dimension,unitname
 92719,sheet,width,17.8000000000,centimeters
 92721,sheet,height,104.1402082804,centimeters
 92721,sheet,width,68.8976377953,centimeters
-92726,overall,depth,24.8000000000,centimeters
-92726,overall,height,57.8000000000,centimeters
-92726,overall,width,34.3000000000,centimeters
+92726,overall,depth,36.8300736601,centimeters
+92726,overall,height,62.2301244602,centimeters
+92726,overall,width,44.4500889002,centimeters
 92727,overall,depth,12.1000000000,centimeters
 92727,overall,height,22.2000000000,centimeters
 92727,overall,width,33.0000000000,centimeters
@@ -226573,6 +226573,7 @@ objectid,element,dimensiontype,dimension,unitname
 226601,plate,width,9.2000000000,centimeters
 226602,plate,height,14.2000000000,centimeters
 226602,plate,width,8.6000000000,centimeters
+226609,overall,depth,10.1600203200,centimeters
 226609,overall,height,182.8803657607,centimeters
 226609,overall,width,182.8803657607,centimeters
 226617,image,height,33.7820675641,centimeters
