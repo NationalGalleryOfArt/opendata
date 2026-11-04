@@ -790289,6 +790289,12 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 218280,27795,2,donor,donor,,,,,,,
 218280,44474,2,artist,artist,,,,,,,
 218280,51005,3,artist,publisher,,,,,,,
+218281,12,2,owner,current owner,,,,,,,
+218281,27795,1,donor,source,,,,,,,
+218281,27795,1,owner,previous owner,,,,,,,
+218281,27795,2,donor,donor,,,,,,,
+218281,51005,2,artist,publisher,,,,,,,
+218281,51262,1,artist,artist,,,,,,,
 218282,12,2,owner,current owner,,,,,,,
 218282,27795,1,donor,source,,,,,,,
 218282,27795,1,owner,previous owner,,,,,,,
@@ -851784,3 +851790,18 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 235236,24922,1,donor,donor,,,,,,United States,19146
 235236,24922,1,owner,previous owner,,,- 2000,,2000,United States,19146
 235236,24922,2,donor,source,,,,,,United States,19146
+235306,12,2,owner,current owner,,,1995 -,1995,,United States,20565
+235306,1734,1,donor,donor,,,,,,United States,10011
+235306,1734,1,owner,previous owner,,,- 1995,,1995,United States,10011
+235306,1734,2,donor,source,,,,,,United States,10011
+235306,4753,1,artist,artist,,,,,,,
+235307,12,2,owner,current owner,,,1995 -,1995,,United States,20565
+235307,1734,1,donor,donor,,,,,,United States,10011
+235307,1734,1,owner,previous owner,,,- 1995,,1995,United States,10011
+235307,1734,2,donor,source,,,,,,United States,10011
+235307,4753,1,artist,artist,,,,,,,
+235308,12,2,owner,current owner,,,1995 -,1995,,United States,20565
+235308,1734,1,donor,donor,,,,,,United States,10011
+235308,1734,1,owner,previous owner,,,- 1995,,1995,United States,10011
+235308,1734,2,donor,source,,,,,,United States,10011
+235308,4753,1,artist,artist,,,,,,,
