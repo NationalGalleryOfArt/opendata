@@ -107097,8 +107097,8 @@ objectid,element,dimensiontype,dimension,unitname
 74710,overall,width,28.0000000000,centimeters
 74711,overall,height,35.6000000000,centimeters
 74711,overall,width,27.9000000000,centimeters
-74712,overall,height,23.0000000000,centimeters
-74712,overall,width,15.3000000000,centimeters
+74712,sheet,height,23.0000000000,centimeters
+74712,sheet,width,15.3000000000,centimeters
 74713,overall,height,35.4000000000,centimeters
 74713,overall,width,28.1000000000,centimeters
 74714,overall,height,35.3000000000,centimeters
@@ -109989,32 +109989,33 @@ objectid,element,dimensiontype,dimension,unitname
 76769,overall,width,35.6000000000,centimeters
 76770,overall,height,46.0000000000,centimeters
 76770,overall,width,35.6000000000,centimeters
-76771,page size,height,30.3000000000,centimeters
-76771,page size,width,22.6000000000,centimeters
-76772,overall,height,30.3000000000,centimeters
-76772,overall,width,22.6000000000,centimeters
-76773,overall,height,30.3000000000,centimeters
-76773,overall,width,22.6000000000,centimeters
-76774,overall,height,30.3000000000,centimeters
-76774,overall,width,22.6000000000,centimeters
-76775,overall,height,30.3000000000,centimeters
-76775,overall,width,22.6000000000,centimeters
-76776,overall,height,30.3000000000,centimeters
-76776,overall,width,22.6000000000,centimeters
-76777,overall,height,30.3000000000,centimeters
-76777,overall,width,22.6000000000,centimeters
-76778,overall,height,30.3000000000,centimeters
-76778,overall,width,22.6000000000,centimeters
-76779,overall,height,30.3000000000,centimeters
-76779,overall,width,22.6000000000,centimeters
-76780,overall,height,30.3000000000,centimeters
-76780,overall,width,22.6000000000,centimeters
-76781,overall,height,30.3000000000,centimeters
-76781,overall,width,22.6000000000,centimeters
-76782,overall,height,30.3000000000,centimeters
-76782,overall,width,22.6000000000,centimeters
-76783,overall,height,30.3000000000,centimeters
-76783,overall,width,22.6000000000,centimeters
+76771,overall,depth,0.5000000000,centimeters
+76771,overall,height,31.2000000000,centimeters
+76771,overall,width,22.7000000000,centimeters
+76772,page size,height,30.3000000000,centimeters
+76772,page size,width,22.6000000000,centimeters
+76773,page size,height,30.3000000000,centimeters
+76773,page size,width,22.6000000000,centimeters
+76774,page size,height,30.3000000000,centimeters
+76774,page size,width,22.6000000000,centimeters
+76775,page size,height,30.3000000000,centimeters
+76775,page size,width,22.6000000000,centimeters
+76776,page size,height,30.3000000000,centimeters
+76776,page size,width,22.6000000000,centimeters
+76777,page size,height,30.3000000000,centimeters
+76777,page size,width,22.6000000000,centimeters
+76778,page size,height,30.3000000000,centimeters
+76778,page size,width,22.6000000000,centimeters
+76779,page size,height,30.3000000000,centimeters
+76779,page size,width,22.6000000000,centimeters
+76780,page size,height,30.3000000000,centimeters
+76780,page size,width,22.6000000000,centimeters
+76781,page size,height,30.3000000000,centimeters
+76781,page size,width,22.6000000000,centimeters
+76782,page size,height,30.3000000000,centimeters
+76782,page size,width,22.6000000000,centimeters
+76783,page size,height,30.3000000000,centimeters
+76783,page size,width,22.6000000000,centimeters
 76785,sheet,height,50.2000000000,centimeters
 76785,sheet,width,60.3000000000,centimeters
 76788,overall,height,22.9000000000,centimeters
@@ -181691,9 +181692,9 @@ objectid,element,dimensiontype,dimension,unitname
 163092,sheet,width,43.8150876302,centimeters
 163093,plate,height,73.3426466853,centimeters
 163093,plate,width,59.0551181102,centimeters
-163094,book,depth,1.5000000000,centimeters
-163094,book,height,11.5000000000,centimeters
-163094,book,width,18.0000000000,centimeters
+163094,overall,depth,1.5000000000,centimeters
+163094,overall,height,11.5000000000,centimeters
+163094,overall,width,18.0000000000,centimeters
 163134,plate,height,23.5000000000,centimeters
 163134,plate,width,15.7000000000,centimeters
 163136,plate,height,40.7000000000,centimeters
