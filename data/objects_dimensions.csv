@@ -222658,381 +222658,256 @@ objectid,element,dimensiontype,dimension,unitname
 223455,plate,width,23.2000000000,centimeters
 223456,plate,height,8.3000000000,centimeters
 223456,plate,width,7.5000000000,centimeters
-223457,book,depth,3.0000000000,centimeters
-223457,book,height,56.7000000000,centimeters
-223457,book,width,42.0000000000,centimeters
-223458,book,depth,3.0000000000,centimeters
-223458,book,height,56.7000000000,centimeters
-223458,book,width,42.0000000000,centimeters
-223459,book,depth,3.0000000000,centimeters
-223459,book,height,56.7000000000,centimeters
-223459,book,width,42.0000000000,centimeters
-223460,book,depth,3.0000000000,centimeters
-223460,book,height,56.7000000000,centimeters
-223460,book,width,42.0000000000,centimeters
-223461,book,depth,3.0000000000,centimeters
-223461,book,height,56.7000000000,centimeters
-223461,book,width,42.0000000000,centimeters
-223462,book,depth,3.0000000000,centimeters
-223462,book,height,56.7000000000,centimeters
-223462,book,width,42.0000000000,centimeters
-223463,book,depth,3.0000000000,centimeters
-223463,book,height,56.7000000000,centimeters
-223463,book,width,42.0000000000,centimeters
-223464,book,depth,3.0000000000,centimeters
-223464,book,height,56.7000000000,centimeters
-223464,book,width,42.0000000000,centimeters
-223465,book,depth,3.0000000000,centimeters
-223465,book,height,56.7000000000,centimeters
-223465,book,width,42.0000000000,centimeters
-223466,book,depth,3.0000000000,centimeters
-223466,book,height,56.7000000000,centimeters
-223466,book,width,42.0000000000,centimeters
-223467,book,depth,3.0000000000,centimeters
-223467,book,height,56.7000000000,centimeters
-223467,book,width,42.0000000000,centimeters
-223468,book,depth,3.0000000000,centimeters
-223468,book,height,56.7000000000,centimeters
-223468,book,width,42.0000000000,centimeters
-223469,book,depth,3.0000000000,centimeters
-223469,book,height,56.7000000000,centimeters
-223469,book,width,42.0000000000,centimeters
-223470,book,depth,3.0000000000,centimeters
-223470,book,height,56.7000000000,centimeters
-223470,book,width,42.0000000000,centimeters
-223471,book,depth,3.0000000000,centimeters
-223471,book,height,56.7000000000,centimeters
-223471,book,width,42.0000000000,centimeters
-223472,book,depth,3.0000000000,centimeters
-223472,book,height,56.7000000000,centimeters
-223472,book,width,42.0000000000,centimeters
-223473,book,depth,3.0000000000,centimeters
-223473,book,height,56.7000000000,centimeters
-223473,book,width,42.0000000000,centimeters
-223474,book,depth,3.0000000000,centimeters
-223474,book,height,56.7000000000,centimeters
-223474,book,width,42.0000000000,centimeters
-223475,book,depth,3.0000000000,centimeters
-223475,book,height,56.7000000000,centimeters
-223475,book,width,42.0000000000,centimeters
-223476,book,depth,3.0000000000,centimeters
-223476,book,height,56.7000000000,centimeters
-223476,book,width,42.0000000000,centimeters
-223477,book,depth,3.0000000000,centimeters
-223477,book,height,56.7000000000,centimeters
-223477,book,width,42.0000000000,centimeters
-223478,book,depth,3.0000000000,centimeters
-223478,book,height,56.7000000000,centimeters
-223478,book,width,42.0000000000,centimeters
-223479,book,depth,3.0000000000,centimeters
-223479,book,height,56.7000000000,centimeters
-223479,book,width,42.0000000000,centimeters
-223480,book,depth,3.0000000000,centimeters
-223480,book,height,56.7000000000,centimeters
-223480,book,width,42.0000000000,centimeters
-223481,book,depth,3.0000000000,centimeters
-223481,book,height,56.7000000000,centimeters
-223481,book,width,42.0000000000,centimeters
-223482,book,depth,3.0000000000,centimeters
-223482,book,height,56.7000000000,centimeters
-223482,book,width,42.0000000000,centimeters
-223483,book,depth,3.0000000000,centimeters
-223483,book,height,56.7000000000,centimeters
-223483,book,width,42.0000000000,centimeters
-223484,book,depth,3.0000000000,centimeters
-223484,book,height,56.7000000000,centimeters
-223484,book,width,42.0000000000,centimeters
-223485,book,depth,3.0000000000,centimeters
-223485,book,height,56.7000000000,centimeters
-223485,book,width,42.0000000000,centimeters
-223486,book,depth,3.0000000000,centimeters
-223486,book,height,56.7000000000,centimeters
-223486,book,width,42.0000000000,centimeters
-223487,book,depth,3.0000000000,centimeters
-223487,book,height,56.7000000000,centimeters
-223487,book,width,42.0000000000,centimeters
-223488,book,depth,3.0000000000,centimeters
-223488,book,height,56.7000000000,centimeters
-223488,book,width,42.0000000000,centimeters
-223489,book,depth,3.0000000000,centimeters
-223489,book,height,56.7000000000,centimeters
-223489,book,width,42.0000000000,centimeters
-223490,book,depth,3.0000000000,centimeters
-223490,book,height,56.7000000000,centimeters
-223490,book,width,42.0000000000,centimeters
-223491,book,depth,3.0000000000,centimeters
-223491,book,height,56.7000000000,centimeters
-223491,book,width,42.0000000000,centimeters
-223492,book,depth,3.0000000000,centimeters
-223492,book,height,56.7000000000,centimeters
-223492,book,width,42.0000000000,centimeters
-223493,book,depth,3.0000000000,centimeters
-223493,book,height,56.7000000000,centimeters
-223493,book,width,42.0000000000,centimeters
-223494,book,depth,3.0000000000,centimeters
-223494,book,height,56.7000000000,centimeters
-223494,book,width,42.0000000000,centimeters
-223495,book,depth,3.0000000000,centimeters
-223495,book,height,56.7000000000,centimeters
-223495,book,width,42.0000000000,centimeters
-223496,book,depth,3.0000000000,centimeters
-223496,book,height,56.7000000000,centimeters
-223496,book,width,42.0000000000,centimeters
-223497,book,depth,3.0000000000,centimeters
-223497,book,height,56.7000000000,centimeters
-223497,book,width,42.0000000000,centimeters
-223498,book,depth,3.0000000000,centimeters
-223498,book,height,56.7000000000,centimeters
-223498,book,width,42.0000000000,centimeters
-223499,book,depth,3.0000000000,centimeters
-223499,book,height,56.7000000000,centimeters
-223499,book,width,42.0000000000,centimeters
-223500,book,depth,3.0000000000,centimeters
-223500,book,height,56.7000000000,centimeters
-223500,book,width,42.0000000000,centimeters
-223501,book,depth,3.0000000000,centimeters
-223501,book,height,56.7000000000,centimeters
-223501,book,width,42.0000000000,centimeters
-223502,book,depth,3.0000000000,centimeters
-223502,book,height,56.7000000000,centimeters
-223502,book,width,42.0000000000,centimeters
-223503,book,depth,3.0000000000,centimeters
-223503,book,height,56.7000000000,centimeters
-223503,book,width,42.0000000000,centimeters
-223504,book,depth,3.0000000000,centimeters
-223504,book,height,56.7000000000,centimeters
-223504,book,width,42.0000000000,centimeters
-223505,book,depth,3.0000000000,centimeters
-223505,book,height,56.7000000000,centimeters
-223505,book,width,42.0000000000,centimeters
-223506,book,depth,3.0000000000,centimeters
-223506,book,height,56.7000000000,centimeters
-223506,book,width,42.0000000000,centimeters
-223507,book,depth,3.0000000000,centimeters
-223507,book,height,56.7000000000,centimeters
-223507,book,width,42.0000000000,centimeters
-223508,book,depth,3.0000000000,centimeters
-223508,book,height,56.7000000000,centimeters
-223508,book,width,42.0000000000,centimeters
-223509,book,depth,3.0000000000,centimeters
-223509,book,height,56.7000000000,centimeters
-223509,book,width,42.0000000000,centimeters
-223510,book,depth,3.0000000000,centimeters
-223510,book,height,56.7000000000,centimeters
-223510,book,width,42.0000000000,centimeters
-223511,book,depth,3.0000000000,centimeters
-223511,book,height,56.7000000000,centimeters
-223511,book,width,42.0000000000,centimeters
-223512,book,depth,3.0000000000,centimeters
-223512,book,height,56.7000000000,centimeters
-223512,book,width,42.0000000000,centimeters
-223513,book,depth,3.0000000000,centimeters
-223513,book,height,56.7000000000,centimeters
-223513,book,width,42.0000000000,centimeters
-223514,book,depth,3.0000000000,centimeters
-223514,book,height,56.7000000000,centimeters
-223514,book,width,42.0000000000,centimeters
-223515,book,depth,3.0000000000,centimeters
-223515,book,height,56.7000000000,centimeters
-223515,book,width,42.0000000000,centimeters
-223516,book,depth,3.0000000000,centimeters
-223516,book,height,56.7000000000,centimeters
-223516,book,width,42.0000000000,centimeters
-223517,book,depth,3.0000000000,centimeters
-223517,book,height,56.7000000000,centimeters
-223517,book,width,42.0000000000,centimeters
-223518,book,depth,3.0000000000,centimeters
-223518,book,height,56.7000000000,centimeters
-223518,book,width,42.0000000000,centimeters
-223519,book,depth,3.0000000000,centimeters
-223519,book,height,56.7000000000,centimeters
-223519,book,width,42.0000000000,centimeters
-223520,book,depth,3.0000000000,centimeters
-223520,book,height,56.7000000000,centimeters
-223520,book,width,42.0000000000,centimeters
-223521,book,depth,3.0000000000,centimeters
-223521,book,height,56.7000000000,centimeters
-223521,book,width,42.0000000000,centimeters
-223522,book,depth,3.0000000000,centimeters
-223522,book,height,56.7000000000,centimeters
-223522,book,width,42.0000000000,centimeters
-223523,book,depth,3.0000000000,centimeters
-223523,book,height,56.7000000000,centimeters
-223523,book,width,42.0000000000,centimeters
-223524,book,depth,3.0000000000,centimeters
-223524,book,height,56.7000000000,centimeters
-223524,book,width,42.0000000000,centimeters
-223525,book,depth,3.0000000000,centimeters
-223525,book,height,56.7000000000,centimeters
-223525,book,width,42.0000000000,centimeters
-223526,book,depth,3.0000000000,centimeters
-223526,book,height,56.7000000000,centimeters
-223526,book,width,42.0000000000,centimeters
-223527,book,depth,3.0000000000,centimeters
-223527,book,height,56.7000000000,centimeters
-223527,book,width,42.0000000000,centimeters
-223528,book,depth,3.0000000000,centimeters
-223528,book,height,56.7000000000,centimeters
-223528,book,width,42.0000000000,centimeters
-223529,book,depth,3.0000000000,centimeters
-223529,book,height,56.7000000000,centimeters
-223529,book,width,42.0000000000,centimeters
-223530,book,depth,3.0000000000,centimeters
-223530,book,height,56.7000000000,centimeters
-223530,book,width,42.0000000000,centimeters
-223531,book,depth,3.0000000000,centimeters
-223531,book,height,56.7000000000,centimeters
-223531,book,width,42.0000000000,centimeters
-223532,book,depth,3.0000000000,centimeters
-223532,book,height,56.7000000000,centimeters
-223532,book,width,42.0000000000,centimeters
-223533,book,depth,3.0000000000,centimeters
-223533,book,height,56.7000000000,centimeters
-223533,book,width,42.0000000000,centimeters
-223534,book,depth,3.0000000000,centimeters
-223534,book,height,56.7000000000,centimeters
-223534,book,width,42.0000000000,centimeters
-223535,book,depth,3.0000000000,centimeters
-223535,book,height,56.7000000000,centimeters
-223535,book,width,42.0000000000,centimeters
-223536,book,depth,3.0000000000,centimeters
-223536,book,height,56.7000000000,centimeters
-223536,book,width,42.0000000000,centimeters
-223537,book,depth,3.0000000000,centimeters
-223537,book,height,56.7000000000,centimeters
-223537,book,width,42.0000000000,centimeters
-223538,book,depth,3.0000000000,centimeters
-223538,book,height,56.7000000000,centimeters
-223538,book,width,42.0000000000,centimeters
-223539,book,depth,3.0000000000,centimeters
-223539,book,height,56.7000000000,centimeters
-223539,book,width,42.0000000000,centimeters
-223540,book,depth,3.0000000000,centimeters
-223540,book,height,56.7000000000,centimeters
-223540,book,width,42.0000000000,centimeters
-223541,book,depth,3.0000000000,centimeters
-223541,book,height,56.7000000000,centimeters
-223541,book,width,42.0000000000,centimeters
-223542,book,depth,3.0000000000,centimeters
-223542,book,height,56.7000000000,centimeters
-223542,book,width,42.0000000000,centimeters
-223543,book,depth,3.0000000000,centimeters
-223543,book,height,56.7000000000,centimeters
-223543,book,width,42.0000000000,centimeters
-223544,book,depth,3.0000000000,centimeters
-223544,book,height,56.7000000000,centimeters
-223544,book,width,42.0000000000,centimeters
-223545,book,depth,3.0000000000,centimeters
-223545,book,height,56.7000000000,centimeters
-223545,book,width,42.0000000000,centimeters
-223546,book,depth,3.0000000000,centimeters
-223546,book,height,56.7000000000,centimeters
-223546,book,width,42.0000000000,centimeters
-223547,book,depth,3.0000000000,centimeters
-223547,book,height,56.7000000000,centimeters
-223547,book,width,42.0000000000,centimeters
-223548,book,depth,3.0000000000,centimeters
-223548,book,height,56.7000000000,centimeters
-223548,book,width,42.0000000000,centimeters
-223549,book,depth,3.0000000000,centimeters
-223549,book,height,56.7000000000,centimeters
-223549,book,width,42.0000000000,centimeters
-223550,book,depth,3.0000000000,centimeters
-223550,book,height,56.7000000000,centimeters
-223550,book,width,42.0000000000,centimeters
-223551,book,depth,3.0000000000,centimeters
-223551,book,height,56.7000000000,centimeters
-223551,book,width,42.0000000000,centimeters
-223552,book,depth,3.0000000000,centimeters
-223552,book,height,56.7000000000,centimeters
-223552,book,width,42.0000000000,centimeters
-223553,book,depth,3.0000000000,centimeters
-223553,book,height,56.7000000000,centimeters
-223553,book,width,42.0000000000,centimeters
-223554,book,depth,3.0000000000,centimeters
-223554,book,height,56.7000000000,centimeters
-223554,book,width,42.0000000000,centimeters
-223555,book,depth,3.0000000000,centimeters
-223555,book,height,56.7000000000,centimeters
-223555,book,width,42.0000000000,centimeters
-223556,book,depth,3.0000000000,centimeters
-223556,book,height,56.7000000000,centimeters
-223556,book,width,42.0000000000,centimeters
-223557,book,depth,3.0000000000,centimeters
-223557,book,height,56.7000000000,centimeters
-223557,book,width,42.0000000000,centimeters
-223558,book,depth,3.0000000000,centimeters
-223558,book,height,56.7000000000,centimeters
-223558,book,width,42.0000000000,centimeters
-223559,book,depth,3.0000000000,centimeters
-223559,book,height,56.7000000000,centimeters
-223559,book,width,42.0000000000,centimeters
-223560,book,depth,3.0000000000,centimeters
-223560,book,height,56.7000000000,centimeters
-223560,book,width,42.0000000000,centimeters
-223561,book,depth,3.0000000000,centimeters
-223561,book,height,56.7000000000,centimeters
-223561,book,width,42.0000000000,centimeters
-223562,book,depth,3.0000000000,centimeters
-223562,book,height,56.7000000000,centimeters
-223562,book,width,42.0000000000,centimeters
-223563,book,depth,3.0000000000,centimeters
-223563,book,height,56.7000000000,centimeters
-223563,book,width,42.0000000000,centimeters
-223564,book,depth,3.0000000000,centimeters
-223564,book,height,56.7000000000,centimeters
-223564,book,width,42.0000000000,centimeters
-223565,book,depth,3.0000000000,centimeters
-223565,book,height,56.7000000000,centimeters
-223565,book,width,42.0000000000,centimeters
-223566,book,depth,3.0000000000,centimeters
-223566,book,height,56.7000000000,centimeters
-223566,book,width,42.0000000000,centimeters
-223567,book,depth,3.0000000000,centimeters
-223567,book,height,56.7000000000,centimeters
-223567,book,width,42.0000000000,centimeters
-223568,book,depth,3.0000000000,centimeters
-223568,book,height,56.7000000000,centimeters
-223568,book,width,42.0000000000,centimeters
-223569,book,depth,3.0000000000,centimeters
-223569,book,height,56.7000000000,centimeters
-223569,book,width,42.0000000000,centimeters
-223570,book,depth,3.0000000000,centimeters
-223570,book,height,56.7000000000,centimeters
-223570,book,width,42.0000000000,centimeters
-223571,book,depth,3.0000000000,centimeters
-223571,book,height,56.7000000000,centimeters
-223571,book,width,42.0000000000,centimeters
-223572,book,depth,3.0000000000,centimeters
-223572,book,height,56.7000000000,centimeters
-223572,book,width,42.0000000000,centimeters
-223573,book,depth,3.0000000000,centimeters
-223573,book,height,56.7000000000,centimeters
-223573,book,width,42.0000000000,centimeters
-223574,book,depth,3.0000000000,centimeters
-223574,book,height,56.7000000000,centimeters
-223574,book,width,42.0000000000,centimeters
-223575,book,depth,3.0000000000,centimeters
-223575,book,height,56.7000000000,centimeters
-223575,book,width,42.0000000000,centimeters
-223576,book,depth,3.0000000000,centimeters
-223576,book,height,56.7000000000,centimeters
-223576,book,width,42.0000000000,centimeters
-223577,book,depth,3.0000000000,centimeters
-223577,book,height,56.7000000000,centimeters
-223577,book,width,42.0000000000,centimeters
-223578,book,depth,3.0000000000,centimeters
-223578,book,height,56.7000000000,centimeters
-223578,book,width,42.0000000000,centimeters
-223579,book,depth,3.0000000000,centimeters
-223579,book,height,56.7000000000,centimeters
-223579,book,width,42.0000000000,centimeters
-223580,book,depth,3.0000000000,centimeters
-223580,book,height,56.7000000000,centimeters
-223580,book,width,42.0000000000,centimeters
-223581,book,depth,3.0000000000,centimeters
-223581,book,height,56.7000000000,centimeters
-223581,book,width,42.0000000000,centimeters
+223457,page size,height,55.5000000000,centimeters
+223457,page size,width,40.0000000000,centimeters
+223458,page size,height,55.5000000000,centimeters
+223458,page size,width,40.0000000000,centimeters
+223459,page size,height,55.5000000000,centimeters
+223459,page size,width,40.0000000000,centimeters
+223460,page size,height,55.5000000000,centimeters
+223460,page size,width,40.0000000000,centimeters
+223461,page size,height,55.5000000000,centimeters
+223461,page size,width,40.0000000000,centimeters
+223462,page size,height,55.5000000000,centimeters
+223462,page size,width,40.0000000000,centimeters
+223463,page size,height,55.5000000000,centimeters
+223463,page size,width,40.0000000000,centimeters
+223464,page size,height,55.5000000000,centimeters
+223464,page size,width,40.0000000000,centimeters
+223465,page size,height,55.5000000000,centimeters
+223465,page size,width,40.0000000000,centimeters
+223466,page size,height,55.5000000000,centimeters
+223466,page size,width,40.0000000000,centimeters
+223467,page size,height,55.5000000000,centimeters
+223467,page size,width,40.0000000000,centimeters
+223468,page size,height,55.5000000000,centimeters
+223468,page size,width,40.0000000000,centimeters
+223469,page size,height,55.5000000000,centimeters
+223469,page size,width,40.0000000000,centimeters
+223470,page size,height,55.5000000000,centimeters
+223470,page size,width,40.0000000000,centimeters
+223471,page size,height,55.5000000000,centimeters
+223471,page size,width,40.0000000000,centimeters
+223472,page size,height,55.5000000000,centimeters
+223472,page size,width,40.0000000000,centimeters
+223473,page size,height,55.5000000000,centimeters
+223473,page size,width,40.0000000000,centimeters
+223474,page size,height,55.5000000000,centimeters
+223474,page size,width,40.0000000000,centimeters
+223475,page size,height,55.5000000000,centimeters
+223475,page size,width,40.0000000000,centimeters
+223476,page size,height,55.5000000000,centimeters
+223476,page size,width,40.0000000000,centimeters
+223477,page size,height,55.5000000000,centimeters
+223477,page size,width,40.0000000000,centimeters
+223478,page size,height,55.5000000000,centimeters
+223478,page size,width,40.0000000000,centimeters
+223479,page size,height,55.5000000000,centimeters
+223479,page size,width,40.0000000000,centimeters
+223480,page size,height,55.5000000000,centimeters
+223480,page size,width,40.0000000000,centimeters
+223481,page size,height,55.5000000000,centimeters
+223481,page size,width,40.0000000000,centimeters
+223482,page size,height,55.5000000000,centimeters
+223482,page size,width,40.0000000000,centimeters
+223483,page size,height,55.5000000000,centimeters
+223483,page size,width,40.0000000000,centimeters
+223484,page size,height,55.5000000000,centimeters
+223484,page size,width,40.0000000000,centimeters
+223485,page size,height,55.5000000000,centimeters
+223485,page size,width,40.0000000000,centimeters
+223486,page size,height,55.5000000000,centimeters
+223486,page size,width,40.0000000000,centimeters
+223487,page size,height,55.5000000000,centimeters
+223487,page size,width,40.0000000000,centimeters
+223488,page size,height,55.5000000000,centimeters
+223488,page size,width,40.0000000000,centimeters
+223489,page size,height,55.5000000000,centimeters
+223489,page size,width,40.0000000000,centimeters
+223490,page size,height,55.5000000000,centimeters
+223490,page size,width,40.0000000000,centimeters
+223491,page size,height,55.5000000000,centimeters
+223491,page size,width,40.0000000000,centimeters
+223492,page size,height,55.5000000000,centimeters
+223492,page size,width,40.0000000000,centimeters
+223493,page size,height,55.5000000000,centimeters
+223493,page size,width,40.0000000000,centimeters
+223494,page size,height,55.5000000000,centimeters
+223494,page size,width,40.0000000000,centimeters
+223495,page size,height,55.5000000000,centimeters
+223495,page size,width,40.0000000000,centimeters
+223496,page size,height,55.5000000000,centimeters
+223496,page size,width,40.0000000000,centimeters
+223497,page size,height,55.5000000000,centimeters
+223497,page size,width,40.0000000000,centimeters
+223498,page size,height,55.5000000000,centimeters
+223498,page size,width,40.0000000000,centimeters
+223499,page size,height,55.5000000000,centimeters
+223499,page size,width,40.0000000000,centimeters
+223500,page size,height,55.5000000000,centimeters
+223500,page size,width,40.0000000000,centimeters
+223501,page size,height,55.5000000000,centimeters
+223501,page size,width,40.0000000000,centimeters
+223502,page size,height,55.5000000000,centimeters
+223502,page size,width,40.0000000000,centimeters
+223503,page size,height,55.5000000000,centimeters
+223503,page size,width,40.0000000000,centimeters
+223504,page size,height,55.5000000000,centimeters
+223504,page size,width,40.0000000000,centimeters
+223505,page size,height,55.5000000000,centimeters
+223505,page size,width,40.0000000000,centimeters
+223506,page size,height,55.5000000000,centimeters
+223506,page size,width,40.0000000000,centimeters
+223507,page size,height,55.5000000000,centimeters
+223507,page size,width,40.0000000000,centimeters
+223508,page size,height,55.5000000000,centimeters
+223508,page size,width,40.0000000000,centimeters
+223509,page size,height,55.5000000000,centimeters
+223509,page size,width,40.0000000000,centimeters
+223510,page size,height,55.5000000000,centimeters
+223510,page size,width,40.0000000000,centimeters
+223511,page size,height,55.5000000000,centimeters
+223511,page size,width,40.0000000000,centimeters
+223512,page size,height,55.5000000000,centimeters
+223512,page size,width,40.0000000000,centimeters
+223513,page size,height,55.5000000000,centimeters
+223513,page size,width,40.0000000000,centimeters
+223514,page size,height,55.5000000000,centimeters
+223514,page size,width,40.0000000000,centimeters
+223515,page size,height,55.5000000000,centimeters
+223515,page size,width,40.0000000000,centimeters
+223516,page size,height,55.5000000000,centimeters
+223516,page size,width,40.0000000000,centimeters
+223517,page size,height,55.5000000000,centimeters
+223517,page size,width,40.0000000000,centimeters
+223518,page size,height,55.5000000000,centimeters
+223518,page size,width,40.0000000000,centimeters
+223519,page size,height,55.5000000000,centimeters
+223519,page size,width,40.0000000000,centimeters
+223520,page size,height,55.5000000000,centimeters
+223520,page size,width,40.0000000000,centimeters
+223521,page size,height,55.5000000000,centimeters
+223521,page size,width,40.0000000000,centimeters
+223522,page size,height,55.5000000000,centimeters
+223522,page size,width,40.0000000000,centimeters
+223523,page size,height,55.5000000000,centimeters
+223523,page size,width,40.0000000000,centimeters
+223524,page size,height,55.5000000000,centimeters
+223524,page size,width,40.0000000000,centimeters
+223525,page size,height,55.5000000000,centimeters
+223525,page size,width,40.0000000000,centimeters
+223526,page size,height,55.5000000000,centimeters
+223526,page size,width,40.0000000000,centimeters
+223527,page size,height,55.5000000000,centimeters
+223527,page size,width,40.0000000000,centimeters
+223528,page size,height,55.5000000000,centimeters
+223528,page size,width,40.0000000000,centimeters
+223529,page size,height,55.5000000000,centimeters
+223529,page size,width,40.0000000000,centimeters
+223530,page size,height,55.5000000000,centimeters
+223530,page size,width,40.0000000000,centimeters
+223531,page size,height,55.5000000000,centimeters
+223531,page size,width,40.0000000000,centimeters
+223532,page size,height,55.5000000000,centimeters
+223532,page size,width,40.0000000000,centimeters
+223533,page size,height,55.5000000000,centimeters
+223533,page size,width,40.0000000000,centimeters
+223534,page size,height,55.5000000000,centimeters
+223534,page size,width,40.0000000000,centimeters
+223535,page size,height,55.5000000000,centimeters
+223535,page size,width,40.0000000000,centimeters
+223536,page size,height,55.5000000000,centimeters
+223536,page size,width,40.0000000000,centimeters
+223537,page size,height,55.5000000000,centimeters
+223537,page size,width,40.0000000000,centimeters
+223538,page size,height,55.5000000000,centimeters
+223538,page size,width,40.0000000000,centimeters
+223539,page size,height,55.5000000000,centimeters
+223539,page size,width,40.0000000000,centimeters
+223540,page size,height,55.5000000000,centimeters
+223540,page size,width,40.0000000000,centimeters
+223541,page size,height,55.5000000000,centimeters
+223541,page size,width,40.0000000000,centimeters
+223542,page size,height,55.5000000000,centimeters
+223542,page size,width,40.0000000000,centimeters
+223543,page size,height,55.5000000000,centimeters
+223543,page size,width,40.0000000000,centimeters
+223544,page size,height,55.5000000000,centimeters
+223544,page size,width,40.0000000000,centimeters
+223545,page size,height,55.5000000000,centimeters
+223545,page size,width,40.0000000000,centimeters
+223546,page size,height,55.5000000000,centimeters
+223546,page size,width,40.0000000000,centimeters
+223547,page size,height,55.5000000000,centimeters
+223547,page size,width,40.0000000000,centimeters
+223548,page size,height,55.5000000000,centimeters
+223548,page size,width,40.0000000000,centimeters
+223549,page size,height,55.5000000000,centimeters
+223549,page size,width,40.0000000000,centimeters
+223550,page size,height,55.5000000000,centimeters
+223550,page size,width,40.0000000000,centimeters
+223551,page size,height,55.5000000000,centimeters
+223551,page size,width,40.0000000000,centimeters
+223552,page size,height,55.5000000000,centimeters
+223552,page size,width,40.0000000000,centimeters
+223553,page size,height,55.5000000000,centimeters
+223553,page size,width,40.0000000000,centimeters
+223554,page size,height,55.5000000000,centimeters
+223554,page size,width,40.0000000000,centimeters
+223555,page size,height,55.5000000000,centimeters
+223555,page size,width,40.0000000000,centimeters
+223556,page size,height,55.5000000000,centimeters
+223556,page size,width,40.0000000000,centimeters
+223557,page size,height,55.5000000000,centimeters
+223557,page size,width,40.0000000000,centimeters
+223558,page size,height,55.5000000000,centimeters
+223558,page size,width,40.0000000000,centimeters
+223559,page size,height,55.5000000000,centimeters
+223559,page size,width,40.0000000000,centimeters
+223560,page size,height,55.5000000000,centimeters
+223560,page size,width,40.0000000000,centimeters
+223561,page size,height,55.5000000000,centimeters
+223561,page size,width,40.0000000000,centimeters
+223562,page size,height,55.5000000000,centimeters
+223562,page size,width,40.0000000000,centimeters
+223563,page size,height,55.5000000000,centimeters
+223563,page size,width,40.0000000000,centimeters
+223564,page size,height,55.5000000000,centimeters
+223564,page size,width,40.0000000000,centimeters
+223565,page size,height,55.5000000000,centimeters
+223565,page size,width,40.0000000000,centimeters
+223566,page size,height,55.5000000000,centimeters
+223566,page size,width,40.0000000000,centimeters
+223567,page size,height,55.5000000000,centimeters
+223567,page size,width,40.0000000000,centimeters
+223568,page size,height,55.5000000000,centimeters
+223568,page size,width,40.0000000000,centimeters
+223569,page size,height,55.5000000000,centimeters
+223569,page size,width,40.0000000000,centimeters
+223570,page size,height,55.5000000000,centimeters
+223570,page size,width,40.0000000000,centimeters
+223571,page size,height,55.5000000000,centimeters
+223571,page size,width,40.0000000000,centimeters
+223572,page size,height,55.5000000000,centimeters
+223572,page size,width,40.0000000000,centimeters
+223573,page size,height,55.5000000000,centimeters
+223573,page size,width,40.0000000000,centimeters
+223574,page size,height,55.5000000000,centimeters
+223574,page size,width,40.0000000000,centimeters
+223575,page size,height,55.5000000000,centimeters
+223575,page size,width,40.0000000000,centimeters
+223576,page size,height,55.5000000000,centimeters
+223576,page size,width,40.0000000000,centimeters
+223577,page size,height,55.5000000000,centimeters
+223577,page size,width,40.0000000000,centimeters
+223578,page size,height,55.5000000000,centimeters
+223578,page size,width,40.0000000000,centimeters
+223579,page size,height,55.5000000000,centimeters
+223579,page size,width,40.0000000000,centimeters
+223580,page size,height,55.5000000000,centimeters
+223580,page size,width,40.0000000000,centimeters
+223581,page size,height,55.5000000000,centimeters
+223581,page size,width,40.0000000000,centimeters
 223583,image,height,22.8000000000,centimeters
 223583,image,width,31.8000000000,centimeters
 223584,plate,height,19.5000000000,centimeters
@@ -233868,6 +233743,12 @@ objectid,element,dimensiontype,dimension,unitname
 234272,overall,width,46.5000000000,centimeters
 234295,image,height,62.2301244602,centimeters
 234295,image,width,97.4726949454,centimeters
+234372,overall,depth,6.9850139700,centimeters
+234372,overall,height,76.2001524003,centimeters
+234372,overall,width,60.9601219202,centimeters
+234427,overall,depth,10.1600203200,centimeters
+234427,overall,height,53.3401066802,centimeters
+234427,overall,width,345.4406908814,centimeters
 234548,overall,height,156.2103124206,centimeters
 234548,overall,width,74.2951485903,centimeters
 234646,overall,height,58.5000000000,centimeters
