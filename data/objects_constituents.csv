@@ -43136,6 +43136,8 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 7355,2718,1,donor,donor,,,,,,,
 7355,2718,1,owner,previous owner,,", Philadelphia, PA",- 1943,,1943,,
 7355,2718,2,donor,source,,,,,,,
+7355,25680,2,artist,printer,,,,,,,
+7355,55142,3,artist,publisher,,,,,,,
 7356,12,2,owner,current owner,,,1943 -,1943,,United States,20565
 7356,1334,1,artist,artist,,,,,,,
 7356,2718,1,donor,donor,,,,,,,
@@ -65426,11 +65428,12 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 11587,2718,2,donor,source,,,,,,,
 11587,17468,4,owner,previous owner,,,,,,,
 11587,48960,2,artist,printer,,,,,,,
-11588,12,2,owner,current owner,,,1943 -,1943,,United States,20565
+11588,12,3,owner,current owner,,,1943 -,1943,,United States,20565
 11588,1334,1,artist,artist,,,,,,,
 11588,2718,1,donor,donor,,,,,,,
-11588,2718,1,owner,previous owner,,", Philadelphia, PA",- 1943,,1943,,
 11588,2718,2,donor,source,,,,,,,
+11588,2718,2,owner,previous owner,,", Philadelphia, PA",- 1943,,1943,,
+11588,47033,1,owner,previous owner,,,,,,,
 11589,12,2,owner,current owner,,,1943 -,1943,,United States,20565
 11589,1316,1,artist,artist,,,,,,,
 11589,2718,1,donor,donor,,,,,,,
@@ -591922,26 +591925,6 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 140097,10033,1,donor,source,,,,,,,
 140097,18314,2,donor,donor,,,,,,,
 140097,31600,2,owner,previous owner,,,,,,Italy,20121
-140098,12,2,owner,current owner,,,1999 -,1999,,United States,20565
-140098,979,1,artist,artist,,,,,,,
-140098,21753,1,donor,donor,,,,,,United States,77024
-140098,21753,1,owner,previous owner,,,- 1999,,1999,United States,77024
-140098,21753,2,donor,source,,,,,,United States,77024
-140099,12,2,owner,current owner,,,1999 -,1999,,United States,20565
-140099,979,1,artist,artist,,,,,,,
-140099,21753,1,donor,donor,,,,,,United States,77024
-140099,21753,1,owner,previous owner,,,- 1999,,1999,United States,77024
-140099,21753,2,donor,source,,,,,,United States,77024
-140100,12,2,owner,current owner,,,1999 -,1999,,United States,20565
-140100,979,1,artist,artist,,,,,,,
-140100,21753,1,donor,donor,,,,,,United States,77024
-140100,21753,1,owner,previous owner,,,- 1999,,1999,United States,77024
-140100,21753,2,donor,source,,,,,,United States,77024
-140101,12,2,owner,current owner,,,1999 -,1999,,United States,20565
-140101,979,1,artist,artist,,,,,,,
-140101,21753,1,donor,donor,,,,,,United States,77024
-140101,21753,1,owner,previous owner,,,- 1999,,1999,United States,77024
-140101,21753,2,donor,source,,,,,,United States,77024
 140103,12,1,owner,current owner,,,,,,,
 140103,2445,2,artist,artist after,,,,,,,
 140103,2534,1,artist,artist,,,,,,,
