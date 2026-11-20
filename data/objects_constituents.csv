@@ -162627,34 +162627,44 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 30768,5309,2,artist,artist after,,,,,,,
 30768,8310,1,artist,artist,,,,,,,
 30769,12,2,owner,current owner,,,1945 -,1945,,United States,20565
+30769,1818,3,artist,artist after,,,,,,,
 30769,2718,1,donor,donor,,,,,,,
 30769,2718,1,owner,previous owner,,", Philadelphia, PA",- 1945,,1945,,
 30769,2718,2,donor,source,,,,,,,
-30769,3125,2,artist,artist,,,,,,,
+30769,3125,4,artist,artist,,(formerly),,,,,
+30769,5309,2,artist,artist after,,,,,,,
 30769,8310,1,artist,artist,,,,,,,
 30770,12,2,owner,current owner,,,1945 -,1945,,United States,20565
+30770,1818,3,artist,artist after,,,,,,,
 30770,2718,1,donor,donor,,,,,,,
 30770,2718,1,owner,previous owner,,", Philadelphia, PA",- 1945,,1945,,
 30770,2718,2,donor,source,,,,,,,
-30770,3125,2,artist,artist,,,,,,,
+30770,3125,4,artist,artist,,(formerly),,,,,
+30770,5309,2,artist,artist after,,,,,,,
 30770,8310,1,artist,artist,,,,,,,
 30771,12,2,owner,current owner,,,1945 -,1945,,United States,20565
+30771,1818,3,artist,artist after,,,,,,,
 30771,2718,1,donor,donor,,,,,,,
 30771,2718,1,owner,previous owner,,", Philadelphia, PA",- 1945,,1945,,
 30771,2718,2,donor,source,,,,,,,
-30771,3125,2,artist,artist,,,,,,,
+30771,3125,4,artist,artist,,(formerly),,,,,
+30771,5309,2,artist,artist after,,,,,,,
 30771,8310,1,artist,artist,,,,,,,
 30772,12,2,owner,current owner,,,1945 -,1945,,United States,20565
+30772,1818,3,artist,artist after,,,,,,,
 30772,2718,1,donor,donor,,,,,,,
 30772,2718,1,owner,previous owner,,", Philadelphia, PA",- 1945,,1945,,
 30772,2718,2,donor,source,,,,,,,
-30772,3125,2,artist,artist,,,,,,,
+30772,3125,4,artist,artist,,(formerly),,,,,
+30772,5309,2,artist,artist after,,,,,,,
 30772,8310,1,artist,artist,,,,,,,
 30773,12,2,owner,current owner,,,1945 -,1945,,United States,20565
+30773,1818,3,artist,artist after,,,,,,,
 30773,2718,1,donor,donor,,,,,,,
 30773,2718,1,owner,previous owner,,", Philadelphia, PA",- 1945,,1945,,
 30773,2718,2,donor,source,,,,,,,
-30773,3125,2,artist,artist,,,,,,,
+30773,3125,4,artist,artist,,(formerly),,,,,
+30773,5309,2,artist,artist after,,,,,,,
 30773,8310,1,artist,artist,,,,,,,
 30774,12,2,owner,current owner,,,1945 -,1945,,United States,20565
 30774,267,1,donor,donor,,,,,,,
@@ -511167,12 +511177,13 @@ objectid,constituentid,displayorder,roletype,role,prefix,suffix,displaydate,begi
 110328,9695,1,artist,artist,,,,,,,
 110328,18604,1,owner,previous owner,,", San Francisco, CA",- 2000,,2000,United States,94140
 110328,18604,2,donor,source,,,,,,United States,94140
-110330,12,3,owner,current owner,,,1999 -,1999,,United States,20565
-110330,18604,1,owner,previous owner,,,,,,United States,94140
+110330,12,4,owner,current owner,,,1999 -,1999,,United States,20565
+110330,18604,2,owner,previous owner,,,,,,United States,94140
 110330,23622,1,artist,painter,,,,,,,
 110330,23623,1,donor,donor,,,,,,United States,93102-0789
 110330,23623,2,donor,source,,,,,,United States,93102-0789
-110330,23623,2,owner,previous owner,,,- 1999,,1999,United States,93102-0789
+110330,23623,3,owner,previous owner,,,- 1999,,1999,United States,93102-0789
+110330,55143,1,owner,previous owner,,,,,,,
 110333,12,2,owner,current owner,,,1999 -,1999,,United States,20565
 110333,15728,2,donor,donor,,,1999-08-11,1999,1999,,
 110333,23463,1,donor,source,,,,,,United Kingdom - England,W9 1HR
