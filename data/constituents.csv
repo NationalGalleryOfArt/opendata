@@ -24873,7 +24873,7 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 50000,4962b970-6f96-4376-a667-7091c2ee8868,500462070,"Stoughton, Cecil",Cecil Stoughton,Stoughton,"American, 1920 - 2008",1,1920,2008,1901 to 1925,American,American,individual,
 50001,b28f9b3e-ed04-4e94-b126-117be295f595,,"McAvoy, Thomas D.",Thomas D. McAvoy,McAvoy,"American, 1905 - 1966",1,1905,1966,1901 to 1925,American,American,individual,
 50002,47d45491-0c7b-45b9-aa2a-51e724febc6c,,"Bryan, Julien",Julien Bryan,Bryan,"American, 1899 - 1974",1,1899,1974,1876 to 1900,American,American,individual,
-50004,ec120960-c2b5-4f2d-882a-f1ef4b2b4663,,"Sargent, Robert F.",Robert F. Sargent,Sargent,"American, 1923 - 2012",1,1923,2012,1901 to 1925,American,American,individual,
+50004,ec120960-c2b5-4f2d-882a-f1ef4b2b4663,,"Sargent, Robert F.",Robert F. Sargent,Sargent,"American, 1918 - 1969",1,1918,1969,1901 to 1925,American,American,individual,
 50005,5ec3b566-a3cd-4104-93ab-86e2ec8d79f0,,"Stearns, Stan",Stan Stearns,Stearns,"American, 1935 - 2012",1,1935,2012,1926 to 1950,American,American,individual,
 50006,eabcdd0f-a345-4ba5-af19-0364949300c7,,"Leder, Harry",Harry Leder,Leder,"American, 1916 - 1981",1,1916,1981,1901 to 1925,American,American,individual,
 50007,ec0caadc-58df-42f7-98f5-6f13273bc647,,"Silk, George",George Silk,Silk,"American, born New Zealand, 1916 - 2004",1,1916,2004,1901 to 1925,American,American,individual,Q1508257
@@ -27872,8 +27872,10 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 54673,3278c795-fd20-4d87-bc7c-de879e96f869,500102435,"Ogawa, Kazumasa",Ogawa Kazumasa,Ogawa,"Japanese, 1860 - 1929",1,1860,1929,1851 to 1875,Japanese,Japanese,individual,Q3133048
 54674,d67d6e2f-12c9-41a6-bfd7-6d3026b7b33c,500672075,"Gandert, Miguel",Miguel Gandert,Gandert,"American, born 1956",1,1956,,1951 to 1975,American,American,individual,Q110242867
 54675,0040797a-36ef-4e3c-b93b-ce7751ae3c3d,500127090,"Marmon, Lee",Lee Marmon,Marmon,"Laguna Pueblo, 1925 - 2021",1,1925,2021,1901 to 1925,Laguna Pueblo,Other,individual,Q5504461
+54676,54420452-5871-4e1b-8a26-637c5806ea1d,,"Bernal, Louis Carlos",Louis Carlos Bernal,Bernal,"American, 1941 - 1993",1,1941,1993,1926 to 1950,American,American,individual,
 54678,67fd4231-6a01-4477-abd6-4e86f3231c04,,Gibson Studio,Gibson Studio,,"American, active 1910s - 1930s",1,1910,1930,1901 to 1925,American,American,corporate,
 54679,bd6f7351-103c-4536-a254-51f31b5b4b00,,"Brasseur, Scott and Beth",Scott and Beth Brasseur,Brasseur,,0,,,,,Other,couple,
+54680,b6aa2ccb-c958-42f1-ae38-2bc0877498de,,"Bernal Brethour, Lisa",Lisa Bernal Brethour,Bernal Brethour,,0,,,,,Other,individual,
 54692,cc016903-caeb-473c-821a-b27d5b254b8b,,"Prager, Joanne",Joanne Prager,Prager,,0,,,,,Other,individual,
 54695,7540e2a2-218a-4a7d-a88d-cd6c3ef4f0d7,,"Vega, Simón",Simón Vega,Vega,"Salvadoran, born 1972",1,1972,,1951 to 1975,Salvadoran,Other,individual,Q123706048
 54696,718e667b-1de9-4c3e-9bcf-94276fc56348,,"Cader-Frech, Mario",Mario Cader-Frech,Cader-Frech,,0,,,,,Other,individual,
@@ -27990,6 +27992,8 @@ constituentid,uuid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displ
 55021,56f89eee-7eab-41f0-bc78-49f12c94599b,,Maia Contemporary Gallery,Maia Contemporary Gallery,Maia Contemporary Gallery,,0,,,,,Other,corporate,
 55027,fc2df020-bf3c-4872-8e02-4ab890b5057a,500014339,"Meyring, Heinrich",Heinrich Meyring,Meyring,"German, active in Italy, 1628 - 1723",1,1628,1723,1601 to 1650,German,German,individual,Q3725912
 55029,1b79afbc-5cea-43ec-933e-b2679f0eac5c,,L'Estampe Nouvelle,L'Estampe Nouvelle,,,1,,,,,Other,corporate,
+55098,6ca92ea3-6d7d-4f8b-a77b-154e676a93f7,,"Bernal, Katrina Ann",Katrina Ann Bernal,Bernal,,0,,,,,Other,individual,
+55099,fcf9cd70-a16a-420a-8c09-7c04018ca087,,Moses/Schad (AMF 75th),Moses/Schad (AMF 75th),,,0,,,,,Other,purchase_fund,
 55108,4e45f519-91c2-4196-a73f-89698309f219,,"Benta, Albertz",Albertz Benta,Benta,,0,2015,,2001 to present,,Other,corporate,
 55142,10ca477d-6b79-4294-aa41-cb7426b23b9b,,Rodwell & Martin,Rodwell & Martin,,,1,,,,,Other,corporate,
 55143,a185cae9-2932-4754-b612-150aa8bcc44e,,Ala Story,Ala Story,,1907 - 1972,0,1907,1972,1901 to 1925,,Other,individual,
